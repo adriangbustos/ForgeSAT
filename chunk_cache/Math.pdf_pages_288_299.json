@@ -1,0 +1,183 @@
+[
+  {
+    "question_id": "5f6315e1",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "Data set A consists of $10$ positive integers less than $60$. The list shown gives $9$ of the integers from data set A.\\n$43, 45, 44, 43, 38, 39, 40, 46, 40$\\nThe mean of these $9$ integers is $42$. If the mean of data set A is an integer that is greater than $42$, what is the value of the largest integer from data set A?",
+    "options": null,
+    "correct_answer": "52",
+    "explanation": "The correct answer is $52$. The mean of a data set is calculated by dividing the sum of the data values by the number of values. It’s given that data set A consists of $10$ values, $9$ of which are shown. Let $x$ represent the $10\\text{th}$ data value in data set A, which isn’t shown. The mean of data set A can be found using the expression $\\frac{43+45+44+43+38+39+40+46+40+x}{10}$, or $\\frac{378+x}{10}$. It’s given that the mean of the $9$ values shown is $42$ and that the mean of all $10$ numbers is greater than $42$. Consequently, the $10\\text{th}$ data value, $x$, is larger than $42$. It’s also given that the data values in data set A are positive integers less than $60$. Thus, $42 < x < 60$. Finally, it’s given that the mean of data set A is an integer. This means that the sum of the data values, $378 + x$, is divisible by $10$. Thus, $378 + x$ must have a ones digit of $0$. It follows that $x$ must have a ones digit of $2$. Since $42 < x < 60$ and $x$ has a ones digit of $2$, the only possible value of $x$ is $52$. Since $52$ is larger than any of the integers shown, the largest integer from data set A is $52$."
+  },
+  {
+    "question_id": "d320f4c4",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "An insurance company offers a series of three information sessions. $1,250$ people attended the first information session. $72\\%$ of the people who attended the first information session attended the second information session, and $36\\%$ of the people who attended the first and second information sessions attended the third information session. How many people attended all three information sessions?",
+    "options": null,
+    "correct_answer": "324",
+    "explanation": "The correct answer is $324$. It’s given that $1,250$ people attended the first information session, and that $72\\%$ of the people who attended the first information session attended the second information session. Therefore, the number of people who attended the first and second information sessions can be found by calculating $72\\%$ of $1,250$, which is equal to $1,250\\left(\\frac{72}{100}\\right)$, or $900$. It’s also given that $36\\%$ of the people who attended the first and second information sessions attended the third information session. Since $900$ people attended the first and second information sessions, the number of people who attended the first, second, and third information sessions can be found by calculating $36\\%$ of $900$, which is equal to $900\\left(\\frac{36}{100}\\right)$, or $324$. Therefore, $324$ people attended all three information sessions."
+  },
+  {
+    "question_id": "d683c482",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "The number $w$ is $110\\%$ greater than the number $z$. The number $z$ is $55\\%$ less than $50$. What is the value of $w$?",
+    "options": null,
+    "correct_answer": "47.25",
+    "explanation": "The correct answer is $47.25$. It’s given that the number $w$ is $110\\%$ greater than the number $z$. It follows that $w = \\left(1 + \\frac{110}{100}\\right)z$, or $w = 2.1z$. It’s also given that the number $z$ is $55\\%$ less than $50$. It follows that $z = \\left(1 - \\frac{55}{100}\\right)(50)$, or $z = 0.45(50)$, which yields $z = 22.5$. Substituting $22.5$ for $z$ in the equation $w = 2.1z$ yields $w = 2.1(22.5)$, which is equivalent to $w = 47.25$. Therefore, the value of $w$ is $47.25$."
+  },
+  {
+    "question_id": "128d0947",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "How many tablespoons are equivalent to $14$ teaspoons? ($3 \\text{ teaspoons} = 1 \\text{ tablespoon}$)",
+    "options": null,
+    "correct_answer": "14/3",
+    "explanation": "The correct answer is $\\frac{14}{3}$. It's given that $3$ teaspoons is equivalent to $1$ tablespoon. Therefore, $14$ teaspoons is equivalent to $(14 \\text{ teaspoons})\\left(\\frac{1 \\text{ tablespoon}}{3 \\text{ teaspoons}}\\right)$, or $\\frac{14}{3}$ tablespoons. Note that $14/3$, $4.666$, and $4.667$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "f2af8e90",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Probability and conditional probability",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Customer visits car dealership table:\\n| | $1$ visit | $2$ or more visits | Total |\\n|---|---|---|---|\\n| Less than $40$ years old | $15$ | $15$ | $30$ |\\n| At least $40$ years old | $20$ | $85$ | $105$ |\\n| Total | $35$ | $100$ | $135$ |",
+    "question_text": "The table summarizes customers who visited a car dealership in the last month by age and number of visits they made to the dealership. If a customer from the last month is selected at random, what is the probability that the selected customer is at least $40$ years old?",
+    "options": {
+      "A": "$\\frac{30}{135}$",
+      "B": "$\\frac{35}{135}$",
+      "C": "$\\frac{100}{135}$",
+      "D": "$\\frac{105}{135}$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Based on the table, there are a total of $135$ customers who visited the car dealership in the last month, and $105$ of these customers are at least $40$ years old. If a customer from the last month is selected at random, the probability that the selected customer is at least $40$ years old is equal to the number of customers who are at least $40$ years old divided by the total number of customers. Therefore, the probability that the selected customer is at least $40$ years old is $\\frac{105}{135}$."
+  },
+  {
+    "question_id": "79c54a4d",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Probability and conditional probability",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "Each vertex of a $14$-sided polygon is labeled with one of the $14$ letters $A$ through $N$, with a different letter at each vertex. If one vertex is selected at random, what is the probability that the letter $D$ will be at the selected vertex? (Express your answer as a decimal or fraction, not as a percent.)",
+    "options": null,
+    "correct_answer": "1/14",
+    "explanation": "The correct answer is $\\frac{1}{14}$. If one vertex of the polygon is selected at random, the probability that the letter $D$ will be at the selected vertex is equal to the number of vertices labeled with the letter $D$ divided by the total number of vertices. It's given that each vertex is labeled with one of the $14$ letters $A$ through $N$, with a different letter at each vertex. It follows that there is $1$ vertex labeled with the letter $D$. It's also given that the polygon is $14$-sided. It follows that there are a total of $14$ vertices. Thus, the probability that the letter $D$ will be at the selected vertex is $\\frac{1}{14}$. Note that $1/14$, $.0714$, and $0.071$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "7dfb73de",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "According to a set of standards, a certain type of substance can contain a maximum of $0.001\\%$ phosphorus by mass. If a sample of this substance has a mass of $140$ grams, what is the maximum mass, in grams, of phosphorus the sample can contain to meet these standards?",
+    "options": null,
+    "correct_answer": ".0014",
+    "explanation": "The correct answer is $.0014$. It's given that a certain type of substance can contain a maximum of $0.001\\%$ phosphorus by mass to meet a set of standards. If a sample of the substance has a mass of $140$ grams, it follows that the maximum mass, in grams, of phosphorus the sample can contain to meet the standards is $0.001\\%$ of $140$, or $\\frac{0.001}{100}(140)$, which is equivalent to $(0.00001)(140)$, or $0.0014$. Note that $.0014$ and $0.0014$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "87c015b7",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$71, 72, 73, 76, 77, 79, 83, 87, 93$",
+    "question_text": "What is the median of the data shown?",
+    "options": {
+      "A": "$71$",
+      "B": "$77$",
+      "C": "$78$",
+      "D": "$79$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The median of a data set with an odd number of data values is defined as the middle value of the ordered list of values. The data set shown has nine values, so the median is the fifth value in the ordered list, which is $77$."
+  },
+  {
+    "question_id": "6a61db85",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Two-variable data: Models and scatterplots",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "The scatterplot shows the relationship between the length of time $y$, in hours, a certain bird spent in flight and the number of days after January $11$, $x$.",
+    "question_text": "What is the average rate of change, in hours per day, of the length of time the bird spent in flight on January $13$ to the length of time the bird spent in flight on January $15$?",
+    "options": null,
+    "correct_answer": "4.5",
+    "explanation": "The correct answer is $\\frac{9}{2}$. It's given that the scatterplot shows the relationship between the length of time $y$, in hours, a certain bird spent in flight and the number of days after January $11$, $x$. Since January $13$ is $2$ days after January $11$, it follows that January $13$ corresponds to an $x$-value of $2$ in the scatterplot. In the scatterplot, when $x = 2$, the corresponding value of $y$ is $6$. In other words, on January $13$, the bird spent $6$ hours in flight. Since January $15$ is $4$ days after January $11$, it follows that January $15$ corresponds to an $x$-value of $4$ in the scatterplot. In the scatterplot, when $x = 4$, the corresponding value of $y$ is $15$. In other words, on January $15$, the bird spent $15$ hours in flight. Therefore, the average rate of change, in hours per day, of the length of time the bird spent in flight on January $13$ to the length of time the bird spent in flight on January $15$ is the difference in the length of time, in hours, the bird spent in flight divided by the difference in the number of days after January $11$, or $\\frac{15 - 6}{4 - 2}$, which is equivalent to $\\frac{9}{2}$. Note that $9/2$ and $4.5$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "a14f60fe",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Evaluating statistical claims: Observational studies and experiments",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "For a baobab tree habitat in South Africa, a scientist randomly selected $50$ baobab trees that were $17$ years old and randomly assigned them to two groups. Each group was subjected to a different watering pattern for $2$ consecutive years to observe whether the watering pattern affects the trees’ growth rate.",
+    "question_text": "Based on the design of the study, what is the largest group to which these results can be applied?",
+    "options": {
+      "A": "All the baobab trees that were selected in this habitat",
+      "B": "All the baobab trees that were $19$ years old in this habitat",
+      "C": "All the baobab trees that were $17$ years old in South Africa",
+      "D": "All the baobab trees that were $17$ years old in this habitat"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. When a study uses a randomly selected sample, the largest group to which the results of the study can be applied is the population from which the sample was selected. It's given that the scientist randomly selected the trees from the baobab trees in a certain habitat that were $17$ years old. Therefore, the largest group to which the results of this study can be applied is all the baobab trees that were $17$ years old in this habitat."
+  },
+  {
+    "question_id": "f4680374",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In $\\triangle ABC$, $\\angle B$ is a right angle and the length of $\\overline{BC}$ is $136$ millimeters. If $\\cos A = \\frac{3}{5}$",
+    "question_text": "what is the length, in millimeters, of $\\overline{AB}$?",
+    "options": {
+      "A": "$34$",
+      "B": "$102$",
+      "C": "$136$",
+      "D": "$170$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that in $\\triangle ABC$, $\\angle B$ is a right angle. Therefore, $\\triangle ABC$ is a right triangle, and $\\overline{AC}$ is the hypotenuse of the triangle. It's also given that $\\cos A = \\frac{3}{5}$. Since the cosine of an acute angle in a right triangle is defined as the ratio of the length of the side adjacent to the angle to the length of the hypotenuse, the ratio of the length of $\\overline{AB}$ to the length of $\\overline{AC}$ is $3$ to $5$. It follows that the length of $\\overline{AB}$ can be represented as $3a$ and the length of $\\overline{AC}$ can be represented as $5a$, where $a$ is a constant. The Pythagorean theorem states that the sum of the squares of the length of the legs of a right triangle is equal to the square of the length of its hypotenuse, so it follows that $AB^2 + BC^2 = AC^2$. Substituting $3a$ for $\\overline{AB}$ and $5a$ for $\\overline{AC}$ in this equation yields $(3a)^2 + BC^2 = (5a)^2$, or $9a^2 + BC^2 = 25a^2$. Subtracting $9a^2$ from both sides of this equation yields $BC^2 = 16a^2$, or $BC = 4a$. It follows that the ratio of the length of $\\overline{AB}$ to the length of $\\overline{BC}$ is $3$ to $4$. Let $x$ represent the length, in millimeters, of $\\overline{AB}$. It's given that the length of $\\overline{BC}$ is $136$ millimeters. Since the ratio of the length of $\\overline{AB}$ to the length of $\\overline{BC}$ is $3$ to $4$, $\\frac{x}{136} = \\frac{3}{4}$. Multiplying both sides of this equation by $136$ yields $x = \\frac{3(136)}{4}$, or $x = 102$. Therefore, the length of $\\overline{AB}$ is $102$ millimeters."
+  },
+  {
+    "question_id": "ffc88014",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The measure of angle $Z$ is $60^{\\circ}$. What is the measure, in radians, of angle $Z$?",
+    "options": {
+      "A": "$\\frac{1}{6}\\pi$",
+      "B": "$\\frac{1}{3}\\pi$",
+      "C": "$\\frac{2}{3}\\pi$",
+      "D": "$1\\pi$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The measure of an angle, in radians, can be found by multiplying its measure, in degrees, by $\\frac{\\pi}{180}$. It's given that the measure of angle $Z$ is $60^{\\circ}$. It follows that the measure, in radians, of angle $Z$ is $60\\left(\\frac{\\pi}{180}\\right)$, or $\\frac{1}{3}\\pi$."
+  }
+]

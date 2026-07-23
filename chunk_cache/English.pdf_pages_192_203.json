@@ -1,0 +1,164 @@
+[
+  {
+    "question_id": "8acb62c2",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Distribution of Ecosystem Services Affected by Invasive Species by Service Type\n\nRegion (Overall) | Provisioning (75%) | Regulating (21%) | Cultural (4%)\n--- | --- | --- | ---\nWest | 73% | 27% | 0%\nNorth | 88% | 12% | 0%\nSouth | 79% | 14% | 7%\nEast | 83% | 6% | 11%\nCentral | 33% | 67% | 0%\n\nTo assess the impact of invasive species on ecosystems in Africa, Benis N. Egoh and colleagues reviewed government reports from those nations about how invasive species are undermining ecosystem services (aspects of the ecosystem on which residents depend). The services were sorted into three categories: provisioning (material resources from the ecosystem), regulating (natural processes such as cleaning the air or water), and cultural (nonmaterial benefits of ecosystems). Egoh and her team assert that countries in each region reported effects on provisioning services and that provisioning services represent the majority of the reported services.",
+    "question_text": "Which choice best describes data from the table that support Egoh and colleagues' assertion?",
+    "options": {
+      "A": "Provisioning services represent $73\\%$ of the services reported for the West region and $33\\%$ of those for the Central region, but they represent $75\\%$ of the services reported overall.",
+      "B": "None of the percentages shown for provisioning services are lower than $33\\%$, and the overall percentage shown for provisioning services is $75\\%$.",
+      "C": "Provisioning services are shown for each region, while no cultural services are shown for some regions.",
+      "D": "The greatest percentage shown for provisioning services is $88\\%$ for the North region, and the least shown for provisioning services is $33\\%$ for the Central region."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The finding that all the regions reported at least some effects on provisioning services supports the first part of the assertion. And the fact that provisioning services comprise $75\\%$ of the reported services overall supports the second part of the assertion."
+  },
+  {
+    "question_id": "22ed0f7d",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Among the most visited art museums in the world, the Galleria dell'Accademia in Florence had approximately $1.7$ million visitors in $2019$. The Galleria dell'Accademia also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.",
+    "question_text": "Which statement, if true, would most directly support the administrators' claim?",
+    "options": {
+      "A": "Many surveyed visitors to the Galleria dell'Accademia indicated that the virtual tours convinced them to plan an in-person visit.",
+      "B": "Most surveyed visitors to the Galleria dell'Accademia indicated that they were unaware of the virtual tours before their first in-person visit.",
+      "C": "Most surveyed visitors to the Galleria dell'Accademia indicated that they lived somewhere other than Florence.",
+      "D": "Many surveyed visitors to the Galleria dell'Accademia indicated that they would likely view the virtual tours in order to reminisce about their in-person visit."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it presents a finding that, if true, would most directly support the museum administrators' claim that concerns about virtual tours replacing in-person visits were unjustified."
+  },
+  {
+    "question_id": "5bb02134",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "To dye wool, Navajo (Din\\'e) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her $2003$ rug \\textit{In the Path of the Four Seasons} by using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Reds and browns are not commonly featured in most of Taylor's rugs.",
+      "B": "Taylor draws on local resources in the approach she uses to dye wool.",
+      "C": "Taylor finds it difficult to locate Arizona dock root in the desert.",
+      "D": "\\textit{In the Path of the Four Seasons} is widely acclaimed for its many colors and innovative weaving techniques."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. It best states the main idea of the text. The text opens with the statement that Taylor uses local plants and vegetables to dye wool. The rest of the text describes how she does this."
+  },
+  {
+    "question_id": "5bac62e5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A common assumption among art historians is that the invention of photography in the mid-nineteenth century displaced the painted portrait in the public consciousness. The diminishing popularity of the portrait miniature, which coincided with the rise of photography, seems to support this claim. However, photography's impact on the portrait miniature may be overstated. Although records from art exhibitions in the Netherlands from $1820$ to $1892$ show a decrease in the number of both full-sized and miniature portraits submitted, this trend was established before the invention of photography.",
+    "question_text": "Based on the text, what can be concluded about the diminishing popularity of the portrait miniature in the nineteenth century?",
+    "options": {
+      "A": "Factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
+      "B": "Although portrait miniatures became less common than photographs, they were widely regarded as having more artistic merit.",
+      "C": "The popularity of the portrait miniature likely persisted for longer than art historians have assumed.",
+      "D": "As demand for portrait miniatures decreased, portrait artists likely shifted their creative focus to photography."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text says that the impact of photography on the portrait miniature might be \"overstated,\" as some records show a decrease in the number of portrait miniatures \\textit{before} the invention of photography."
+  },
+  {
+    "question_id": "ab3a2ab4",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Georgia Douglas Johnson wrote many plays in the 1920s and 1930s. At the time, professional theater companies rarely put on plays by Black women, so few of Johnson's plays made it to the stage. Only a small number of her plays were published in her lifetime. But that doesn't mean that Johnson never learned what other people thought of her plays. Johnson hosted weekly get-togethers for fellow Black writers and artists in her Washington, D.C., home. Attendees would read and discuss one another's work, including Johnson's own. These gatherings could therefore serve as \\rule{2cm}{0.15mm}",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "an occasion for professional theater companies to put on plays.",
+      "B": "an opportunity for Johnson to get feedback on her plays.",
+      "C": "a way for Johnson to learn about plays that were produced in other cities.",
+      "D": "subject matter for future plays by Johnson."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The passage tells us that attendees at Johnson's get-togethers \"would read and discuss one another's work.\" This suggests that the gatherings could provide an opportunity for Johnson to get feedback on her plays."
+  },
+  {
+    "question_id": "46df5814",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Many intellectual histories of the Black Power movement of the 1960s and 1970s rely heavily on essays and other explicitly ideological works as primary sources, a tendency that can overrepresent the perspectives of a small number of thinkers, most of whom were male. Historian Ashley D. Farmer has shown that expanding the array of primary sources to encompass more types of print material---including political cartoons, advertisements, and artwork---leads to a much better understanding of the movement and the crucial and diverse roles that Black women played in shaping it.",
+    "question_text": "Which choice best describes the main idea of the text?",
+    "options": {
+      "A": "Farmer's methods and research have enriched the historical understanding of the Black Power movement and Black women's contributions to it.",
+      "B": "Before Farmer's research, historians had largely ignored the intellectual dimensions of the Black Power movement.",
+      "C": "Other historians of the Black Power movement have criticized Farmer's use of unconventional primary sources.",
+      "D": "The figures in the Black Power movement whom historians tend to cite would have agreed with Farmer's conclusions about women's roles in the movement."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It best describes the main idea of the text. The text starts by describing traditional historiography and then explains how Farmer's expansion of primary sources leads to a better understanding of the movement."
+  },
+  {
+    "question_id": "0a22512b",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Body Length, Filter Time, and Lunges per Dive for Four Whale Species\n\nWhale species | Typical adult body length (meters) | Average time to filter all engulfed water (seconds) | Average number of lunges per dive deeper than $50$ meters\n--- | --- | --- | ---\nfin | $18-22$ | $31.30$ | $3.95$\nhumpback | $11-17$ | $17.12$ | $6.28$\nminke | $7-10$ | $8.88$ | $7.48$\nblue | $24-34$ | $60.27$ | $4.02$\n\nSome whale species practice lunge feeding, in which they lunge toward prey with their mouths open at wide angles, collect the prey and the surrounding water, and then filter out the water through baleen plates in their mouths. Although the volume of water engulfed increases with whales' body length, the surface area of whales' baleen plates, which influences the rate at which water can be filtered, does not increase with body length to the same degree, which helps explain why \\rule{2cm}{0.15mm}",
+    "question_text": "Which choice most effectively uses data from the table to complete the statement?",
+    "options": {
+      "A": "minke whales and humpback whales show similar average filter times.",
+      "B": "humpback whales show an average of $6.28$ lunges per dive.",
+      "C": "fin whales show a longer average filter time than minke whales do.",
+      "D": "blue whales show the longest average filter time and the highest average number of lunges per dive."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. To support the claim, we need to show that longer whales take more time to filter all the water they engulf than shorter whales do. This choice accurately reflects that a longer whale (the fin whale) takes more time to filter engulfed water ($31.30$ seconds) compared to a shorter whale (the minke whale, $8.88$ seconds)."
+  },
+  {
+    "question_id": "39343ca0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Participants' Evaluation of the Likelihood That Robots Can Work Effectively in Different Occupations\n\nOccupation | Somewhat or very unlikely $(\\%)$ | Neutral $(\\%)$ | Somewhat or very likely $(\\%)$\n--- | --- | --- | ---\ntelevision news anchor | $24$ | $9$ | $67$\nteacher | $37$ | $16$ | $47$\nfirefighter | $62$ | $9$ | $30$\nsurgeon | $74$ | $9$ | $16$\ntour guide | $10$ | $8$ | $82$\n\nRows in table may not add up to $100$ due to rounding.\n\nGeorgia Tech roboticists De'Aira Bryant and Ayanna Howard, along with ethicist Jason Borenstein, were interested in people's perceptions of robots' competence. They recruited participants and asked them how likely they think it is that a robot could do the work required in various occupations. Participants' evaluations varied widely depending on which occupation was being considered; for example, \\rule{2cm}{0.15mm}",
+    "question_text": "Which choice most effectively uses data from the table to complete the example?",
+    "options": {
+      "A": "$47\\%$ of participants believe that it is somewhat or very likely that a robot could work effectively as a teacher, but $37\\%$ of respondents believe that it is somewhat or very unlikely that a robot could do so.",
+      "B": "$9\\%$ of participants were neutral about whether a robot could work effectively as a television news anchor, which is the same percent of participants who were neutral when asked about a robot working as a surgeon.",
+      "C": "$82\\%$ of participants believe that it is somewhat or very likely that a robot could work effectively as a tour guide, but only $16\\%$ believe that it is somewhat or very likely that a robot could work as a surgeon.",
+      "D": "$62\\%$ of participants believe that it is somewhat or very unlikely that a robot could work effectively as a firefighter."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it effectively uses data from the table to complete the example of variations in participants' evaluations across different occupations."
+  },
+  {
+    "question_id": "8e316e56",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Seed Germination with and without $\\text{H}_2\\text{S}$ Treatment\n\nIn high concentrations, hydrogen sulfide ($\\text{H}_2\\text{S}$) is typically toxic to many plants. Frederick D. Dooley and colleagues wanted to understand what effects low doses of $\\text{H}_2\\text{S}$ might have on plant growth. They treated bean, corn, wheat, and pea seeds with various concentrations (measured in micromoles per liter) of $\\text{H}_2\\text{S}$ and tracked the germination of those seeds along with the germination of untreated seeds. Treatment with particular concentrations of $\\text{H}_2\\text{S}$ was associated with accelerated germination: for example, \\rule{2cm}{0.15mm}",
+    "question_text": "Which choice most effectively uses data from the graph to complete the statement?",
+    "options": {
+      "A": "at $24$ hours, less than $10\\%$ of seeds treated with $\\text{H}_2\\text{S}$ at a concentration of $10$ micromoles per liter had germinated, whereas more than $90\\%$ of those seeds had germinated at $168$ hours.",
+      "B": "at $48$ hours, more than $70\\%$ of seeds treated with $\\text{H}_2\\text{S}$ at a concentration of $10$ micromoles per liter had germinated, whereas only approximately $50\\%$ of untreated seeds had germinated.",
+      "C": "at $168$ hours, more than $90\\%$ of seeds treated with $\\text{H}_2\\text{S}$ at concentrations of $10$ or $500$ micromoles per liter had germinated, whereas less than $70\\%$ of untreated seeds had germinated.",
+      "D": "at $48$ hours, approximately $50\\%$ of seeds treated with $\\text{H}_2\\text{S}$ at a concentration of $10$ micromoles per liter had germinated, whereas only approximately $30\\%$ of untreated seeds had germinated."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The claim is that some concentrations of $\\text{H}_2\\text{S}$ led to increased germination rates, and this choice accurately shows that seeds treated with $10$ micromoles per liter of $\\text{H}_2\\text{S}$ tended to germinate faster than untreated seeds."
+  }
+]

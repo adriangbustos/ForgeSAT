@@ -1,0 +1,198 @@
+[
+  {
+    "question_id": "cf0fc6ba",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Which expression is equivalent to $13x^2 - 7x^2$?",
+    "options": {
+      "A": "$-91x^2$",
+      "B": "$6x^2$",
+      "C": "$20x^2$",
+      "D": "$40x^2$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. Since each term in the given expression has a common factor of $x^2$, it can be rewritten as $(13 - 7)x^2$, or $6x^2$. Therefore, the expression $6x^2$ is equivalent to $13x^2 - 7x^2$."
+  },
+  {
+    "question_id": "54bf74ea",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$p(t) = 90,000(1.06)^t$",
+    "question_text": "The given function $p$ models the population of Lowell $t$ years after a census. Which of the following functions best models the population of Lowell $m$ months after the census?",
+    "options": {
+      "A": "$r(m) = \\frac{90,000}{12}(1.06)^m$",
+      "B": "$r(m) = 90,000\\left(\\frac{1.06}{12}\\right)^m$",
+      "C": "$r(m) = 90,000\\left(\\frac{1.06}{12}\\right)^{\\frac{m}{12}}$",
+      "D": "$r(m) = 90,000(1.06)^{\\frac{m}{12}}$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that the function $p$ models the population of Lowell $t$ years after a census. Since there are $12$ months in a year, $m$ months after the census is equivalent to $\\frac{m}{12}$ years after the census. Substituting $\\frac{m}{12}$ for $t$ in the equation $p(t) = 90,000(1.06)^t$ yields $p\\left(\\frac{m}{12}\\right) = 90,000(1.06)^{\\frac{m}{12}}$. Therefore, the function $r$ that best models the population of Lowell $m$ months after the census is $r(m) = 90,000(1.06)^{\\frac{m}{12}}$."
+  },
+  {
+    "question_id": "5bfaf155",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$p = 20 + \\frac{16}{n}$",
+    "question_text": "The given equation relates the numbers $p$ and $n$, where $n$ is not equal to $0$ and $p > 20$. Which equation correctly expresses $n$ in terms of $p$?",
+    "options": {
+      "A": "$n = \\frac{p - 20}{16}$",
+      "B": "$n = \\frac{p}{16} + 20$",
+      "C": "$n = \\frac{p}{16} - 20$",
+      "D": "$n = \\frac{16}{p - 20}$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. To express $n$ in terms of $p$, the given equation must be solved for $n$. Subtracting $20$ from both sides of the given equation yields $p - 20 = \\frac{16}{n}$. Since $n$ is not equal to $0$, multiplying both sides of this equation by $n$ yields $(p - 20)(n) = 16$. It's given that $p > 20$, which means $p - 20$ is not equal to $0$. Therefore, dividing both sides of $(p - 20)(n) = 16$ by $(p - 20)$ yields $n = \\frac{16}{p - 20}$."
+  },
+  {
+    "question_id": "67373f12",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "On April $1$, there were $233$ views of an advertisement posted on a website. Every $2$ days after April $1$, the number of views of the advertisement had increased by $70\\%$ of the number of views $2$ days earlier. The function $f$ gives the predicted number of views $x$ days after April $1$. Which equation defines $f$?",
+    "options": {
+      "A": "$f(x) = 233(0.70)^{\\frac{x}{2}}$",
+      "B": "$f(x) = 233(0.70)^{2x}$",
+      "C": "$f(x) = 233(1.70)^{\\frac{x}{2}}$",
+      "D": "$f(x) = 233(1.70)^{2x}$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that on April $1$, there were $233$ views of the advertisement. It's also given that every $2$ days after April $1$, the number of views of the advertisement had increased by $70\\%$ of the number of views $2$ days earlier. This situation can be represented by an exponential function of the form $f(x) = a\\left(1 + \\frac{r}{100}\\right)^{\\frac{x}{c}}$, where $a$ is the number of views on April $1$ and every $c$ days after April $1$, the number of views had increased by $r\\%$ of the number of views $c$ days earlier. It follows that $a = 233$, $r = 70$, and $c = 2$. Substituting $233$ for $a$, $70$ for $r$, and $2$ for $c$ in the equation yields $f(x) = 233\\left(1 + \\frac{70}{100}\\right)^{\\frac{x}{2}}$, or $f(x) = 233(1.70)^{\\frac{x}{2}}$."
+  },
+  {
+    "question_id": "427f0eea",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The function $f$ gives the product of a number, $x$, and a number that is $91$ more than $x$. Which equation defines $f$?",
+    "options": {
+      "A": "$f(x) = x^2 + x + 91$",
+      "B": "$f(x) = x^2 + 91$",
+      "C": "$f(x) = x^2 + 91x$",
+      "D": "$f(x) = x^2 + 91x + 91$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that the function $f$ gives the product of a number, $x$, and a number that is $91$ more than $x$. A number that is $91$ more than $x$ can be represented by the expression $x + 91$. Therefore, $f$ can be defined by the equation $f(x) = x(x + 91)$, or $f(x) = x^2 + 91x$."
+  },
+  {
+    "question_id": "a1397504",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "$0.36x^2 + 0.63x + 1.17$\n\nThe given expression can be rewritten as $a(4x^2 + 7x + 13)$, where $a$ is a constant.",
+    "question_text": "What is the value of $a$?",
+    "options": null,
+    "correct_answer": ".09",
+    "explanation": "The correct answer is $.09$. It's given that the expression $0.36x^2 + 0.63x + 1.17$ can be rewritten as $a(4x^2 + 7x + 13)$. Applying the distributive property to the expression $a(4x^2 + 7x + 13)$ yields $4ax^2 + 7ax + 13a$. Therefore, $0.36x^2 + 0.63x + 1.17$ can be rewritten as $4ax^2 + 7ax + 13a$. It follows that in the expressions $0.36x^2 + 0.63x + 1.17$ and $4ax^2 + 7ax + 13a$, the coefficients of $x^2$ are equivalent, the coefficients of $x$ are equivalent, and the constant terms are equivalent. Therefore, $0.36 = 4a$, $0.63 = 7a$, and $1.17 = 13a$. Solving any of these equations for $a$ yields the value of $a$. Dividing both sides of the equation $0.36 = 4a$ by $4$ yields $0.09 = a$."
+  },
+  {
+    "question_id": "536832c0",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "In the $xy$-plane, a line with equation $2y = 4.5$ intersects a parabola at exactly one point. If the parabola has equation $y = -4x^2 + bx$, where $b$ is a positive constant",
+    "question_text": "What is the value of $b$?",
+    "options": null,
+    "correct_answer": "6",
+    "explanation": "The correct answer is $6$. It's given that a line with equation $2y = 4.5$ intersects a parabola with equation $y = -4x^2 + bx$, where $b$ is a positive constant, at exactly one point in the $xy$-plane. It follows that the system of equations consisting of $2y = 4.5$ and $y = -4x^2 + bx$ has exactly one solution. Dividing both sides of the equation of the line by $2$ yields $y = 2.25$. Substituting $2.25$ for $y$ in the equation of the parabola yields $2.25 = -4x^2 + bx$. Adding and subtracting $bx$ from both sides of this equation yields $4x^2 - bx + 2.25 = 0$. A quadratic equation in the form of $ax^2 + bx + c = 0$, where $a$, $b$, and $c$ are constants, has exactly one solution when the discriminant, $b^2 - 4ac$, is equal to zero. Substituting $4$ for $a$ and $2.25$ for $c$ in the expression $b^2 - 4ac$ and setting this expression equal to $0$ yields $b^2 - 4(4)(2.25) = 0$, or $b^2 - 36 = 0$. Adding $36$ to each side of this equation yields $b^2 = 36$. Taking the square root of each side of this equation yields $b = \\pm 6$. It's given that $b$ is positive, so the value of $b$ is $6$."
+  },
+  {
+    "question_id": "fb46b28e",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Which expression is equivalent to $12x + 27$?",
+    "options": {
+      "A": "$12(9x + 1)$",
+      "B": "$27(12x + 1)$",
+      "C": "$3(4x + 9)$",
+      "D": "$3(9x + 24)$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. Each term in the given expression, $12x + 27$, has a common factor of $3$. Therefore, the expression can be rewritten as $3(4x) + 3(9)$, or $3(4x + 9)$. Thus, the expression $3(4x + 9)$ is equivalent to the given expression."
+  },
+  {
+    "question_id": "9502a1aa",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "An auditorium has seats for $1,800$ people. Tickets to attend a show at the auditorium currently cost $\\$4.00$. For each $\\$1.00$ increase to the ticket price, $100$ fewer tickets will be sold. This situation can be modeled by the equation $y = -100x^2 + 1,400x + 7,200$, where $x$ represents the increase in ticket price, in dollars, and $y$ represents the revenue, in dollars, from ticket sales.",
+    "question_text": "If this equation is graphed in the $xy$-plane, at what value of $x$ is the maximum of the graph?",
+    "options": {
+      "A": "$4$",
+      "B": "$7$",
+      "C": "$14$",
+      "D": "$18$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the situation can be modeled by the equation $y = -100x^2 + 1,400x + 7,200$, where $x$ represents the increase in ticket price, in dollars, and $y$ represents the revenue, in dollars, from ticket sales. Since the coefficient of the $x^2$ term is negative, the graph of this equation in the $xy$-plane opens downward and reaches its maximum value at its vertex. If a quadratic equation in the form $y = ax^2 + bx + c$, where $a$, $b$, and $c$ are constants, is graphed in the $xy$-plane, the $x$-coordinate of the vertex is equal to $-\\frac{b}{2a}$. For the equation $y = -100x^2 + 1,400x + 7,200$, $a = -100$, $b = 1,400$, and $c = 7,200$. It follows that the $x$-coordinate of the vertex is $-\\frac{1,400}{2(-100)}$, or $7$. Therefore, if the given equation is graphed in the $xy$-plane, the maximum of the graph occurs at an $x$-value of $7$."
+  },
+  {
+    "question_id": "b63f5259",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "$x^2 - 5x - 24 = 0$",
+    "question_text": "What is the sum of the solutions to the given equation?",
+    "options": null,
+    "correct_answer": "5",
+    "explanation": "The correct answer is $5$. The given quadratic equation can be rewritten in factored form as $(x - 8)(x + 3) = 0$. Based on the zero product property, it follows that $x - 8 = 0$ or $x + 3 = 0$. Adding $8$ to both sides of the equation $x - 8 = 0$ yields $x = 8$. Subtracting $3$ from both sides of the equation $x + 3 = 0$ yields $x = -3$. Therefore, the solutions to the given equation are $8$ and $-3$. It follows that the sum of the solutions to the given equation is $8 + (-3)$, or $5$."
+  },
+  {
+    "question_id": "eafd61d3",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "The expression $(3x - 23)(19x + 6)$ is equivalent to the expression $ax^2 + bx + c$, where $a$, $b$, and $c$ are constants.",
+    "question_text": "What is the value of $b$?",
+    "options": null,
+    "correct_answer": "-419",
+    "explanation": "The correct answer is $-419$. It's given that the expression $(3x - 23)(19x + 6)$ is equivalent to the expression $ax^2 + bx + c$, where $a$, $b$, and $c$ are constants. Applying the distributive property to the given expression, $(3x - 23)(19x + 6)$, yields $(3x)(19x) + (3x)(6) - (23)(19x) - (23)(6)$, which can be rewritten as $57x^2 + 18x - 437x - 138$. Combining like terms yields $57x^2 - 419x - 138$. Since this expression is equivalent to $ax^2 + bx + c$, it follows that the value of $b$ is $-419$."
+  },
+  {
+    "question_id": "05f5125a",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$f(x) = 4,000(0.75)^x$\n\nAn entomologist recommended a program to reduce a certain invasive beetle population in an area. The given function estimates this beetle species' population $x$ years after $2012$, where $x \\le 7$.",
+    "question_text": "Which of the following is the best interpretation of $4,000$ in this context?",
+    "options": {
+      "A": "The estimated initial beetle population for this species and area in $2012$",
+      "B": "The estimated beetle population for this species and area $7$ years after $2012$",
+      "C": "The estimated percent decrease in the beetle population for this species and area each year after $2012$",
+      "D": "The estimated percent decrease in the beetle population for this species and area every $7$ years after $2012$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. For an exponential function in the form $f(x) = a(b)^x$, where $a$ and $b$ are positive constants and $b < 1$, the initial value of $f(x)$, or the value of $f(x)$ when $x = 0$, is $a$ and the value of $f(x)$ decreases by $100(1 - b)\\%$ each time $x$ increases by $1$. Therefore, the initial value of the function $f(x) = 4,000(0.75)^x$, or the value of $f(x)$ when $x = 0$, is $4,000$. Therefore, the best interpretation of $4,000$ in this context is the estimated initial beetle population for this species and area in $2012$."
+  }
+]

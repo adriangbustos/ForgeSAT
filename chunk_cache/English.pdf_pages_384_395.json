@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "0714c5f1",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nDespite its beautiful prose, The Guns of August, Barbara Tuchman’s 1962 analysis of the start of World War I, has certain weaknesses as a work of history. It fails to address events in Eastern Europe just before the outbreak of hostilities, thereby giving the impression that Germany was the war’s principal instigator. Had Tuchman consulted secondary works available to her by scholars such as Luigi Albertini, she would not have neglected the influence of events in Eastern Europe on Germany’s actions.\n\nText 2\nBarbara Tuchman’s The Guns of August is an engrossing if dated introduction to World War I. Tuchman’s analysis of primary documents is laudable, but her main thesis that European powers committed themselves to a catastrophic outcome by refusing to deviate from military plans developed prior to the conflict is implausibly reductive.",
+    "question_text": "Which choice best describes a difference in how the authors of Text 1 and Text 2 view Barbara Tuchman’s The Guns of August?",
+    "options": {
+      "A": "The author of Text 1 argues that Tuchman should have relied more on the work of other historians, while the author of Text 2 implies that Tuchman’s most interesting claims result from her original research.",
+      "B": "The author of Text 1 believes that the scope of Tuchman’s research led her to an incorrect interpretation, while the author of Text 2 believes that Tuchman’s central argument is overly simplistic.",
+      "C": "The author of Text 1 asserts that the writing style of The Guns of August makes it worthwhile to read despite any perceived deficiency in Tuchman’s research, while the author of Text 2 focuses exclusively on the weakness of Tuchman’s interpretation of events.",
+      "D": "The author of Text 1 claims that Tuchman would agree that World War I was largely due to events in Eastern Europe, while the author of Text 2 maintains that Tuchman would say that Eastern European leaders were not committed to military plans in the same way that other leaders were."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Both texts are critical of The Guns of August, but for different reasons: the author of Text 1 argues that Tuchman missed an important factor leading up to the war because she didn’t consult secondary sources, and the author of Text 2 argues that Tuchman’s main thesis is \"reductive,\" which is a close synonym for \"overly simplistic.\"\n\nChoice A is incorrect. This doesn’t accurately describe the difference. This choice’s summary of Text 1 is accurate, but Text 2 never says that Tuchman’s most interesting claims result from her original research. Choice C is incorrect. This doesn’t accurately describe the difference. Text 1 never says that The Guns of August is worthwhile to read despite its research weaknesses. Text 2 does call out a weakness of Tuchman’s interpretation of events, but it also praises her analysis of primary sources. Choice D is incorrect. This doesn’t accurately describe the difference. Text 1 actually says that Tuchman \"fails to address\" the influence of events in Eastern Europe, while Text 2 says that Tuchman’s thesis was that European powers (not Eastern European leaders) were committed to military plans."
+  },
+  {
+    "question_id": "77d93b6f",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nMany studies in psychology have shown that people seek out information even when they know in advance that they have no immediate use for it and that they won’t directly benefit from it. Such findings support the consensus view among researchers of curiosity: namely, that curiosity is not instrumental but instead represents a drive to acquire information for its own sake.\n\nText 2\nWhile acknowledging that acquiring information is a powerful motivator, Rachit Dubey and colleagues ran an experiment to test whether emphasizing the usefulness of scientific information could increase curiosity about it. They found that when research involving rats and fruit flies was presented as having medical applications for humans, participants expressed greater interest in learning about it than when the research was not presented as useful.",
+    "question_text": "Based on the texts, how would Dubey and colleagues (Text 2) most likely respond to the consensus view discussed in Text 1?",
+    "options": {
+      "A": "By suggesting that curiosity may not be exclusively motivated by the desire to merely acquire information",
+      "B": "By conceding that people may seek out information that serves no immediate purpose only because they think they can use it later",
+      "C": "By pointing out that it is challenging to determine when information-seeking serves no goal beyond acquiring information",
+      "D": "By disputing the idea that curiosity can help explain apparently purposeless information-seeking behaviors"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The researchers in Text 2 recognize that acquiring information is a powerful motivator, but showed that this motivation can still be affected by other factors, like whether or not the information is expected to be useful or not. This suggests that other desires may play a part in driving people to acquire information.\n\nChoice B is incorrect. The consensus view in Text 1 is that people acquire information regardless of whether they think they can use it later. Dubey and colleagues acknowledge this fact (so they don’t claim people seek out information \"only\" because it might be useful later). Choice C is incorrect. This choice misreads the results of Dubey and colleagues’ study in Text 2. Neither text discusses the difficulty of determining the motivation for information-seeking. Choice D is incorrect. This choice contradicts Text 2, which starts with Dubey and colleagues “acknowledging that acquiring information is a powerful motivator” (i.e., agreeing that curiosity explains the seeking of apparently purposeless information). The research in Text 2 simply suggests that more than just curiosity can motivate information-seeking behavior when the information has a purpose."
+  },
+  {
+    "question_id": "fc5d8203",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nIn a study of insect behavior, Samadi Galpayage and colleagues presented bumblebees with small wooden balls and observed many of the bees clinging to, rolling, and dragging the objects. The researchers provided no external rewards (such as food) to encourage these interactions. _The bees simply appeared to be playing—and for no other reason than because they were having fun._\n\nText 2\nInsects do not have cortexes or other brain areas associated with emotions in humans. Still, Galpayage and her team have shown that bumblebees may engage in play, possibly experiencing some kind of positive emotional state. Other studies have suggested that bees experience negative emotional states (for example, stress), but as Galpayage and her team have acknowledged, emotions in insects, if they do indeed exist, are likely very rudimentary.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely respond to the underlined portion of Text 1?",
+    "options": {
+      "A": "By objecting that the bees were actually experiencing a negative feeling akin to stress rather than a positive feeling",
+      "B": "By arguing that some insects other than bumblebees may be capable of experiencing complex emotional states",
+      "C": "By pointing out that even humans sometimes struggle to have fun while engaging in play",
+      "D": "By noting that if the bees were truly playing, any positive feelings they may have experienced were probably quite basic"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The author of Text 2 agrees with the author of Text 1 that bumblebees may engage in play and possibly experience some kind of positive emotional state. However, the author of Text 2 also qualifies this claim by stating that emotions in insects, if they do exist, are “likely very rudimentary.”\n\nChoice A is incorrect. While Text 2 states that other studies might indicate “negative emotional states” in bees, it does not contradict the findings from the Galpayage study—that the bees might have been having fun. Choice B is incorrect. The author of Text 2 does not mention or imply that any insects, including bumblebees, are capable of experiencing complex emotional states. The author of Text 2 states that if insects do feel emotions, those emotions are “likely very rudimentary.” Choice C is incorrect. The author of Text 2 does not compare or contrast the behavior or emotions of insects and humans, and neither does the author of Text 1."
+  },
+  {
+    "question_id": "1a3cbb81",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Oscar Wilde’s 1897 nonfiction work De Profundis.\nPeople whose desire is solely for self-realisation never know where they are going. They can’t know. In one sense of the word it is of course necessary to know oneself: that is the first achievement of knowledge. But to recognise that the soul of a man is unknowable, is the ultimate achievement of wisdom. The final mystery is oneself. When one has weighed the sun in the balance, and measured the steps of the moon, and mapped out the seven heavens star by star, there still remains oneself. _Who can calculate the orbit of his own soul?_",
+    "question_text": "Which choice best describes the function of the underlined question in the text as a whole?",
+    "options": {
+      "A": "It reinforces the text’s skepticism about the possibility of truly achieving self-knowledge.",
+      "B": "It speculates that some readers will share the doubts expressed in the text about the value of self-knowledge.",
+      "C": "It cautions readers that the text’s directions for how to achieve self-knowledge are hard to follow.",
+      "D": "It concedes that the definition of self-knowledge advanced in the text is unpopular."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text repeatedly claims that true self-knowledge can’t possibly be achieved, and this rhetorical question emphasizes that point.\n\nChoice B is incorrect. The underlined question doesn’t do this. The text never expresses doubts about the value of self-knowledge—rather, the text expresses doubts about the possibility of achieving self-knowledge. Choice C is incorrect. The underlined question doesn’t do this. The text doesn’t provide directions for how to achieve self-knowledge—rather, it claims that true self-knowledge is impossible to achieve. Choice D is incorrect. The underlined question doesn’t do this. The text doesn’t ever define self-knowledge, and popularity isn’t mentioned in the text at all."
+  },
+  {
+    "question_id": "0c0e9872",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Oscar Wilde’s 1895 play The Importance of Being Earnest.\nCECILY: Have we got to part?\nALGERNON: I am afraid so. It’s a very painful parting.\nCECILY: It is always painful to part from people whom one has known for a very brief space of time. The absence of old friends one can endure with equanimity. But even a momentary separation from anyone to whom one has just been introduced is almost unbearable.",
+    "question_text": "As used in the text, what does the word \"endure\" most nearly mean?",
+    "options": {
+      "A": "Regret",
+      "B": "Persist",
+      "C": "Tolerate",
+      "D": "Encourage"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because as used in the text, “endure” most nearly means tolerate. In the text, Cecily and Algernon discuss parting, or saying goodbye. Cecily remarks on the deep pain of saying goodbye to people whom one has only known briefly and then comments on the equanimity, or calm steadiness, one experiences when separated from old friends. The text sets up an ironic contrast: one can easily tolerate, or put up with, the absence of close friends, but even a very short separation from a new acquaintance is unbearable.\n\nChoice A is incorrect. Nothing in the text suggests that Cecily associates regret, or a feeling of sorrow, with the absence of old friends. Rather, the text sets up an ironic contrast between the feeling of calm steadiness one feels when separated from old friends and the unbearable pain of being separated from new acquaintances. Choice B is incorrect. Although in some contexts “endure” can mean persist, or proceed stubbornly, it doesn’t have that meaning in this context because what is being endured is the absence of old friends. Whereas one can persist despite the absence of someone else, one can’t persist the absence itself. Choice D is incorrect because the text doesn’t convey that Cecily encourages, or urges, old friends to be absent. Although it may be that Cecily prefers new acquaintances to friends she has known for a long time, the text focuses on her feelings as a result of others’ absences, not on her treatment of others."
+  },
+  {
+    "question_id": "e08dee38",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In Nature Poem (2017), Kumeyaay poet Tommy Pico portrays his ______ the natural world by honoring the centrality of nature within his tribe’s traditional beliefs while simultaneously expressing his distaste for being in wilderness settings himself.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "responsiveness to",
+      "B": "ambivalence toward",
+      "C": "renunciation of",
+      "D": "mastery over"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text’s description of how Pico feels about the natural world. In this context, to say that Pico portrays his “ambivalence toward” nature would mean that he portrays his mixed feelings about nature. The text explains that Pico “honors the centrality of nature” and also makes it clear that he doesn’t enjoy being in nature. This context suggests that Pico feels ambivalence toward nature.\n\nChoice A is incorrect because saying that Pico portrays his “responsiveness to” nature would mean that he portrays himself as quick to react to nature, which isn’t supported by the text. Instead, the text focuses on Pico’s mixed feelings toward nature, describing him as both honoring nature’s role in his tribe’s beliefs and expressing his personal dislike for being in nature. Choice C is incorrect because saying that Pico portrays his “renunciation of” nature would mean that he portrays himself as rejecting nature, which isn’t supported by the text. The text conveys that Pico demonstrates both positive and negative responses toward nature, not that he’s giving it up completely. Choice D is incorrect because saying that Pico portrays his “mastery over” nature would mean that he portrays himself as having control over nature, which isn’t supported by the text. The text focuses on Pico’s mixed feelings about nature; nothing in the text suggests that Pico feels mastery over nature."
+  },
+  {
+    "question_id": "f3a51fa6",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Horizontal gene transfer occurs when an organism of one species acquires genetic material from an organism of another species through nonreproductive means. The genetic material can then be transferred “vertically” in the second species—that is, through reproductive inheritance. Scientist Atma Ivancevic and her team have hypothesized infection by invertebrate parasites as a mechanism of horizontal gene transfer between vertebrate species: _while feeding, a parasite could acquire a gene from one host, then relocate to a host from a different vertebrate species and transfer the gene to it in turn._",
+    "question_text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "options": {
+      "A": "It explains why parasites are less susceptible to horizontal gene transfer than their hosts are.",
+      "B": "It clarifies why some genes are more likely to be transferred horizontally than others are.",
+      "C": "It contrasts how horizontal gene transfer occurs among vertebrates with how it occurs among invertebrates.",
+      "D": "It describes a means by which horizontal gene transfer might occur among vertebrates."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text defines horizontal gene transfer and then gives one possibility for how it happens in vertebrates (via infection by parasites). The underlined part describes how that mechanism could work.\n\nChoice A is incorrect. The underlined portion doesn’t do this. Parasites are only described as the mechanism that does the transferring, not the species that gives or receives the genes. Choice B is incorrect. The underlined portion doesn’t do this. The text never discusses which genes are more likely to be transferred. Choice C is incorrect. The underlined portion doesn’t do this. The text never discusses how horizontal gene transfer occurs among invertebrates."
+  },
+  {
+    "question_id": "f8eacedb",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nAfrica’s Sahara region—once a lush ecosystem—began to dry out about 8,000 years ago. A change in Earth’s orbit that affected climate has been posited as a cause of desertification, but archaeologist David Wright also attributes the shift to Neolithic peoples. He cites their adoption of pastoralism as a factor in the region drying out: the pastoralists’ livestock depleted vegetation, prompting the events that created the Sahara Desert.\n\nText 2\nResearch by Chris Brierley et al. challenges the idea that Neolithic peoples contributed to the Sahara’s desertification. Using a climate-vegetation model, the team concluded that the end of the region’s humid period occurred 500 years earlier than previously assumed. The timing suggests that Neolithic peoples didn’t exacerbate aridity in the region but, in fact, may have helped delay environmental changes with practices (e.g., selective grazing) that preserved vegetation.",
+    "question_text": "Based on the texts, how would Chris Brierley (Text 2) most likely respond to the discussion in Text 1?",
+    "options": {
+      "A": "By pointing out that given the revised timeline for the end of the Sahara’s humid period, the Neolithic peoples’ mode of subsistence likely didn’t cause the region’s desertification",
+      "B": "By claiming that pastoralism was only one of many behaviors the Neolithic peoples took part in that may have contributed to the Sahara’s changing climate",
+      "C": "By insisting that pastoralism can have both beneficial and deleterious effects on a region’s vegetation and climate",
+      "D": "By asserting that more research needs to be conducted into factors that likely contributed to the desertification of the Sahara region"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Brierley et al.’s research directly challenges Wright’s claim that pastoralism turned the Sahara into a desert, suggesting that, in a Sahara that turned arid 500 years earlier than previously thought, pastoral practices may have actually “preserved vegetation” rather than depleting it.\n\nChoice B is incorrect. Brierley et al.’s research actually disputes the idea that any Neolithic peoples’ behaviors, including pastoralism, could have contributed to the Sahara’s changing climate. In fact, their research implies that the Neolithic peoples’ practices did not “exacerbate aridity” (i.e., make things worse), but may have slowed environmental changes. Choice C is incorrect. Brierley et al.’s research does not acknowledge that pastoralism can have deleterious (i.e., negative) effects on a region’s vegetation and climate. It only describes one possible beneficial effect: preserving vegetation through practices like selective grazing. Choice D is incorrect. Brierley et al.’s research does not call for more research into factors that likely contributed to the desertification of the Sahara region."
+  },
+  {
+    "question_id": "d87c4362",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Drivers who strongly believe that the toll they must pay to use the Lewis and Clark Bridge, which spans the Ohio River to connect Indiana and Kentucky, is currently too high are unlikely to be ______ a proposal to increase the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments toward a more persuadable segment of the population.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "receptive to",
+      "B": "apprised of",
+      "C": "incensed by",
+      "D": "cited in"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most logically completes the text’s discussion of driver attitudes toward a toll increase. In this context, \"receptive to\" would mean open to or willing to consider something. The text focuses on drivers who think the current toll for the Lewis and Clark Bridge is too high, suggesting that advocates for increasing that toll would have better success presenting their arguments to \"a more persuadable segment of the population\" rather than to those drivers. This context suggests that the drivers who strongly believe the toll is already too high are not persuadable—that is, that they are unlikely to be willing to consider the toll-increase proposal.\n\nChoice B is incorrect because \"apprised of\" means informed about or made aware of something, and nothing in the text suggests that the drivers who think a toll is already too high wouldn’t be informed of a proposal for an even higher toll; in fact, the text implies that advocates of the proposal would \"direct their arguments\" in favor of the increase to those drivers, even though they would likely be more successful focusing on people who are more open to hearing their arguments. Choice C is incorrect. In this context, \"incensed by\" would mean angered or outraged by something. The text focuses on drivers who feel that a current toll is too high, and it wouldn’t make sense to suggest that those drivers would be unlikely to be angered by a proposal for the toll to be increased; indeed, drivers who think the toll is already too high likely would be angered by a move to raise it even higher. Choice D is incorrect. In this context, \"cited in\" would mean referred to or mentioned in something. Although it’s reasonable to suggest that a proposal to raise a toll might not make any mention of drivers who think the toll is already too high, the text focuses on how those drivers and other people are likely to react to arguments in favor of the proposal, not on whether those drivers would be cited in the proposal itself."
+  },
+  {
+    "question_id": "c9a3f3be",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nOn April 26th, 1777, Sybil Ludington rode 40 miles by horse through Putnam County, New York, to gather up local militia. British forces were burning nearby Danbury, Connecticut, and Ludington wanted to rally rebel troops to meet them. Although she was only 16 years old at the time, her brave feat made Ludington one of the heroes of the American Revolution. Since then, Ludington has been widely celebrated, inspiring postage stamps, statues, and even children’s TV series.\n\nText 2\nHistorian Paula D. Hunt researched the life and legacy of Sybil Ludington but found no evidence for her famous ride. Although many articles and books have been written about Ludington, Hunt believes writers may have been inventing details about Ludington as they retold her story. Ludington is revered by Americans today, but there simply isn’t a strong historical record of her heroic ride.",
+    "question_text": "Based on the texts, both authors would most likely agree with which statement?",
+    "options": {
+      "A": "Sybil Ludington was crucial to the outcome of the Revolutionary War.",
+      "B": "Historians have confirmed which route Sybil Ludington took.",
+      "C": "Sybil Ludington was likely not a real person.",
+      "D": "Many people have come to admire the story of Sybil Ludington’s ride."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Both authors agree that Ludington’s story has been widely celebrated and revered by Americans, even if they disagree on its accuracy. Text 1 states that Ludington has inspired postage stamps, statues, and TV series, and Text 2 states that many articles and books have been written about her. Thus, both authors acknowledge the popularity of Ludington’s story.\n\nChoice A is incorrect. Neither author claims that Ludington had a significant impact on the war. Text 1 doesn’t mention how Ludington’s ride affected the war overall, and Text 2 suggests that Ludington’s ride may have been exaggerated or invented over time. Choice B is incorrect. Neither author claims that Ludington’s route has been verified by historians. Text 1 claims she rode 40 miles through Putnam County, but doesn’t cite any sources for this information, while Text 2 suggests the ride may not have even happened. Choice C is incorrect. This choice misreads text 2. Neither author claims that Ludington was not a real person, only that her ride may not have happened. Both authors seem to treat Ludington as a genuine historical figure."
+  },
+  {
+    "question_id": "b99e3267",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A journalist and well-respected art critic of nineteenth-century Britain, Lady Elizabeth Rigby Eastlake did not hesitate to publish reviews that went against popular opinion. One of her most divisive works was an essay questioning the idea of photography as an emerging medium for fine art: in the essay, Eastlake ______ that the value of photographs was informational rather than creative.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "exposed",
+      "B": "asserted",
+      "C": "discovered",
+      "D": "doubted"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"Asserted\" means \"stated confidently.\" Eastlake \"did not hesitate to publish reviews going against popular opinion,\" so we can assume that she was confident in sharing her opinions.\n\nChoice A is incorrect. \"Exposed\" means \"made visible by uncovering\" and, when talking about ideas, tends to be used in relation to uncovering the truth. Eastlake was sharing an opinion, not uncovering a truth. Choice C is incorrect. \"Discovered\" means \"found,\" but Eastlake was writing an opinion essay. She was writing her own opinion, not \"discovering\" a new universal truth. Choice D is incorrect. \"Doubted\" means \"didn’t believe in.\" We’re told that Eastlake \"questioned\" the idea that photography could be fine art. Placing \"doubted\" in the blank would actually suggest that Eastlake argued that photos were valuable for creativity and not for information, which is the opposite of what we were told she believes."
+  },
+  {
+    "question_id": "826c2a7e",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Close analysis of the painting Girl with a Flute, long attributed to the seventeenth-century Dutch painter Johannes Vermeer, has revealed subtle deviations from the artist’s signature techniques. These variations suggest that the work may be that of a student under Vermeer’s tutelage—potentially ______ our understanding of Vermeer as a solitary artist.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "negating",
+      "B": "prefiguring",
+      "C": "entrenching",
+      "D": "substantiating"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"Negating\" means \"reversing\" or \"making invalid.\" Proving that Vermeer worked with students would reverse the view of him as a solitary artist.\n\nChoice B is incorrect. \"Prefiguring\" means \"being an early indicator of.\" There already existed views of Vermeer as a solitary painter, so a new painting would not be an early indicator of those views. Rather, a painting proving that Vermeer had a student would contradict those earlier views. Choice C is incorrect. \"Entrenching\" means \"solidifying.\" A painting proving that Vermeer had a student would not solidify views of him as solitary, but would rather contradict those views. Choice D is incorrect. \"Substantiating\" means \"supporting with proof.\" A painting proving that Vermeer had a student would not support views of him as solitary, but would rather contradict those views."
+  }
+]

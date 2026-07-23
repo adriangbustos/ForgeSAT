@@ -1,0 +1,203 @@
+[
+  {
+    "question_id": "80243fdf",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "For the given equation, which table gives three values of $x$ and their corresponding values of $y$?",
+    "question_text": "$$7x - 4y = -84$$",
+    "options": {
+      "A": "Table with $x$: $0, 4, 8$ and $y$: $21, 28, 35$",
+      "B": "Table with $x$: $0, 4, 8$ and $y$: $35, 28, 21$",
+      "C": "Table with $x$: $21, 28, 35$ and $y$: $0, 4, 8$",
+      "D": "Table with $x$: $21, 28, 35$ and $y$: $8, 4, 0$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. To verify which table represents this linear relationship, the values in each table can be checked by substituting them into the given equation. The table in choice A shows that when $x = 0$, $y = 21$. Substituting these values into the given equation yields $7(0) - 4(21) = -84$, or $-84 = -84$, which is true. Additionally, the table in choice A shows that when $x = 4$, $y = 28$. Substituting these values into the given equation yields $7(4) - 4(28) = -84$, or $-84 = -84$, which is true. Finally, the table in choice A shows that when $x = 8$, $y = 35$. Substituting these values into the given equation yields $7(8) - 4(35) = -84$, or $-84 = -84$, which is true. Therefore, the table in choice A gives three values of $x$ and their corresponding values of $y$."
+  },
+  {
+    "question_id": "3526a6a1",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The given equation relates the total number of maple trees, $x$, and the total number of birch trees, $y$, planted in a $14$-acre forest preserve.",
+    "question_text": "$$x + y = 350$$\nIf $245$ maple trees were planted in the forest preserve, how many birch trees were planted in the forest preserve?",
+    "options": {
+      "A": "$14$",
+      "B": "$25$",
+      "C": "$105$",
+      "D": "$245$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that the equation $x + y = 350$ relates the total number of maple trees, $x$, and the total number of birch trees, $y$, planted in a $14$-acre forest preserve. It's also given that $245$ maple trees were planted in the forest preserve. Substituting $245$ for $x$ in the given equation yields $245 + y = 350$. Subtracting $245$ from both sides of this equation yields $y = 105$. Therefore, $105$ birch trees were planted in the forest preserve."
+  },
+  {
+    "question_id": "b81a4da4",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A team hosting an event to raise money for new uniforms plans to sell at least $140$ tickets before this event and at least $220$ tickets during this event to raise a total of at least \\$5,820$ from all tickets sold. The price of a ticket during this event is \\$3$ less than the price of a ticket before this event.",
+    "question_text": "Which inequality represents this situation, where $x$ is the price, in dollars, of a ticket sold during this event?",
+    "options": {
+      "A": "$140(x + 3) + 220x \\le 5,820$",
+      "B": "$140(x + 3) + 220x \\ge 5,820$",
+      "C": "$140(x - 3) + 220x \\le 5,820$",
+      "D": "$140(x - 3) + 220x \\ge 5,820$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that a team plans to sell at least $140$ tickets before an event and at least $220$ tickets during the event to raise a total of at least \\$5,820$ from all tickets sold. It's also given that the price of a ticket during the event is \\$3$ less than the price of a ticket before the event and that $x$ represents the price, in dollars, of a ticket sold during the event. It follows that $x + 3$ represents the price, in dollars, of a ticket sold before the event. The expression $140(x + 3)$ represents the planned revenue, in dollars, from the tickets sold before the event, and the expression $220x$ represents the planned revenue, in dollars, from the tickets sold during the event. Thus, the expression $140(x + 3) + 220x$ represents the planned revenue, in dollars, from all tickets sold. Since the team plans to raise a total of at least \\$5,820$ from all tickets sold, the total revenue must be at least $5,820$. Therefore, the inequality $140(x + 3) + 220x \\ge 5,820$ represents this situation."
+  },
+  {
+    "question_id": "c729c1d7",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "A number $x$ is at most $2$ less than $3$ times the value of $y$.",
+    "question_text": "If the value of $y$ is $-4$, what is the greatest possible value of $x$?",
+    "options": null,
+    "correct_answer": "-14",
+    "explanation": "The correct answer is $-14$. It's given that a number $x$ is at most $2$ less than $3$ times the value of $y$. Therefore, $x$ is less than or equal to $2$ less than $3$ times the value of $y$. The expression $3y$ represents $3$ times the value of $y$. The expression $3y - 2$ represents $2$ less than $3$ times the value of $y$. Therefore, $x$ is less than or equal to $3y - 2$. This can be shown by the inequality $x \\le 3y - 2$. Substituting $-4$ for $y$ in this inequality yields $x \\le 3(-4) - 2$, or $x \\le -14$. Therefore, if the value of $y$ is $-4$, the greatest possible value of $x$ is $-14$."
+  },
+  {
+    "question_id": "59074d92",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The number $y$ is $84$ less than the number $x$.",
+    "question_text": "Which equation represents the relationship between $x$ and $y$?",
+    "options": {
+      "A": "$y = x + 84$",
+      "B": "$y = \\frac{1}{84}x$",
+      "C": "$y = 84x$",
+      "D": "$y = x - 84$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that the number $y$ is $84$ less than the number $x$. A number that's $84$ less than the number $x$ is equivalent to $84$ subtracted from the number $x$, or $x - 84$. Therefore, the equation $y = x - 84$ represents the relationship between $x$ and $y$."
+  },
+  {
+    "question_id": "b272276f",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "What is the slope of the graph of $y = \\frac{1}{3}(29x + 10) + 5x$ in the $xy$-plane?",
+    "question_text": "What is the slope of the graph?",
+    "options": null,
+    "correct_answer": "44/3",
+    "explanation": "The correct answer is $\\frac{44}{3}$. A linear equation can be written in the form $y = mx + b$, where $m$ is the slope of the graph of the equation in the $xy$-plane and $b$ is the $y$-intercept. Distributing the $\\frac{1}{3}$ in the equation $y = \\frac{1}{3}(29x + 10) + 5x$ yields $y = \\frac{29}{3}x + \\frac{10}{3} + 5x$. Combining like terms on the right-hand side of this equation yields $y = \\frac{44}{3}x + \\frac{10}{3}$. This equation is in the form $y = mx + b$, where $m = \\frac{44}{3}$ and $b = \\frac{10}{3}$. Therefore, the slope of the graph of the given equation in the $xy$-plane is $\\frac{44}{3}$."
+  },
+  {
+    "question_id": "8725b868",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "What value of $x$ is the solution to the equation?",
+    "question_text": "$$16x + 24 = 24x$$",
+    "options": {
+      "A": "-4",
+      "B": "\\frac{3}{10}",
+      "C": "\\frac{1}{3}",
+      "D": "3"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Subtracting $16x$ from both sides of the given equation yields $24 = 8x$. Dividing both sides of this equation by $8$ yields $3 = x$. Therefore, the solution to the given equation is $3$."
+  },
+  {
+    "question_id": "30d645b0",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "A rectangle has length $\\ell$ and width $w$. The inequality $2\\ell + 2w \\le 27$ gives the possible values of $\\ell$ and $w$ for which the perimeter of this rectangle is less than or equal to $27$.",
+    "question_text": "Which statement is the best interpretation of $(\\ell, w) = (8, 3)$ in this context?",
+    "options": {
+      "A": "If the rectangle has length $3$ and width $8$, its perimeter is less than or equal to $27$.",
+      "B": "If the rectangle has length $8$ and width $3$, its perimeter is less than or equal to $27$.",
+      "C": "If the rectangle has length $3$ and width $8$, its perimeter is greater than or equal to $27$.",
+      "D": "If the rectangle has length $8$ and width $3$, its perimeter is greater than or equal to $27$."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that a rectangle has length $\\ell$ and width $w$, and the inequality $2\\ell + 2w \\le 27$ gives the possible values of $\\ell$ and $w$ for which the perimeter of this rectangle is less than or equal to $27$. To determine the best interpretation of $(\\ell, w) = (8, 3)$ in this context, the values can be substituted in the given inequality. Substituting $8$ for $\\ell$ and $3$ for $w$ in this inequality yields $2(8) + 2(3) \\le 27$, which is equivalent to $16 + 6 \\le 27$, or $22 \\le 27$. Since this inequality is true, if the rectangle has length $8$ and width $3$, its perimeter is less than or equal to $27$."
+  },
+  {
+    "question_id": "1e7acd85",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "For the linear function $g$, the table shows four values of $x$ and their corresponding values of $g(x)$: $x=1, g(x)=54$; $x=2, g(x)=51$; $x=3, g(x)=48$; $x=4, g(x)=45$. The function can be written as $g(x) = mx + b$, where $m$ and $b$ are constants.",
+    "question_text": "What is the value of $b$?",
+    "options": {
+      "A": "3",
+      "B": "27",
+      "C": "54",
+      "D": "57"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that for the linear function $g$, the table shows four values of $x$ and their corresponding values of $g(x)$. It's also given that the function can be written as $g(x) = mx + b$, where $m$ and $b$ are constants. The table shows that when the value of $x$ is $1$, the corresponding value of $g(x)$ is $54$. Substituting $1$ for $x$ and $54$ for $g(x)$ in $g(x) = mx + b$ yields $54 = m(1) + b$, or $54 = m + b$. Subtracting $b$ from both sides of this equation yields $54 - b = m$. The table also shows that when the value of $x$ is $2$, the corresponding value of $g(x)$ is $51$. Substituting $2$ for $x$ and $51$ for $g(x)$ in $g(x) = mx + b$ yields $51 = m(2) + b$, or $51 = 2m + b$. Substituting $54 - b$ for $m$ in this equation yields $51 = 2(54 - b) + b$. Applying the distributive property to the right-hand side of this equation yields $51 = 108 - 2b + b$, or $51 = 108 - b$. Subtracting $108$ from both sides of this equation yields $-57 = -b$. Dividing both sides of this equation by $-1$ yields $57 = b$."
+  },
+  {
+    "question_id": "e6ec10f1",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "The table shows two values of $x$ and their corresponding values of $y$: $x=-12, y=-45$ and $x=6, y=45$. The graph of the linear equation representing this relationship passes through the point $(\\frac{1}{4}, a)$.",
+    "question_text": "What is the value of $a$?",
+    "options": null,
+    "correct_answer": "65/4",
+    "explanation": "The correct answer is $\\frac{65}{4}$. The linear relationship between $x$ and $y$ can be represented by the equation $y = mx + b$, where $m$ and $b$ are constants. It's given in the table that when $x = -12$, $y = -45$. Substituting $-12$ for $x$ and $-45$ for $y$ in the equation $y = mx + b$ yields $-45 = -12m + b$, which can be rewritten as $-45 + 12m = b$. It's also given in the table that when $x = 6$, $y = 45$. Substituting $6$ for $x$ and $45$ for $y$ in the equation $y = mx + b$ yields $45 = 6m + b$, which can be rewritten as $45 - 6m = b$. Substituting $-45 + 12m$ for $b$ in this equation yields $45 - 6m = -45 + 12m$. Adding $6m$ to both sides of this equation yields $45 = -45 + 18m$. Adding $45$ to both sides of this equation yields $90 = 18m$. Dividing both sides of this equation by $18$ yields $5 = m$, or $m = 5$. Substituting $5$ for $m$, $-12$ for $x$, and $-45$ for $y$ in the equation $y = mx + b$ yields $-45 = 5(-12) + b$, or $-45 = -60 + b$. Adding $60$ to both sides of this equation yields $15 = b$. Therefore, $m = 5$ and $b = 15$. Substituting $5$ for $m$ and $15$ for $b$ in the equation $y = mx + b$ yields $y = 5x + 15$. Thus, the equation $y = 5x + 15$ represents the linear relationship between $x$ and $y$. It's also given that the graph of the linear equation representing this relationship passes through the point $(\\frac{1}{4}, a)$. Substituting $\\frac{1}{4}$ for $x$ and $a$ for $y$ in the equation $y = 5x + 15$ yields $a = 5(\\frac{1}{4}) + 15$, which is equivalent to $a = \\frac{5}{4} + 15$, or $a = \\frac{65}{4}$."
+  },
+  {
+    "question_id": "9903ff5b",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The area of a triangle is $270$ square centimeters. The length of the base of the triangle is $12$ centimeters greater than the height of the triangle.",
+    "question_text": "What is the height, in centimeters, of the triangle?",
+    "options": {
+      "A": "$15$",
+      "B": "$18$",
+      "C": "$30$",
+      "D": "$36$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The area, $A$, of a triangle is given by the formula $A = \\frac{1}{2}bh$, where $b$ represents the length of the base of the triangle and $h$ represents its height. It's given that the area of a triangle is $270$ square centimeters and that the length of the base of this triangle is $12$ centimeters greater than the height of the triangle. Let $x$ represent the height, in centimeters, of the triangle. It follows that the length of the base of the triangle can be expressed as $x + 12$. Substituting $270$ for $A$, $x$ for $h$, and $x + 12$ for $b$ in the formula $A = \\frac{1}{2}bh$ yields $270 = \\frac{1}{2}(x + 12)(x)$, or $270 = \\frac{1}{2}x(x + 12)$. Multiplying both sides of this equation by $2$ yields $540 = x(x + 12)$. Applying the distributive property on the right-hand side of this equation yields $540 = x^2 + 12x$. Subtracting $540$ from both sides of this equation yields $0 = x^2 + 12x - 540$. In factored form, this equation is equivalent to $(x + 30)(x - 18) = 0$. Applying the zero product property, it follows that $x + 30 = 0$ or $x - 18 = 0$. Subtracting $30$ from both sides of the equation $x + 30 = 0$ yields $x = -30$. Adding $18$ to both sides of the equation $x - 18 = 0$ yields $x = 18$. Since $x$ represents the height of the triangle, it must be positive. Therefore, the height, in centimeters, of the triangle is $18$."
+  },
+  {
+    "question_id": "005e9982",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The given function $f$ models the number of advertisements a company sent to its clients each year, where $x$ represents the number of years since $1997$, and $0 \\le x \\le 5$.",
+    "question_text": "$$f(x) = 9,000(0.66)^x$$\nIf $y = f(x)$ is graphed in the $xy$-plane, which of the following is the best interpretation of the $y$-intercept of the graph in this context?",
+    "options": {
+      "A": "The minimum estimated number of advertisements the company sent to its clients during the $5$ years was $1,708$.",
+      "B": "The minimum estimated number of advertisements the company sent to its clients during the $5$ years was $9,000$.",
+      "C": "The estimated number of advertisements the company sent to its clients in $1997$ was $1,708$.",
+      "D": "The estimated number of advertisements the company sent to its clients in $1997$ was $9,000$."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The $y$-intercept of a graph in the $xy$-plane is the point where $x = 0$. For the given function $f$, the $y$-intercept of the graph of $f$ in the $xy$-plane can be found by substituting $0$ for $x$ in the equation $y = 9,000(0.66)^x$, which gives $y = 9,000(0.66)^0$. This is equivalent to $y = 9,000(1)$, or $y = 9,000$. Therefore, the $y$-intercept of the graph of $f$ is $(0, 9,000)$. It's given that the function $f$ models the number of advertisements a company sent to its clients each year. Therefore, $f(x)$ represents the estimated number of advertisements the company sent to its clients each year. It's also given that $x$ represents the number of years since $1997$. Therefore, $x = 0$ represents $0$ years since $1997$, or $1997$. Thus, the best interpretation of the $y$-intercept of the graph of $y = f(x)$ is that the estimated number of advertisements the company sent to its clients in $1997$ was $9,000$."
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "ad1fc529",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Interruptions in the supply chain for microchips used in personal electronics have challenged an economist’s assertion that retailers can expect robust growth in sales of those devices in the coming months. The delays are unlikely to ______ her projection entirely but will almost certainly extend its time frame.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "dispute",
+      "B": "withdraw",
+      "C": "underscore",
+      "D": "invalidate"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text’s discussion of the economist’s claim about sales of personal electronic devices. In this context, \"invalidate\" most nearly means nullify or make invalid. The text indicates that interruptions in the supply of microchips for personal electronics \"have challenged\" the economist’s claim that sales of personal electronics will show strong growth in the coming months. The text goes on to clarify the effect of the delays on the economist’s projection, stating that the delays are very likely to extend the time frame over which the projected growth in sales will occur. This context suggests that the delays are unlikely to invalidate the economist’s projection entirely—the delays will probably alter the time frame of the projection, not nullify it or make it invalid. Choice A is incorrect because saying that the delays are unlikely to \"dispute,\" or argue against, the economist’s projection wouldn’t make sense. Since the delays are an inanimate circumstance, they couldn’t argue against a prediction about the sales of personal electronics. Choice B is incorrect because saying that the delays are unlikely to \"withdraw,\" or remove from consideration, the economist’s projection wouldn’t make sense. Although the economist could withdraw her projection because of the delays, the delays themselves couldn’t withdraw her projection since they’re an inanimate circumstance and thus can’t choose to remove something from consideration. Choice C is incorrect because there’s nothing in the text to suggest that the delays will \"underscore,\" or emphasize, the economist’s projection. Instead, the text suggests that the delays are likely to extend the time frame of the economist’s projection but not to undermine the projection entirely."
+  },
+  {
+    "question_id": "4183cbda",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nIn 2007, a team led by Alice Storey analyzed a chicken bone found in El Arenal, Chile, dating it to 1321–1407 CE—over a century before Europeans invaded the region, bringing their own chickens. Storey also found that the El Arenal chicken shared a unique genetic mutation with the ancient chicken breeds of the Polynesian Islands in the Pacific. Thus, Polynesian peoples, not later Europeans, probably first introduced chickens to South America.\n\nText 2\nAn Australian research team weakened the case for a Polynesian origin for the El Arenal chicken by confirming that the mutation identified by Storey has occurred in breeds from around the world. More recently, though, a team led by Agusto Luzuriaga-Neira found that South American chicken breeds and Polynesian breeds share other genetic markers that European breeds lack. Thus, the preponderance of evidence now favors a Polynesian origin.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+    "options": {
+      "A": "By broadly agreeing with the claim but objecting that the timeline it presupposes conflicts with the findings of the genetic analysis conducted by Storey’s team",
+      "B": "By faulting the claim for implying that domestic animals couldn’t have been transferred from South America to the Polynesian Islands as well",
+      "C": "By critiquing the claim for being based on an assumption that before the European invasion of South America, the chickens of Europe were genetically uniform",
+      "D": "By noting that while the claim is persuasive, the findings of Luzuriaga-Neira’s team provide stronger evidence for it than the findings of the genetic analysis conducted by Storey do"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it accurately describes how the author of Text 2 would most likely respond to the underlined claim in Text 1. Text 1 indicates that Storey found a genetic mutation in South American chickens from before the European invasion and in Polynesian chickens, which implies that chickens were first brought to South America by Polynesian people. Text 2 explains that the genetic mutation Storey found is in chickens from all over the world, thus undercutting the mutation as evidence of a Polynesian origin. However, Text 2 goes on to say \"[m]ore recently\" Luzuriaga-Neira and colleagues found multiple genetic markers shared by South American and Polynesian chickens but \"that European breeds lack,\" which strongly suggests a Polynesian origin for the South American chickens. This indicates that the author of Text 2 believes Luzuriaga-Neira’s evidence for a Polynesian origin is compelling while Storey’s evidence has been undermined. Thus, the author of Text 2 would most likely agree with the underlined statement and believes Luzuriaga-Neira and colleagues’ evidence for the statement is stronger than Storey’s evidence is."
+  },
+  {
+    "question_id": "372b3cc3",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to banking records located in nations in Africa, such as Tunisia, and Eastern Europe, such as Hungary.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "presuppose",
+      "B": "categorize",
+      "C": "mitigate",
+      "D": "validate"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text’s discussion of research on income inequality in the 2010s. In this context, \"mitigate\" means to make less severe or reduce the negative effects of something. The text first identifies a shortcoming in the research: a \"myopic focus on a few countries\" despite claims of \"global relevance.\" The text then explains that researchers later gained access to new data from previously excluded regions (Africa and Eastern Europe). This context supports the idea that with these new data, researchers would be able to reduce, or mitigate, the identified shortcoming by incorporating a broader range of geographic regions into their studies of income inequality."
+  },
+  {
+    "question_id": "014ae202",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Charles Dickens’s 1854 novel Hard Times. Coketown is a fictional town in England. \n\n[Coketown] contained several large streets all very like one another, and many small streets still more like one another, inhabited by people equally like one another, who all went in and out at the same hours, with the same sound upon the same pavements, to do the same work, and to whom every day was the same as yesterday and tomorrow, and every year the counterpart of the last and the next.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To emphasize the uniformity of both the town and the people who live there",
+      "B": "To explain the limited work opportunities available to the town’s residents",
+      "C": "To reveal how the predictability of the town makes it easy for people lose track of time",
+      "D": "To argue that the simplicity of life in the town makes it a pleasant place to live"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The author describes Coketown as having streets that are all very similar and residents who live similarly and do the same work. This repetition of similarities emphasizes how everything in Coketown is alike."
+  },
+  {
+    "question_id": "0a9b75f3",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Herman Melville’s 1857 novel The Confidence-Man. Humphry Davy was a prominent British chemist and inventor.\n\nYears ago, a grave American savant, being in London, observed at an evening party there, a certain coxcombical fellow, as he thought, an absurd ribbon in his lapel, and full of smart [banter], whisking about to the admiration of as many as were disposed to admire. Great was the savant’s disdain; but, chancing ere long to find himself in a corner with the jackanapes, got into conversation with him, when he was somewhat ill-prepared for the good sense of the jackanapes, but was altogether thrown aback, upon subsequently being [informed that he was] no less a personage than Sir Humphry Davy.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "It portrays the thoughts of a character who is embarrassed about his own behavior.",
+      "B": "It presents an account of a misunderstanding.",
+      "C": "It offers a short history of how a person came to be famous.",
+      "D": "It explains why one character dislikes another."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text tells a story of a first impression that turned out to be wrong: a serious American savant was dismissive of a goofy-looking, wisecracking guest at a British party, and then was shocked to learn that the guest was actually a prominent British chemist and inventor."
+  },
+  {
+    "question_id": "dbcaf826",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Many films from the early 1900s have been lost. These losses include several films by the first wave of Black women filmmakers. We know about these lost movies only from small pieces of evidence. For example, an advertisement for Jennie Louise Touissant Welcome’s documentary Doing Their Bit still exists. There’s a reference in a magazine to Tressie Souders’s film A Woman’s Error. And Maria P. Williams’s The Flames of Wrath is mentioned in a letter and a newspaper article, and one image from the movie was discovered in the 1990s.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "The text identifies a complex problem, then presents examples of unsuccessful attempts to solve that problem.",
+      "B": "The text summarizes a debate among researchers, then gives reasons for supporting one side in that debate.",
+      "C": "The text describes a general situation, then illustrates that situation with specific examples.",
+      "D": "The text discusses several notable individuals, then explains commonly overlooked differences between those individuals."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The first three sentences describe the general situation: these early films have been lost, and we only know about them from small pieces of evidence. The rest of the text offers specific examples of the small pieces of evidence."
+  },
+  {
+    "question_id": "6550292c",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Dance choreographer Jawole Willa Jo Zollar aims to give people the opportunity to be ______ her creative process. For example, live performances of her dance HairStories, which debuted in 2001, featured videos of people across the United States talking about their hair and audience members sharing pictures of their interesting hairstyles.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "nervous about",
+      "B": "completed by",
+      "C": "delayed by",
+      "D": "involved in"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. “Involved in” means “playing an active role in.” This fits the context clues describing how Zollar includes the audience in her shows by incorporating their stories and pictures."
+  },
+  {
+    "question_id": "01785861",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In most building demolitions, the building materials are destroyed and sent to landfills. City officials in Portland, Oregon, wanted to reduce this waste. The officials passed a law requiring demolition companies to deconstruct some buildings instead. Deconstruction involves carefully taking buildings apart piece by piece. Damage to the materials is avoided so that they can be reused in new constructions. A 2019 study found that 27 percent of materials from deconstructions in Portland were able to be reused. The remaining materials were processed for recycling instead of going to a landfill.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To explain an effort made by the city of Portland to reduce demolition waste and some results of that effort",
+      "B": "To show that popular support for measures that reduce demolition waste has increased since 2019",
+      "C": "To argue that building deconstruction is not as effective as other measures at reducing demolition waste",
+      "D": "To discuss laws aimed to reduce demolition waste in Portland and compare them to similar laws in other cities"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The author first describes a Portland law aimed at reducing demolition waste, and then goes on to explain that 27% of materials from building deconstructions were able to be reused and the rest were recycled."
+  },
+  {
+    "question_id": "74ce57b4",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Genetic studies have led researchers to suggest that turtles are most closely related to the group that includes modern crocodiles. But studies of fossils have suggested instead that turtles are most closely related to other groups, such as the one that contains modern snakes. However, many of the fossil studies have relied on incomplete data sets. For a 2022 investigation, biologist Tiago R. Simões and colleagues examined more than 1,000 reptile fossils collected worldwide. From this large data set, they found clear agreement with the results of the genetic studies.",
+    "question_text": "Which choice best describes the function of the underlined sentence?",
+    "options": {
+      "A": "It offers an overview of the tools scientists use to examine fossils.",
+      "B": "It describes a limitation of some studies about the origin of turtles.",
+      "C": "It summarizes previous research on the evolution of crocodiles.",
+      "D": "It criticizes a widely held belief about genetic studies of reptiles."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The sentence mentions that some fossil studies have relied on incomplete data sets, suggesting that these studies are limited in what they can tell us about turtles’ origins."
+  },
+  {
+    "question_id": "a05fe244",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The 1967 release of Harold Cruse’s book The Crisis of the Negro Intellectual isolated him from almost all other scholars and activists of the American Civil Rights Movement—though many of those thinkers disagreed with each other, he nonetheless found ways to disagree with them all. He thought that activists who believed that Black people such as himself should culturally assimilate were naïve. But he also sharply criticized Black nationalists such as Marcus Garvey who wanted to establish independent, self-contained Black economies and societies, even though Cruse himself identified as a Black nationalist.",
+    "question_text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "options": {
+      "A": "It describes a direction that Cruse felt the Civil Rights Movement ought to take.",
+      "B": "It indicates that Cruse’s reputation as a persistent antagonist of other scholars is undeserved.",
+      "C": "It describes a controversy that Cruse’s work caused within the Black nationalist movement.",
+      "D": "It helps explain Cruse’s position with respect to the community of civil rights thinkers."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text as a whole claims that Cruse disagreed with virtually all other Civil Rights scholars and activists. The underlined sentence describes one way that Cruse both did and didn’t fit in with those thinkers: he criticized Black nationalists, even though he identified as one."
+  },
+  {
+    "question_id": "472bbfdf",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Vadamalai Elangovan and Ganapathi Marimuthu showed that high moonlight intensity inhibits the activity of the greater short-nosed fruit bat (Cynopterus sphinx), a result explicable in terms of benefits and costs: greater lunar intensity may not enable the bats to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Most other nocturnal mammals respond to lunar intensity variations similarly to greater short-nosed fruit bats, but mongoose lemurs (Eulemur mongoz) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "It discusses two different responses to the same natural phenomenon, explains why one of those responses occurs, and then suggests that the other response still needs to be explained.",
+      "B": "It describes and accounts for a finding, characterizes the finding as representative of a general pattern, and then describes and accounts for an exception to that pattern.",
+      "C": "It presents and explains a study result, indicates that the result is similar to the results of many other studies, and then attributes a conflicting study result to a difference in that study’s methods.",
+      "D": "It introduces an observation of a behavioral pattern, presents an explanation for the pattern, and then describes an exception to the pattern that casts doubt on that explanation."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most accurately describes the overall structure of the text. The text begins by describing a study’s finding about greater short-nosed fruit bats—namely, that high moonlight intensity inhibits the bats’ activity—and also accounts for that finding, stating that this occurs because the potential increase in foraging success that greater lunar intensity enables doesn’t offset these bats’ increased vulnerability to predators (whose vision is also implied to become more acute under intense moonlight). The text goes on to characterize this finding as representative of a general pattern, stating that many nocturnal mammals behave similarly in response to changes in lunar intensity. The text concludes by describing an exception to this pattern, explaining that mongoose lemurs display an opposite tendency because they rely heavily on visual foraging. This strategy presumably would allow them to derive more benefit from greater lunar intensity than many other nocturnal mammals would, resulting in a \"different balance of reward and risk\" than exists for other nocturnal mammals. Therefore, the overall structure of the text is best described as a description and account of a finding, a characterization of that finding as representative of a pattern, and then a description and account of an exception to that pattern."
+  }
+]

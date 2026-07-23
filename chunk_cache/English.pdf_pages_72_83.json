@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "5b3e644c",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Microbes that live in shallow lakes and ponds produce methane, a harmful greenhouse gas. Ecologist Ralf Aben and his team wanted to see how different types of shallow-water plants might affect the amount of methane that escapes into the atmosphere. Aben’s team set up some water tanks with soil and microbes from local ponds. Some tanks had a type of underwater plant that grows in the soil called watermilfoil. Other tanks had either duckweed, a type of plant that floats on the water’s surface, or algae. Aben and his team found that tanks with duckweed and algae released higher levels of methane than tanks with watermilfoil did. This finding suggests that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "the presence of some kinds of underwater plants like watermilfoil helps prevent methane from escaping shallow lakes and ponds.",
+      "B": "shallow lakes and ponds release more methane than deeper bodies of water because shallow bodies of water usually have more plants than deep bodies of water do.",
+      "C": "shallow lakes and ponds are more likely to contain algae than to contain either watermilfoil or duckweed.",
+      "D": "having a mix of algae, underwater plants, and floating plants is the best way to reduce the amount of methane in shallow lakes and ponds."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The passage tells us that ‒tanks with duckweed (a floating plant) and algae released higher levels of methane than tanks with watermilfoil (an underwater plant) did.‒ This suggests that the presence of some kinds of underwater plants like watermilfoil may help prevent methane from escaping shallow lakes and ponds. Choice B is incorrect. The passage doesn’t mention deeper bodies of water at all, so there’s no basis for this inference. Choice C is incorrect. The passage doesn’t compare the likelihood of shallow lakes and ponds containing algae, watermilfoil, or duckweed. Choice D is incorrect. The study didn’t include any tanks with a mix of plants, so there’s no basis for this inference."
+  },
+  {
+    "question_id": "a9aa25f9",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "‒Gestures‒ in painting are typically thought of as bold, expressive brushstrokes. In the 1970s, American painter Jack Whitten built a 12-foot (3.7-meter) tool he named the ‒developer‒ to apply paint to an entire canvas in one motion, resulting in his series of ‒slab‒ paintings from that decade. Whitten described this process as making an entire painting in ‒one gesture,‒ signaling a clear departure from the prevalence of gestures in his work from the 1960s. Some art historians claim this shift represents ‒removing gesture‒ from the process. Therefore, regardless of whether using the developer constitutes a gesture, both Whitten and these art historians likely agree that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "any tool that a painter uses to create an artwork is capable of creating gestures.",
+      "B": "Whitten’s work from the 1960s exhibits many more gestures than his work from the 1970s does.",
+      "C": "Whitten became less interested in exploring the role of gesture in his work as his career progressed.",
+      "D": "Whitten’s work from the 1960s is much more realistic than his work from the 1970s is."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Whitten thinks the tool made ‒one gesture‒ paintings, while historians think the tool ‒removed gesture‒ from the process completely. But putting that debate aside, both Whitten and the historians would agree that the paintings he made with the tool in the ’70s have way fewer gestures than his paintings from the ’60s, in which gestures are ‒prevalent,‒ meaning widely and extensively present. Choice A is incorrect. This inference isn’t supported. The text only discusses the ‒developer‒—it never mentions other tools. Choice C is incorrect. This inference isn’t supported. If anything, the text suggests the opposite: that Whitten became more interested in exploring the role of gesture in his work as his career progressed, as his earlier paintings had many gestures, and his ’70s paintings only had ‒one gesture.‒ Choice D is incorrect. This inference isn’t supported. The text never discusses the ‒realism‒ of Whitten’s art."
+  },
+  {
+    "question_id": "d2316673",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Maggie Pogue Johnson’s 1910 poem ‒Poet of Our Race.‒ In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author.\nThou, with stroke of mighty pen,\n    Hast told of joy and mirth,\nAnd read the hearts and souls of men\n    As cradled from their birth.\nThe language of the flowers,\n    Thou hast read them all,\nAnd e’en the little brook\n    Responded to thy call.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To praise a certain writer for being especially perceptive regarding people and nature",
+      "B": "To establish that a certain writer has read extensively about a variety of topics",
+      "C": "To call attention to a certain writer’s careful and elaborately detailed writing process",
+      "D": "To recount fond memories of an afternoon spent in nature with a certain writer"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most accurately states the main purpose of the text. In the first part of the text, the speaker addresses Paul Laurence Dunbar’s ability to understand people (he has ‒read the hearts and souls of men‒ and written of their ‒joy and mirth‒). In the second part of the text, the speaker describes Dunbar’s thorough understanding of the natural world (he has read ‒the language of the flowers‒ and engaged with ‒the little brook‒). Thus, the text mainly praises Dunbar for being especially perceptive about people and nature."
+  },
+  {
+    "question_id": "cec9c34f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "A museum curator is writing a biographical statement about Trinidadian-born Chinese dancer, choreographer, and teacher Dai Ailian for a new exhibit on Chinese dance. The curator claims that some of the pieces Dai created shortly after arriving in mainland China in 1941, such as the solo dance Yao Drum, reflect a desire to represent the dances of local communities Dai visited during her travels through China.",
+    "question_text": "Which quotation from a work by a dance historian would be the most effective evidence for the curator to include in support of this claim?",
+    "options": {
+      "A": "‒There is no sound or music accompanying Dai’s movements in Yao Drum, aside from the sounds of drumsticks beating against a drum and against each other.‒",
+      "B": "‒Unlike some of the works Dai created in the early 1940s, Yao Drum does not feature a narrative structure, humorous elements, or references to real-life events.‒",
+      "C": "‒Yao Drum was inspired by a ceremonial dance Dai witnessed during her time performing field research among the Yao people in the province of Guizhou in 1941 or 1942.‒",
+      "D": "‒Yao Drum is notable for its intense physicality, with Dai performing sharp jumps, swift turns, and dramatic sweeps of her legs through the air as she moves in circles on the stage.‒"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This choice clearly states that Yao Drum was inspired by a ceremonial dance of the Yao people. This directly supports the curator’s claim that some of Dai’s pieces ‒represent the dances of local communities‒ she visited."
+  },
+  {
+    "question_id": "97042cf6",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "As the name suggests, dramaturges originated in theater, where they continue to serve a variety of functions: conducting historical research for directors, compiling character biographies for actors, and perhaps most importantly, helping writers of plays and musicals to hone the works’ stories and characters. Performance scholar Susan Manning observes that many choreographers, like playwrights and musical theater writers, are concerned with storytelling and characterization. In fact, some choreographers describe the dances they create as expressions of narrative through movement; it is therefore unsurprising that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "dramaturges can have a profound impact on the artistic direction of plays and musicals.",
+      "B": "choreographers developing dances with narrative elements frequently engage dramaturges to assist in refining those elements.",
+      "C": "dances by choreographers who incorporate narrative elements are more accessible to audiences than dances by choreographers who do not.",
+      "D": "some directors and actors rely too heavily on dramaturges to complete certain research tasks."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Dramaturges help playwrights with storytelling and characterization. Choreographers often tell stories through dance, so they are also concerned with storytelling and characterization. This suggests that the fact that choreographers seek the help of dramaturges with the storytelling aspects of their dances should be ‒unsurprising.‒"
+  },
+  {
+    "question_id": "26dca99e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The Household, Income and Labour Dynamics in Australia Survey (HILDA) examines trends in economic well-being among 25,000 people in Australia unfolding over many years. As is true of most longitudinal studies, this need for years of data collection results in high costs. By contrast, a relatively straightforward fitness study, such as one that is merely trying to identify the percentage of regular exercisers in a city who do weight training, may not need a large budget because ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "longitudinal methods are probably suitable for the fitness study.",
+      "B": "it would be easy for HILDA researchers to add questions to their economic well-being study.",
+      "C": "25,000 people is more than enough for HILDA to find trends in economic well-being.",
+      "D": "the fitness study can be done well without years of data collection."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text’s discussion of the costs of studies. The text indicates that HILDA is a longitudinal study—it involves repeated observations over a long time—and that the ‒need for years of data collection‒ is what causes it and most other longitudinal studies to have high costs."
+  },
+  {
+    "question_id": "823f6c65",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A heliograph is a semaphore device used for sending optical communications—usually in the form of Morse code—by reflecting flashes of sunlight off a mirror. Heliographs were used for rapid communication across expansive distances for military, surveying, and forestry purposes during the late nineteenth and early twentieth centuries, but they were largely effective only during the daytime, and the range of the device depended on factors such as the opacity of the air and line of sight. Therefore, heliographs were eventually replaced by technology that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "worked on similar principles but was easier to produce and maintain.",
+      "B": "was not so constrained by environmental circumstances.",
+      "C": "could be used for more than military, surveying, or forestry purposes.",
+      "D": "enabled communication that didn’t require knowledge of Morse code."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The passage explains that heliographs ‒were largely effective only during the daytime‒ and that ‒the range of the device depended on factors such as the opacity of the air and line of sight.‒ These constraints would have greatly limited the use of the heliograph, so we can infer that this would have been a reason to replace it with new technology."
+  },
+  {
+    "question_id": "172f5e8c",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Sense and Sensibility is an 1811 novel by Jane Austen. In the novel, Austen describes Marianne Dashwood’s ability to persuade others of the rightness of her artistic judgments, as is evident when Marianne visits with John Willoughby, a potential suitor: ______",
+    "question_text": "Which quotation from Sense and Sensibility most effectively illustrates the claim?",
+    "options": {
+      "A": "‒Above all, when she heard him declare, that of music and dancing he was passionately fond, she gave him such a look of approbation as secured the largest share of his discourse to herself for the rest of his stay.‒",
+      "B": "‒Their taste was strikingly alike. The same books, the same passages were idolized by each—or if any difference appeared, any objection arose, it lasted no longer than till the force of her arguments and the brightness of her eyes could be displayed.‒",
+      "C": "‒It was only necessary to mention any favourite amusement to engage her to talk. She could not be silent when such points were introduced, and she had neither shyness nor reserve in their discussion.‒",
+      "D": "‒They speedily discovered that their enjoyment of dancing and music was mutual, and that it arose from a general conformity of judgment in all that related to either. Encouraged by this to a further examination of his opinions, she proceeded to question him on the subject of books.‒"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. By showing that ‒any difference‒ in taste was quickly overcome by ‒the force of [Marianne’s] arguments,‒ this choice effectively demonstrates Marianne’s ‒ability to persuade others.‒"
+  },
+  {
+    "question_id": "6daa3ef5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "‒On Virtue‒ is a 1766 poem by Phillis Wheatley. Wheatley addresses the poem directly to the quality of virtue, imploring it to assist her in reaching a future goal: ______",
+    "question_text": "Which quotation from ‒On Virtue‒ most effectively illustrates the claim?",
+    "options": {
+      "A": "‒Attend me, Virtue, thro’ my youthful years! / O leave me not to the false joys of time! / But guide my steps to endless life and bliss.‒",
+      "B": "‒I cease to wonder, and no more attempt / Thine height t’explore, or fathom thy profound.‒",
+      "C": "‒O thou bright jewel in my aim I strive / To comprehend thee. Thine own words declare / Wisdom is higher than a fool can reach.‒",
+      "D": "‒But, O my soul, sink not into despair, / Virtue is near thee, and with gentle hand / Would now embrace thee, hovers o’er thine head.‒"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most effectively illustrates the claim that Wheatley addresses her poem ‒On Virtue‒ to the quality of virtue, imploring it to assist her in reaching a future goal."
+  },
+  {
+    "question_id": "b00c53b3",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Henry Ossawa Tanner’s 1893 painting The Banjo Lesson, which depicts an elderly man teaching a boy to play the banjo, is regarded as a landmark in the history of works by Black artists in the United States. Scholars should be cautious when ascribing political or ideological values to the painting, however: beliefs and assumptions that are commonly held now may have been unfamiliar to Tanner and his contemporaries, and vice versa. Scholars who forget this fact when discussing The Banjo Lesson therefore ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "risk judging Tanner’s painting by standards that may not be historically appropriate.",
+      "B": "tend to conflate Tanner’s political views with those of his contemporaries.",
+      "C": "forgo analyzing Tanner’s painting in favor of analyzing his political activity.",
+      "D": "wrongly assume that Tanner’s painting was intended as a critique of his fellow artists."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It most logically completes the text. The text argues that Tanner and his contemporaries may have been unfamiliar with modern beliefs and values. This suggests that scholars who attribute those modern values to Tanner’s painting are risking judging the painting by standards that are not historically accurate."
+  },
+  {
+    "question_id": "4e46cb15",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The Mammillaria cactus $M. boolii$ occurs naturally only in the state of Sonora in Mexico, and the smallness of its range makes it especially vulnerable to extinction. The traditional single-species approach to conservation emphasizes the need to focus on individual species most at risk, like $M. boolii$, but recently, conservationists have argued that an ecosystem-based approach that incorporates the many interactions between the climate, terrain, and various species of a given geographical area may lead to better outcomes for all the species in a given location. If this view is correct, the single-species approach to the conservation of $M. boolii$ could thus ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "lead to a better understanding of how the distribution of Mammillaria species throughout Mexico has affected their survival.",
+      "B": "allow conservationists to better consider how climatic changes affecting Sonora may reduce the number of species competing with $M. boolii$.",
+      "C": "erroneously shift the focus of conservation efforts away from $M. boolii$ itself.",
+      "D": "fail to consider the ways in which the survival of $M. boolii$ may be influenced by changes in the populations of other species that inhabit Sonora."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text’s discussion of conservation approaches for the Mammillaria cactus $M. boolii$."
+  }
+]

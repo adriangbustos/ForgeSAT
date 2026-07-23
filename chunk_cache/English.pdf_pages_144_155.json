@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": "5a95c25a",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Baltimore, Maryland, has installed engineered structures along 71% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the tundra swan, the great blue heron, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.",
+    "question_text": "Which finding, if true, would most directly illustrate the researchers’ finding?",
+    "options": {
+      "A": "The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.",
+      "B": "Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.",
+      "C": "Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.",
+      "D": "Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly illustrate the researchers’ finding about waterbird responses to shoreline hardening structures. The text explains that using the IWCI, an index on which higher scores indicate higher community integrity, researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than riprap is—that is, that bulkheads reduce the integrity of waterbird communities more than riprap does. The finding that waterbird communities at a site with a relatively high percentage of bulkheads along the shoreline (Old Road) had lower average IWCI scores than waterbird communities at a site with a relatively high percentage of riprap along the shoreline (Miles) did would illustrate the researchers’ finding, since it would be an example of lower waterbird community integrity in a location with substantial bulkhead presence than in a location with substantial riprap presence."
+  },
+  {
+    "question_id": "15928122",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In their book Smart Pricing, Jagmohan Raju and Z. John Zhang consider musicians’ use of the nontraditional “pay as you wish” pricing model. This model generally offers listeners the choice to pay more or less than a suggested price for a song or album—or even to pay nothing at all. As the authors note, that’s the option most listeners chose for an album by the band Harvey Danger. Only about 1% opted to pay for the album, resulting in earnings below the band’s expectations. But the authors also discuss musician Jane Siberry, who saw significant earnings from her “pay as you wish” online music store as a result of many listeners choosing to pay more than the store’s suggested prices. Hence, the “pay as you wish” model may ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "prove financially successful for some musicians but disappointing for others.",
+      "B": "hold greater financial appeal for bands than for individual musicians.",
+      "C": "cause most musicians who use the model to lower the suggested prices of their songs and albums over time.",
+      "D": "more strongly reflect differences in certain musicians’ popularity than traditional pricing models do."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. In one example, musicians made less money than expected by using the “pay as you wish” model. In the other example, a musician made more money than expected. This suggests that some musicians may have more success than others using the “pay as you wish” model."
+  },
+  {
+    "question_id": "40fb86bb",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Investigative journalists research and report about fraud, corruption, public hazards, and more. The graph shows the number of investigative articles published in the Albuquerque Journal newspaper from 2010 to 2019. According to an analyst, although the number of investigative articles published in this newspaper has varied significantly over the period shown, the number overall has fallen since 2010.",
+    "question_text": "Which choice most effectively uses data from the graph to justify the underlined claim?",
+    "options": {
+      "A": "The newspaper published approximately 1,000 investigative articles in 2010 and approximately 500 in 2019.",
+      "B": "The smallest annual number of investigative articles published in the newspaper during the period shown is approximately 1,600 in 2013.",
+      "C": "The greatest annual number of investigative articles published in the newspaper during the period shown is approximately 1,000 in 2017.",
+      "D": "The newspaper published approximately 1,000 investigative articles in 2010 and approximately 1,600 in 2013."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. By comparing the number of investigative articles in 2010 to the number in 2019, we can see that the number has fallen overall."
+  },
+  {
+    "question_id": "d02ffc30",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Tides can deposit large quantities of dead vegetation within a salt marsh, smothering healthy plants and leaving a salt panne—a depression devoid of plants that tends to trap standing water—in the marsh’s interior. Ecologist Kathryn Beheshti and colleagues found that burrowing crabs living within these pannes improve drainage by loosening the soil, leading the pannes to shrink as marsh plants move back in. At salt marsh edges, however, crab-induced soil loosening can promote marsh loss by accelerating erosion, suggesting that the burrowing action of crabs ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "can be beneficial to marshes with small pannes but can be harmful to marshes with large pannes.",
+      "B": "may promote increases in marsh plants or decreases in marsh plants, depending on the crabs’ location.",
+      "C": "tends to be more heavily concentrated in areas of marsh interiors with standing water than at marsh edges.",
+      "D": "varies in intensity depending on the size of the panne relative to the size of the surrounding marsh."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text says that crab burrowing in the pannes enables plants to grow there again. It also says that crab burrowing at the edges of the marsh speeds up marsh loss. This suggests that burrowing crabs can either help or hurt marshes, depending on where they’re located."
+  },
+  {
+    "question_id": "7297b3e0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Mangroves are trees or bushes that grow on the coastlines of seas and rivers. Areas with mangroves are great places for young fish since they help keep these fish fed and protected while they grow. To study the importance of mangroves to young fish, researchers Mohamed A.Abu El-Regal and Nesreen K. Ibrahim collected and identified young fish from three different mangrove sites in the Egyptian Red Sea. They collected fish in the winter, spring, and autumn of 2010, collecting a total of 269 fish from 21 different species. For some species, more fish were collected in the winter than the other two seasons, for instance: ______",
+    "question_text": "Which choice most effectively uses the data in the graph to complete the example?",
+    "options": {
+      "A": "more common silver-biddy and milkfish were collected in the winter than in either of the other two seasons.",
+      "B": "the common silver-biddy was collected more frequently than the other two species in all three seasons.",
+      "C": "in the spring, researchers collected more Red Sea goldfish than they collected from the other two species.",
+      "D": "in the fall, researchers collected 10 common silver-biddy but collected no milkfish or Red Sea goatfish."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The claim is about which fish were collected more in winter than in other seasons. By comparing the number of common silver-biddy and milkfish collected in each season, we can see that more of these fish were collected in winter than in any other season."
+  },
+  {
+    "question_id": "5ff54c6e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Christina Rossetti’s 1881 poem “Monna Innominata 2.”\nI wish I could remember that first day,\nFirst hour, first moment of your meeting me,\nIf bright or dim the season, it might be\nSummer or Winter for [all] I can say;\nSo unrecorded did it slip away,\nSo blind was I to see and to foresee,\nSo dull to mark the budding of my tree\nThat would not blossom yet for many a May.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "The speaker celebrates how the passage of time has strengthened a relationship that once seemed unimportant.",
+      "B": "Because the speaker did not anticipate how important a relationship would become, she cannot recall how the relationship began, which she regrets.",
+      "C": "As the anniversary of the beginning of an important relationship approaches, the speaker feels conflicted about how best to commemorate it.",
+      "D": "After years of neglecting a once valuable relationship, the speaker worries it may be too late for her to salvage the relationship."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The speaker says that they wish they could remember when they first met someone, but they can’t remember the meeting at all, because they didn’t know at the time that the relationship would 'blossom' later on."
+  },
+  {
+    "question_id": "fcc7687a",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is Vita Sackville-West’s circa 1920 poem “Evening.” Spars are ships’ masts, moorings are ropes that hold docked ships in place, and a riding-light is a light that a ship shines when it is anchored.\nWhen little lights in little ports come out,\nQuivering down through water with the stars,\nAnd all the fishing fleet of slender spars\nRange at their moorings, veer with tide about;\nWhen race of wind is stilled and sails are furled,\nAnd underneath our single riding-light\nThe curve of black-ribbed deck gleams palely white,\nAnd slumbrous waters pool a slumbrous world;\n—Then, and then only, have I thought how sweet\nOld age might sink upon a windy youth,\nQuiet beneath the riding-light of truth,\nWeathered through storms, and gracious in retreat.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "The tranquility of a port in the evening can incline a person to appreciate the stillness of old age.",
+      "B": "The difficulty of bringing a ship into port is apt training for dealing with the types of struggles encountered in old age.",
+      "C": "A person who leads a long life that is varied and active may find it difficult to stay in a calm place.",
+      "D": "The contrast between the peacefulness of a port at night and its activity during the day reflects the contrast between the calm of old age and the vibrancy of youth."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it best states the main idea of the text. The speaker describes an evening scene observed from a boat: 'little lights in little ports come out' and are reflected in the water’s surface 'with the stars,' fishing boats are moored, 'sails are furled' (rolled up), and the riding-light is shining. The speaker emphasizes the calmness of the scene, noting that the 'race of wind is stilled' and the atmosphere is sleepy ('slumbrous waters pool a slumbrous world'), and then indicates that the calmness prompts thoughts of how old age might be 'sweet' and 'quiet' and 'gracious in retreat' after 'a windy youth' with 'storms.' Thus, the main idea is that the tranquility of a port in the evening can lead a person to appreciate the potential stillness of old age."
+  },
+  {
+    "question_id": "870c7581",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "One theory behind human bipedalism speculates that it originated in a mostly ground-based ancestor that practiced four-legged “knuckle-walking,” like chimpanzees and gorillas do today, and eventually evolved into moving upright on two legs. But recently, researchers observed orangutans, another relative of humans, standing on two legs on tree branches and using their arms for balance while they reached for fruits. These observations may suggest that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "bipedalism evolved because it was advantageous to a tree-dwelling ancestor of humans.",
+      "B": "bipedalism must have evolved simultaneously with knuckle-walking and tree-climbing.",
+      "C": "moving between the ground and the trees would have been difficult without bipedalism.",
+      "D": "a knuckle-walking human ancestor could have easily moved bipedally in trees."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most logically completes the text’s discussion of the evolution of bipedalism in humans. According to the text, one potential explanation for humans walking upright on two legs is that the behavior evolved from an ancestor that mostly stayed on the ground and walked on four limbs, as modern chimpanzees and gorillas do. However, the finding that orangutans, also a relative of humans, sometimes stand on two legs in trees while using their arms to balance and reach for fruits suggests another possible explanation: perhaps a tree-dwelling ancestor of humans began moving on two legs because it offered an advantage, such as access to certain foods."
+  }
+]

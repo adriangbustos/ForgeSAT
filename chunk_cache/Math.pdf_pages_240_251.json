@@ -1,0 +1,208 @@
+[
+  {
+    "question_id": "e65d34a5",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The area $A$, in square centimeters, of a rectangular painting can be represented by the expression $w(w + 29)$, where $w$ is the width, in centimeters, of the painting.",
+    "question_text": "Which expression represents the length, in centimeters, of the painting?",
+    "options": {
+      "A": "$w$",
+      "B": "$29$",
+      "C": "$w + 29$",
+      "D": "$w(w + 29)$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that the expression $w(w + 29)$ represents the area, in square centimeters, of a rectangular painting, where $w$ is the width, in centimeters, of the painting. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in centimeters, of the painting is represented by the expression $w + 29$.\n\nChoice A is incorrect. This expression represents the width, in centimeters, of the painting, not its length, in centimeters.\n\nChoice B is incorrect. This is the difference between the length, in centimeters, and the width, in centimeters, of the painting, not its length, in centimeters.\n\nChoice D is incorrect. This expression represents the area, in square centimeters, of the painting, not its length, in centimeters."
+  },
+  {
+    "question_id": "b7f055bc",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The function $h$ is defined by $h(x) = a^x + b$, where $a$ and $b$ are positive constants. The graph of $y = h(x)$ in the $xy$-plane passes through the points $(0, 10)$ and $(-2, \\frac{325}{36})$.",
+    "question_text": "What is the value of $ab$?",
+    "options": {
+      "A": "$\\frac{1}{4}$",
+      "B": "$\\frac{1}{2}$",
+      "C": "$54$",
+      "D": "$60$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It’s given that the function $h$ is defined by $h(x) = a^x + b$ and that the graph of $h$ in the $xy$-plane passes through the points $(0, 10)$ and $(-2, \\frac{325}{36})$. Substituting $0$ for $x$ and $10$ for $h(x)$ in the equation $h(x) = a^x + b$ yields $10 = a^0 + b$, or $10 = 1 + b$. Subtracting $1$ from both sides of this equation yields $9 = b$. Substituting $-2$ for $x$ and $\\frac{325}{36}$ for $h(x)$ in the equation $h(x) = a^x + 9$ yields $\\frac{325}{36} = a^{-2} + 9$. Subtracting $9$ from both sides of this equation yields $\\frac{1}{36} = a^{-2}$, which can be rewritten as $a^2 = 36$. Taking the square root of both sides of this equation yields $a = 6$ and $a = -6$, but because it’s given that $a$ is a positive constant, $a$ must equal $6$. Because the value of $a$ is $6$ and the value of $b$ is $9$, the value of $ab$ is $(6)(9)$, or $54$.\n\nChoice A is incorrect and may result from finding the value of $a^{-2}b$ rather than the value of $ab$.\n\nChoice B is incorrect and may result from conceptual or calculation errors.\n\nChoice D is incorrect and may result from correctly finding the value of $a$ as $6$, but multiplying it by the $y$-value in the first ordered pair rather than by the value of $b$."
+  },
+  {
+    "question_id": "3e50584f",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$$3x^2 - 15x + 18 = 0$$",
+    "question_text": "How many distinct real solutions are there to the given equation?",
+    "options": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The number of solutions to a quadratic equation of the form $ax^2 + bx + c = 0$, where $a$, $b$, and $c$ are constants, can be determined by the value of the discriminant, $b^2 - 4ac$. If the value of the discriminant is positive, then the quadratic equation has exactly two distinct real solutions. If the value of the discriminant is equal to zero, then the quadratic equation has exactly one real solution. If the value of the discriminant is negative, then the quadratic equation has zero real solutions. In the given equation, $3x^2 - 15x + 18 = 0$, $a = 3$, $b = -15$, and $c = 18$. Substituting $3$ for $a$, $-15$ for $b$, and $18$ for $c$ in $b^2 - 4ac$ yields $(-15)^2 - 4(3)(18)$, or $9$. Since the value of the discriminant is positive, the given equation has exactly two distinct real solutions.\n\nChoice A is incorrect and may result from conceptual or calculation errors.\n\nChoice C is incorrect and may result from conceptual or calculation errors.\n\nChoice D is incorrect and may result from conceptual or calculation errors."
+  },
+  {
+    "question_id": "da9efa2f",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The function $f$ is defined by the equation $f(x) = (x - 14)(x + 19)$.",
+    "question_text": "For what value of $x$ does $f(x)$ reach its minimum?",
+    "options": {
+      "A": "-266",
+      "B": "-19",
+      "C": "-\\frac{33}{2}",
+      "D": "-\\frac{5}{2}"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that $f(x) = (x - 14)(x + 19)$, which can be rewritten as $f(x) = x^2 + 5x - 266$. Since the coefficient of the $x^2$-term is positive, the graph of $y = f(x)$ in the $xy$-plane opens upward and reaches its minimum value at its vertex. The $x$-coordinate of the vertex is the value of $x$ such that $f(x)$ reaches its minimum. For an equation in the form $f(x) = ax^2 + bx + c$, where $a$, $b$, and $c$ are constants, the $x$-coordinate of the vertex is $-\\frac{b}{2a}$. For the equation $f(x) = x^2 + 5x - 266$, $a = 1$, $b = 5$, and $c = -266$. It follows that the $x$-coordinate of the vertex is $-\\frac{5}{2(1)}$, or $-\\frac{5}{2}$. Therefore, $f(x)$ reaches its minimum when the value of $x$ is $-\\frac{5}{2}$.\n\nAlternate approach: The value of $x$ for the vertex of a parabola is the $x$-value of the midpoint between the two $x$-intercepts of the parabola. Since it's given that $f(x) = (x - 14)(x + 19)$, it follows that the two $x$-intercepts of the graph of $y = f(x)$ in the $xy$-plane occur when $x = 14$ and $x = -19$, or at the points $(14, 0)$ and $(-19, 0)$. The midpoint between two points, $(x_1, y_1)$ and $(x_2, y_2)$, is $(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$. Therefore, the midpoint between $(14, 0)$ and $(-19, 0)$ is $(\\frac{14 + (-19)}{2}, \\frac{0 + 0}{2})$, or $(-\\frac{5}{2}, 0)$. It follows that $f(x)$ reaches its minimum when the value of $x$ is $-\\frac{5}{2}$.\n\nChoice A is incorrect. This is the $y$-coordinate of the $y$-intercept of the graph of $y = f(x)$ in the $xy$-plane.\n\nChoice B is incorrect. This is one of the $x$-coordinates of the $x$-intercepts of the graph of $y = f(x)$ in the $xy$-plane.\n\nChoice C is incorrect and may result from conceptual or calculation errors."
+  },
+  {
+    "question_id": "e9fc3093",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "An object is kicked from a platform. The equation $h = -4.9t^2 + 7t + 9$ represents this situation, where $h$ is the height of the object above the ground, in meters, $t$ seconds after it is kicked.",
+    "question_text": "Which number represents the height, in meters, from which the object was kicked?",
+    "options": {
+      "A": "0",
+      "B": "4.9",
+      "C": "7",
+      "D": "9"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It’s given that the equation $h = -4.9t^2 + 7t + 9$ represents this situation, where $h$ is the height, in meters, of the object $t$ seconds after it is kicked. It follows that the height, in meters, from which the object was kicked is the value of $h$ when $t = 0$. Substituting $0$ for $t$ in the equation $h = -4.9t^2 + 7t + 9$ yields $h = -4.9(0)^2 + 7(0) + 9$, or $h = 9$. Therefore, the object was kicked from a height of $9$ meters.\n\nChoice A is incorrect and may result from conceptual or calculation errors.\n\nChoice B is incorrect and may result from conceptual or calculation errors.\n\nChoice C is incorrect and may result from conceptual or calculation errors."
+  },
+  {
+    "question_id": "001497f6",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$$\\begin{aligned} y &= 5x + 4 \\\\ y &= 5x^2 + 4 \\end{aligned}$$",
+    "question_text": "Which ordered pair $(x, y)$ is a solution to the given system of equations?",
+    "options": {
+      "A": "(0, 0)",
+      "B": "(0, 4)",
+      "C": "(8, 44)",
+      "D": "(8, 84)"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The second equation in the given system is $y = 5x^2 + 4$. Substituting $5x^2 + 4$ for $y$ in the first equation of the given system yields $5x^2 + 4 = 5x + 4$. Subtracting $4$ from both sides of this equation yields $5x^2 = 5x$. Subtracting $5x$ from both sides of this equation yields $5x^2 - 5x = 0$. Factoring out a common factor of $5x$ from the left-hand side of this equation yields $5x(x - 1) = 0$. It follows that $5x = 0$ or $x - 1 = 0$. Dividing both sides of the equation $5x = 0$ by $5$ yields $x = 0$. Substituting $0$ for $x$ in the equation $y = 5x + 4$ yields $y = 5(0) + 4$, or $y = 4$. Therefore, a solution to the given system of equations is the ordered pair $(0, 4)$.\n\nChoice A is incorrect and may result from conceptual or calculation errors.\n\nChoice C is incorrect and may result from conceptual or calculation errors.\n\nChoice D is incorrect and may result from conceptual or calculation errors."
+  },
+  {
+    "question_id": "22efbe91",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In a group, $40\\%$ of the items are red. Of all the red items in the group, $30\\%$ also have stripes.",
+    "question_text": "What percentage of the items in the group are red with stripes?",
+    "options": {
+      "A": "10\\%",
+      "B": "12\\%",
+      "C": "70\\%",
+      "D": "75\\%"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It’s given that in a group, $40\\%$ of the items are red. It follows that the number of red items in the group can be represented by $0.4x$, where $x$ represents the total number of items in the group. It’s also given that of all the red items in the group, $30\\%$ also have stripes. It follows that the number of items in the group that are red and have stripes can be represented by $0.3(0.4x)$, or $0.12x$. The expression $0.12x$ represents $12\\%$ of $x$. Since $x$ represents the total number of items in the group, it follows that $12\\%$ of the items in the group are red and have stripes.\n\nChoice A is incorrect and may result from subtracting $30\\%$ from $40\\%$ rather than calculating $30\\%$ of $40\\%$.\n\nChoice C is incorrect and may result from adding $30\\%$ and $40\\%$ rather than calculating $30\\%$ of $40\\%$.\n\nChoice D is incorrect and may result from calculating the percentage that $30\\%$ is of $40\\%$ rather than calculating $30\\%$ of $40\\%圻."
+  },
+  {
+    "question_id": "5c216e8e",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The bar graph shows the distribution of $414$ books collected by $10$ different groups for a book drive. (Bar graph shows Group 1 height 30, Group 2 height 62, etc.)",
+    "question_text": "How many books were collected by group 1?",
+    "options": null,
+    "correct_answer": "30",
+    "explanation": "The correct answer is $30$. The height of each bar in the bar graph shown represents the number of books collected by the group specified at the bottom of the bar. The bar for group $1$ reaches a height of $30$. Therefore, group $1$ collected $30$ books."
+  },
+  {
+    "question_id": "5bfefc23",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Of $900,000$ beads, $828,000$ are silver.",
+    "question_text": "What percentage of the beads are silver?",
+    "options": {
+      "A": "8\\%",
+      "B": "36\\%",
+      "C": "72\\%",
+      "D": "92\\%"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The proportion of the beads that are silver can be written as $\\frac{828,000}{900,000}$, or $0.92$. Therefore, the percentage of the beads that are silver is $0.92(100)$, or $92\\%$.\n\nChoice A is incorrect. This is the percentage of the beads that are not silver.\n\nChoice B is incorrect and may result from conceptual or calculation errors.\n\nChoice C is incorrect and may result from conceptual or calculation errors."
+  },
+  {
+    "question_id": "4f6f2989",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is $10\\%$ of $370$?",
+    "options": {
+      "A": "27",
+      "B": "37",
+      "C": "333",
+      "D": "360"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. $10\\%$ of a quantity means $\\frac{10}{100}$ times the quantity. Therefore, $10\\%$ of $370$ can be represented as $\\frac{10}{100}(370)$, which is equivalent to $0.10(370)$, or $37$. Therefore, $10\\%$ of $370$ is $37$.\n\nChoice A is incorrect. This is $10\\%$ of $270$, not $10\\%$ of $370$.\n\nChoice C is incorrect. This is $90\\%$ of $370$, not $10\\%$ of $370$.\n\nChoice D is incorrect. This is $370 - 10$, not $10\\%$ of $370$."
+  },
+  {
+    "question_id": "52f5fe7b",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The table summarizes the number of objects in each group: Group A has $375$, Group B has $54$, Group C has $690$, Group D has $81$, and Total is $1,200$. The number of objects in group C is $p\\%$ of the number of objects in group A.",
+    "question_text": "What is the value of $p$?",
+    "options": null,
+    "correct_answer": "184",
+    "explanation": "The correct answer is $184$. It's given in the table that there are $375$ objects in group A and $690$ objects in group C. It’s also given that the number of objects in group C is $p\\%$ of the number of objects in group A. Therefore, $690$ is $p\\%$ of $375$, which can be represented by $690 = (\\frac{p}{100})(375)$, or $690 = 3.75p$. Dividing both sides of this equation by $3.75$ yields $184 = p$. Therefore, the value of $p$ is $184$."
+  },
+  {
+    "question_id": "6a18e6b3",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The box plots summarize the masses, in kilograms, of two groups of gazelles.",
+    "question_text": "Based on the box plots, which of the following statements must be true?",
+    "options": {
+      "A": "The mean mass of group 1 is greater than the mean mass of group 2.",
+      "B": "The mean mass of group 1 is less than the mean mass of group 2.",
+      "C": "The median mass of group 1 is greater than the median mass of group 2.",
+      "D": "The median mass of group 1 is less than the median mass of group 2."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The median of a data set represented in a box plot is represented by the vertical line within the box. It follows that the median mass of the gazelles in group $1$ is $25$ kilograms, and the median mass of the gazelles in group $2$ is $24$ kilograms. Since $25$ kilograms is greater than $24$ kilograms, the median mass of group $1$ is greater than the median mass of group $2$.\n\nChoice A is incorrect. The mean mass of each of the two groups cannot be determined from the box plots.\n\nChoice B is incorrect. The mean mass of each of the two groups cannot be determined from the box plots.\n\nChoice D is incorrect and may result from conceptual or calculation errors."
+  }
+]

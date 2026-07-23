@@ -1,0 +1,180 @@
+[
+  {
+    "question_id": "91ac409a",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Probability and conditional probability",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "The table summarizes the distribution of age and assigned group for $90$ participants in a study.\\begin{center}\\begin{tabular}{|l|c|c|c|c|}\n\\hline\n & $0-9$ years & $10-19$ years & $20+$ years & Total \\\\ \\hline\nGroup A & $7$ & $14$ & $9$ & $30$ \\\\ \\hline\nGroup B & $6$ & $4$ & $20$ & $30$ \\\\ \\hline\nGroup C & $17$ & $12$ & $1$ & $30$ \\\\ \\hline\nTotal & $30$ & $30$ & $30$ & $90$ \\\\ \\hline\n\\end{tabular}\\end{center}",
+    "question_text": "One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least $10$ years of age? (Express your answer as a decimal or fraction, not as a percent.)",
+    "options": null,
+    "correct_answer": "23/60",
+    "explanation": "The correct answer is $\\frac{23}{60}$ (or $.3833$). It's given that one of the participants will be selected at random. The probability of selecting a participant from group A given that the participant is at least $10$ years of age is the number of participants in group A who are at least $10$ years of age divided by the total number of participants who are at least $10$ years of age. The table shows that in group A, there are $14$ participants who are $10-19$ years of age and $9$ participants who are $20+$ years of age. Therefore, there are $14 + 9 = 23$ participants in group A who are at least $10$ years of age. The table also shows that there are a total of $30$ participants who are $10-19$ years of age and $30$ participants who are $20+$ years of age. Therefore, there are a total of $30 + 30 = 60$ participants who are at least $10$ years of age. It follows that the probability of selecting a participant from group A given that the participant is at least $10$ years of age is $\\frac{23}{60}$."
+  },
+  {
+    "question_id": "25f9c72c",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A kangaroo has a mass of $28$ kilograms. What is the kangaroo's mass, in grams? ($1 \\text{ kilogram} = 1,000 \\text{ grams}$)",
+    "options": {
+      "A": "$28,000$",
+      "B": "$1,028$",
+      "C": "$972$",
+      "D": "$784$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that a kangaroo has a mass of $28$ kilograms and that $1$ kilogram is equal to $1,000$ grams. Therefore, the kangaroo's mass, in grams, is $28 \\text{ kilograms} \\left(\\frac{1,000 \\text{ grams}}{1 \\text{ kilogram}}\\right)$, which is equivalent to $28,000$ grams."
+  },
+  {
+    "question_id": "6baeb1d2",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "$37\\%$ of the items in a box are green. Of those, $37\\%$ are also rectangular. Of the green rectangular items, $42\\%$ are also metal. Which of the following is closest to the percentage of the items in the box that are not rectangular green metal items?",
+    "options": {
+      "A": "$1.16\\%$",
+      "B": "$57.50\\%$",
+      "C": "$94.25\\%$",
+      "D": "$98.84\\%$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. Let $x$ represent the total number of items in the box. The number of green items is $0.37x$. The number of green rectangular items is $(0.37)(0.37x) = 0.1369x$. The number of rectangular green metal items is $(0.42)(0.1369x) = 0.057498x$. The number of items in the box that are not rectangular green metal items is $x - 0.057498x = 0.942502x$. The percentage is $94.2502\\%$, which is closest to $94.25\\%$."
+  },
+  {
+    "question_id": "309344bd",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Last year, $200$ students enrolled in an interior design program. This year, the number of students enrolled is $147\\%$ of last year's number. How many students are enrolled in the interior design program this year?",
+    "options": {
+      "A": "$247$",
+      "B": "$294$",
+      "C": "$347$",
+      "D": "$394$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The number of students this year is $147\\%$ of $200$, which can be expressed as $\\left(\\frac{147}{100}\\right)(200) = (1.47)(200) = 294$."
+  },
+  {
+    "question_id": "00048e15",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "If $\\frac{4a}{b} = 6.7$ and $\\frac{a}{bn} = 26.8$, what is the value of $n$?",
+    "options": null,
+    "correct_answer": "1/16",
+    "explanation": "The correct answer is $\\frac{1}{16}$ (or $0.0625$). From $\\frac{4a}{b} = 6.7$, we get $\\frac{a}{b} = \\frac{6.7}{4} = 1.675$. Substituting $\\frac{a}{b} = 1.675$ into $\\frac{a}{bn} = \\frac{1.675}{n} = 26.8$ yields $n = \\frac{1.675}{26.8} = 0.0625$, which is $\\frac{1}{16}$."
+  },
+  {
+    "question_id": "83836cb2",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is $10\\%$ of $470$?",
+    "options": {
+      "A": "$37$",
+      "B": "$47$",
+      "C": "$423$",
+      "D": "$460$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. $10\\%$ of $470$ can be represented as $\\frac{10}{100}(470) = 0.10(470) = 47$."
+  },
+  {
+    "question_id": "6e1be879",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "A reseller buys certain books for a purchase price of $5.00$ dollars each and then marks them each for sale at a consumer price that is $270\\%$ of the purchase price. After $4$ months, any remaining books not yet sold are marked at a discounted price that is $70\\%$ off the consumer price. What is the discounted price of each of the remaining books, in dollars?",
+    "options": null,
+    "correct_answer": "4.05",
+    "explanation": "The correct answer is $4.05$ (or $\\frac{81}{20}$). The consumer price is $2.70 \\times 5.00 = 13.50$ dollars. A discount of $70\\%$ off the consumer price means the new price is $30\\%$ of $13.50$, which is $0.30 \\times 13.50 = 4.05$ dollars. Alternatively, the discount amount is $(0.7)(13.50) = 9.45$, and $13.50 - 9.45 = 4.05$."
+  },
+  {
+    "question_id": "40c8528e",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Probability and conditional probability",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "At a conference, there are a total of $275$ attendees. Each attendee is assigned to either group A, group B, or group C. If one of these attendees is selected at random, the probability of selecting an attendee who is assigned to group A is $0.44$ and the probability of selecting an attendee who is assigned to group B is $0.24$. How many attendees are assigned to group C?",
+    "options": null,
+    "correct_answer": "88",
+    "explanation": "The correct answer is $88$. The number of attendees in group A is $(0.44)(275) = 121$. The number of attendees in group B is $(0.24)(275) = 66$. The number of attendees in group C is the total number minus those in groups A and B: $275 - 121 - 66 = 88$."
+  },
+  {
+    "question_id": "f66febb9",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$4, 4, 4, 4, 8, 8, 8, 13, 13$",
+    "question_text": "Which frequency table correctly represents the data listed?",
+    "options": {
+      "A": "Number: 4, 8, 13 | Frequency: 4, 3, 2",
+      "B": "Number: 4, 3, 2 | Frequency: 4, 8, 13",
+      "C": "Number: 4, 8, 13 | Frequency: 16, 24, 26",
+      "D": "Number: 16, 24, 26 | Frequency: 4, 8, 13"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. A frequency table lists the data value and shows the number of times it occurs. The number $4$ occurs four times, $8$ occurs three times, and $13$ occurs two times."
+  },
+  {
+    "question_id": "132aefb3",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Probability and conditional probability",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The table summarizes the distribution of age and assigned group for $90$ participants in a study.\\begin{center}\\begin{tabular}{|l|c|c|c|c|}\n\\hline\n & $0-9$ years & $10-19$ years & $20+$ years & Total \\\\ \\hline\nGroup A & $5$ & $17$ & $8$ & $30$ \\\\ \\hline\nGroup B & $6$ & $8$ & $16$ & $30$ \\\\ \\hline\nGroup C & $19$ & $5$ & $6$ & $30$ \\\\ \\hline\nTotal & $30$ & $30$ & $30$ & $90$ \\\\ \\hline\n\\end{tabular}\\end{center}",
+    "question_text": "One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least $10$ years of age?",
+    "options": {
+      "A": "$\\frac{5}{18}$",
+      "B": "$\\frac{5}{12}$",
+      "C": "$\\frac{17}{30}$",
+      "D": "$\\frac{5}{6}$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The probability of selecting a participant from group A given that the participant is at least $10$ years of age is the number of participants in group A who are at least $10$ years of age ($17 + 8 = 25$) divided by the total number of participants who are at least $10$ years of age ($30 + 30 = 60$). Thus, the probability is $\\frac{25}{60} = \\frac{5}{12}$."
+  },
+  {
+    "question_id": "cd9fa443",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Data set A has $15$ values and is represented by the dot plot shown.\\begin{center}\\begin{tabular}{c}\nValue: $22, 23, 24, 25, 26$\\\\ \nCounts: $\\bullet$ ($2$), $\\bullet \\bullet \\bullet \\bullet$ ($4$), $\\bullet \\bullet \\bullet$ ($3$), $\\bullet \\bullet$ ($2$), $\\bullet$ ($1$)\n\\end{tabular}\\end{center}",
+    "question_text": "Data set B is created by adding $46$ to each of the values in data set A. Which of the following correctly compares the medians and the ranges of data sets A and B?",
+    "options": {
+      "A": "The median of data set B is greater than the median of data set A, and the range of data set B is equal to the range of data set A.",
+      "B": "The median of data set B is greater than the median of data set A, and the range of data set B is greater than the range of data set A.",
+      "C": "The median of data set B is equal to the median of data set A, and the range of data set B is greater than the range of data set A.",
+      "D": "The median of data set B is equal to the median of data set A, and the range of data set B is equal to the range of data set A."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. Adding a constant ($46$) to every value in a data set increases the median by that constant, so the median of data set B is greater than that of data set A. However, adding a constant does not change the spread or range of the data set, so the ranges of both data sets are equal."
+  }
+]

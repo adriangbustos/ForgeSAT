@@ -1,0 +1,190 @@
+[
+  {
+    "question_id": "d55d1acd",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "If $\\frac{x-5}{7} = \\frac{x-5}{9}$, the value of $x - 5$ is between which of the following pairs of values?",
+    "options": {
+      "A": "$-9$ and $-7$",
+      "B": "$-3$ and $3$",
+      "C": "$4.5$ and $5.5$",
+      "D": "$6.75$ and $9.25$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. Multiplying both sides of the given equation by $(7)(9)$, or $63$, yields $(63)\\left(\\frac{x-5}{7}\\right) = (63)\\left(\\frac{x-5}{9}\\right)$, or $9(x - 5) = 7(x - 5)$. Subtracting $7(x - 5)$ from both sides of this equation yields $2(x - 5) = 0$. Dividing both sides of this equation by $2$ yields $x - 5 = 0$. Therefore, if $\\frac{x-5}{7} = \\frac{x-5}{9}$, then the value of $x - 5$ is $0$. It follows that of the given choices, the value of $x - 5$ is between $-3$ and $3$."
+  },
+  {
+    "question_id": "2a366aeb",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A manufacturing plant makes $10$-inch, $9$-inch, and $7$-inch frying pans. During a certain day, the number of $10$-inch frying pans that the manufacturing plant makes is $4$ times the number of $9$-inch frying pans it makes, and the number of $7$-inch frying pans it makes is $10$. During this day, the manufacturing plant makes $100$ frying pans total. Which equation represents this situation?",
+    "options": {
+      "A": "$10(4n) + 9n + 7(10) = 100$",
+      "B": "$10n + 9n + 7n = 100$",
+      "C": "$4n + 10 = 100$",
+      "D": "$5n + 10 = 100$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that during a certain day, the number of $9$-inch frying pans the manufacturing plant makes is $n$ and the number of $7$-inch frying pans it makes is $10$. It's also given that during this day the number of $10$-inch frying pans that the manufacturing plant makes is $4$ times the number of $9$-inch frying pans, or $4n$. Therefore, the total number of $7$-inch, $9$-inch, and $10$-inch frying pans the manufacturing plant makes is $n + 10 + 4n$, or $5n + 10$. It's given that during this day the manufacturing plant makes $100$ frying pans total. Thus, the equation $5n + 10 = 100$ represents this situation."
+  },
+  {
+    "question_id": "6f8503f0",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A particular botanist classifies a species of plant as tall if its typical height when fully grown is more than $100$ centimeters. Each of the following inequalities represents the possible heights $h$, in centimeters, for a specific plant species when fully grown. Which inequality represents the possible heights $h$, in centimeters, for a tall plant species?",
+    "options": {
+      "A": "$106 < h < 158$",
+      "B": "$80 < h < 100$",
+      "C": "$42 < h < 87$",
+      "D": "$17 < h < 85$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that a particular botanist classifies a species of plant as tall if its typical height when fully grown is more than $100$ centimeters. The inequality $106 < h < 158$ represents possible heights $h$, in centimeters, for a plant species when fully grown where $h$ is between $106$ and $158$ centimeters. Since all values of $h$ in this inequality are greater than $100$ centimeters, this inequality represents the possible heights for a tall plant species."
+  },
+  {
+    "question_id": "652119ce",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "The functions $f$ and $g$ are defined as $f(x) = \\frac{1}{4}x - 9$ and $g(x) = \\frac{3}{4}x + 21$. If the function $h$ is defined as $h(x) = f(x) + g(x)$, what is the x-coordinate of the x-intercept of the graph of $y = h(x)$ in the xy-plane?",
+    "options": null,
+    "correct_answer": "-12",
+    "explanation": "The correct answer is $-12$. It's given that the functions $f$ and $g$ are defined as $f(x) = \\frac{1}{4}x - 9$ and $g(x) = \\frac{3}{4}x + 21$. If the function $h$ is defined as $h(x) = f(x) + g(x)$, then substituting $\\frac{1}{4}x - 9$ for $f(x)$ and $\\frac{3}{4}x + 21$ for $g(x)$ in this function yields $h(x) = \\frac{1}{4}x - 9 + \\frac{3}{4}x + 21$. This can be rewritten as $h(x) = \\frac{4}{4}x + 12$, or $h(x) = x + 12$. The x-intercept of a graph in the xy-plane is the point on the graph where $y = 0$. The equation representing the graph of $y = h(x)$ is $y = x + 12$. Substituting $0$ for $y$ in this equation yields $0 = x + 12$. Subtracting $12$ from both sides of this equation yields $-12 = x$, or $x = -12$. Therefore, the x-coordinate of the x-intercept of the graph of $y = h(x)$ in the xy-plane is $-12$."
+  },
+  {
+    "question_id": "c319a5eb",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "In the $xy$-plane, the graph of the linear function $f$ contains the points $(0, 2)$ and $(8, 34)$. Which equation defines $f$, where $y = f(x)$?",
+    "options": {
+      "A": "$f(x) = 2x + 42$",
+      "B": "$f(x) = 32x + 36$",
+      "C": "$f(x) = 4x + 2$",
+      "D": "$f(x) = 8x + 2$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. In the $xy$-plane, the graph of a linear function can be written in the form $f(x) = mx + b$, where $m$ represents the slope and $b$ represents the y-intercept of the graph of $y = f(x)$. It’s given that the graph of the linear function $f$, where $y = f(x)$, in the $xy$-plane contains the point $(0, 2)$. Thus, $b = 2$. The slope of the graph of a line containing any two points $(x_1, y_1)$ and $(x_2, y_2)$ can be found using the slope formula, $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Since it’s given that the graph of the linear function $f$ contains the points $(0, 2)$ and $(8, 34)$, it follows that the slope of the graph of the line containing these points is $m = \\frac{34 - 2}{8 - 0}$, or $m = 4$. Substituting $4$ for $m$ and $2$ for $b$ in $f(x) = mx + b$ yields $f(x) = 4x + 2$."
+  },
+  {
+    "question_id": "bdd782e9",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$y > 7x - 4$",
+    "question_text": "For which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the given inequality?",
+    "options": {
+      "A": "A table with points (3, 13), (5, 27), (8, 48)",
+      "B": "A table with points (3, 17), (5, 31), (8, 52)",
+      "C": "A table with points (3, 21), (5, 27), (8, 52)",
+      "D": "A table with points (3, 21), (5, 35), (8, 56)"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. A solution to the given inequality is a value of $x$ and the corresponding value of $y$ such that the value of $y$ is greater than the value of $7x - 4$. All the tables in the choices have the same three values of $x$, so each of the three values of $x$ can be substituted in the given inequality to compare the corresponding values of $y$ in each of the tables. Substituting $3$ for $x$ in the given inequality yields $y > 7(3) - 4$, or $y > 17$. Substituting $5$ for $x$ in the given inequality yields $y > 7(5) - 4$, or $y > 31$. Substituting $8$ for $x$ in the given inequality yields $y > 7(8) - 4$, or $y > 52$. Therefore, when $x = 3$, $x = 5$, and $x = 8$, the corresponding values of $y$ must be greater than $17$, greater than $31$, and greater than $52$, respectively. In the table in choice D, when $x = 3$, the corresponding value of $y$ is $21$, which is greater than $17$; when $x = 5$, the corresponding value of $y$ is $35$, which is greater than $31$; when $x = 8$, the corresponding value of $y$ is $56$, which is greater than $52$. Of the given choices, only choice D gives values of $x$ and their corresponding values of $y$ that are all solutions to the given inequality."
+  },
+  {
+    "question_id": "d5f06835",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "$\\frac{12x+28}{4} - \\frac{s}{13} = r(x - 8)$\nIn the given equation, $s$ and $r$ are constants, and $s > 0$. If the equation has infinitely many solutions, what is the value of $s$?",
+    "question_text": "What is the value of $s$?",
+    "options": null,
+    "correct_answer": "403",
+    "explanation": "The correct answer is $403$. For a linear equation in one variable to have infinitely many solutions, the coefficients of the variable must be equal on both sides of the equation and the constant terms must also be equal on both sides of the equation. The given equation can be rewritten as $\\frac{4(3x+7)}{4} - \\frac{s}{13} = r(x - 8)$, or $3x + 7 - \\frac{s}{13} = r(x - 8)$. Applying the distributive property to the right-hand side of this equation yields $3x + 7 - \\frac{s}{13} = rx - 8r$. For this equation to have infinitely many solutions, the coefficients of $x$ must be equal, so it follows that $3 = r$. Additionally, the constant terms must be equal, which means $7 - \\frac{s}{13} = -8r$. Substituting $3$ for $r$ in this equation yields $7 - \\frac{s}{13} = -8(3)$, or $7 - \\frac{s}{13} = -24$. Adding $\\frac{s}{13}$ to both sides of this equation yields $7 = -24 + \\frac{s}{13}$. Adding $24$ to both sides of this equation yields $31 = \\frac{s}{13}$. Multiplying both sides of this equation by $13$ yields $403 = s$. Therefore, if the equation has infinitely many solutions, the value of $s$ is $403$."
+  },
+  {
+    "question_id": "e1f59a4d",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "One gallon of paint will cover $220$ square feet of a surface. A room has a total wall area of $w$ square feet. Which equation represents the total amount of paint $P$, in gallons, needed to paint the walls of the room twice?",
+    "options": {
+      "A": "$P = \\frac{w}{110}$",
+      "B": "$P = 440w$",
+      "C": "$P = \\frac{w}{220}$",
+      "D": "$P = 220w$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that $w$ represents the total wall area, in square feet. Since the walls of the room will be painted twice, the amount of paint, in gallons, needs to cover $2w$ square feet. It's also given that one gallon of paint will cover $220$ square feet. Dividing the total area, in square feet, of the surface to be painted by the number of square feet covered by one gallon of paint gives the number of gallons of paint that will be needed. Dividing $2w$ by $220$ yields $\\frac{2w}{220}$, or $\\frac{w}{110}$. Therefore, the equation that represents the total amount of paint $P$, in gallons, needed to paint the walls of the room twice is $P = \\frac{w}{110}$."
+  },
+  {
+    "question_id": "e644d732",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Systems of two linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$4x - 3y = 5$\n$x = 8$",
+    "question_text": "What is the solution $(x, y)$ to the given system of equations?",
+    "options": {
+      "A": "$(8, 9)$",
+      "B": "$(8, -24)$",
+      "C": "$(8, -9)$",
+      "D": "$(8, 24)$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The second equation in the given system is $x = 8$. Substituting $8$ for $x$ in the first equation in the given system yields $4(8) - 3y = 5$, or $32 - 3y = 5$. Subtracting $32$ from both sides of this equation yields $-3y = -27$. Dividing both sides of this equation by $-3$ yields $y = 9$. Therefore, the solution $(x, y)$ to the given system of equations is $(8, 9)$."
+  },
+  {
+    "question_id": "4b0b4e54",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$F(x) = \\frac{9}{5}(x - 273.15) + 32$",
+    "question_text": "The function $F$ gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of $x$ kelvins. If a temperature increased by $2.10$ kelvins, by how much did the temperature increase, in degrees Fahrenheit?",
+    "options": {
+      "A": "$3.78$",
+      "B": "$35.78$",
+      "C": "$487.89$",
+      "D": "$519.89$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that the function $F(x) = \\frac{9}{5}(x - 273.15) + 32$ gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of $x$ kelvins. A temperature that increased by $2.10$ kelvins means that the value of $x$ increased by $2.10$ kelvins. It follows that an increase in $x$ by $2.10$ increases $F(x)$ by $\\frac{9}{5}(2.10)$, or $3.78$. Therefore, if a temperature increased by $2.10$ kelvins, the temperature increased by $3.78$ degrees Fahrenheit."
+  },
+  {
+    "question_id": "3586b08b",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "If $5(x + 4) = 4(x + 4) + 29$, what is the value of $x + 4$?",
+    "options": {
+      "A": "$-4$",
+      "B": "$25$",
+      "C": "$29$",
+      "D": "$33$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. Subtracting $4(x + 4)$ from both sides of the given equation yields $1(x + 4) = 29$, or $x + 4 = 29$. Therefore, the value of $x + 4$ is $29$."
+  }
+]

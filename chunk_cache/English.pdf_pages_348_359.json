@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "720b79de",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In the $Here$ $and$ $Now$ $Storybook$ (1921), educator Lucy Sprague Mitchell advanced the then controversial idea that books for very young children should imitate how they use language, since toddlers, who cannot yet grasp narrative or abstract ideas, seek reassurance in verbal repetition and naming. The most enduring example of this idea is Margaret Wise Brown's 1947 picture book $Goodnight$ $Moon$, in which a young rabbit names the objects in his room as he drifts off to sleep. Scholars note that the book's emphasis on repetition, rhythm, and nonsense rhyme speaks directly to Mitchell's influence.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "The text outlines a debate between two authors of children's literature and then traces how that debate shaped theories on early childhood education.",
+      "B": "The text summarizes an argument about how children's literature should be evaluated and then discusses a contrasting view on that subject.",
+      "C": "The text lists the literary characteristics that are common to many classics of children's literature and then indicates the narrative subjects that are most appropriate for young children.",
+      "D": "The text presents a philosophy about what material is most suitable for children's literature and then describes a book influenced by that philosophy."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text starts by introducing Mitchell's philosophy about using simple, repetitive language in books for young children. Then it describes a book influenced by that philosophy, $Goodnight$ $Moon$."
+  },
+  {
+    "question_id": "815b354f",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Using NASA's powerful James Webb Space Telescope (JWST), Mercedes López-Morales and colleagues measured the wavelengths of light traveling through the atmosphere of WASP-39b, an exoplanet, or planet outside our solar system. Different molecules absorb different wavelengths of light, and the wavelength measurements showed the presence of carbon dioxide ($\\text{CO}_2$) in WASP-39b's atmosphere. This finding not only offers the first decisive evidence of $\\text{CO}_2$ in the atmosphere of an exoplanet but also illustrates the potential for future scientific breakthroughs held by the JWST.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "It discusses a method used by some researchers, then states why an alternative method is superior to it.",
+      "B": "It describes how researchers made a scientific discovery, then explains the importance of that discovery.",
+      "C": "It outlines the steps taken in a scientific study, then presents a hypothesis based on that study.",
+      "D": "It examines how a group of scientists reached a conclusion, then shows how other scientists have challenged that conclusion."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text begins by describing how the researchers used the JWST to detect $\\text{CO}_2$ in WASP-39b's atmosphere. Then the text discusses the significance of this finding, both as the first evidence of $\\text{CO}_2$ in an exoplanet's atmosphere and as an illustration of the JWST's potential for making new discoveries in general."
+  },
+  {
+    "question_id": "939f1fe8",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In Jane Austen's novel $Mansfield$ $Park$, an almost imperceptible smile from potential suitor Henry Crawford causes the protagonist Fanny Price to blush; her embarrassment grows when she suspects that he is aware of it. This moment—in which Fanny not only infers Henry's mental state through his gestures, but also infers that he is drawing inferences about her mental state—illustrates what literary scholar George Butte calls \"deep intersubjectivity,\" a technique for representing interactions between consciousnesses through which Austen's novels derive much of their social and psychological drama.",
+    "question_text": "Which choice best describes the function of the underlined sentence in the text as a whole? [Note: The underlined sentence is: In Jane Austen's novel Mansfield Park, an almost imperceptible smile from potential suitor Henry Crawford causes the protagonist Fanny Price to blush; her embarrassment grows when she suspects that he is aware of it.]",
+    "options": {
+      "A": "It states a claim about Austen's skill at representing psychological complexity that is reinforced by an example presented in the following sentence.",
+      "B": "It advances an interpretation of an Austen protagonist who is contrasted with protagonists from other Austen novels cited in the following sentence.",
+      "C": "It describes a recurring theme in Austen's novels that is the focus of a literary scholar's analysis summarized in the following sentence.",
+      "D": "It provides a synopsis of an interaction in an Austen novel that illustrates a literary concept discussed in the following sentence."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The underlined sentence provides a concrete example to ground readers' understanding of the \"deep intersubjectivity\" described in the next sentence as central to Austen's work."
+  },
+  {
+    "question_id": "fdf8e5b3",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nThe idea that time moves in only one direction is instinctively understood, yet it puzzles physicists. According to the second law of thermodynamics, at a macroscopic level some processes of heat transfer are irreversible due to the production of entropy—after a transfer we cannot rewind time and place molecules back exactly where they were before, just as we cannot unbreak dropped eggs. But laws of physics at a microscopic or quantum level hold that those processes $should$ be reversible.\n\nText 2\nIn 2015, physicists Tiago Batalhão et al. performed an experiment in which they confirmed the irreversibility of thermodynamic processes at a quantum level, producing entropy by applying a rapidly oscillating magnetic field to a system of carbon-13 atoms in liquid chloroform. But the experiment \"does not pinpoint ... what causes [irreversibility] at the microscopic level,\" coauthor Mauro Paternostro said.",
+    "question_text": "Based on the texts, what would the author of Text 1 most likely say about the experiment described in Text 2?",
+    "options": {
+      "A": "It would suggest an interesting direction for future research were it not the case that two of the physicists who conducted the experiment disagree on the significance of its findings.",
+      "B": "It provides empirical evidence that the current understanding of an aspect of physics at a microscopic level must be incomplete.",
+      "C": "It is consistent with the current understanding of physics at a microscopic level but not at a macroscopic level.",
+      "D": "It supports a claim about an isolated system of atoms in a laboratory, but that claim should not be extrapolated to a general claim about the universe."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Author 1 describes the puzzle that physicists still can't solve: at a microscopic level, the \"laws of physics\" suggest that we should be able to reverse processes that are not reversible at a macroscopic level. The experiment confirmed that those processes are not reversible even on the microscopic level, but it didn't explain why. This supports Author 1's point that physicists still don't fully understand how things work at a microscopic level—maybe the laws need to be revised."
+  },
+  {
+    "question_id": "5d562290",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nLiterary scholars have struggled with the vastness of Nigerian writer Wole Soyinka's collective works of drama (spanning over 20 plays in total). It is best, however, to understand Soyinka's body of work as a dramatist chronologically. Soyinka's progression as a playwright can be considered to fall into three periods, with each one representing a particular thematic and stylistic cohesion: the 1960s, the two decades between 1970 and 1990, and lastly, from roughly 1990 onwards.\n\nText 2\nIt is tempting to impose a linear sense of order on the expanse of Wole Soyinka's body of work as a dramatist. However, critics who have considered Soyinka's plays to fit neatly into three phases overlook potential commonalities in Soyinka's work that span across these phases. Additionally, this view may discount significant differences in the styles and content of plays written around the same time.",
+    "question_text": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the study of Soyinka's works of drama?",
+    "options": {
+      "A": "While the author of Text 1 believes that thinking about Soyinka's works of theater in phases is useful, the author of Text 2 views such an approach as limiting.",
+      "B": "Although the author of Text 1 claims that Soyinka's style as a dramatist has evolved over time, the author of Text 2 argues that Soyinka's style has remained consistent throughout his career.",
+      "C": "The author of Text 1 considers Soyinka's plays to showcase his strongest writing, whereas the author of Text 2 believes that Soyinka's poetry is where he is most skilled.",
+      "D": "The author of Text 1 argues that Soyinka's early plays were his most politically charged, whereas the author of Text 2 claims that Soyinka's most recent plays are the most politicized."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The author of Text 1 states that Soyinka's progression as a playwright can be considered to fall into three periods, implying that this is a helpful way to understand his works. The author of Text 2, on the other hand, challenges this view and says that it overlooks potential commonalities and differences in Soyinka's work across what Text 1 calls distinctive stylistic phases."
+  },
+  {
+    "question_id": "95e9a9c1",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nToday the starchy root cassava is found in many dishes across West Africa, but its rise to popularity was slow. Portuguese traders brought cassava from Brazil to the West African coast in the 1500s. But at this time, people living in the capitals further inland had little contact with coastal communities. Thus, cassava remained relatively unknown to most of the region's inhabitants until the 1800s.\n\nText 2\nCassava's slow adoption into the diet of West Africans is mainly due to the nature of the crop itself. If not cooked properly, cassava can be toxic. Knowledge of how to properly prepare cassava needed to spread before the food could grow in popularity. The arrival of formerly enslaved people from Brazil in the 1800s, who brought their knowledge of cassava and its preparation with them, thus directly fueled the spread of this crop.",
+    "question_text": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?",
+    "options": {
+      "A": "Cassava did not become a significant crop in West Africa until long after it was first introduced.",
+      "B": "Several of the most commonly grown crops in West Africa are originally from Brazil.",
+      "C": "The climate of the West African coast in the 1500s prevented cassava's spread in the region.",
+      "D": "The most commonly used methods to cook cassava today date to the 1500s."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Text 1 states that cassava's \"rise to popularity was slow\" in West Africa. Text 2 also describes cassava's \"slow adoption into the diet of West Africans.\" While the two texts identify different causes for this slow adoption, both agree that cassava took a long time to catch on."
+  },
+  {
+    "question_id": "75edb37f",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Why do sand cats purr but lions roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Sand cats, which are much smaller than lions, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, lions have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that sand cats lack. These traits allow lions and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "The text presents a theory about two species, then discusses facts that weaken it.",
+      "B": "The text compares the habitats of two species, then explains how those habitats are changing.",
+      "C": "The text describes a behavior shared by two species, then discusses other behaviors shared by them.",
+      "D": "The text poses a question about two species, then presents a possible answer."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it best describes the overall structure of the text. The text begins by posing a question about two different cat species: \"Why do sand cats purr but lions roar?\" The remainder of the text then presents a possible answer to this question by explaining a hypothesis about differences in these cats' hyoid bone structure."
+  },
+  {
+    "question_id": "df5d1a01",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Holly Goldberg Sloan's 2017 novel $Short$.\n\nMore than two years ago my parents bought a piano from some people who were moving to Utah. Mom and Dad gave it to my brothers and me for Christmas. I had to act really happy because it was such a big present, but I pretty much hated the thing from the second it was carried into the hallway upstairs, which is right next to my bedroom. The piano glared at me. It was like a songbird in a cage. It wanted to be set free.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "It explains why the narrator always wanted a piano close to her bedroom.",
+      "B": "It establishes how the narrator feels about the piano.",
+      "C": "It suggests that the narrator's brothers are talented piano players.",
+      "D": "It describes the event that led the narrator's parents to buy a piano."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it best states the main purpose of the text, which is to establish the narrator's feelings about the piano. The narrator reveals that she \"had to act really happy\" about the piano even though she \"pretty much hated the thing\" as soon as it was placed upstairs near her bedroom."
+  },
+  {
+    "question_id": "45f3c80a",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Historians Tiya Miles and Roy E. Finkenbine have both documented the assistance Indigenous peoples gave to Black freedom seekers leaving the South before the US Civil War. Much of the historical evidence of this help comes from Indigenous oral traditions and from autobiographies written by the freedom seekers. One such narrative is Jermain Loguen's autobiography, which tells about how Neshnabé (Potawatomi) villagers offered him food, lodging, and directions during his 1835 journey from Tennessee to Canada.",
+    "question_text": "Which choice best describes the function of the underlined sentence? [Note: The underlined sentence is: One such narrative is Jermain Loguen's autobiography, which tells about how Neshnabé (Potawatomi) villagers offered him food, lodging, and directions during his 1835 journey from Tennessee to Canada.]",
+    "options": {
+      "A": "It provides an example of an autobiography that describes help given by an Indigenous people to a Black freedom seeker.",
+      "B": "It shows why Loguen decided to write in great detail about his experiences traveling from Tennessee to Canada in his autobiography.",
+      "C": "It argues that autobiographies are particularly important sources of information about geography in the United States before the Civil War.",
+      "D": "It suggests that most historians believe that Neshnabé villagers were more successful in assisting freedom seekers than other people were."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The previous sentence broadly mentions \"autobiographies written by the freedom seekers.\" This sentence identifies Loguen's autobiography as a specific example."
+  },
+  {
+    "question_id": "0b681b18",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "As a young photographer in the 1950s, William Klein ______ the conventions of photography by creating images that were high contrast and included blurred and distorted elements—features generally seen as flaws. So unorthodox was Klein's work that he had difficulty finding a publisher for his now-iconic 1956 photo book $Life$ $is$ $Good$ $\\&$ $Good$ $for$ $You$ $in$ $New$ $York$.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "reviewed",
+      "B": "defied",
+      "C": "respected",
+      "D": "prevented"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"Defied\" means \"resisted\" or \"deliberately disobeyed,\" which matches the way Klein broke from the conventions of photography in his time by including features that were generally seen as flaws."
+  },
+  {
+    "question_id": "318da9d3",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Domesticated thousands of years ago by Indigenous people in South America, cacao, the plant from which chocolate is made, deviates structurally from the wild plant it is descended from. Maize (corn), another crop domesticated by Indigenous Americans, shows so little resemblance to any wild plant that genetic research was necessary to ______ teosinte grass as its ancestor.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "acquire",
+      "B": "develop",
+      "C": "attract",
+      "D": "confirm"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text's discussion of the identification of maize's wild ancestor. In this context, to \"confirm\" means to establish the truth or correctness of something."
+  },
+  {
+    "question_id": "ba5d2c22",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nMost scientists agree that the moon was likely formed after a collision between Earth and a large planet named Theia. This collision likely created a huge debris field, made up of material from both Earth and Theia. Based on models of this event, scientists believe that the moon was formed from this debris over the course of thousands of years.\n\nText 2\nResearchers from NASA's Ames Research Center used a computer to model how the moon could have formed. Although simulations of the moon's formation have been done in the past, the team from NASA ran simulations that were much more detailed. They found that the formation of the moon was likely not a slow process that took many years. Instead, it's probable that the moon's formation happened immediately after impact, taking just a few hours.",
+    "question_text": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the evidence for the formation of the moon?",
+    "options": {
+      "A": "The author of Text 1 argues that the formation of the moon occurred much earlier than the author of Text 2 argues.",
+      "B": "The author of Text 1 suggests there is more evidence confirming the existence of Theia than the author of Text 2 suggests.",
+      "C": "The author of Text 1 claims that the moon's surface is more similar to Earth's surface than the author of Text 2 claims.",
+      "D": "The author of Text 1 believes that the moon formed more slowly than the author of Text 2 believes."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Text 1 states that the moon was formed from the debris \"over the course of thousands of years,\" while Text 2 states that the moon's formation happened \"immediately after impact, taking just a few hours.\" This shows a clear difference in how the authors view the evidence for the speed of the moon's formation."
+  }
+]

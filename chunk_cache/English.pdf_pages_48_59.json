@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "ce9b3b84",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Rotor Diameters of Newly Installed Wind Turbines in the United States, 2011–2021\nYear | >130 meters | <100 meters | 100–115 meters | 115–130 meters\n(Graph showing percentage of newly installed turbines by rotor diameter from 2011 to 2021.)",
+    "question_text": "All other things being equal, the larger a wind turbine's rotor diameter (the diameter of the imaginary circle swept by the turbine's rotating blades), the greater amount of energy the turbine can generate. In a research paper on wind power, a student claims that in the United States, the amount of energy generated per newly installed turbine increased substantially between 2011 and 2021.\n\nWhich choice best describes data in the graph that support the student's claim?",
+    "options": {
+      "A": "The percentage of newly installed turbines with rotor diameters greater than $130$ meters increased every year between $2011$ and $2021$.",
+      "B": "In $2011$, nearly $80\\%$ of turbines installed had rotor diameters of less than $100$ meters, whereas only a little more than $20\\%$ of turbines installed that year had rotor diameters of $100$–$115$ meters.",
+      "C": "No turbines installed in $2011$ had rotor diameters greater than $115$ meters, whereas the majority of turbines installed in $2021$ had rotor diameters greater than $130$ meters.",
+      "D": "Most turbines installed in $2011$ had rotor diameters of less than $100$ meters, whereas most turbines installed in $2021$ had rotor diameters of at least $115$ meters."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text tells us that turbines with larger rotor diameters produce more energy, so if rotor diameters have generally gotten larger between $2011$ and $2021$, then turbines created in $2021$ should produce more energy than those created in $2011$."
+  },
+  {
+    "question_id": "12b370c2",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Disco remains one of the most ridiculed popular music genres of the late twentieth century. But as scholars have argued, the genre is far less superficial than many people believe. Take the case of disco icon Donna Summer: she may have been associated with popular songs about love and heartbreak (subjects hardly unique to disco, by the way), but like many Black women singers before her, much of her music also reflects concerns about community and identity. These concerns are present in many of the genre's greatest songs, and they generally don't require much digging to reveal.",
+    "question_text": "What does the text most strongly suggest about the disco genre?",
+    "options": {
+      "A": "It has been unjustly ignored by most scholars despite the importance of the themes addressed by many of the genre's songs.",
+      "B": "It evolved over time from a superficial genre focused on romance to a genre focused on more serious concerns.",
+      "C": "It has been unfairly dismissed for the inclusion of subject matter that is also found in other musical genres.",
+      "D": "It gave rise to a Black women's musical tradition that has endured even though the genre itself faded in the late twentieth century."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text argues that disco is \"far less superficial\" than its popular perception might indicate, and that love and heartbreak are \"subjects hardly unique to disco.\""
+  },
+  {
+    "question_id": "798a9aa8",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Businesses selling clothing and other fashion items face obstacles in trying to forecast how much product to order: tastes and styles change quickly, while manufacturing clothing takes a significant amount of time. Researchers Youran Fu and Marshall Fisher have found that combining sellers' own data with information gathered from social media can dramatically improve the accuracy of such forecasts—by $24$ to $57$ percent in the cases they directly studied. Better predictions mean demand is easier to meet without retailers becoming overstocked.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Using multiple data sources can enhance the ability of sellers in the fashion industry to anticipate demand.",
+      "B": "Social media is revolutionizing how both sellers and researchers view the fashion industry.",
+      "C": "Becoming overstocked is the main preoccupation of sellers trying to forecast demand for fashion items.",
+      "D": "Retailers can use their own data to accurately predict how tastes and styles are evolving."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most accurately states the main idea of the text. The text explains that fashion retailers face challenges in forecasting product demand due to rapidly changing tastes and lengthy manufacturing times. It then presents research by Fu and Fisher showing that combining retailers' own data with social media information significantly improves forecast accuracy."
+  },
+  {
+    "question_id": "e4466b2f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Countee Cullen's $1926$ poem \"Thoughts in a Zoo.\"\nThey in their cruel traps, and we in ours,\nSurvey each other's rage, and pass the hours\nCommiserating each the other's woe,\nTo mitigate his own pain's fiery glow.\nMan could but little proffer in exchange\nSave that his cages have a larger range.\nThat lion with his lordly, untamed heart\nHas in some man his human counterpart,\nSome lofty soul in dreams and visions wrapped,\nBut in the stifling flesh securely trapped.",
+    "question_text": "Based on the text, what challenge do humans sometimes experience?",
+    "options": {
+      "A": "They cannot effectively tame certain wild animals because of a lack of compassion.",
+      "B": "They cannot focus on setting attainable goals because of a lack of motivation.",
+      "C": "They quickly become frustrated when faced with difficult tasks because of a lack of self-control.",
+      "D": "They have aspirations that cannot be fulfilled because of certain limitations."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text metaphorically likens humans to animals in a zoo, suggesting that humans have dreams that they cannot fulfill because they are trapped."
+  },
+  {
+    "question_id": "e55ded58",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Black beans (Phaseolus vulgaris) are a nutritionally dense food, but they are difficult to digest in part because of their high levels of soluble fiber and compounds like raffinose. They also contain antinutrients like tannins and trypsin inhibitors, which interfere with the body's ability to extract nutrients from foods. In a research article, Marisela Granito and Glenda Álvarez from Simón Bolívar University in Venezuela claim that inducing fermentation of black beans using lactic acid bacteria improves the digestibility of the beans and makes them more nutritious.",
+    "question_text": "Which finding from Granito and Álvarez's research, if true, would most directly support their claim?",
+    "options": {
+      "A": "When cooked, fermented beans contained significantly more trypsin inhibitors and tannins but significantly less soluble fiber and raffinose than nonfermented beans.",
+      "B": "Fermented beans contained significantly less soluble fiber and raffinose than nonfermented beans, and when cooked, the fermented beans also displayed a significant reduction in trypsin inhibitors and tannins.",
+      "C": "When the fermented beans were analyzed, they were found to contain two microorganisms, Lactobacillus casei and Lactobacillus plantarum, that are theorized to increase the amount of nitrogen absorbed by the gut after eating beans.",
+      "D": "Both fermented and nonfermented black beans contained significantly fewer trypsin inhibitors and tannins after being cooked at high pressure."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents a finding that would best support Granito and Álvarez's claim that fermenting black beans makes them easier to digest and more nutritious."
+  },
+  {
+    "question_id": "5e6596a9",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Data Sources for Neptune Temperature Analysis\nInstrument | Observatory | Data type | Observation years\nTEXES (Texas Echelon Cross Echelle Spectrograph) | Gemini Observatory | spectroscopy | 2007, 2019\nT-ReCS (Thermal-Region Camera Spectrograph) | Gemini Observatory | infrared imaging | 2007, 2010\nLWS (Long Wavelength Spectrometer) | Keck Observatory | infrared imaging | 2003\nVISIR (VLT Imager and Spectrometer for mid-InfraRed) | European Southern Observatory | spectroscopy | 2006",
+    "question_text": "Julianne I. Moses and colleagues have reported that Neptune may have cooled significantly between $2003$ and $2020$. The team reached this conclusion by analyzing existing infrared imaging and spectroscopy data about the planet obtained from various instruments in different years. Of the team's sources listed in the table, the earliest example of spectroscopy data included in the analysis was obtained in ______",
+    "options": {
+      "A": "$2007$ using TEXES at the Gemini Observatory.",
+      "B": "$2007$ using T-ReCS at the Gemini Observatory.",
+      "C": "$2006$ using VISIR at the European Southern Observatory.",
+      "D": "$2003$ using LWS at the W.M. Keck Observatory."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it effectively completes the text's discussion of Moses and colleagues' analysis of changes in Neptune's temperature by using data from the table to identify the source of the earliest example of spectroscopy data included in this analysis."
+  },
+  {
+    "question_id": "533d6d0e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "To make her art more widely available, graphic artist Elizabeth Catlett turned to linocuts. In linocut printing, an artist carves an image into a sheet of linoleum to create a stamp that is used to mass-produce prints. In the linocut series The Black Woman ($1946$–$1947$), Catlett depicts the everyday experiences of Black women alongside the achievements of well-known Black women. This pairing invites the viewer to draw connections among the women. The linocut process enabled Catlett's work to reach a wide audience and supported her aim to unite Black women through her art.",
+    "question_text": "According to the text, what is significant about Catlett's use of linocut printing?",
+    "options": {
+      "A": "Linocut printing involved using materials that were readily available to Catlett.",
+      "B": "Linocut printing helped Catlett use art to connect people, especially Black women.",
+      "C": "Catlett became commercially successful once she started using linocut printing.",
+      "D": "Catlett was one of the first Black artists to use linocut printing."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The last sentence states that the linocut process \"supported her [Catlett's] aim to unite Black women through her art.\""
+  },
+  {
+    "question_id": "4f1d7c3c",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Effect of Neighboring Species on Pollinator Visits to Target Species\nNeighboring species | Target species | Effect value\nVirginia spring beauty | star chickweed | $0.4853$\nHimalayan balsam | marsh woundwort | $0.7905$\ncommon dandelion | cat's ear | $-0.6254$",
+    "question_text": "Researchers Carolina Laura Morales and Anna Traveset gathered data about flowering plants growing alongside each other in various locations. In each case, the researchers identified one plant as a \"target species\" and a nearby plant as a \"neighboring species.\" The researchers then calculated a positive or negative value to show how the neighboring species affected pollinator visits to the target species. One example of a neighboring species with a negative effect value is the ______",
+    "options": {
+      "A": "Himalayan balsam.",
+      "B": "common dandelion.",
+      "C": "star chickweed.",
+      "D": "Virginia spring beauty."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the example of a neighboring species that has a negative effect value."
+  },
+  {
+    "question_id": "a28d9514",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Jean-Bernard Caron and colleagues recently discovered a cache of jellyfish fossils in the Burgess Shale, a site in the Canadian Rockies that is rich in fossils from the Cambrian period (over $500$ million years ago). Caron and colleagues claim that these are the oldest jellyfish fossils ever discovered. In the past twenty years, two sites in China and the United States have yielded fossils of a similar age that some experts believe are most likely jellyfish due to their shapes and the appearance of projecting tentacles. But Caron and colleagues argue that the apparent tentacles are in fact the comb rows of ctenophores, gelatinous animals that are only distantly related to jellyfish.",
+    "question_text": "Which statement, if true, would most directly weaken the claim by Caron and colleagues about the fossils found in China and the United States?",
+    "options": {
+      "A": "Sites in the Canadian Rockies from later periods than the Cambrian period have yielded fossils that have been conclusively identified as ctenophore fossils.",
+      "B": "The fossils found in China and the United States are so poorly preserved that though they cannot be conclusively identified as jellyfish, they cannot be conclusively identified as ctenophores either.",
+      "C": "While ctenophore fossils have been discovered in China and the United States, they have never been discovered in the Burgess Shale.",
+      "D": "The fossils discovered by Caron and colleagues in the Burgess Shale were better preserved than the fossils discovered by other researchers in China and the United States."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents a statement that, if true, would most directly weaken Caron and colleagues' claim that the apparent tentacles in the Chinese and American fossils are actually ctenophore comb rows."
+  },
+  {
+    "question_id": "25f5e913",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Days per Winter That Lakes Have Surface Ice (Graph showing Oulujärvi, Mirror Lake, and Lake Neusiedl for winters $1980$–$81$ and $2005$–$06$.)",
+    "question_text": "It is common for freshwater lakes near or above a latitude of $45^\\circ$ north of the equator, like Lake Mjøsa in Norway, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early $1980$s and the mid-$2000$s. She cites as a typical example ______\n\nWhich choice most effectively uses data from the graph to complete the researcher's example?",
+    "options": {
+      "A": "both Lake Neusiedl and Oulujärvi, which had fewer than $195$ days of ice in the winter of $1980$–$81$.",
+      "B": "Lake Neusiedl, which had more days of ice in the winter of $2005$–$06$ than it did in the winter of $1980$–$81$.",
+      "C": "Oulujärvi, which had fewer days of ice in the winter of $2005$–$06$ than it did in the winter of $1980$–$81$.",
+      "D": "both Lake Neusiedl and Oulujärvi, which had more than $105$ days of ice in the winter of $2005$–$06$."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the correct answer based on the data in the graph showing a decline in the duration of ice for Oulujärvi."
+  }
+]

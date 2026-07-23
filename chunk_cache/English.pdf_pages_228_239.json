@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": "529ab62c",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Many archaeologists will tell you that categorizing excavated fragments of pottery by style, period, and what objects they belong to relies not only on standard criteria, but also on instinct developed over years of practice. In a recent study, however, researchers trained a deep-learning computer model on thousands of images of pottery fragments and found that it could categorize them as accurately as a team of expert archaeologists. Some archaeologists have expressed concern that they might be replaced by such computer models, but the researchers claim that outcome is highly unlikely.",
+    "question_text": "Which finding, if true, would most directly support the researchers' claim?",
+    "options": {
+      "A": "In the researchers' study, the model was able to categorize the pottery fragments much more quickly than the archaeologists could.",
+      "B": "In the researchers' study, neither the model nor the archeologists were able to accurately categorize all the pottery fragments that were presented.",
+      "C": "A survey of archaeologists showed that categorizing pottery fragments limits the amount of time they can dedicate to other important tasks that only human experts can do.",
+      "D": "A survey of archaeologists showed that few of them received dedicated training in how to properly categorize pottery fragments."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it presents a finding that, if true, would support the researchers' claim that archaeologists are unlikely to be replaced by certain computer models. The text explains that although archaeologists hold that categorizing pottery fragments relies on both objective criteria and instinct developed through direct experience, researchers have found that a computer model can categorize the fragments with the same degree of accuracy as the humans can—a finding that has caused some archaeologists to worry that their own work won't be needed any longer. If survey results indicate that categorizing pottery fragments limits the amount of time archaeologists can dedicate to other important tasks that only human experts can do, that would mean that computer models aren't able to do all of the important things archaeologists do, thus supporting the researchers' claim that computer models are unlikely to replace human archaeologists."
+  },
+  {
+    "question_id": "dde323c1",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Average Temperatures in July in Four Locations in the Navajo Nation\n\n| Location | Average highest temperature (Fahrenheit) | Average lowest temperature (Fahrenheit) |\n|---|---|---|\n| Teec Nos Pos | $94^{\\circ}$ | $65^{\\circ}$ |\n| Cameron | $99^{\\circ}$ | $65^{\\circ}$ |\n| Ramah | $83^{\\circ}$ | $50^{\\circ}$ |\n| Tuba City | $83^{\\circ}$ | $50^{\\circ}$ |\n\nThe Navajo Nation has the largest land area of any tribal nation in the United States: over 27,000 square miles in the Southwest. Because this area is so huge and its communities are located at various elevations, the people of the Navajo Nation can experience different climate conditions depending on where they live. For example, in July, ______",
+    "question_text": "Which choice most effectively uses data from the table to complete the statement?",
+    "options": {
+      "A": "the lowest temperature for both Cameron and Teec Nos Pos was $65^{\\circ}$.",
+      "B": "Tuba City's average highest temperature was $94^{\\circ}$, while Teec Nos Pos's was $93^{\\circ}$.",
+      "C": "Ramah's average highest temperature was $83^{\\circ}$, while Cameron's was $99^{\\circ}$.",
+      "D": "the lowest temperature for both Ramah and Tuba City was $50^{\\circ}$."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it effectively uses data from the table to complete the statement, providing an example of how the people of the Navajo Nation can experience different climate conditions depending on where they live. The table shows the average highest temperatures and average lowest temperatures in four locations in the Navajo Nation in July. According to the table, Ramah's average highest temperature for July was $83^{\\circ}$, whereas Cameron's average highest temperature was much higher, at $99^{\\circ}$. This difference illustrates the statement that the people of the Navajo Nation can experience different climate conditions depending on where they live."
+  },
+  {
+    "question_id": "43687700",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Time Participants Spent Reading about Five London Museums\n\n| Museum Name | Ranking | Percentage of total time spent reading about museum by participants provided with ranking | Percentage of total time spent reading about museum by participants not provided with ranking |\n|---|---|---|---|\n| British Museum | 1 | 36 | 18 |\n| National Gallery | 2 | 21 | 20 |\n| Tate Modern | 4 | 16 | 17 |\n| Victoria and Albert Museum | 5 | 14 | 23 |\n| Natural History Museum | 3 | 13 | 22 |\n\nResearchers recently conducted an experiment to understand how we use rankings to make decisions. They created a fictitious travel website describing five museums in London. Then, they invited two groups of participants, who had never visited the museums, to review the site and select the museum they would be most likely to visit. Meanwhile, the researchers tracked the amount of time each participant spent reading about each museum. For one group, the website ranked each museum, titling the page \"The Top 5 Museums in London.\" For the other group, the museums and their descriptions were not ranked. The researchers concluded that when reviewing ranked lists, we tend to focus on the top-ranked option.",
+    "question_text": "Which choice best describes data in the table that support the researchers' conclusion?",
+    "options": {
+      "A": "Participants who were not provided with a ranking of the museums spent roughly equal amounts of time reading about each museum.",
+      "B": "Participants who were provided with a ranking of the museums spent disproportionately more time reading about the British museum.",
+      "C": "Participants who were provided with a ranking of the museums spent the least amount of time reading about the Natural History Museum.",
+      "D": "Participants who were not provided with a ranking of the museums spent the most time reading about the Victoria and Albert Museum."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. By looking at the top-ranked option, we can see that people provided with ranked lists spent more time reading about the British Museum than reading about other museums (36% of the time versus 21% for the second-ranked option)."
+  },
+  {
+    "question_id": "19f553cc",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Paleontologists searching for signs of ancient life have found many fossilized specimens of prehistoric human ancestors, including several from the Pleistocene era discovered in a geological formation in the Minatogawa quarry in Japan. However, to study the emergence of the earliest multicellular organisms to appear on Earth, researchers must turn elsewhere, such as to the Ediacaran geological formation at Mistaken Point in Canada. A UNESCO World Heritage Site, the 146-hectare reserve contains more than 10,000 fossils that together document a critical moment in evolutionary history.",
+    "question_text": "What does the text indicate about the geological formation at Mistaken Point?",
+    "options": {
+      "A": "It holds a greater number of fossils but from a smaller variety of species than the formation in the Minatogawa quarry does.",
+      "B": "It has provided evidence that the earliest human species may have emerged before the Pleistocene era.",
+      "C": "It is widely considered by paleontologists to be the most valuable source of information about prehistoric life forms.",
+      "D": "It contains specimens from an older time period than those found in the formation in the Minatogawa quarry."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text says that the formation at Mistaken Point contains fossils of \"the earliest multicellular organisms,\" which implies that these fossils are from an older time period than the fossils of \"prehistoric human ancestors\" found in the Minatogawa quarry."
+  },
+  {
+    "question_id": "0abd16fa",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Percentage Point Changes in US Federal Outlays Relative to GDP by Congressional Status\n\n| Period | Congressional status | Change in total outlays | Change in nondefense outlays | Change in defense outlays |\n|---|---|---|---|---|\n| 1981–1988 | divided | $-0.4$ | $-1.3$ | $0.9$ |\n| 1975–1976 | divided | $2.7$ | $3.0$ | $-0.3$ |\n| 1977–1980 | undivided | $0.3$ | $0.6$ | $-0.3$ |\n| 1964–1968 | undivided | $1.9$ | $1.4$ | $0.5$ |\n| 1969–1974 | divided | $-1.8$ | $2.1$ | $-3.9$ |\n\nEconomist Steve H. Hanke has shown that divided US Congresses—which occur when one party holds the majority in the House of Representatives and another holds the majority in the Senate—tend to accompany reductions in total federal outlays (spending) relative to gross domestic product (GDP), which Hanke interprets to reflect decreases in government size. Hanke calculated the percentage point change in total outlays (encompassing nondefense and defense outlays) for consecutive US Congresses. Hanke has pointed to his calculations as evidence that a divided Congress may be a \"necessary but not sufficient condition\" for a decrease in government size to occur.",
+    "question_text": "Which choice best describes data from the table that support the underlined claim?",
+    "options": {
+      "A": "The periods of undivided Congresses were associated with increases in nondefense outlays, whereas all the periods of divided Congresses except one were associated with reductions in defense outlays.",
+      "B": "All the periods of divided Congresses were associated with reductions in total outlays, although two periods were also associated with increases in nondefense outlays.",
+      "C": "The periods of undivided Congresses were associated with increases in total outlays, whereas all the periods of divided Congresses were associated with reductions in either nondefense outlays or defense outlays.",
+      "D": "All the periods of divided Congresses except one were associated with reductions in total outlays, whereas the periods of undivided Congresses were associated with increases in total outlays."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The claim is that divided Congresses are necessary but insufficient—that is, we need divided Congresses, but they are not enough—to decrease government size, as measured by total federal outlays. This choice accurately expresses the supporting data from the \"change in total outlays\" part of the table. Within the data set, divided Congresses sometimes decreased total outlays, but undivided ones never did."
+  },
+  {
+    "question_id": "8e3309b5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Copper Production for Three States, 1889-1909\n\n[Line graph showing Yearly copper production in millions of pounds from 1889 to 1909 for Montana, Arizona, and Michigan. Montana rises from near 0 in 1889 to around 260 in 1902 and ~300 in 1909. Arizona rises from near 0 in 1889 to ~120 in 1902 and ~300 in 1909. Michigan rises from near 50 in 1889 to ~180 in 1902 and ~240 in 1909.]\n\nCopper had been mined in the US for thousands of years, but large-scale commercial mining of copper took off starting in the late 1800s. This was due to several factors. Technological advancements in the mining industry led to improvements in the production of copper. This helped the country keep up with the growing number of people wanting to buy copper starting in the 1890s. At the same time, the growth of the railroad system made the transportation of copper in large batches much easier. Several states saw rapid growth in the production of this resource, for example: ______",
+    "question_text": "Which choice most effectively uses the data in the graph to complete the example?",
+    "options": {
+      "A": "The rise in copper production in Michigan slowed from 1902 to 1909.",
+      "B": "Montana and Arizona produced more copper than Michigan did in 1909.",
+      "C": "Fewer than 100 million pounds of copper were produced in Arizona in 1889.",
+      "D": "Copper production rose significantly from 1889 to 1909 for Arizona, Michigan, and Montana."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text asks us to provide examples of several states that saw rapid growth in copper production from the 1890s onward. The graph depicts Arizona, Michigan, and Montana all experiencing such rapid growth during this time period."
+  },
+  {
+    "question_id": "b01c4c0e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Researchers wanted to study how consumers' reactions to an ad may be affected by other ads. The researchers began by showing study participants an ad for a product, with some seeing a less detailed ad and others seeing a more detailed one. Then, all participants viewed the same second ad for a store and shared their opinion of the store based on this second ad. Participants who had first seen an ad less detailed than the second ad had a higher opinion of the store than the participants who had first seen a more detailed ad. The researchers concluded that reactions to an ad may be affected by ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "the number of people who viewed the ad.",
+      "B": "the length of time viewing previous ads.",
+      "C": "the amount of detail viewed in previous ads.",
+      "D": "the time of day that the ad is viewed."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The passage tells us that participants who had seen a less detailed ad for a product beforehand had a higher opinion of the store than those who had seen a more detailed ad. This suggests that reactions to an ad may be affected by the amount of detail viewed in previous ads."
+  },
+  {
+    "question_id": "b8dd8651",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Several studies of sediment (e.g., dirt, pieces of rock, etc.) in streams have shown an inverse correlation between sediment grain size and downstream distance from the primary sediment source, suggesting that stream length has a sorting effect on sediment. In a study of sediment sampled at more than a dozen sites in Alpine streams, however, geologists Camille Litty and Fritz Schlunegger found that cross-site variations in grain size were not associated with differences in downstream distance, though they did not conclude that downstream distance is irrelevant to grain size. Rather, they concluded that sediment influx in these streams may have been sufficiently spatially diffuse to prevent the typical sorting effect from being observed.",
+    "question_text": "Which finding about the streams in the study, if true, would most directly support Litty and Schlunegger's conclusion?",
+    "options": {
+      "A": "The streams regularly experience portions of their banks collapsing into the water at multiple points upstream of the sampling sites.",
+      "B": "The streams contain several types of sediment that are not typically found in streams where the sorting effect has been demonstrated.",
+      "C": "The streams mostly originate from the same source, but their lengths vary considerably due to the different courses they take.",
+      "D": "The streams are fed by multiple tributaries that carry significant volumes of sediment and that enter the streams downstream of the sampling sites."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. This finding would support the conclusion. If stream banks are collapsing into the water at multiple points, then sediment is getting into the water at those various points. This supports the conclusion that the inflow of sediment is very spread out."
+  }
+]

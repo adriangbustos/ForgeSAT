@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "68ef9df3",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Jhumpa Lahiri's story collection Interpreter of Maladies features multiple stories about romantic relationships. In \"This Blessed House,\" newlyweds argue over whether to replace items left by the previous owners of their new home. ______ in \"A Temporary Matter,\" a husband and wife attempt to rekindle their relationship during a four-night blackout.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Granted,",
+      "B": "For example,",
+      "C": "Likewise,",
+      "D": "Hence,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"Likewise\" is a transition that indicates the addition of a new but related idea. In this sentence, the author is providing another similar example to that discussed in the previous sentence. Therefore, \"likewise\" works best in this context."
+  },
+  {
+    "question_id": "8412b266",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.\n- Her sculpture Uros Island is made of smooth multicolored LED domes.\n- It occupies 335 cubic feet of space.\n- Her sculpture Fortuna is made of entangled blue and white LED tubes.\n- It occupies 19,950 cubic feet of space.",
+    "question_text": "The student wants to emphasize a similarity between Uros Island and Fortuna. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The smooth LED domes of Grimanesa Amoros's Uros Island stand in contrast to the tangled LED tubes of Fortuna.",
+      "B": "At 19,950 cubic feet in size, Grimanesa Amoros's Fortuna cuts a larger figure than the 335-cubic-foot Uros Island.",
+      "C": "Grimanesa Amoros is the artist behind Uros Island—a sculpture made of smooth multicolored LED domes.",
+      "D": "Uros Island is an LED light sculpture made by Grimanesa Amoros, as is Fortuna."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The sentence emphasizes a similarity between the sculptures, noting that both Uros Island and Fortuna are LED light sculptures created by Grimanesa Amoros."
+  },
+  {
+    "question_id": "40f0633c",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Pineapple is a fruit that contains ascorbic acid, an essential nutrient for humans.\n- Every 100 grams (g) of pineapple contains 48 milligrams (mg) of ascorbic acid.\n- Many animals can make ascorbic acid in their bodies, but humans cannot.\n- Humans must get ascorbic acid from foods, including fruits and vegetables.\n- Ascorbic acid is also known as vitamin C.",
+    "question_text": "The student wants to provide an example of a fruit that contains vitamin C. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Humans cannot make ascorbic acid in their bodies, but they can get it from foods, such as fruits, for example.",
+      "B": "Vitamin C, also known as ascorbic acid, can be found in pineapple as well as other fruits.",
+      "C": "Since humans cannot make vitamin C in their bodies, they must get it from food.",
+      "D": "Many animals can make ascorbic acid, which is also known as vitamin C, in their bodies, but humans cannot."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The sentence provides an example of a fruit that contains vitamin C, noting that vitamin C (also known as ascorbic acid) can be found in pineapple as well as other fruits."
+  },
+  {
+    "question_id": "bffa7aea",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Establishing Coordinated Universal Time (UTC) is no easy task. Each month, readings of a single second from atomic clocks around the world are taken and sent to the International Bureau of Weights and Measures (BIPM) in France. ______ BIPM metrologists perform the meticulous work of assembling these minutely disparate readings into a globally shared time standard.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "There,",
+      "B": "In particular,",
+      "C": "For example,",
+      "D": "Conversely,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"There\" indicates that the work of calculating Coordinated Universal Time takes place at the International Bureau of Weights and Measures in France. Because \"there\" indicates a location, it fits the context perfectly."
+  },
+  {
+    "question_id": "dd18368e",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Archaeologist Dr. Sada Mire founded the Horn Heritage Foundation to preserve the cultural history of regions in the Horn of Africa.\n- Horn Heritage has overseen a preservation project to create 3D digital scans of ancient rock art in Somaliland.\n- Paintings found at the Laas Geel caves are included in the scans.\n- The Laas Geel paintings feature human figures and animals.\n- Paintings found at the Dhagah Nabi Galay caves are included in the scans.\n- The Dhagah Nabi Galay caves feature what are thought to be the earliest examples of writing in East Africa.",
+    "question_text": "The student wants to emphasize a similarity between the Laas Geel paintings and the Dhagah Nabi Galay paintings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The earliest examples of writing in East Africa are thought to be featured in the paintings at the Dhagah Nabi Galay caves in Somaliland.",
+      "B": "The paintings at the Dhagah Nabi Galay caves feature examples of writing, while those at the Laas Geel caves feature humans and animals.",
+      "C": "In Somaliland, the paintings in the Laas Geel caves feature human figures and animals.",
+      "D": "The Laas Geel paintings and the Dhagah Nabi Galay paintings are both examples of ancient rock art found in Somaliland."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This choice compares the Laas Geel paintings and the Dhagah Nabi Galay paintings to one another and emphasizes what they have in common: they are both ancient rock art found in the same region."
+  },
+  {
+    "question_id": "a2941bd8",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Iraqi artist Nazik Al-Malaika, celebrated as the first Arabic poet to write in free verse, didn't reject traditional forms entirely; her poem \"Elegy for a Woman of No Importance\" consists of two ten-line stanzas and a standard number of syllables. Even in this superficially traditional work, ______ Al-Malaika was breaking new ground by memorializing an anonymous woman rather than a famous man.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "therefore,",
+      "B": "in fact,",
+      "C": "moreover,",
+      "D": "though,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The first sentence tells us that Al-Malaika sometimes used \"traditional forms\". The second tells us that even when she used traditional forms, Al-Malaika was \"breaking new ground\". To connect these ideas, we need a contrast word like \"but.\" \"Though\" is a contrast word similar to \"but.\""
+  },
+  {
+    "question_id": "c6783904",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.\n- Before automation, lighthouses were run by lighthouse keepers.\n- Maria Younghans was the lighthouse keeper at Biloxi Light in Mississippi.\n- She held this position from 1867 to 1918.\n- Flora McNeil was the lighthouse keeper at Bridgeport Breakwater Light in Connecticut.\n- She held this position from 1904 to 1920.",
+    "question_text": "The student wants to emphasize the order in which the two lighthouse keepers began their careers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "From 1867 to 1918, the nighttime waters of Mississippi were more navigable thanks to lighthouse keepers Flora McNeil and Maria Younghans.",
+      "B": "Before automation, lighthouse keepers like Maria Younghans and Flora McNeil were crucial to ensuring safe navigation for watercraft.",
+      "C": "Flora McNeil began her career as a lighthouse keeper years after Maria Younghans did.",
+      "D": "Maria Younghans's career as a lighthouse keeper ended in 1918, whereas Flora McNeil's ended in 1920."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The sentence emphasizes the order in which the two lighthouse keepers began their careers, noting that McNeil, who became the keeper at Bridgeport Breakwater Light in 1904, began her career years after Younghans, who became the keeper at Biloxi Light in 1867."
+  },
+  {
+    "question_id": "9daa4075",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- The painter Frida Kahlo is one of the most influential artists of the twentieth century.\n- She was born in Coyoacán, Mexico, in 1907.\n- She is best known for her vivid and richly symbolic self-portraits.\n- The Two Fridas (1939) features two versions of Kahlo sitting together.\n- One version wears a European-style dress and the other a traditional Tehuana dress.",
+    "question_text": "The student wants to introduce Kahlo to an audience unfamiliar with the artist. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Known for being vivid and richly symbolic, Frida Kahlo's self-portraits include The Two Fridas (1939).",
+      "B": "The 1939 painting The Two Fridas is one example of a self-portrait by Frida Kahlo.",
+      "C": "One painting by Frida Kahlo features two versions of herself, with one version wearing a European-style dress and the other a traditional Tehuana dress.",
+      "D": "One of the most influential artists of the twentieth century, Mexican painter Frida Kahlo is best known for her self-portraits, which are vivid and richly symbolic."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. By identifying Kahlo as an influential artist from Mexico, and by describing the work she's best known for, this choice provides the background information necessary to introduce Kahlo to an unfamiliar audience."
+  },
+  {
+    "question_id": "d52ab835",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "When, in the 1800s, geologists first realized that much of Earth had once been covered by great sheets of ice, some theorized that the phenomenon was cyclical, occurring at regular intervals. Each Ice Age is so destructive, though, that it largely erases the geological evidence of its predecessor. ______ geologists were unable to confirm the theory of cyclical Ice Ages until the 1960s.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Hence,",
+      "B": "Moreover,",
+      "C": "Nevertheless,",
+      "D": "Next,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"Hence\" logically signals that the information in this sentence—that geologists couldn't confirm the theory of cyclical Ice Ages until the 1960s—is a consequence of the previous information about the destructiveness of each Ice Age and the erasure of necessary geological evidence."
+  },
+  {
+    "question_id": "fbb716d4",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.\n- Hina Hanta means \"bright path\" in Choctaw.\n- It features images of cultural artifacts relevant to the history of the Choctaw people.\n- It includes a fanner basket (ufko tapushik in Choctaw) made from cane.\n- It includes a robe (nita anchi) made from bear fur.",
+    "question_text": "The student wants to specify the fanner basket's name in Choctaw. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The Hina Hanta archive features cultural artifacts, such as a fanner basket and a robe, that are relevant to the history of the Choctaw people.",
+      "B": "The cane fanner basket, which is included in the Hina Hanta online archive, is called an ufko tapushik in Choctaw.",
+      "C": "Hina Hanta, which means \"bright path\" in Choctaw, includes a fanner basket in its archive.",
+      "D": "The name of the online archive Hina Hanta means \"bright path\" in Choctaw."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The sentence specifies the fanner basket's name in Choctaw, noting that it's called ufko tapushik."
+  },
+  {
+    "question_id": "9db9a861",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.\n- Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.\n- Step 2: The partially cured resin object is raised, leaving a thin space (a \"dead zone\") beneath it for oxygen and liquid resin to flow through.\n- Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.\n- Step 4: When the resin object is complete, it is baked in an oven to complete the curing.",
+    "question_text": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "DLS is a form of additive manufacturing that creates a \"dead zone\" in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object.",
+      "B": "DLS cures 3D objects by passing through a \"dead zone,\" adding layers to the object, then curing the object in an oven.",
+      "C": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+      "D": "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a \"dead zone,\" wherein the curing is completed."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The sentence describes how DLS cures 3D objects, noting that UV light is projected into resin to cure the object in layers, after which the object is baked to complete the curing process."
+  },
+  {
+    "question_id": "89926ff8",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "With darkness falling, a mother elephant loses sight of her calf and wants to make sure it is safe. ______ she releases an infrasonic call for the calf to hear. Infrasonic sound is below the range of human hearing, but many animals can hear these sounds from several miles away.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "For example,",
+      "B": "For this reason,",
+      "C": "Nowadays,",
+      "D": "Similarly,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"For this reason\" is a cause-and-effect transition. The cause in this case is that the mother elephant wants to know that her calf is safe, so the effect is that she lets out an infrasonic call for the calf to hear. Therefore, \"for this reason\" fits perfectly in this context."
+  }
+]

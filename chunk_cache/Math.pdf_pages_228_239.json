@@ -1,0 +1,172 @@
+[
+  {
+    "question_id": "4f5ff634",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is the $y$-intercept of the graph shown?",
+    "options": {
+      "A": "$(0, 0)$",
+      "B": "$(0, 2)$",
+      "C": "$(2, 0)$",
+      "D": "$(2, 2)$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The $y$-intercept of a graph in the $xy$-plane is the point at which the graph crosses the $y$-axis. The graph shown crosses the $y$-axis at the point $(0, 2)$. Therefore, the $y$-intercept of the graph shown is $(0, 2)$."
+  },
+  {
+    "question_id": "c6e98bfc",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$b - 72 = \\frac{x}{y}$",
+    "question_text": "The given equation relates the positive numbers $b$, $x$, and $y$. Which equation correctly expresses $x$ in terms of $b$ and $y$?",
+    "options": {
+      "A": "$x = \\frac{b - 72}{y}$",
+      "B": "$x = by - 72$",
+      "C": "$x = \\frac{by - 72}{y}$",
+      "D": "$x = by - 72y$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Multiplying both sides of the given equation by $y$ yields $y(b - 72) = x$. Distributing on the left-hand side of this equation yields $by - 72y = x$, or $x = by - 72y$. Therefore, the equation $x = by - 72y$ correctly expresses $x$ in terms of $b$ and $y$."
+  },
+  {
+    "question_id": "9c7ef949",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The graph of a system of a linear equation and a nonlinear equation is shown. What is the solution $(x, y)$ to this system?",
+    "options": {
+      "A": "$(0, 0)$",
+      "B": "$(0, 2)$",
+      "C": "$(2, 4)$",
+      "D": "$(4, 0)$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The solution to the system of two equations corresponds to the point where the graphs of the equations intersect. The graphs of the linear equation and the nonlinear equation shown intersect at the point $(2, 4)$. Thus, the solution to the system is $(2, 4)$."
+  },
+  {
+    "question_id": "88032a85",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The graph of a system of a linear and a quadratic equation is shown. What is the solution $(x, y)$ to this system?",
+    "options": {
+      "A": "$(0, 0)$",
+      "B": "$(-4, 1)$",
+      "C": "$(4, -1)$",
+      "D": "$(4, 1)$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The solution to the system corresponds to the point where the graphs of the equations intersect. The graphs of the linear equation and the quadratic equation shown intersect at the point $(4, 1)$. Therefore, $(4, 1)$ is the solution to this system."
+  },
+  {
+    "question_id": "eab050e1",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$y = x^2 + 1.7$\n$y = 1.7 - x$",
+    "question_text": "Which graph represents the given system of equations?",
+    "options": {
+      "A": "Graph A",
+      "B": "Graph B",
+      "C": "Graph C",
+      "D": "Graph D"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The graph of a quadratic equation in the form $y = x^2 + c$ has its vertex at $(0, c)$. The first equation in the given system of equations is $y = x^2 + 1.7$, so the graph of this quadratic equation has its vertex at $(0, 1.7)$. The graph of a linear equation of the form $y = b - x$ has a slope of $-1$ and a $y$-intercept at $(0, b)$. The second equation in the given system of equations is $y = 1.7 - x$, so the graph of this linear equation has a slope of $-1$ and a $y$-intercept at $(0, 1.7)$. Of the choices, only choice A has the graph of a quadratic equation with its vertex at $(0, 1.7)$ and the graph of a linear equation with a slope of $-1$ and a $y$-intercept at $(0, 1.7)$."
+  },
+  {
+    "question_id": "24331e5e",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$f(t) = 55t - 2t^2$\nThe function $f$ is defined by the given equation. The function $g$ is defined by $g(t) = f(t) + 3$.",
+    "question_text": "Which expression represents the maximum value of $g(t)$?",
+    "options": {
+      "A": "$3 + \\left(\\frac{55}{2}\\right)^2$",
+      "B": "$3 + 2\\left(\\frac{55}{4}\\right)^2$",
+      "C": "$3 - 2\\left(/frac{55}{4}\\right)^2$",
+      "D": "$3 - \\left(\\frac{55}{2}\\right)^2$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that function $g$ is defined by $g(t) = f(t) + 3$ and that $f(t) = 55t - 2t^2$. Substituting $55t - 2t^2$ for $f(t)$ in $g(t) = f(t) + 3$ yields $g(t) = 55t - 2t^2 + 3$, or $g(t) = -2t^2 + 55t + 3$. The maximum value of $g(t)$ can be found by completing the square to rewrite the equation defining $g$ in the form $g(t) = a(t - h)^2 + k$, where the maximum value of the function is $k$, which occurs when $t = h$, and $a$ is a negative constant. The equation $g(t) = -2t^2 + 55t + 3$ is equivalent to $g(t) = -2\\left(t^2 - \\frac{55}{2}t\\right) + 3$, which can be rewritten as $g(t) = -2\\left(t^2 - \\frac{55}{2}t + \\left(\\frac{55}{4}\\right)^2\\right) + 3 + 2\\left(\\frac{55}{4}\\right)^2$, or $g(t) = -2\\left(t - \\frac{55}{4}\\right)^2 + 3 + 2\\left(\\frac{55}{4}\\right)^2$. This equation is in the form $g(t) = a(t - h)^2 + k$, where $a = -2$, $h = \\frac{55}{4}$, and $k = 3 + 2\\left(\\frac{55}{4}\\right)^2$. Thus, the maximum value of $g(t)$ is $3 + 2\\left(\\frac{55}{4}\\right)^2$."
+  },
+  {
+    "question_id": "424cddc9",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "To study the moisture content in a group of trees, samples from the trunk of each tree were taken from $25$ trees and cut in the shape of a cube. The length of the edge of one of these cubes is $2.00$ centimeters. If this cube has a mass of $2.56$ grams, what is the density of this cube, in grams per cubic centimeter?",
+    "question_text": "To study the moisture content in a group of trees, samples from the trunk of each tree were taken from $25$ trees and cut in the shape of a cube. The length of the edge of one of these cubes is $2.00$ centimeters. If this cube has a mass of $2.56$ grams, what is the density of this cube, in grams per cubic centimeter?",
+    "options": null,
+    "correct_answer": "0.32",
+    "explanation": "The correct answer is $0.32$. The volume of a cube is given by the formula $V = s^3$, where $s$ is the length of an edge of the cube. It's given that each edge of the cube has a length of $2.00$ centimeters. Substituting $2.00$ centimeters for $s$ in the formula $V = s^3$ yields $V = (2.00 \\text{ centimeters})^3$, or $V = 8.00$ cubic centimeters. It's given that the cube has a mass of $2.56$ grams. Dividing the mass, in grams, of the cube by the volume, in cubic centimeters, of the cube gives its density, in grams per cubic centimeters. Therefore, the density of the cube is $\\frac{2.56 \\text{ grams}}{8.00 \\text{ cubic centimeters}}$, or $.32$ grams per cubic centimeter. Note that $.32$ and $8/25$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "0f1d42fd",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The density of a certain type of wood is $353$ kilograms per cubic meter. A sample of this type of wood is in the shape of a cube and has a mass of $345$ kilograms.",
+    "question_text": "To the nearest hundredth of a meter, what is the length of one edge of this sample?",
+    "options": {
+      "A": "$0.98$",
+      "B": "$0.99$",
+      "C": "$1.01$",
+      "D": "$1.02$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the density of a certain type of wood is $353$ kilograms per cubic meter ($\\text{kg}/\\text{m}^3$), and a sample of this type of wood has a mass of $345$ kg. Let $x$ represent the volume, in $\\text{m}^3$, of the sample. It follows that the relationship between the density, mass, and volume of this sample can be written as $\\frac{353 \\text{ kg}}{1 \\text{ m}^3} = \\frac{345 \\text{ kg}}{x \\text{ m}^3}$, or $353 = \\frac{345}{x}$. Multiplying both sides of this equation by $x$ yields $353x = 345$. Dividing both sides of this equation by $353$ yields $x = \\frac{345}{353}$. Therefore, the volume of this sample is $\\frac{345}{353} \\text{ m}^3$. Since it's given that the sample of this type of wood is a cube, it follows that the length of one edge of this sample can be found using the volume formula for a cube, $V = s^3$, where $V$ represents the volume, in $\\text{m}^3$, and $s$ represents the length, in m, of one edge of the cube. Substituting $\\frac{345}{353}$ for $V$ in this formula yields $\\frac{345}{353} = s^3$. Taking the cube root of both sides of this equation yields $\\sqrt[3]{\\frac{345}{353}} = s$, or $s \\approx 0.99$. Therefore, the length of one edge of this sample to the nearest hundredth of a meter is $0.99$."
+  },
+  {
+    "question_id": "bbfa4707",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Ratios, rates, proportional relationships, and units",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A wind turbine completes $900$ revolutions in $50$ minutes. At this rate, how many revolutions per minute does this turbine complete?",
+    "options": {
+      "A": "$18$",
+      "B": "$850$",
+      "C": "$950$",
+      "D": "$1,400$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. Dividing the number of revolutions by the number of minutes gives the number of revolutions the turbine completes per minute. It's given that the wind turbine completes $900$ revolutions in $50$ minutes. Therefore, at this rate, this turbine completes $\\frac{900}{50}$, or $18$, revolutions per minute."
+  },
+  {
+    "question_id": "bcbf0e45",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "One of the factors of $2x^3 + 42x^2 + 208x$ is $x + b$, where $b$ is a positive constant.",
+    "question_text": "What is the smallest possible value of $b$?",
+    "options": null,
+    "correct_answer": "8",
+    "explanation": "The correct answer is $8$. Since each term of the given expression, $2x^3 + 42x^2 + 208x$, has a factor of $2x$, the expression can be rewritten as $2x(x^2) + 2x(21x) + 2x(104)$, or $2x(x^2 + 21x + 104)$. Since the values $8$ and $13$ have a sum of $21$ and a product of $104$, the expression $x^2 + 21x + 104$ can be factored as $(x + 8)(x + 13)$. Therefore, the given expression can be factored as $2x(x + 8)(x + 13)$. It follows that the factors of the given expression are $2x$, $x$, $x + 8$, and $x + 13$. Of these factors, only $x + 8$ and $x + 13$ are of the form $x + b$, where $b$ is a positive constant. Therefore, the possible values of $b$ are $8$ and $13$. Thus, the smallest possible value of $b$ is $8$."
+  }
+]

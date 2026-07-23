@@ -1,0 +1,208 @@
+[
+  {
+    "question_id": "307d7ae0",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "Triangle $ABC$ is similar to triangle $DEF$, where angle $A$ corresponds to angle $D$ and angle $C$ corresponds to angle $F$. Angles $C$ and $F$ are right angles. If $\\tan(A) = \\frac{50}{7}$, what is the value of $\\tan(E)$?",
+    "options": null,
+    "correct_answer": "7/50",
+    "explanation": "The correct answer is $\\frac{7}{50}$. It's given that triangle $ABC$ is similar to triangle $DEF$, where angle $A$ corresponds to angle $D$ and angle $C$ corresponds to angle $F$. In similar triangles, the tangents of corresponding angles are equal. Since angle $A$ and angle $D$ are corresponding angles, if $\\tan(A) = \\frac{50}{7}$, then $\\tan(D) = \\frac{50}{7}$. It's also given that angles $C$ and $F$ are right angles. It follows that triangle $DEF$ is a right triangle with acute angles $D$ and $E$. The tangent of one acute angle in a right triangle is the inverse of the tangent of the other acute angle in the triangle. Therefore, $\\tan(E) = \\frac{1}{\\tan(D)}$. Substituting $\\frac{50}{7}$ for $\\tan(D)$ in this equation yields $\\tan(E) = \\frac{1}{\\frac{50}{7}}$, or $\\tan(E) = \\frac{7}{50}$. Thus, if $\\tan(A) = \\frac{50}{7}$, the value of $\\tan(E)$ is $\\frac{7}{50}$. Note that 7/50 and .14 are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "ee884080",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Triangle $ABC$ is similar to triangle $DEF$, where angle $A$ corresponds to angle $D$, and angles $C$ and $F$ are right angles. If $\\cos B = \\frac{1}{22}$, what is the value of $\\cos E$?",
+    "options": {
+      "A": "$\\frac{1}{22}$",
+      "B": "$\\frac{1}{23}$",
+      "C": "$\\frac{21}{22}$",
+      "D": "$\\frac{22}{23}$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The cosine of an acute angle in a right triangle is defined as the ratio of the length of the leg adjacent to that angle to the length of the hypotenuse. It's given that angle $C$ is a right angle in triangle $ABC$ and that angle $F$ is a right angle in triangle $DEF$. Therefore, $\\cos B$ is equal to the ratio of the length of side $BC$ to the length of side $AB$, and $\\cos E$ is equal to the ratio of the length of side $EF$ to the length of side $DE$. It’s also given that triangle $ABC$ is similar to triangle $DEF$, where angle $A$ corresponds to angle $D$. Since similar triangles have proportional side lengths, $\\frac{BC}{AB} = \\frac{EF}{DE}$. Therefore, the value of $\\cos B$ is equal to the value of $\\cos E$. Since $\\cos B = \\frac{1}{22}$, the value of $\\cos E$ is $\\frac{1}{22}$."
+  },
+  {
+    "question_id": "aaf7481c",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A rectangle has a length of $3$ units and a width of $39$ units. Which expression gives the area, in square units, of this rectangle?",
+    "options": {
+      "A": "$2(3 + 39)$",
+      "B": "$2(3 \\cdot 39)$",
+      "C": "$3 + 39$",
+      "D": "$3 \\cdot 39$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The area of a rectangle is given by $\\ell w$, where $\\ell$ is the length of the rectangle and $w$ is the width of the rectangle. It's given that a rectangle has a length of $3$ units and a width of $39$ units. It follows that the area of the rectangle is $3 \\cdot 39$ square units. Therefore, the expression that gives the area, in square units, of this rectangle, is $3 \\cdot 39$."
+  },
+  {
+    "question_id": "532c012b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Each base of a right rectangular prism has a length of $19$ inches and a width of $8$ inches. The prism has a volume of $2,736$ cubic inches. What is the height, in inches, of the prism?",
+    "options": {
+      "A": "$18$",
+      "B": "$27$",
+      "C": "$144$",
+      "D": "$152$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The volume, $V$, of a rectangular prism is given by the formula $V = \\ell wh$, where $\\ell$ is the length of the base, $w$ is the width of the base, and $h$ is the height of the prism. It’s given that each base of a right rectangular prism has a length of $19$ inches and a width of $8$ inches, and that the prism has a volume of $2,736$ cubic inches. Substituting $19$ for $\\ell$, $8$ for $w$, and $2,736$ for $V$ in the formula $V = \\ell wh$ gives $2,736 = (19)(8)(h)$, or $2,736 = 152h$. Dividing each side of this equation by $152$ yields $18 = h$. Therefore, the height, in inches, of the prism is $18$."
+  },
+  {
+    "question_id": "aac770b4",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "In triangles $LMN$ and $RST$, angles $L$ and $R$ each have measure $60^\\circ$, $LN = 10$, and $RT = 30$. Which additional piece of information is sufficient to prove that triangle $LMN$ is similar to triangle $RST$?",
+    "options": {
+      "A": "$MN = 7$ and $ST = 7$",
+      "B": "$MN = 7$ and $ST = 21$",
+      "C": "The measures of angles $M$ and $S$ are $70^\\circ$ and $60^\\circ$, respectively.",
+      "D": "The measures of angles $M$ and $T$ are $70^\\circ$ and $50^\\circ$, respectively."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Two triangles are similar if they have three pairs of congruent corresponding angles. It’s given that angles $L$ and $R$ each measure $60^\\circ$, and so these corresponding angles are congruent. If angle $M$ is $70^\\circ$, then angle $N$ must be $50^\\circ$ so that the sum of the angles in triangle $LMN$ is $180^\\circ$. If angle $T$ is $50^\\circ$, then angle $S$ must be $70^\\circ$ so that the sum of the angles in triangle $RST$ is $180^\\circ$. Therefore, if the measures of angles $M$ and $T$ are $70^\\circ$ and $50^\\circ$, respectively, then corresponding angles $M$ and $S$ are both $70^\\circ$, and corresponding angles $N$ and $T$ are both $50^\\circ$. It follows that triangles $LMN$ and $RST$ have three pairs of congruent corresponding angles, and so the triangles are similar. Therefore, the additional piece of information that is sufficient to prove that triangle $LMN$ is similar to triangle $RST$ is that the measures of angles $M$ and $T$ are $70^\\circ$ and $50^\\circ$, respectively."
+  },
+  {
+    "question_id": "1f96ea4b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Points $M$, $N$, and $P$ lie on the circle shown. On this circle, minor arc $MN$ has a length of $39$ centimeters and major arc $MPN$ has a length of $195$ centimeters. What is the circumference, in centimeters, of the circle shown?",
+    "options": {
+      "A": "$39$",
+      "B": "$156$",
+      "C": "$195$",
+      "D": "$234$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Since the endpoints of minor arc $MN$ and major arc $MPN$ are the same, and the arcs together form a full circle, the sum of the lengths of these two arcs is equal to the circumference of the circle. It's given that the length of minor arc $MN$ is $39$ centimeters and the length of major arc $MPN$ is $195$ centimeters. Therefore, the circumference of the circle, in centimeters, is $39 + 195$, or $234$."
+  },
+  {
+    "question_id": "7ea88342",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "An angle has a measure of $\\frac{16\\pi}{15}$ radians. What is the measure of the angle, in degrees?",
+    "options": null,
+    "correct_answer": "192",
+    "explanation": "The correct answer is $192$. The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by $\\frac{180^\\circ}{\\pi \\text{ radians}}$. Multiplying the given angle measure, $\\frac{16\\pi}{15} \\text{ radians}$, by $\\frac{180^\\circ}{\\pi \\text{ radians}}$ yields $\\left(\\frac{16\\pi}{15} \\text{ radians}\\right)\\left(\\frac{180^\\circ}{\\pi \\text{ radians}}\\right)$, which simplifies to $192^\\circ$ degrees."
+  },
+  {
+    "question_id": "9ca6e7b4",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A circle has center $O$, and points $A$ and $B$ lie on the circle. The measure of arc $AB$ is $45^\\circ$ and the length of arc $AB$ is $3$ inches. What is the circumference, in inches, of the circle?",
+    "options": {
+      "A": "$3$",
+      "B": "$6$",
+      "C": "$9$",
+      "D": "$24$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It’s given that the measure of arc $AB$ is $45^\\circ$ and the length of arc $AB$ is $3 \\text{ inches}$. The arc measure of the full circle is $360^\\circ$. If $x$ represents the circumference, in inches, of the circle, it follows that $\\frac{45^\\circ}{360^\\circ} = \\frac{3 \\text{ inches}}{x \\text{ inches}}$. This equation is equivalent to $\\frac{45}{360} = \\frac{3}{x}$, or $\\frac{1}{8} = \\frac{3}{x}$. Multiplying both sides of this equation by $8x$ yields $1(x) = 3(8)$, or $x = 24$. Therefore, the circumference of the circle is $24 \\text{ inches}$. "
+  },
+  {
+    "question_id": "26c126bb",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "In triangle $PQR$, $\\overline{QR}$ is extended to point $S$. The measure of $\\angle PRS$ is $163^\\circ$, and the measure of $\\angle PQR$ is $132^\\circ$. What is the measure of $\\angle QPR$?",
+    "options": {
+      "A": "$48^\\circ$",
+      "B": "$31^\\circ$",
+      "C": "$24^\\circ$",
+      "D": "$17^\\circ$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. In the figure shown, since $\\overline{QS}$ is a line segment, the sum of the measures of $\\angle PRS$ and $\\angle PRQ$ is $180^\\circ$. It's given that the measure of $\\angle PRS$ is $163^\\circ$. Thus, the measure of $\\angle PRQ$ is $(180 - 163)^\\circ$, or $17^\\circ$. The sum of the measures of the interior angles of a triangle is $180^\\circ$. It's given that the measure of $\\angle PQR$ is $132^\\circ$. Therefore, the measure of $\\angle QPR$ is $(180 - 17 - 132)^\\circ$, or $31^\\circ$."
+  },
+  {
+    "question_id": "3ae04874",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "In the right triangle shown, which of the following is closest to the value of $c$?",
+    "options": {
+      "A": "$7.5$",
+      "B": "$10.8$",
+      "C": "$15$",
+      "D": "$58.5$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. By the Pythagorean theorem, if a right triangle has a hypotenuse with length $t$ and legs with lengths $r$ and $s$, then $r^2 + s^2 = t^2$. It's given in the right triangle shown that the legs have lengths of $9$ and $6$ and the hypotenuse has a length of $c$. Substituting $9$ for $r$, $6$ for $s$, and $c$ for $t$ in $r^2 + s^2 = t^2$ yields $9^2 + 6^2 = c^2$, or $117 = c^2$. Taking the square root of both sides of this equation yields $\\pm\\sqrt{117} = c$. Since the length of a side of a triangle must be positive, the value of $c$ is $\\sqrt{117}$, which is approximately equal to $10.8167$. Of the choices, $10.8$ is the closest to the value of $c$."
+  },
+  {
+    "question_id": "9c3d5225",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Square A has side lengths that are $246$ times the side lengths of square B. The area of square A is $k$ times the area of square B. What is the value of $k$?",
+    "options": {
+      "A": "$60,516$",
+      "B": "$492$",
+      "C": "$246$",
+      "D": "$123$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The area of a square is $s^2$, where $s$ is the side length of the square. Therefore, the area of square B is $b^2$, where $b$ is the side length of square B. It’s given that square A has side lengths that are $246$ times the side lengths of square B. Therefore, the side length of square A can be represented by the expression $246b$. It follows that the area of square A is $(246b)^2$, or $60,516b^2$. It’s given that the area of square A is $k$ times the area of square B, so $60,516b^2 = kb^2$. Therefore, the value of $k$ is $60,516$."
+  },
+  {
+    "question_id": "729a31a8",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$(x - 6)^2 + (y - 3)^2 = 81$",
+    "question_text": "The graph of the given equation in the xy-plane is a circle. What is the length of the radius of this circle?",
+    "options": {
+      "A": "$3$",
+      "B": "$6$",
+      "C": "$9$",
+      "D": "$81$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The equation of a circle in the xy-plane can be written as $(x - h)^2 + (y - k)^2 = r^2$, where the center of the circle is $(h, k)$ and the radius of the circle is $r$. The graph of the given equation, $(x - 6)^2 + (y - 3)^2 = 81$, is a circle in the xy-plane. This equation can be written as $(x - 6)^2 + (y - 3)^2 = 9^2$, where $h = 6$, $k = 3$, and $r = 9$. Therefore, the radius of this circle is $9$."
+  }
+]

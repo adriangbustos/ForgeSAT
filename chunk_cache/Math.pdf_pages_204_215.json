@@ -1,0 +1,185 @@
+[
+  {
+    "question_id": "b9b42f28",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "Function $f$ is a quadratic function where $f(-20) = 0$ and $f(-4) = 0$. The graph of $y = f(x)$ in the $xy$-plane has a vertex at $(r, -64)$. What is the value of $r$?",
+    "options": null,
+    "correct_answer": "-12",
+    "explanation": "The correct answer is $-12$. It's given that function $f$ is a quadratic function where $f(-20) = 0$ and $f(-4) = 0$. It follows that the graph of $y = f(x)$ in the $xy$-plane passes through the points $(-20, 0)$ and $(-4, 0)$. When the graph of a quadratic function contains two points $(a, 0)$ and $(b, 0)$, the $x$-coordinate of the vertex of the graph is the average of $a$ and $b$. Therefore, the $x$-coordinate of the vertex of the graph of $y = f(x)$ is $\\frac{-20 + (-4)}{2}$, or $-12$. It's given that the graph of $y = f(x)$ in the $xy$-plane has a vertex at $(r, -64)$. It follows that the value of $r$ is $-12$."
+  },
+  {
+    "question_id": "a1bb87b1",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Which expression is equivalent to $11x^3 - 5x^3$?",
+    "options": {
+      "A": "$16x^3$",
+      "B": "$6x^3$",
+      "C": "$6x^6$",
+      "D": "$16x^6$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The given expression can be rewritten as $11x^3 + (-5)x^3$. Since the two terms of this expression are both constant multiples of $x^3$, they are like terms and can, therefore, be combined through addition. Adding like terms in the expression $11x^3 + (-5)x^3$ yields $6x^3$."
+  },
+  {
+    "question_id": "72fa8b3e",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Which expression is equivalent to $15w^2 + 8w$?",
+    "options": {
+      "A": "$w(15w + 8)$",
+      "B": "$8w(15w + 1)$",
+      "C": "$15w^2(8w + 1)$",
+      "D": "$23(w^2 + w)$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. Since each term of the given expression has a common factor of $w$, it may be rewritten as $w(15w + 8)$. Therefore, the expression $w(15w + 8)$ is equivalent to $15w^2 + 8w$."
+  },
+  {
+    "question_id": "59cf1dd3",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$$(x - 1)^2 = -4$$",
+    "question_text": "How many distinct real solutions does the given equation have?",
+    "options": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Any quantity that is positive or negative in value has a positive value when squared. Therefore, the left-hand side of the given equation is either positive or zero for any value of $x$. Since the right-hand side of the given equation is negative, there is no value of $x$ for which the given equation is true. Thus, the number of distinct real solutions for the given equation is zero."
+  },
+  {
+    "question_id": "d6b10177",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The graph shows a marble's height above the ground $y$, in inches, $x$ seconds after it started moving on an elevated track of a marble run.",
+    "question_text": "Which of the following is the best interpretation of the $y$-intercept of the graph?",
+    "options": {
+      "A": "The marble's height was $0$ inches above the ground $8$ seconds after it started moving.",
+      "B": "The marble's height was $8$ inches above the ground when it started moving.",
+      "C": "The marble's minimum height was $0$ inches above the ground.",
+      "D": "The marble's minimum height was $8$ inches above the ground."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The $y$-intercept of a graph is the point at which the graph intersects the $y$-axis. The graph shown intersects the $y$-axis at the point $(0, 8)$. Therefore, the $y$-intercept of the graph is $(0, 8)$. It's given that $y$ is the height of the marble above the ground, in inches, and $x$ is the number of seconds after the marble started moving. It follows that the marble's height was $8$ inches above the ground $0$ seconds after it started moving. Therefore, the best interpretation of the $y$-intercept of the graph is that the marble's height was $8$ inches above the ground when it started moving."
+  },
+  {
+    "question_id": "d783308c",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Percentages",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "The number $a$ is $70\\%$ less than the positive number $b$. The number $c$ is $80\\%$ greater than $a$. The number $c$ is how many times $b$?",
+    "options": null,
+    "correct_answer": ".54",
+    "explanation": "The correct answer is $.54$. It's given that the number $a$ is $70\\%$ less than the positive number $b$. Therefore, $a = (1 - \\frac{70}{100})b$, which is equivalent to $a = (1 - 0.70)b$, or $a = 0.30b$. It's also given that the number $c$ is $80\\%$ greater than $a$. Therefore, $c = (1 + \\frac{80}{100})a$, which is equivalent to $c = (1 + 0.80)a$, or $c = 1.80a$. Since $a = 0.30b$, substituting $0.30b$ for $a$ in the equation $c = 1.80a$ yields $c = 1.80(0.30b)$, or $c = 0.54b$. Thus, $c$ is $0.54$ times $b$. Note that $.54$ and $27/50$ are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "005878b3",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "One-variable data: Distributions and measures of center and spread",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The histograms summarize the distributions of number of units sold, in thousands, for company A and company B.",
+    "question_text": "Which statement best compares the standard deviations of number of units sold for these companies?",
+    "options": {
+      "A": "The standard deviation of number of units sold for company A is less than the standard deviation of number of units sold for company B.",
+      "B": "The standard deviation of number of units sold for company A is greater than the standard deviation of number of units sold for company B.",
+      "C": "The standard deviation of number of units sold for company A is equal to the standard deviation of number of units sold for company B.",
+      "D": "There is not enough information to compare the standard deviations."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. Standard deviation measures the spread of a given data set from its mean. In a data set with a smaller standard deviation, there are more values close to the mean. In a data set with a greater standard deviation, there are more values farther from the mean. The two histograms shown have the same scale on the horizontal axis. Therefore, their standard deviations can be compared by visually comparing the spreads of their histograms. For company A, the histogram shows all the values in that data set are close to the mean. For company B, the histogram shows there are fewer values close to the mean and more values farther from the mean. Therefore, the standard deviation of number of units sold for company A is less than the standard deviation of number of units sold for company B."
+  },
+  {
+    "question_id": "b160d8c8",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Two-variable data: Models and scatterplots",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit for the data is also shown.",
+    "question_text": "At $x = 25.5$, which of the following is closest to the $y$-value predicted by the line of best fit?",
+    "options": {
+      "A": "$6.2$",
+      "B": "$7.3$",
+      "C": "$8.2$",
+      "D": "$9.1$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. On the line of best fit, an $x$-value of $25.5$ corresponds to a $y$-value between $8$ and $8.5$. Therefore, at $x = 25.5$, $8.2$ is closest to the $y$-value predicted by the line of best fit."
+  },
+  {
+    "question_id": "1e7832f1",
+    "section": "Math",
+    "domain": "Problem-Solving and Data Analysis",
+    "skill": "Inference from sample statistics and margin of error",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A sample consisting of $720$ adults who own televisions was selected at random for a study. Based on the sample, it is estimated that $32\\%$ of all adults who own televisions use their televisions to watch nature shows, with an associated margin of error of $3.41\\%.$",
+    "question_text": "Which of the following is the most plausible conclusion about all adults who own televisions?",
+    "options": {
+      "A": "More than $35.41\\%$ of all adults who own televisions use their televisions to watch nature shows.",
+      "B": "Between $28.59\\%$ and $35.41\\%$ of all adults who own televisions use their televisions to watch nature shows.",
+      "C": "Since the sample included adults who own televisions and not just those who use their televisions to watch nature shows, no conclusion can be made.",
+      "D": "Since the sample did not include all the people who watch nature shows, no conclusion can be made."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that based on a sample selected at random, it's estimated that $32\\%$ of all adults who own televisions use their televisions to watch nature shows, with an associated margin of error of $3.41\\%$. Subtracting the margin of error from the estimate and adding the margin of error to the estimate gives an interval of plausible values for the true percentage of adults who own televisions who use their televisions to watch nature shows. This means it's plausible that between $32\\% - 3.41\\%$, or $28.59\\%$, and $32\\% + 3.41\\%$, or $35.41\\%$, of all adults who own televisions use their televisions to watch nature shows. Therefore, of the given choices, the most plausible conclusion is that between $28.59\\%$ and $35.41\\%$ of all adults who own televisions use their televisions to watch nature shows."
+  },
+  {
+    "question_id": "5513928b",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The product of two positive integers is $546$. If the first integer is $11$ greater than twice the second integer, what is the smaller of the two integers?",
+    "options": {
+      "A": "$7$",
+      "B": "$14$",
+      "C": "$39$",
+      "D": "$78$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. Let $x$ be the first integer and let $y$ be the second integer. If the first integer is $11$ greater than twice the second integer, then $x = 2y + 11$. If the product of the two integers is $546$, then $xy = 546$. Substituting $2y + 11$ for $x$ in this equation results in $(2y + 11)y = 546$. Distributing the $y$ to both terms in the parentheses results in $2y^2 + 11y = 546$. Subtracting $546$ from both sides of this equation results in $2y^2 + 11y - 546 = 0$. The left-hand side of this equation can be factored by finding two values whose product is $2(-546)$, or $-1,092$, and whose sum is $11$. The two values whose product is $-1,092$ and whose sum is $11$ are $39$ and $-28$. Thus, the equation $2y^2 + 11y - 546 = 0$ can be rewritten as $2y^2 + 28y - 39y - 546 = 0$, which is equivalent to $2y(y - 14) + 39(y - 14) = 0$, or $(2y + 39)(y - 14) = 0$. By the zero product property, it follows that $2y + 39 = 0$ and $y - 14 = 0$. Subtracting $39$ from both sides of the equation $2y + 39 = 0$ yields $2y = -39$. Dividing both sides of this equation by $2$ yields $y = -\\frac{39}{2}$. Since $y$ is a positive integer, the value of $y$ is not $-\\frac{39}{2}$. Adding $14$ to both sides of the equation $y - 14 = 0$ yields $y = 14$. Substituting $14$ for $y$ in the equation $xy = 546$ yields $x(14) = 546$. Dividing both sides of this equation by $14$ results in $x = 39$. Therefore, the two integers are $14$ and $39$, so the smaller of the two integers is $14$."
+  },
+  {
+    "question_id": "37cf569f",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "$$(x - 47)^2 = 1$$",
+    "question_text": "What is the sum of the solutions to the given equation?",
+    "options": null,
+    "correct_answer": "94",
+    "explanation": "The correct answer is $94$. Taking the square root of each side of the given equation yields $x - 47 = 1$ or $x - 47 = -1$. Adding $47$ to both sides of the equation $x - 47 = 1$ yields $x = 48$. Adding $47$ to both sides of the equation $x - 47 = -1$ yields $x = 46$. Therefore, the sum of the solutions to the given equation is $48 + 46$, or $94$."
+  }
+]

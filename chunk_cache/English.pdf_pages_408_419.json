@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "ce7ee632",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the 1850s, William Still was instrumental in helping nearly 1,000 people escape from slavery, earning him the moniker “the Father of the Underground Railroad.” ______ despite the fame of his contributions during his lifetime, Still is discussed far less today than other prominent Black abolitionists from his era, such as Frederick Douglass and Harriet Tubman.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "For example,",
+      "B": "However,",
+      "C": "Specifically,",
+      "D": "Similarly,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"However\" is used to indicate a contrast between two ideas. The first sentence describes how Still used to be famous. This sentence describes how Still is not very famous today, so the transition \"however\" fits perfectly. Choice A is incorrect. This choice uses a transition that introduces an example. But the second sentence doesn’t provide a specific example of Still’s famous contributions to the Underground Railroad. Instead, it changes the subject to how his fame has faded over time. Choice C is incorrect. This choice uses a transition that introduces an example or continuation of a previous idea. But the second sentence doesn’t provide a specific example of Still’s famous contributions to the Underground Railroad. Instead, it changes the subject to how his fame has faded over time. Choice D is incorrect. This choice uses a transition that indicates the agreement between two ideas. But this sentence shows a contrast with the first sentence—namely, that Still used to be very famous but now isn’t very famous."
+  },
+  {
+    "question_id": "d305b5c4",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- In 1999, astronomer Todd Henry studied the differences in surface temperature between the Sun and nearby stars.\n- His team mapped all stars within 10 parsecs (approximately 200 trillion miles) of the Sun.\n- The surface temperature of the Sun is around 9,800$^{\\circ}$F, which classifies it as a G star.\n- 327 of the 357 stars in the study were classified as K or M stars, with surface temperatures under 8,900$^{\\circ}$F (cooler than the Sun).\n- 11 of the 357 stars in the study were classified as A or F stars, with surface temperatures greater than 10,300$^{\\circ}$F (hotter than the Sun).",
+    "question_text": "The student wants to emphasize how hot the Sun is relative to nearby stars. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "At around 9,800$^{\\circ}$F, which classifies it as a G star, the Sun is hotter than most but not all of the stars within 10 parsecs of it.",
+      "B": "Astronomer Todd Henry determined that the Sun, at around 9,800$^{\\circ}$F, is a G star, and several other stars within a 10-parsec range are A or F stars.",
+      "C": "Of the 357 stars within ten parsecs of the Sun, 327 are classified as K or M stars, with surface temperatures under 8,900$^{\\circ}$F.",
+      "D": "While most of the stars within 10 parsecs of the Sun are classified as K, M, A, or F stars, the Sun is classified as a G star due to its surface temperature of 9,800$^{\\circ}$F."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Noting that the Sun (9,800$^{\\circ}$F) is hotter than most stars within 10 parsecs of it, the sentence emphasizes how hot the Sun is relative to nearby stars. Choice B is incorrect. The sentence explains that astronomer Todd Henry determined the classifications for the Sun and several other stars nearby; it doesn’t emphasize how hot the Sun is relative to nearby stars. Choice C is incorrect. The sentence explains that the majority of stars near the Sun are classified as K or M stars; it doesn’t indicate the Sun’s temperature or emphasize how hot it is relative to nearby stars. Choice D is incorrect. While the sentence indicates that the Sun is classified differently than most nearby stars due to its surface temperature, it doesn’t emphasize how hot the Sun is relative to nearby stars."
+  },
+  {
+    "question_id": "dabfeafe",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In 1891, dancer and choreographer Loie Fuller first performed her celebrated Serpentine Dance, artfully twirling her long, flowing skirt to create striking visual effects. ______ in 1896, cinema pioneers Auguste and Louis Lumière made a groundbreaking short film of Fuller’s dance.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "However,",
+      "B": "In conclusion,",
+      "C": "Later,",
+      "D": "In other words,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. “Later” logically signals that the event discussed in this sentence—the creation of the short film featuring Fuller’s dance—is a related event that occurred after the event discussed in the previous sentence (the 1891 debut of the dance). Choice A is incorrect because “however” illogically signals that the information in this sentence contrasts with the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence. Choice B is incorrect because “in conclusion” illogically signals that the information in this sentence concludes or summarizes the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence. Choice D is incorrect because “in other words” illogically signals that the information in this sentence is a paraphrase or restatement of the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence."
+  },
+  {
+    "question_id": "9f03982b",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Practical movie effects, such as the use of actual locations in a film, provide a more realistic visual experience than computer-generated imagery (CGI) does, but giving audiences the “real thing” can be prohibitively expensive. ______ many filmmakers use a blended approach, employing practical effects whenever possible and CGI elements as necessary to control costs.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Similarly,",
+      "B": "For this reason,",
+      "C": "Furthermore,",
+      "D": "In other words,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The first sentence tells us that practical effects are more realistic but also more expensive than CGI. The second sentence tells us that many filmmakers use both kinds of effects, balancing realism with cost. To connect these ideas, we need a cause-and-effect transition, like “therefore.” “For this reason” has the same meaning as “therefore.” Choice A is incorrect. This isn’t a logical transition. The first sentence tells us that practical effects are more realistic but also more expensive than CGI. The second sentence tells us that many filmmakers use both kinds of effects, balancing realism with cost. To connect these ideas, we need a cause-and-effect transition, like “therefore.” “Similarly” doesn’t show cause and effect: it shows the addition of another agreeing idea. Choice C is incorrect. This isn’t a logical transition. The first sentence tells us that practical effects are more realistic but also more expensive than CGI. The second sentence tells us that many filmmakers use both kinds of effects, balancing realism with cost. To connect these ideas, we need a cause-and-effect transition, like “therefore.” “Furthermore” doesn’t show cause and effect: it shows the addition of another agreeing idea. Choice D is incorrect. This isn’t a logical transition. The first sentence tells us that practical effects are more realistic but also more expensive than CGI. The second sentence tells us that many filmmakers use both kinds of effects, balancing realism with cost. To connect these ideas, we need a cause-and-effect transition, like “therefore.” “In other words” doesn’t show cause and effect: it shows a restatement of the same idea in different words."
+  },
+  {
+    "question_id": "e162b5ae",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Texture analysis and historical analysis are two approaches to art criticism.\n- Texture analysis examines how surfaces are visually represented in an artwork.\n- Such an analysis of Giorgione’s Youth Holding an Arrow might consider how the painting’s blended colors make the subject’s skin appear smooth in texture.\n- Historical analysis considers the historical context in which a work was created.\n- Such an analysis of Diego Velázquez’s Las Meninas might consider how the painting’s depiction of the artist with King Philip IV symbolizes art’s historical ties to power.",
+    "question_text": "The student wants to present historical analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "A texture analysis of Youth Holding an Arrow might consider how the painting’s blended colors make the subject’s skin appear smooth in texture.",
+      "B": "Texture analysis differs from historical analysis in that texture analysis examines how surfaces are visually represented in an artwork.",
+      "C": "An approach to art criticism, historical analysis considers the historical context in which a work was created.",
+      "D": "Las Meninas’s depiction of the artist with King Philip IV symbolizes art’s historical ties to power."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The sentence presents historical analysis to an audience unfamiliar with the concept by defining it as an approach to art criticism that considers the historical context in which a work was created. Choice A is incorrect because it provides an example of texture analysis; it doesn’t present historical analysis to an audience unfamiliar with the concept. Choice B is incorrect. The sentence explains a difference between texture analysis and historical analysis; it doesn’t present historical analysis to an audience unfamiliar with the concept. Choice D is incorrect. It provides an example of historical analysis; it doesn’t present historical analysis to an audience unfamiliar with the concept."
+  },
+  {
+    "question_id": "1572e3e1",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- As engineered structures, many bird nests are uniquely flexible yet cohesive.\n- A research team led by Yashraj Bhosale wanted to better understand the mechanics behind these structural properties.\n- Bhosale’s team used laboratory models that simulated the arrangement of flexible sticks into nest-like structures.\n- The researchers analyzed the points where sticks touched one another.\n- When pressure was applied to the model nests, the number of contact points between the sticks increased, making the structures stiffer.",
+    "question_text": "The student wants to present the primary aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Bhosale’s team wanted to better understand the mechanics behind bird nests’ uniquely flexible yet cohesive structural properties.",
+      "B": "The researchers used laboratory models that simulated the arrangement of flexible sticks and analyzed the points where sticks touched one another.",
+      "C": "After analyzing the points where sticks touched, the researchers found that the structures became stiffer when pressure was applied.",
+      "D": "As analyzed by Bhosale’s team, bird nests are uniquely flexible yet cohesive engineered structures."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It describes the reason Bhosale’s team wanted to study the structures of bird nests—that is to say, the study’s primary aim. Choice B is incorrect. This choice doesn’t present the primary aim of the research study. It describes how the study worked, but not why it was done. Choice C is incorrect. This choice doesn’t present the primary aim of the research study. It describes a result of the experiment, but not why it was carried out. Choice D is incorrect. This choice doesn’t present the primary aim of the research study."
+  },
+  {
+    "question_id": "853a1faa",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Before the 1847 introduction of the US postage stamp, the cost of postage was usually paid by the recipient of a letter rather than the sender, and recipients were not always able or willing to pay promptly. ______ collecting this fee could be slow and arduous, and heaps of unpaid-for, undeliverable mail piled up in post offices.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Regardless,",
+      "B": "On the contrary,",
+      "C": "Consequently,",
+      "D": "For example,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. “Consequently” logically signals that the postal problems described in this sentence (slow fee collection, heaps of undeliverable mail) were a consequence of the fee system described in the previous sentence. Choice A is incorrect because “regardless” illogically signals that the postal problems described in this sentence occurred despite the fee system described in the previous sentence. Instead, they were a consequence of that system. Choice B is incorrect because “on the contrary” illogically signals that the postal problems described in this sentence contrast with the fee system described in the previous sentence. Instead, they were a consequence of that system. Choice D is incorrect because “for example” illogically signals that the postal problems described in this sentence are an example of the fee system described in the previous sentence. Instead, they were a consequence of that system."
+  },
+  {
+    "question_id": "a846cda0",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- In the early 1960s, the US had a strict national-origins quota system for immigrants.\n- The number of new immigrants allowed from a country each year was based on how many people from that country lived in the US in 1890.\n- This system favored immigrants from northern Europe.\n- Almost 70% of slots were reserved for immigrants from Great Britain, Ireland, and Germany.\n- The 1965 Hart-Celler Act abolished the national-origins quota system.",
+    "question_text": "The student wants to present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Almost 70% of slots were reserved for immigrants from Great Britain, Ireland, and Germany at the time the Hart-Celler Act was proposed.",
+      "B": "Prior to the Hart-Celler Act, new immigration quotas were based on how many people from each country lived in the US in 1890.",
+      "C": "The quota system in place in the early 1960s was abolished by the 1965 Hart-Celler Act.",
+      "D": "The 1965 Hart-Celler Act abolished the national-origins quota system, which favored immigrants from northern Europe."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The sentence presents the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration, noting that the 1965 act abolished the national-origins quota system and explaining why that mattered, historically: because the old quota system had favored immigrants from northern Europe. Choice A is incorrect. The sentence describes an aspect of immigration policy at the time the Hart-Celler Act was proposed; it doesn’t present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Choice B is incorrect. The sentence describes an aspect of immigration policy before the Hart-Celler Act; it doesn’t describe or present the significance of the act to an audience unfamiliar with the history of US immigration. Choice C is incorrect. While the sentence indicates that the Hart-Celler Act abolished the old quota system, it doesn’t explain the act or the quota system to an audience unfamiliar with the history of US immigration."
+  },
+  {
+    "question_id": "c6b6128f",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Seismologists Kaiqing Yuan and Barbara Romanowicz have proposed that the magma fueling Iceland’s more than 30 active volcano systems emerges from deep within Earth. The great depths involved—nearly 3,000 km—mark Iceland’s volcanoes as extreme outliers; ______ many of Earth’s volcanoes are fed by shallow pockets of magma found less than 15 km below the surface.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "indeed,",
+      "B": "nevertheless,",
+      "C": "in addition,",
+      "D": "consequently,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The second part of the sentence says that many volcanoes use shallow pockets of magma. This is an elaboration of the same underlying idea from the first part of the sentence, which says that the super deep magma of Icelandic volcanoes’ makes them outliers. “Indeed” is a transition used for elaborating on the same idea, so it fits the context perfectly. Choice B is incorrect. This choice uses a disagreement transition. But these two parts of the sentence agree with each other, so “nevertheless” doesn’t make sense. Choice C is incorrect. This choice uses a transition that indicates the addition of a new idea. But the second part of the sentence isn’t adding a new idea: it’s elaborating on the same idea expressed in the first part of the sentence. Choice D is incorrect. This choice uses a cause-and-effect transition, which doesn’t make sense here. The fact that Iceland’s deep-magma volcanoes are outliers doesn’t cause many other volcanoes to get fed by shallow pockets of magma."
+  },
+  {
+    "question_id": "6800c1cc",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Cecilia Vicuña is a multidisciplinary artist.\n- In 1971, her first solo art exhibition, Pinturas, poemas y explicaciones, was shown at the Museo Nacional de Bellas Artes in Santiago, Chile.\n- Her poetry collection Precario/Precarious was published in 1983 by Tanam Press.\n- Her poetry collection Instan was published in 2002 by Kelsey St. Press.\n- She lives part time in Chile, where she was born, and part time in New York.",
+    "question_text": "The student wants to introduce the artist’s 1983 poetry collection. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Before she published the books Precario/Precarious (1983) and Instan (2002), Cecilia Vicuña exhibited visual art at the Museo Nacional de Bellas Artes in Santiago, Chile.",
+      "B": "Cecilia Vicuña is a true multidisciplinary artist whose works include numerous poetry collections and visual art exhibitions.",
+      "C": "Published in 1983 by Tanam Press, Precario/Precarious is a collection of poetry by the multidisciplinary artist Cecilia Vicuña.",
+      "D": "In 1971, Cecilia Vicuña exhibited her first solo art exhibition, Pinturas, poemas y explicaciones, in Chile, her country of birth."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The sentence effectively introduces the poetry collection Precario/Precarious, noting that it is a collection by Vicuña that was published in 1983 by Tanam Press. Choice A is incorrect. While the sentence mentions the 1983 poetry collection Precario/Precarious, it focuses mainly on Vicuña’s visual art. Choice B is incorrect. The sentence doesn’t introduce the 1983 poetry collection Precario/Precarious; instead, it introduces Vicuña. Choice D is incorrect. The sentence emphasizes the location of Vicuña’s 1971 exhibition Pinturas, poemas y explicaciones; it doesn’t introduce the 1983 poetry collection Precario/Precarious."
+  },
+  {
+    "question_id": "f99639a1",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "When one looks at the dark craggy vistas in Hitoshi Fugo’s evocative photo series, one’s mind might wander off to the cratered surfaces of faraway planets. ______ it’s the series’ title, Flying Frying Pan, that brings one back to Earth, reminding the viewer that each photo is actually a close-up view of a familiar household object: a frying pan.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Consequently,",
+      "B": "Alternatively,",
+      "C": "Ultimately,",
+      "D": "Additionally,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The first sentence describes an experience that the viewer has when they’re looking at the photos: they imagine other planets. This sentence describes an experience that the viewer has afterward: the title reminds them that the photos are of frying pans, bringing them back to reality. “Ultimately” is a transition that means “eventually” or “in the end,” so it fits the context perfectly. Choice A is incorrect. This choice uses a cause-and-effect transition, which doesn’t make sense here. The viewer imagining other planets when they’re looking at the photos doesn’t cause the title to bring them back to reality. Choice B is incorrect. This choice uses a transition that indicates another option or possibility, which doesn’t make sense here. Rather, the viewer has both experiences: first the viewer imagines that they’re looking at another planet, and then the title reminds them that it’s just a frying pan. Choice D is incorrect. This choice uses a transition that indicates the addition of an agreeing idea. But the viewer’s experience in the second sentence is actually the opposite of the viewer’s experience in the first sentence. In the first sentence, the viewer is imagining that they’re seeing a landscape from another planet. In the second sentence, the viewer is reminded that they’re looking at a frying pan."
+  },
+  {
+    "question_id": "88c4086d",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Tecozautla is a municipality in the state of Hidalgo, Mexico.\n- Municipalities are governmental regions responsible for providing many public services to their residents.\n- One service they provide is street lighting.\n- Tecozautla covers an area of roughly 535 km$^2$.\n- Hidalgo is divided into 84 municipalities.",
+    "question_text": "The student wants to emphasize the size of Tecozautla. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The municipality of Tecozautla in Hidalgo, Mexico, covers an area of roughly 535 km$^2$.",
+      "B": "Providing street lighting is just one example of the public services that municipalities provide.",
+      "C": "Tecozautla is one of 84 governmental regions, known as municipalities, across Hidalgo.",
+      "D": "Tecozautla—a governmental region in the state of Hidalgo, Mexico—provides many public services to its residents."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The sentence emphasizes the size of Tecozautla, noting that it covers an area of roughly 535 km$^2$. Choice B is incorrect. The sentence gives an example of a public service that municipalities provide; it doesn’t emphasize the size of Tecozautla. Choice C is incorrect. While the sentence provides information about Tecozautla, it doesn’t emphasize Tecozautla’s size. Choice D is incorrect. While the sentence provides information about Tecozautla, it doesn’t emphasize Tecozautla’s size."
+  }
+]

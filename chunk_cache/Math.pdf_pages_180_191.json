@@ -1,0 +1,198 @@
+[
+  {
+    "question_id": "9955f37a",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "$f(x) = (x + 6)(x - 4)$",
+    "question_text": "If the given function $f$ is graphed in the $xy$-plane, where $y = f(x)$, what is the $x$-coordinate of an $x$-intercept of the graph?",
+    "options": null,
+    "correct_answer": "-6, 4",
+    "explanation": "The correct answer is either $-6$ or $4$. The $x$-intercepts of a graph in the $xy$-plane are the points where $y = 0$. Thus, for an $x$-intercept of the graph of $y = f(x)$, $0 = f(x)$. Substituting $0$ for $f(x)$ in the equation $f(x) = (x + 6)(x - 4)$ yields $0 = (x + 6)(x - 4)$. By the zero product property, $x + 6 = 0$ and $x - 4 = 0$. Subtracting $6$ from both sides of the equation $x + 6 = 0$ yields $x = -6$. Adding $4$ to both sides of the equation $x - 4 = 0$ yields $x = 4$. Therefore, the $x$-coordinates of the $x$-intercepts of the graph of $y = f(x)$ are $-6$ and $4$. Note that -6 and 4 are examples of ways to enter a correct answer."
+  },
+  {
+    "question_id": "55326c43",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The equation $E(t) = 5(1.8)^t$ gives the estimated number of employees at a restaurant, where $t$ is the number of years since the restaurant opened.",
+    "question_text": "Which of the following is the best interpretation of the number $5$ in this context?",
+    "options": {
+      "A": "The estimated number of employees when the restaurant opened",
+      "B": "The increase in the estimated number of employees each year",
+      "C": "The number of years the restaurant has been open",
+      "D": "The percent increase in the estimated number of employees each year"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. For an exponential function of the form $E(t) = a(b)^t$, where $a$ and $b$ are constants, the initial value of the function—that is, the value of the function when $t = 0$—is $a$ and the value of the function increases by a factor of $b$ each time $t$ increases by $1$. Since the function $E(t) = 5(1.8)^t$ gives the estimated number of employees at a restaurant and $t$ is the number of years since the restaurant opened, the best interpretation of the number $5$ in this context is the estimated number of employees when $t = 0$, or when the restaurant opened."
+  },
+  {
+    "question_id": "6b56736a",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Which of the following expressions is(are) a factor of $3x^2 + 20x - 63$?\nI. $x - 9$\nII. $3x - 7$",
+    "question_text": "Which of the following expressions is(are) a factor of $3x^2 + 20x - 63$?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The given expression can be factored by first finding two values whose sum is $20$ and whose product is $3(-63)$, or $-189$. Those two values are $27$ and $-7$. It follows that the given expression can be rewritten as $3x^2 + 27x - 7x - 63$. Since the first two terms of this expression have a common factor of $3x$ and the last two terms of this expression have a common factor of $-7$, this expression can be rewritten as $3x(x + 9) - 7(x + 9)$. Since the two terms of this expression have a common factor of $(x + 9)$, it can be rewritten as $(3x - 7)(x + 9)$. Therefore, expression II, $3x - 7$, is a factor of $3x^2 + 20x - 63$, but expression I, $x - 9$, is not a factor of $3x^2 + 20x - 63$."
+  },
+  {
+    "question_id": "6095e4fc",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A rectangle has a length of $x$ units and a width of $(x - 15)$ units. If the rectangle has an area of $76$ square units",
+    "question_text": "what is the value of $x$?",
+    "options": {
+      "A": "$4$",
+      "B": "$19$",
+      "C": "$23$",
+      "D": "$76$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The area of a rectangle is equal to its length multiplied by its width. Multiplying the given length, $x$ units, by the given width, $(x - 15)$ units, yields $x(x - 15)$ square units. If the rectangle has an area of $76$ square units, it follows that $x(x - 15) = 76$, or $x^2 - 15x = 76$. Subtracting $76$ from both sides of this equation yields $x^2 - 15x - 76 = 0$. Factoring the left-hand side of this equation yields $(x - 19)(x + 4) = 0$. Applying the zero product property to this equation yields two solutions: $x = 19$ and $x = -4$. Since $x$ is the rectangle's length, in units, which must be positive, the value of $x$ is $19$."
+  },
+  {
+    "question_id": "c14d9ecc",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "$f(x) = x^5 + 9x + 17$",
+    "question_text": "For the given function $f$, the graph of $y = f(x)$ in the $xy$-plane passes through the point $(0, b)$, where $b$ is a constant. What is the value of $b$?",
+    "options": null,
+    "correct_answer": "17",
+    "explanation": "The correct answer is $17$. It's given that the graph of $y = f(x)$ in the $xy$-plane passes through the point $(0, b)$, where $b$ is a constant. It follows that $f(0)$ equals $b$. Substituting $0$ for $x$ in the given function yields $f(0) = 0^5 + 9(0) + 17$, or $f(0) = 17$. Therefore, the value of $b$ is $17$."
+  },
+  {
+    "question_id": "eec1aa3e",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "The function $g$ is defined by $g(x) = \\frac{|x|}{a} - 14$, where $a < 0$.",
+    "question_text": "What is the product of $g(15a)$ and $g(7a)$?",
+    "options": null,
+    "correct_answer": "609",
+    "explanation": "The correct answer is $609$. It's given that the function $g$ is defined by $g(x) = \\frac{|x|}{a} - 14$, where $a < 0$. Substituting $15a$ for $x$ in function $g$ yields $g(15a) = \\frac{|15a|}{a} - 14$. This function can be rewritten as $g(15a) = \\frac{15|a|}{a}$, or $g(15a) = 15\\left(\\frac{|a|}{a}\\right) - 14$. Since $a < 0$, it follows that $\\frac{|a|}{a} = -1$. Substituting $-1$ for $\\frac{|a|}{a}$ in $g(15a) = 15\\left(\\frac{|a|}{a}\\right) - 14$ yields $g(15a) = 15(-1) - 14$, or $g(15a) = -29$. Similarly, substituting $7a$ for $x$ in function $g$ yields $g(7a) = \\frac{|7a|}{a} - 14$. This function can be rewritten as $g(7a) = \\frac{7|a|}{a} - 14$, or $g(7a) = 7\\left(\\frac{|a|}{a}\\right) - 14$. Since $a < 0$, it again follows that $\\frac{|a|}{a} = -1$. Substituting $-1$ for $\\frac{|a|}{a}$ in $g(7a) = 7\\left(\\frac{|a|}{a}\\right) - 14$ yields $g(7a) = 7(-1) - 14$, or $g(7a) = -21$. Therefore, $g(15a) = -29$ and $g(7a) = -21$. Thus, the product of $g(15a)$ and $g(7a)$ is $(-29)(-21)$, or $609$."
+  },
+  {
+    "question_id": "2d8f1f6a",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$8x + y = -11$\n$2x^2 = y + 341$",
+    "question_text": "The graphs of the equations in the given system of equations intersect at the point $(x, y)$ in the $xy$-plane. What is a possible value of $x$?",
+    "options": {
+      "A": "-15",
+      "B": "-11",
+      "C": "2",
+      "D": "8"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that the graphs of the equations in the given system of equations intersect at the point $(x, y)$. Therefore, this intersection point is a solution to the given system. The solution can be found by isolating $y$ in each equation. The given equation $8x + y = -11$ can be rewritten to isolate $y$ by subtracting $8x$ from both sides of the equation, which gives $y = -8x - 11$. The given equation $2x^2 = y + 341$ can be rewritten to isolate $y$ by subtracting $341$ from both sides of the equation, which gives $2x^2 - 341 = y$. With each equation solved for $y$, the value of $y$ from one equation can be substituted into the other, which gives $2x^2 - 341 = -8x - 11$. Adding $8x$ and $11$ to both sides of this equation results in $2x^2 + 8x - 330 = 0$. Dividing both sides of this equation by $2$ results in $x^2 + 4x - 165 = 0$. This equation can be rewritten by factoring the left-hand side, which yields $(x + 15)(x - 11) = 0$. By the zero-product property, if $(x + 15)(x - 11) = 0$, then $x + 15 = 0$, or $x - 11 = 0$. It follows that $x = -15$, or $x = 11$. Since only $-15$ is given as a choice, a possible value of $x$ is $-15$."
+  },
+  {
+    "question_id": "a3d03f49",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Which expression is equivalent to $x^2 + 3x - 40$?",
+    "question_text": "Which expression is equivalent to $x^2 + 3x - 40$?",
+    "options": {
+      "A": "(x - 4)(x + 10)",
+      "B": "(x - 5)(x + 8)",
+      "C": "(x - 8)(x + 5)",
+      "D": "(x - 10)(x + 4)"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The given expression may be rewritten as $x^2 + 8x - 5x - 40$. Since the first two terms of this expression have a common factor of $x$ and the last two terms of this expression have a common factor of $-5$, this expression may be rewritten as $x(x + 8) - 5(x + 8)$, or $x(x + 8) - 5(x + 8)$. Since each term of this expression has a common factor of $(x + 8)$, it may be rewritten as $(x - 5)(x + 8)$."
+  },
+  {
+    "question_id": "e0cc40e8",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "$38x^2 = 38(9)$",
+    "question_text": "What is the negative solution to the given equation?",
+    "options": null,
+    "correct_answer": "-3",
+    "explanation": "The correct answer is $-3$. Dividing both sides of the given equation by $38$ yields $x^2 = 9$. Taking the square root of both sides of this equation yields the solutions $x = 3$ and $x = -3$. Therefore, the negative solution to the given equation is $-3$."
+  },
+  {
+    "question_id": "d25b0c19",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The function $f$ is defined by $f(x) = x^3 + 15$.",
+    "question_text": "What is the value of $f(2)$?",
+    "options": {
+      "A": "$20$",
+      "B": "$21$",
+      "C": "$23$",
+      "D": "$24$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The value of $f(2)$ is the value of $f(x)$ when $x = 2$. Substituting $2$ for $x$ in the given function yields $f(2) = (2)^3 + 15$, or $f(2) = 8 + 15$, which is equivalent to $f(2) = 23$. Therefore, the value of $f(2)$ is $23$."
+  },
+  {
+    "question_id": "2e655326",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$-2x^2 + 20x + c = 0$\nIn the given equation, $c$ is a constant. The equation has exactly one solution.",
+    "question_text": "What is the value of $c$?",
+    "options": {
+      "A": "-68",
+      "B": "-50",
+      "C": "-32",
+      "D": "0"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the equation $-2x^2 + 20x + c = 0$, where $c$ is a constant, has exactly one solution. A quadratic equation of the form $ax^2 + bx + c = 0$ has exactly one solution if and only if its discriminant, $b^2 - 4ac$, is equal to zero. It follows that for the given equation, $a = -2$ and $b = 20$. Substituting $-2$ for $a$ and $20$ for $b$ in $b^2 - 4ac$ yields $20^2 - 4(-2)(c)$, or $400 + 8c$. Since the discriminant must equal zero, it follows that $400 + 8c = 0$. Subtracting $400$ from both sides of this equation yields $8c = -400$. Dividing each side of this equation by $8$ yields $c = -50$. Therefore, the value of $c$ is $-50$."
+  },
+  {
+    "question_id": "4f9898f3",
+    "section": "Math",
+    "domain": "Advanced Math",
+    "skill": "Equivalent expressions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Which expression is equivalent to $(x)^{\\frac{1}{14}}$, where $x > 0$?",
+    "question_text": "Which expression is equivalent to $(x)^{\\frac{1}{14}}$, where $x > 0$?",
+    "options": {
+      "A": "\\frac{1}{14} \\cdot x",
+      "B": "\\sqrt[14]{x}",
+      "C": "14 \\cdot x",
+      "D": "(x)^{14}"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. An expression in the form $x^{\\frac{1}{k}}$, where $x > 0$ and $k > 0$, is equivalent to $\\sqrt[k]{x}$. It follows that $(x)^{\\frac{1}{14}}$, where $x > 0$, is equivalent to $\\sqrt[14]{x}$."
+  }
+]

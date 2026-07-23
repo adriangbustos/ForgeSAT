@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "42d700d0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Daily Distance Traveled by Adult Mountain Lions in Three Seasons\n\n| Season | Kilometers per day traveled by adult females | Kilometers per day traveled by adult males |\n|---|---|---|\n| cold-dry | 9.28 | 15.81 |\n| monsoon | 12.64 | 18.93 |\n| hot-dry | 12.48 | 18.87 |\n\nWildlife researcher Dana L. Karelus and her colleagues tracked the movements of female and male adult mountain lions over three seasons: the cold-dry season, the hot-dry season, and the monsoon season. They found that the least amount of travel per day occurred in ______",
+    "question_text": "Which choice most effectively uses data from the table to complete the statement?",
+    "options": {
+      "A": "the cold-dry season for both females and males.",
+      "B": "the cold-dry season for females and the hot-dry season for males.",
+      "C": "the hot-dry season for females and the monsoon season for males.",
+      "D": "the monsoon season for both females and males."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Females only traveled $9.28$ km per day in the cold-dry season, versus $12.64$ and $12.48$ km per day in the monsoon and hot-dry seasons, respectively. Males only traveled $15.81$ km per day in the cold-dry season, versus $18.93$ and $18.87$ km per day in the monsoon and hot-dry seasons, respectively. So, the cold-dry season was the season where both males and females had the least daily travel."
+  },
+  {
+    "question_id": "e038ac56",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the United States, firms often seek incentives from municipal governments to expand to those municipalities. A team of political scientists hypothesized that municipalities are much more likely to respond to firms and offer incentives if expansions can be announced in time to benefit local elected officials than if they can't. The team contacted officials in thousands of municipalities, inquiring about incentives for a firm looking to expand and indicating that the firm would announce its expansion on a date either just before or just after the next election.",
+    "question_text": "Which choice best describes data from the graph that weaken the team's hypothesis?",
+    "options": {
+      "A": "A large majority of the municipalities that received an inquiry mentioning plans for an announcement before the next election didn't respond to the inquiry.",
+      "B": "The proportion of municipalities that responded to the inquiry or offered incentives didn't substantially differ across the announcement timing conditions.",
+      "C": "Only around half the municipalities that responded to inquiries mentioning plans for an announcement before the next election offered incentives.",
+      "D": "Of the municipalities that received an inquiry mentioning plans for an announcement date after the next election, more than $1,200$ didn't respond and only around $100$ offered incentives."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The lighter bars show what happened when the announcement was to come before the election, and the darker bars show what happened when the announcement was to come after the election. For all three of the outcomes, the light and dark bars are virtually the same, demonstrating that the announcement timing didn't actually make a difference."
+  },
+  {
+    "question_id": "a2641e5f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Although many transposons, DNA sequences that move within an organism's genome through shuffling or duplication, have become corrupted and inactive over time, those from the long interspersed nuclear elements (LINE) family appear to remain active in the genomes of some species. In humans, they are functionally important within the hippocampus, a brain structure that supports complex cognitive processes. When the results of molecular analysis of two species of octopus—an animal known for its intelligence—were announced in $2022$, the confirmation of a LINE transposon in Octopus vulgaris and Octopus bimaculoides genomes prompted researchers to hypothesize that that transposon family is tied to a species' capacity for advanced cognition.",
+    "question_text": "Which finding, if true, would most directly support the researchers' hypothesis?",
+    "options": {
+      "A": "The LINE transposon in O. vulgaris and O. bimaculoides genomes is active in an octopus brain structure that functions similarly to the human hippocampus.",
+      "B": "The human genome contains multiple transposons from the LINE family that are all primarily active in the hippocampus.",
+      "C": "A consistent number of copies of LINE transposons is present across the genomes of most octopus species, with few known corruptions.",
+      "D": "O. vulgaris and O. bimaculoides have smaller brains than humans do relative to body size, but their genomes contain sequences from a wider variety of transposon families."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text says that LINE transposons are important in the human hippocampus, which supports complex cognition. If the LINE transposon found in octopuses is active in a similar part of their brain, that would suggest that LINE transposons support complex cognition in octopuses too, which in turn supports the hypothesis that LINE transposons are linked to advanced cognition in general."
+  },
+  {
+    "question_id": "da287262",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The Land of Enchantment is a $1906$ travel book by Lilian Whiting. In the book, which describes the experience of traveling through the southwestern United States by train, Whiting reflects on the escape from everyday life that such a journey provides: ______",
+    "question_text": "Which quotation from The Land of Enchantment most effectively illustrates the claim?",
+    "options": {
+      "A": "“The opportunities and advantages already offered and constantly increasing are greater than would at first be considered possible.”",
+      "B": "“The social and the picturesque charm of the long journey is singularly enhanced by the leisurely stops made for refreshment.”",
+      "C": "“The real journey begins, of course, at Chicago, and as these trains leave in the evening the traveller fares forth in the seclusion of his berth.”",
+      "D": "“One experiences a certain sense of detachment from ordinary day and daylight duties that is exhilarating.”"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because this quotation specifically describes a \"sense of detachment from ordinary day,\" which matches the claim's focus on \"escape from everyday life.\""
+  },
+  {
+    "question_id": "c0ee4b2d",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The ice melted on a Norwegian mountain during a particularly warm summer in $2019$, revealing a $1,700$-year-old sandal to a mountaineer looking for artifacts. The sandal would normally have degraded quickly, but it was instead well preserved for centuries by the surrounding ice. According to archaeologist Espen Finstad and his team, the sandal, like those worn by imperial Romans, wouldn't have offered any protection from the cold in the mountains, so some kind of insulation, like fabric or animal skin, would have needed to be worn on the feet with the sandal.",
+    "question_text": "What does the text indicate about the discovery of the sandal?",
+    "options": {
+      "A": "Temperatures contributed to both protecting and revealing the sandal.",
+      "B": "The discovery revealed that the Roman Empire had more influence on Norway than archaeologists previously assumed.",
+      "C": "Archaeologists would have found the sandal eventually without help from the general public.",
+      "D": "The sandal would have degraded if it hadn't been removed from the ice."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. A \"particularly warm summer\" revealed the sandal, and centuries of ice kept it \"well preserved.\""
+  },
+  {
+    "question_id": "44a7fb0e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "With the ongoing expansion of e-commerce, consumers are expecting faster and faster delivery of goods, but delivery companies continue to struggle with last-mile logistics (the final step in delivery to consumers) due to challenges such as complex and inefficient delivery routes. Innovations to mitigate these challenges have been emerging—the use of aerial drones, for example—but these innovations tend to engender their own complications (e.g., regulations on the use of drones in residential airspace), leading researchers to conclude that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "consumers' expectations for reduced delivery times may be outstripping what is viable for delivery companies to provide.",
+      "B": "a better understanding of consumers' expectations for delivery is needed so that companies can better plan for fluctuations in delivery volume.",
+      "C": "rapid delivery is a leading factor in consumer satisfaction, and therefore delivery companies would benefit from investing resources in reducing delivery times.",
+      "D": "there may not be sufficient incentive for delivery companies to attempt to solve the problems associated with last-mile logistics."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most logically completes the text's discussion of consumer expectations and the struggles delivery companies face. Escalating consumer demands for speed combined with persistent delivery obstacles and new problems from attempted solutions suggest that consumer expectations may exceed what companies can feasibly provide."
+  },
+  {
+    "question_id": "94da9acc",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the \"language nest\" model of education, Indigenous children learn the language of their people by using it as the medium of instruction and socialization at pre-K or elementary levels. In their $2016$ study of a school in an Anishinaabe community in Ontario, Canada, scholars Lindsay Morcom and Stephanie Roy found that the model not only imparted fluency in the Anishinaabe language but also enhanced students' pride in Anishinaabe culture overall. Given these positive effects, Morcom and Roy predict that the model increases the probability that as adults, former students of the school will transmit the language to younger generations in their community.",
+    "question_text": "Which finding, if true, would most strongly support the researchers' prediction?",
+    "options": {
+      "A": "Anishinaabe adults who didn't attend the school feel roughly the same degree of cultural pride as the former students of the school feel.",
+      "B": "After transferring to the school, new students experience an increase in both fluency and academic performance overall.",
+      "C": "As adults, former students of the school are just as likely to continue living in their community as individuals who didn't attend the school.",
+      "D": "As they complete secondary and higher education, former students of the school experience no loss of fluency or cultural pride."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it presents a finding that, if true, would support the researchers' prediction. If former students maintain full fluency and cultural pride after completing their education, they are more likely to be both able and motivated to share the language with younger generations."
+  },
+  {
+    "question_id": "58b90851",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In $1934$ physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in $2021$ that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression—the first visual confirmation of the Wigner crystal.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal.",
+      "B": "Researchers have identified an innovative new method for working with unusual crystalline structures.",
+      "C": "Graphene is the most important of the components required to capture an image of a Wigner crystal.",
+      "D": "It's difficult to acquire an image of a Wigner crystal because of the crystal's honeycomb structure."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most accurately states the main idea: researchers obtained the first visual confirmation and most definitive evidence to date of the existence of the Wigner crystal."
+  },
+  {
+    "question_id": "7fa2cfb0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Guilds in French Cities in the Late Eighteenth Century\n\n| City | Date | Inhabitants | Number of guilds | Inhabitants per guild |\n|---|---|---|---|---|\n| Paris | $1766$ | $600,000$ | $133$ | $4,511$ |\n| Bordeaux | $1762$ | $80,000$ | $49$ | $1,633$ |\n| Rouen | $1775$ | $74,000$ | $112$ | $661$ |\n| Lyon | $1789$ | $143,000$ | $72$ | $1,986$ |\n\nGuilds—local associations of artisans and merchants in the same industry—were widespread in France from the medieval period until the late eighteenth century. But guilds were much more numerous relative to the population in some cities than in others: for example, ______",
+    "question_text": "Which choice most effectively uses data from the table to complete the statement?",
+    "options": {
+      "A": "there were $49$ guilds in Bordeaux but $72$ guilds in Lyon despite the two cities having nearly equal numbers of inhabitants.",
+      "B": "Lyon had far fewer inhabitants than Paris did but had many more guilds.",
+      "C": "there was one guild for every $661$ inhabitants in Rouen but one guild for every $4,511$ inhabitants in Paris.",
+      "D": "Paris had $133$ guilds and $600,000$ inhabitants, or one guild for every $4,511$ inhabitants."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The claim is that guilds were much more numerous relative to population in some cities than others. This choice describes the guilds per number of inhabitants in two cities (Rouen and Paris), showing significant differences."
+  },
+  {
+    "question_id": "8fc5d12b",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Red velvet cake has been a favorite dessert of many for years, but the recipe's origins are unclear. A bakery in Dallas, Texas, argued that it created the first recipe for the cake when the bakery opened in the $1860\text{s}$. The Adams Extract Co., which sells baking products, claims to have created the recipe in the $1930\text{s}$ to help market their red dye. A US hotel and a Canadian department store also publicly stated that the red velvet cake sold in each of their establishments in the $1930\text{s}$ was an original creation, each alleging that it was the recipe author. No clear evidence has emerged to favor one of these claims over the others, however. It thus seems that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "red velvet cake was first baked sometime before the $1860\text{s}$.",
+      "B": "we cannot say at present who actually baked the first red velvet cake.",
+      "C": "none of the supposed inventors of red velvet cake are likely to have invented it.",
+      "D": "the bakery in Dallas, Texas, probably invented red velvet cake."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents the conclusion that most logically completes the text. Given the competing claims and the lack of clear evidence to favor any of them, it's not possible to determine who baked the first red velvet cake."
+  }
+]

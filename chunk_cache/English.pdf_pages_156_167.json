@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "0ee7dfb6",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Laura Mulvey has theorized that in narrative film, shots issuing from a protagonist's point of view compel viewers to identify with the character. Such identification is heightened by \"invisible editing,\" or editing so inconspicuous that it renders cuts between shots almost unnoticeable. Conversely, Mulvey proposes that conspicuous editing or an absence of point-of-view shots would induce a more critical stance toward a protagonist. Consider, for example, the attic scene in Alfred Hitchcock's The Birds, a conspicuously edited sequence of tens of shots, few of which correspond to the protagonist's point of view. According to Mulvey's logic, this scene should affect viewers by ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "obscuring their awareness of the high degree of artifice involved in constructing the montage.",
+      "B": "lessening their identification with the protagonist, if not alienating them from the character altogether.",
+      "C": "compelling them to identify with the film's director, whose proxy is the camera, and not with the protagonist.",
+      "D": "diverting their attention away from the film's content and toward its stylistic attributes."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. We're told that point-of-view shots and \"invisible editing\" make audiences identify with a character. We're also told that obvious editing and a lack of point-of-view shots have the opposite effect. Since the sequence in The Birds falls into this second category, it should have the effect of reducing the audience's connection with the protagonist. Choice A is incorrect. The passage doesn't mention viewers' awareness of artifice (i.e., camera trickery) in films, so there's no basis for this inference. Choice C is incorrect. The passage doesn't mention the director at all, so there's no basis for this inference. Choice D is incorrect. The passage doesn't discuss whether a film's \"stylistic attributes\" may distract viewers from the film's story, so there's no basis for this inference."
+  },
+  {
+    "question_id": "e7b2ca56",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Optical tweezers are specialized scientific tools—particularly useful in biology and medicine—that use high-powered beams of light to trap and manipulate minuscule particles for study. Use of the tool has led to several scientific and medical breakthroughs over the last few decades, but the particles are often under prolonged exposure to the intense heat of the light beams. To overcome the risk of overheating, and thereby damage, researchers sometimes attach nano-sized glass beads to particles, allowing the light to focus on the beads instead of the particles.",
+    "question_text": "Based on the text, what is one advantage of attaching glass beads to particles when using optical tweezers?",
+    "options": {
+      "A": "It decreases the time it takes for the optical tweezers to locate and capture the particles.",
+      "B": "It facilitates the maneuvering of particles without directly heating the particles themselves.",
+      "C": "It allows researchers to use weaker light beams to manipulate particles.",
+      "D": "It adds a material to which particles can transfer any heat absorbed from the optical tweezers' light beam."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text says that the glass beads get the \"focus\" of the light beams so that the particles don't overheat. From this, we can infer that the beads allow the particles to be manipulated without being directly heated by the light beams. Choice A is incorrect. The text never says that attaching the glass beads saves time in any way. Choice C is incorrect. The text never says that attaching the glass beads allows researchers to use weaker light beams. Choice D is incorrect. The text doesn't say that the particles can transfer heat to the glass beads—rather, it says the heat from the light focuses on the glass beads instead of the particles."
+  },
+  {
+    "question_id": "b23d9563",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "\"We Are Marching\" is a 1921 poem by Carrie Law Morgan Figgs. In the poem, the speaker predicts future success: ______",
+    "question_text": "Which quotation from \"We Are Marching\" most effectively illustrates the claim?",
+    "options": {
+      "A": "\"Can't you hear the sound of feet?\"",
+      "B": "\"You who are out just get in line.\"",
+      "C": "\"We have answered duty's call.\"",
+      "D": "\"We shall never know defeat.\""
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most effectively illustrates the claim that the speaker in the poem \"We Are Marching\" predicts future success. To say that someone will \"never know\" an experience—like defeat, or being unsuccessful—is to indicate that they will never personally have that experience. Thus, when the speaker says that the marching group \"shall never know defeat,\" the speaker is predicting that the group will experience only success in the future. Choice A is incorrect because the quotation presents a question about an activity already taking place (marching), not a statement about future success. The speaker is asking if the sound of marching feet is being heard. Choice B is incorrect because the quotation directs an immediate action instead of making a prediction about the future. The speaker is telling people to \"get in line,\" or to join the march that's already happening. Choice C is incorrect because the quotation describes a past action instead of making a prediction about the future. The speaker is stating that those in the march have \"answered duty's call\"—that is, that they have acted out of a sense of duty."
+  },
+  {
+    "question_id": "88a141f3",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the early nineteenth century, some Euro-American farmers in the northeastern United States used agricultural techniques developed by the Haudenosaunee (Iroquois) people centuries earlier, but it seems that few of those farmers had actually seen Haudenosaunee farms firsthand. Barring the possibility of several farmers of the same era independently developing techniques that the Haudenosaunee people had already invented, these facts most strongly suggest that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "those farmers learned the techniques from other people who were more directly influenced by Haudenosaunee practices.",
+      "B": "the crops typically cultivated by Euro-American farmers in the northeastern United States were not well suited to Haudenosaunee farming techniques.",
+      "C": "Haudenosaunee farming techniques were widely used in regions outside the northeastern United States.",
+      "D": "Euro-American farmers only began to recognize the benefits of Haudenosaunee farming techniques late in the nineteenth century."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most logically completes the text's discussion of Euro-American farmers' use of Haudenosaunee agricultural techniques. According to the text, some Euro-American farmers were using these techniques in the early nineteenth century despite few of the farmers having seen Haudenosaunee farms. One explanation for these facts might be that the farmers developed techniques on their own that already had been invented centuries earlier by the Haudenosaunee people, but the text explicitly bars, or rules out, this explanation. If Euro-American farmers didn't learn these techniques from direct observation of Haudenosaunee practices and didn't invent the techniques independently, then the most logical explanation is that they learned the techniques from other people who were more directly influenced by Haudenosaunee practices than the farmers themselves were. Once they learned about Haudenosaunee agricultural practices, Euro-American farmers could then apply those practices to their own farming. Choice B is incorrect because the fact that some Euro-American farmers in the northeastern United States were using Haudenosaunee techniques suggests that the techniques were likely useful for the crops the farmers raised, not that the crops typically cultivated by the farmers were not well suited to Haudenosaunee farming techniques. If the farmers' crops were ill suited to the techniques, it's unlikely that the farmers would have used those techniques. Choice C is incorrect because the text indicates only that Haudenosaunee agricultural techniques were used by Euro-American farmers in the northeastern United States, not that these techniques were widely used outside this region. Choice D is incorrect because the text states that some Euro-American farmers were using Haudenosaunee farming techniques early in the nineteenth century. This suggests that some Euro-American farmers were beginning to recognize the benefits of these techniques near the start of the century, not that such farmers only began to recognize the benefits of the techniques much later."
+  },
+  {
+    "question_id": "3d89704b",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "One recognized social norm of gift giving is that the time spent obtaining a gift will be viewed as a reflection of the gift's thoughtfulness. Marketing experts Farnoush Reshadi, Julian Givi, and Gopal Das addressed this view in their studies of norms specifically surrounding the giving of gift cards, noting that while recipients tend to view digital gift cards (which can be purchased online from anywhere and often can be redeemed online as well) as superior to physical gift cards (which sometimes must be purchased in person and may only be redeemable in person) in terms of usage, 94.8 percent of participants surveyed indicated that it is more socially acceptable to give a physical gift card to a recipient. This finding suggests that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "gift givers likely overestimate the amount of effort required to use digital gift cards and thus mistakenly assume gift recipients will view them as less desirable than physical gift cards.",
+      "B": "physical gift cards are likely preferred by gift recipients because the tangible nature of those cards offers a greater psychological sense of ownership than digital gift cards do.",
+      "C": "physical gift cards are likely less desirable to gift recipients than digital gift cards are because of the perception that physical gift cards require unnecessary effort to obtain.",
+      "D": "gift givers likely perceive digital gift cards as requiring relatively low effort to obtain and thus wrongly assume gift recipients will appreciate them less than they do physical gift cards."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text's discussion of perceptions of digital versus physical gift cards. The text begins by explaining that the perception of \"the time spent obtaining a gift…as a reflection of the gift's thoughtfulness\" is a social norm of gift giving. The text then explains that although those who receive digital gift cards view them as easier to use than physical gift cards, a marketing study nonetheless showed that 94.8% of participants found physical gift cards more \"socially acceptable\" to give. The text specifically contrasts the ease with which digital gift cards \"can be purchased online from anywhere\" with the fact that physical gift cards \"sometimes must be purchased in person\"—suggesting the greater difficulty of obtaining physical cards. Given the text's initial premise that gift-giving norms equate the thoughtfulness of a gift with the effort involved in acquiring that gift, it is reasonable to infer that people perceive digital gift cards as requiring less effort to obtain and thus assume recipients will appreciate them less, even though recipients actually prefer gift cards in the more usable digital format. Choice A is incorrect. Although the text does discuss recipients' preference of digital versus physical gift cards and the relative ease with which the two formats can be used, it doesn't consider the misconceptions that gift givers may have of these factors. Moreover, the text establishes that recipients regard digital gift cards as easier to use and therefore preferable to physical gift cards. Choice B is incorrect because the text doesn't consider whether recipients of gift cards feel a sense of ownership toward them, nor does the text touch on the greater tangibility of physical versus digital gift cards. Instead, the text contrasts the two formats of gift cards in terms of their respective usability and the difficulty involved in acquiring them and discusses how those factors influence people's perceptions of the two formats. Choice C is incorrect because it contradicts the text, which explains that recipients regard digital gift cards as superior to physical ones because they are easier to use than physical cards, not because physical gift cards require greater effort to obtain than digital gift cards do. Moreover, the text doesn't characterize the effort required to obtain physical gift cards as \"unnecessary.\""
+  },
+  {
+    "question_id": "40aa7b00",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Astronomers investigated the Arabia Terra region of Mars because it appears to contain irregularly shaped craters that may have been caused by massive volcanic explosions. In their investigations of Arabia Terra, the researchers found remnants of ash deposits in an amount and thickness that would result from a massive volcanic eruption. However, erosion and past resurfacing events could have modified the surface of the planet. Therefore, ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "the current makeup of the Arabia Terra region might not accurately reflect the volcanic activity of Mars's past.",
+      "B": "eruptions from Mars's volcanoes were likely not as massive as astronomers previously believed.",
+      "C": "ash was most likely expelled from multiple different volcanoes on Mars's surface.",
+      "D": "the craters found in the Arabia Terra region were necessarily created by events other than volcanic eruptions."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it presents the conclusion that most logically follows from the text's discussion of the Arabia Terra region of Mars. According to the text, there are craters in Arabia Terra that could be the result of volcanic activity, and researchers have found evidence of ash deposits consistent with a large eruption. The text goes on to note, however, that erosion and other events could have altered the surface of Mars. This observation suggests that current conditions on Mars's surface are not necessarily a reliable guide to past events—some signs of past events could have been transformed or erased entirely—and thus the current makeup of Arabia Terra may not accurately reflect past volcanic activity. Choice B is incorrect because the text suggests only that past events could have changed Mars's surface such that its current appearance isn't a reliable guide to past activity, not that it's likely that past eruptions were not as massive as astronomers previously believed. Nothing in the text supports a conclusion about the likely size of past eruptions. Choice C is incorrect because the observation that resurfacing events could have changed the appearance of Mars doesn't imply that the ash discussed in the text likely came from multiple volcanoes. Although it's possible that the ash came from different volcanoes, there's no information in the text supporting a conclusion about how likely that possibility is. Choice D is incorrect because nothing in the text suggests that the Arabia Terra craters had to have been created by something other than volcanic eruptions. Although the text does suggest that the evidence consistent with volcanic eruptions shouldn't be taken as definitive proof of past eruptions, that doesn't mean that the craters couldn't have been created by eruptions, only that we can't be certain they were."
+  },
+  {
+    "question_id": "8a193615",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Jan Gimsa, Robert Sleigh, and Ulrike Gimsa have hypothesized that the sail-like structure running down the back of the dinosaur Spinosaurus aegyptiacus improved the animal's success in underwater pursuits of prey species capable of making quick, evasive movements. To evaluate their hypothesis, a second team of researchers constructed two battery-powered mechanical models of S. aegyptiacus, one with a sail and one without, and subjected the models to a series of identical tests in a water-filled tank.",
+    "question_text": "Which finding from the model tests, if true, would most strongly support Gimsa and colleagues' hypothesis?",
+    "options": {
+      "A": "The model with a sail took significantly less time to complete a sharp turn while submerged than the model without a sail did.",
+      "B": "The model with a sail displaced significantly more water while submerged than the model without a sail did.",
+      "C": "The model with a sail had significantly less battery power remaining after completing the tests than the model without a sail did.",
+      "D": "The model with a sail took significantly longer to travel a specified distance while submerged than the model without a sail did."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. This finding would most strongly support the hypothesis. The hypothesis is that the sail improved the dinosaur's ability to chase quick, evasive prey. This finding suggests that the sail helped the dinosaur make sharp turns more quickly, which supports that hypothesis. Choice B is incorrect. This finding wouldn't necessarily support the hypothesis. The hypothesis is that the sail improved the dinosaur's ability to chase quick, evasive prey. It's unclear how the sail displacing more water would relate to that hypothesis—it doesn't seem to be relevant. Choice C is incorrect. This finding wouldn't necessarily support the hypothesis. The hypothesis is that the sail improved the dinosaur's ability to chase quick, evasive prey. It's unclear how the difference in battery power between the models would relate to that hypothesis—it doesn't seem to be relevant. Choice D is incorrect. This finding would actually weaken the hypothesis. The hypothesis is that the sail improved the dinosaur's ability to chase quick, evasive prey. This finding suggests that the sail slowed the dinosaur down—which would probably make it worse at catching quick, evasive prey."
+  },
+  {
+    "question_id": "f37f0c11",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In a paper about p-i-n planar perovskite solar cells (one of several perovskite cell architectures designed to collect and store solar power), Lyndsey McMillon-Brown et al. describe a method for fabricating the cell's electronic transport layer (ETL) using a spray coating. Conventional ETL fabrication is accomplished using a solution of nanoparticles. The process can result in a loss of up to $80\\%$ of the solution, increasing the cost of manufacturing at scale—an issue that may be obviated by spray coating fabrication, which the researchers describe as \"highly reproducible, concise, and practical.\"",
+    "question_text": "What does the text most strongly suggest about conventional ETL fabrication?",
+    "options": {
+      "A": "It is less suitable for manufacturing large volumes of planar p-i-n perovskite solar cells than an alternative fabrication method may be.",
+      "B": "It is more expensive when manufacturing at scale than are processes for fabricating ETLs used in other perovskite solar cell architectures.",
+      "C": "It typically entails a greater loss of nanoparticle solution than do other established approaches for ETL fabrication.",
+      "D": "It is somewhat imprecise and therefore limits the potential effectiveness of p-i-n planar perovskite solar cells at capturing and storing solar power."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Conventional solar cell fabrication increases \"the cost of manufacturing at scale,\" but spray coating might get rid of that problem. Choice B is incorrect. This is not completely supported by the text. While it's true that conventional ETL fabrication is expensive at scale, there's nothing in the text that mentions other perovskite solar cell architectures. Choice C is incorrect. This choice does not match the text. Only one conventional method of ETL fabrication is described, so we can't compare the solution loss in this method to that of other conventional methods. Choice D is incorrect. This choice isn't supported by the text. The text never suggests that the effectiveness of solar cells changes based on their method of fabrication."
+  },
+  {
+    "question_id": "f4bfb306",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Researchers Suchithra Rajendran and Maximilian Popfinger modeled varying levels of passenger redistribution from short-haul flights (flights of 50 to 210 minutes, from takeoff to landing) to high-speed rail trips. Planes travel faster than trains, but air travel typically requires $3$ hours of lead time for security, baggage handling, and boarding that rail travel doesn't, so short-haul routes take similar amounts of time by air and by rail. However, the model suggests that as rail passenger volumes approach current capacity limits, long lead times emerge. Therefore, for rail to remain a viable alternative to short-haul flights, ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "rail systems should offer fewer long-haul routes and airlines should offer more long-haul routes.",
+      "B": "rail systems may need to schedule additional trains for these routes.",
+      "C": "security, baggage handling, and boarding procedures used by airlines may need to be implemented for rail systems.",
+      "D": "passengers who travel by rail for these routes will need to accept that lead times will be similar to those for air travel."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Air travel usually requires much more \"lead time\" than train travel, so short flights end up taking the same amount of time as a train trip to the same destination. But train travel starts to need more \"lead time\" when the trains approach their capacity limits. This suggests that train companies should add more trains for these routes if they want to encourage travelers to take a train instead of a plane. Choice A is incorrect. This inference isn't supported. The text never discusses \"long-haul routes\" for either air travel or rail travel, so there is no basis to make this inference. Choice C is incorrect. This inference isn't supported. The text only mentions these procedures to explain why the \"lead time\" is so long for air travel. It never suggests that trains need to start implementing these procedures too. Choice D is incorrect. This inference isn't supported. The goal is to make sure that trains \"remain a viable alternative\" to short flights, which suggests that anything that makes train travel take longer should be avoided."
+  },
+  {
+    "question_id": "70f512e7",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Gabrielle Adams and colleagues reviewed suggestions for improving a university that had been submitted to the university's president. They coded each suggestion as additive (the idea suggested adding something new to the university), subtractive (the idea suggested removing something from the university), neither additive nor subtractive, or invalid (the idea was not comprehensible). The data illustrated people's tendency to overlook the possibility of removing things to achieve improvements: ______",
+    "question_text": "Which choice most effectively uses data in the graph to complete the statement?",
+    "options": {
+      "A": "around 175 suggestions were coded as neither additive nor subtractive, whereas around 575 suggestions were coded as additive.",
+      "B": "more than 350 suggestions were coded as invalid, whereas fewer than 100 suggestions were coded as subtractive.",
+      "C": "fewer than 100 suggestions were coded as subtractive, whereas more than 550 suggestions were coded as additive.",
+      "D": "around 575 suggestions were coded as additive, whereas around 175 suggestions were coded as subtractive."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This choice shows that people suggested removing things to achieve improvements a lot less often than they suggested adding things, which supports the claim that people tend not to think of removing things as a likely way to improve the university. Choice A is incorrect. This choice doesn't support the claim. We are looking to prove that people suggested subtractive means of achieving improvements less often than other means, but this choice doesn't address how often people made subtractive suggestions. Choice B is incorrect. This choice doesn't support the claim. Invalid responses were incomprehensible, so we can't compare what they were suggesting to what was being suggested in subtractive responses. Choice D is incorrect. This choice misreads the graph. Fewer than 100 suggestions were coded as subtractive. 175 is the approximate number of suggestions coded as \"neither additive or subtractive.\""
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "question_id": "9153c6e2",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The graph models the relationship between the number of T-shirts, $x$, and the number of sweatshirts, $y$, that Kira can purchase for a school fundraiser.",
+    "question_text": "Which equation could represent this relationship?",
+    "options": {
+      "A": "$y = 7x + 18$",
+      "B": "$7x + 18y = 630$",
+      "C": "$y = 18x + 7$",
+      "D": "$18x + 7y = 630$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. A line in the $xy$-plane can be written as $y = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-coordinate of the $y$-intercept. The graph shown is a line passing through the points $(0, 35)$ and $(90, 0)$. Substituting $0$ for $x$ and $35$ for $y$ in the equation $y = mx + b$ yields $35 = m(0) + b$, or $35 = b$. Substituting $35$ for $b$, $90$ for $x$, and $0$ for $y$ in the equation $y = mx + b$ yields $0 = 90m + 35$. Subtracting $35$ from both sides of this equation yields $-35 = 90m$. Dividing both sides of this equation by $90$ yields $-\\frac{35}{90} = m$, or $-\\frac{7}{18} = m$. Substituting $-\\frac{7}{18}$ for $m$ and $35$ for $b$ in the equation $y = mx + b$ yields $y = -\\frac{7}{18}x + 35$. Multiplying both sides of this equation by $18$ yields $18y = -7x + 35(18)$, or $18y = -7x + 630$. Adding $7x$ to both sides of this equation yields $7x + 18y = 630$. Therefore, the equation $7x + 18y = 630$ represents the relationship between $x$ and $y$ modeled by the graph."
+  },
+  {
+    "question_id": "1ad71c23",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The table shows two values of $x$ and their corresponding values of $y$.\n\n| $x$ | $y$ |\n|---|---|\n| $-18$ | $-48$ |\n| $7$ | $52$ |",
+    "question_text": "In the $xy$-plane, the graph of the linear equation representing this relationship passes through the point $\\left(\\frac{1}{7}, a\\right)$. What is the value of $a$?",
+    "options": {
+      "A": "$-\\frac{4}{11}$",
+      "B": "$-\\frac{4}{77}$",
+      "C": "$\\frac{4}{7}$",
+      "D": "$\\frac{172}{7}$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The linear relationship between $x$ and $y$ can be represented by the equation $y = mx + b$, where $m$ is the slope of the graph of this equation in the $xy$-plane and $b$ is the $y$-coordinate of the $y$-intercept. The slope of a line between any two points $(x_1, y_1)$ and $(x_2, y_2)$ on the line can be calculated using the slope formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Based on the table, the graph contains the points $(-18, -48)$ and $(7, 52)$. Substituting $(-18, -48)$ and $(7, 52)$ for $(x_1, y_1)$ and $(x_2, y_2)$, respectively, in the slope formula yields $m = \\frac{52 - (-48)}{7 - (-18)}$, which is equivalent to $m = \\frac{100}{25}$, or $m = 4$. Substituting $4$ for $m$, $-18$ for $x$, and $-48$ for $y$ in the equation $y = mx + b$ yields $-48 = 4(-18) + b$, or $-48 = -72 + b$. Adding $72$ to both sides of this equation yields $24 = b$. Therefore, $m = 4$ and $b = 24$. Substituting $4$ for $m$ and $24$ for $b$ in the equation yields $y = 4x + 24$. Thus, the equation $y = 4x + 24$ represents the linear relationship between $x$ and $y$. It's also given that the graph of the linear equation representing this relationship in the $xy$-plane passes through the point $\\left(\\frac{1}{7}, a\\right)$. Substituting $\\frac{1}{7}$ for $x$ and $a$ for $y$ in the equation $y = 4x + 24$ yields $a = 4\\left(\\frac{1}{7}\\right) + 24$, which is equivalent to $a = \\frac{4}{7} + \\frac{168}{7}$, or $a = \\frac{172}{7}$."
+  },
+  {
+    "question_id": "bc6c6829",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The buildings of a shopping center are designed to allow water to drain from the roof into gutters on the sides of the buildings. The table shows the relationship between the area $x$, in square feet, of a roof and the amount of water $f(x)$, in gallons, drained from the roof into the gutters over a certain period of time.\n\n| Area (square feet) | Water (gallons) |\n|---|---|\n| $2,520$ | $4,536$ |\n| $3,780$ | $6,804$ |\n| $5,040$ | $9,072$ |",
+    "question_text": "Which equation could define $f$?",
+    "options": {
+      "A": "$f(x) = 0.6x$",
+      "B": "$f(x) = 1.8x$",
+      "C": "$f(x) = 2,268x$",
+      "D": "$f(x) = 4,536x$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the table represents the relationship between the area $x$, in square feet, of the roof of a shopping center and the amount of water $f(x)$, in gallons, drained from the roof into the gutters. Every choice represents this relationship with an equation defining $f$ in the form $f(x) = mx$, where $m$ is a constant rate of change. The value of $m$ can be determined by dividing both sides of the equation by $x$. Each of three pairs of $x$ and $f(x)$ in the table yield $m = 1.8$, since $\\frac{4,536}{2,520} = 1.8$, $\\frac{6,804}{3,780} = 1.8$, and $\\frac{9,072}{5,040} = 1.8$. Therefore, the equation $f(x) = 1.8x$ could define $f$."
+  },
+  {
+    "question_id": "e96acc98",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "$5(t + 3) - 7(t + 3) = 38$",
+    "question_text": "What value of $t$ is the solution to the given equation?",
+    "options": null,
+    "correct_answer": "-22",
+    "explanation": "The correct answer is $-22$. The given equation can be rewritten as $-2(t + 3) = 38$. Dividing both sides of this equation by $-2$ yields $t + 3 = -19$. Subtracting $3$ from both sides of this equation yields $t = -22$. Therefore, $-22$ is the value of $t$ that is the solution to the given equation."
+  },
+  {
+    "question_id": "ccb84027",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The graph shows the linear relationship between $x$ and $y$.",
+    "question_text": "Which table gives three values of $x$ and their corresponding values of $y$ for this relationship?",
+    "options": {
+      "A": "| $x$ | $y$ |\n|---|---|\n| $0$ | $0$ |\n| $1$ | $-7$ |\n| $2$ | $-9$ |",
+      "B": "| $x$ | $y$ |\n|---|---|\n| $0$ | $0$ |\n| $1$ | $-3$ |\n| $2$ | $-1$ |",
+      "C": "| $x$ | $y$ |\n|---|---|\n| $0$ | $-5$ |\n| $1$ | $-7$ |\n| $2$ | $-9$ |",
+      "D": "| $x$ | $y$ |\n|---|---|\n| $0$ | $-5$ |\n| $1$ | $-3$ |\n| $2$ | $-1$ |"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that the graph shows the linear relationship between $x$ and $y$. The given graph passes through the points $(0, -5)$, $(1, -3)$, and $(2, -1)$. It follows that when $x = 0$, the corresponding value of $y$ is $-5$, when $x = 1$, the corresponding value of $y$ is $-3$, and when $x = 2$, the corresponding value of $y$ is $-1$. Of the given choices, only the table in choice D gives these three values of $x$ and their corresponding values of $y$ for the relationship shown in the graph."
+  },
+  {
+    "question_id": "edf8a6ae",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Systems of two linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$5x = 15$\n$-4x + y = -2$\nThe solution to the given system of equations is $(x, y)$.",
+    "question_text": "What is the value of $x + y$?",
+    "options": {
+      "A": "$-17$",
+      "B": "$-13$",
+      "C": "$13$",
+      "D": "$17$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. Adding the second equation of the given system to the first equation yields $5x + (-4x + y) = 15 + (-2)$, which is equivalent to $x + y = 13$. So the value of $x + y$ is $13$."
+  },
+  {
+    "question_id": "77b21e2b",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Line $r$ in the $xy$-plane has a slope of $4$ and passes through the point $(0, 6)$.",
+    "question_text": "Which equation defines line $r$?",
+    "options": {
+      "A": "$y = -6x + 4$",
+      "B": "$y = 6x + 4$",
+      "C": "$y = 4x - 6$",
+      "D": "$y = 4x + 6$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. A line in the $xy$-plane with a slope of $m$ and a $y$-intercept of $(0, b)$ can be defined by an equation in the form $y = mx + b$. It's given that line $r$ has a slope of $4$ and passes through the point $(0, 6)$. It follows that $m = 4$ and $b = 6$. Substituting $4$ for $m$ and $6$ for $b$ in the equation $y = mx + b$ yields $y = 4x + 6$. Therefore, the equation $y = 4x + 6$ defines line $r$."
+  },
+  {
+    "question_id": "e4e977a4",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The table shows four values of $x$ and their corresponding values of $y$. There is a linear relationship between $x$ and $y$.\n\n| $x$ | $y$ |\n|---|---|\n| $-6$ | $65$ |\n| $-3$ | $56$ |\n| $3$ | $38$ |\n| $6$ | $29$ |",
+    "question_text": "Which of the following equations represents this relationship?",
+    "options": {
+      "A": "$9x + 3y = 141$",
+      "B": "$9x + 3y = 3$",
+      "C": "$3x + 9y = 141$",
+      "D": "$3x + 9y = 3$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. An equation representing the linear relationship between $x$ and $y$ can be written in slope-intercept form $y = mx + b$, where $m$ is the slope of the graph of the equation in the $xy$-plane and $b$ is the $y$-intercept. The slope, $m$, can be calculated using two ordered pairs, $(x_1, y_1)$ and $(x_2, y_2)$, and the formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Substituting the ordered pairs $(-6, 65)$ and $(6, 29)$ from the table for $(x_1, y_1)$ and $(x_2, y_2)$, respectively, in this formula yields $m = \\frac{29 - 65}{6 - (-6)}$, which is equivalent to $m = \\frac{-36}{12}$, or $m = -3$. Substituting $-3$ for $m$ in the formula $y = mx + b$ yields $y = -3x + b$. Substituting the point $(-6, 65)$ into this equation yields $65 = -3(-6) + b$, or $65 = 18 + b$. Subtracting $18$ from both sides of this equation yields $47 = b$. Substituting $47$ for $b$ in the equation $y = -3x + b$ yields $y = -3x + 47$. Adding $3x$ to both sides of this equation yields $3x + y = 47$. Multiplying both sides of this equation by $3$ yields $9x + 3y = 141$."
+  },
+  {
+    "question_id": "ea278c09",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Systems of two linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The graph of a system of linear equations is shown.",
+    "question_text": "What is the solution $(x, y)$ to the system?",
+    "options": {
+      "A": "$(0, 3)$",
+      "B": "$(1, 3)$",
+      "C": "$(2, 3)$",
+      "D": "$(3, 3)$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The solution to this system of linear equations is represented by the point that lies on both lines shown, or the point of intersection of the two lines. According to the graph, the point of intersection occurs when $x = 2$ and $y = 3$, or at the point $(2, 3)$. Therefore, the solution $(x, y)$ to the system is $(2, 3)$."
+  },
+  {
+    "question_id": "84877fd5",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "For groups of $25$ or more people, a museum charges $\\$21$ per person for the first $25$ people and $\\$14$ for each additional person.",
+    "question_text": "Which function $f$ gives the total charge, in dollars, for a tour group with $n$ people, where $n \\ge 25$?",
+    "options": {
+      "A": "$f(n) = 14n + 175$",
+      "B": "$f(n) = 14n + 525$",
+      "C": "$f(n) = 35n - 350$",
+      "D": "$f(n) = 14n + 21$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. A tour group with $n$ people, where $n \\ge 25$, can be split into two subgroups: the first $25$ people and the additional $n - 25$ people. Since the museum charges $\\$21$ per person for the first $25$ people and $\\$14$ for each additional person, the charge for the first $25$ people is $\\$21(25)$ and the charge for the additional $n - 25$ people is $\\$14(n - 25)$. Therefore, the total charge, in dollars, is given by the function $f(n) = 21(25) + 14(n - 25)$, or $f(n) = 14n + 175$."
+  },
+  {
+    "question_id": "542971a2",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "The equation $7g + 7b = 840$ represents the number of blue tiles, $b$, and the number of green tiles, $g$, an artist needs for an $840$-square-inch tile project. The artist needs $71$ blue tiles for the project.",
+    "question_text": "How many green tiles does he need?",
+    "options": null,
+    "correct_answer": "49",
+    "explanation": "The correct answer is $49$. It's given that the equation $7g + 7b = 840$ represents the number of blue tiles, $b$, and the number of green tiles, $g$, an artist needs for an $840$-square-inch tile project. It's also given that the artist needs $71$ blue tiles for the project. Substituting $71$ for $b$ in the equation $7g + 7b = 840$ yields $7g + 7(71) = 840$, or $7g + 497 = 840$. Subtracting $497$ from both sides of this equation yields $7g = 343$. Dividing both sides of this equation by $7$ yields $g = 49$. Therefore, the artist needs $49$ green tiles for the project."
+  }
+]

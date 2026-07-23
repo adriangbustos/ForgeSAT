@@ -1,0 +1,185 @@
+[
+  {
+    "question_id": "f8cb4ee2",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The three points shown define a circle.",
+    "question_text": "The circumference of this circle is $k\\pi$, where $k$ is a constant. What is the value of $k$?",
+    "options": {
+      "A": "$3$",
+      "B": "$6$",
+      "C": "$7$",
+      "D": "$9$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the three points shown define a circle, so the center of that circle is an equal distance from each of the three points. The point $(7, 8)$ is halfway between the points $(7, 5)$ and $(7, 11)$ and is a distance of $3$ units from each of those two points. The point $(7, 8)$ is also a distance of $3$ units from $(4, 8)$. Because the point $(7, 8)$ is the same distance from all three given points, it must be the center of the circle. The radius of a circle is the distance from the center to any point on the circle. Since that distance is $3$, it follows that the radius of the circle is $3$. The circumference of a circle with radius $r$ is equal to $2\\pi r$. It follows that the circumference of the circle is $2(\\pi)(3)$, or $6\\pi$. It's given that the circumference of the circle is $k\\pi$. Therefore, the value of $k$ is $6$."
+  },
+  {
+    "question_id": "f80d5adb",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is the value of $\\cos \\frac{565\\pi}{6}$?",
+    "options": {
+      "A": "$\\frac{1}{2}$",
+      "B": "$1$",
+      "C": "$\\frac{\\sqrt{3}}{2}$",
+      "D": "\\sqrt{3}"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The cosine of an angle is equal to the cosine of $n(2\\pi)$ radians more than the angle, where $n$ is an integer constant. Since $\\frac{565\\pi}{6}$ is equivalent to $47(2\\pi) + \\frac{\\pi}{6}$, $\\cos \\left(\\frac{565\\pi}{6}\\right)$ can be rewritten as $\\cos \\left(47(2\\pi) + \\frac{\\pi}{6}\\right)$, which is equal to $\\cos \\left(\\frac{\\pi}{6}\\right)$. Therefore, the value of $\\cos \\left(\\frac{565\\pi}{6}\\right)$ is equal to the value of $\\cos \\left(\\frac{\\pi}{6}\\right)$, which is $\\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "question_id": "40789a56",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Circle A in the $xy$-plane has the equation $(x + 5)^2 + (y - 5)^2 = 4$. Circle B has the same center as circle A. The radius of circle B is two times the radius of circle A. The equation defining circle B in the $xy$-plane is $(x + 5)^2 + (y - 5)^2 = k$, where $k$ is a constant.",
+    "question_text": "What is the value of $k$?",
+    "options": null,
+    "correct_answer": "16",
+    "explanation": "The correct answer is $16$. An equation of a circle in the $xy$-plane can be written as $(x - t)^2 + (y - u)^2 = r^2$, where the center of the circle is $(t, u)$, the radius of the circle is $r$, and where $t$, $u$, and $r$ are constants. It's given that the equation of circle A is $(x + 5)^2 + (y - 5)^2 = 4$, which is equivalent to $(x + 5)^2 + (y - 5)^2 = 2^2$. Therefore, the center of circle A is $(-5, 5)$ and the radius of circle A is $2$. It's given that circle B has the same center as circle A and that the radius of circle B is two times the radius of circle A. Therefore, the center of circle B is $(-5, 5)$ and the radius of circle B is $2(2)$, or $4$. Substituting $-5$ for $t$, $5$ for $u$, and $4$ for $r$ into the equation $(x - t)^2 + (y - u)^2 = r^2$ yields $(x - (-5))^2 + (y - 5)^2 = 4^2$, which is equivalent to $(x + 5)^2 + (y - 5)^2 = 16$. It follows that the equation of circle B in the $xy$-plane is $(x + 5)^2 + (y - 5)^2 = 16$. Therefore, the value of $k$ is $16$."
+  },
+  {
+    "question_id": "409da8a2",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A circle in the $xy$-plane has its center at $(16, 17)$ and has a radius of $7k$.",
+    "question_text": "Which equation represents this circle?",
+    "options": {
+      "A": "$(x - 16)^2 + (y - 17)^2 = 49k$",
+      "B": "$(x - 16)^2 + (y - 17)^2 = 49k^2$",
+      "C": "$(x - 16)^2 + (y - 17)^2 = 7k$",
+      "D": "$(x - 16)^2 + (y - 17)^2 = 7k^2$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The equation of a circle in the $xy$-plane can be written as $(x - h)^2 + (y - k)^2 = r^2$, where the center of the circle is $(h, k)$ and the radius of the circle is $r$. It's given that this circle has a center at $(16, 17)$ and a radius of $7k$. Substituting $16$ for $h$, $17$ for $k$, and $7k$ for $r$ in $(x - h)^2 + (y - k)^2 = r^2$ yields $(x - 16)^2 + (y - 17)^2 = (7k)^2$, or $(x - 16)^2 + (y - 17)^2 = 49k^2$. Therefore, the equation that represents this circle is $(x - 16)^2 + (y - 17)^2 = 49k^2$."
+  },
+  {
+    "question_id": "a1060875",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "A rectangle has a length of $13$ and a width of $6$.",
+    "question_text": "What is the perimeter of the rectangle?",
+    "options": {
+      "A": "$12$",
+      "B": "$26$",
+      "C": "$38$",
+      "D": "$52$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The perimeter of a quadrilateral is the sum of the lengths of its four sides. It's given that the rectangle has a length of $13$ and a width of $6$. It follows that the rectangle has two sides with length $13$ and two sides with length $6$. Therefore, the perimeter of the rectangle is $13 + 13 + 6 + 6$, or $38$."
+  },
+  {
+    "question_id": "8e79ef1c",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "An angle has a measure of $\\frac{9\\pi}{20}$ radians. What is the measure of the angle in degrees?",
+    "options": null,
+    "correct_answer": "81",
+    "explanation": "The correct answer is $81$. The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by $\\frac{180 \\text{ degrees}}{\\pi \\text{ radians}}$. Multiplying the given angle measure, $\\frac{9\\pi}{20}$ radians, by $\\frac{180 \\text{ degrees}}{\\pi \\text{ radians}}$ yields $\\left(\\frac{9\\pi}{20} \\text{ radians}\\right)\\left(\\frac{180 \\text{ degrees}}{\\pi \\text{ radians}}\\right)$, which is equivalent to $81$ degrees."
+  },
+  {
+    "question_id": "489aba1c",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A circle has a circumference of $31\\pi$ centimeters.",
+    "question_text": "What is the diameter, in centimeters, of the circle?",
+    "options": null,
+    "correct_answer": "31",
+    "explanation": "The correct answer is $31$. The circumference of a circle is equal to $2\\pi r$ centimeters, where $r$ represents the radius, in centimeters, of the circle, and the diameter of the circle is equal to $2r$ centimeters. It's given that a circle has a circumference of $31\\pi$ centimeters. Therefore, $31\\pi = 2\\pi r$. Dividing both sides of this equation by $\\pi$ yields $31 = 2r$. Since the diameter of the circle is equal to $2r$ centimeters, it follows that the diameter, in centimeters, of the circle is $31$."
+  },
+  {
+    "question_id": "4abd4abf",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A hemisphere is half of a sphere.",
+    "question_text": "If a hemisphere has a radius of $27$ inches, which of the following is closest to the volume, in cubic inches, of this hemisphere?",
+    "options": {
+      "A": "$1,500$",
+      "B": "$6,100$",
+      "C": "$30,900$",
+      "D": "$41,200$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The volume, $V$, of a sphere is given by $V = \\frac{4}{3}\\pi r^3$, where $r$ is the radius of the sphere. Since a hemisphere is half of a sphere, it follows that the volume, $V$, of a hemisphere is given by $V = \\left(\\frac{1}{2}\\right)\\left(\\frac{4}{3}\\pi r^3\\right)$, or $V = \\frac{2}{3}\\pi r^3$. Substituting $27$ for $r$ in this formula yields $V = \\frac{2}{3}\\pi (27)^3$, which gives $V = 13,122\\pi$, or $V$ is approximately equal to $41,223.98$. Therefore, the choice that is closest to the volume, in cubic inches, of this hemisphere is $41,200$."
+  },
+  {
+    "question_id": "9019ad99",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A triangle has a base length of $56$ centimeters and a height of $112$ centimeters.",
+    "question_text": "What is the area, in square centimeters, of the triangle?",
+    "options": {
+      "A": "$168$",
+      "B": "$1,568$",
+      "C": "$3,136$",
+      "D": "$6,272$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The area, $A$, of a triangle is given by the formula $A = \\frac{1}{2}bh$, where $b$ is the base length and $h$ is the height of the triangle. It's given that a triangle has a base length of $56$ centimeters and a height of $112$ centimeters. Substituting $56$ for $b$ and $112$ for $h$ in the formula yields $A = \\left(\\frac{1}{2}\\right)(56)(112)$, or $A = 3,136$. Therefore, the area, in square centimeters, of the triangle is $3,136$."
+  },
+  {
+    "question_id": "0e8cf28f",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A right circular cylinder has a height of $8\\text{ meters (m)}$ and a base with a radius of $12\\text{ m}$.",
+    "question_text": "What is the volume, in $\\text{m}^3$, of the cylinder?",
+    "options": {
+      "A": "$8\\pi$",
+      "B": "$20\\pi$",
+      "C": "$768\\pi$",
+      "D": "$1,152\\pi$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The volume, $V$, of a right circular cylinder is given by $V = \\pi r^2 h$, where $r$ is the radius of the circular base and $h$ is the height of the cylinder. It's given that the cylinder has a height of $8$ meters and a base with a radius of $12$ meters. Substituting $12$ for $r$ and $8$ for $h$ in $V = \\pi r^2 h$ yields $V = \\pi(12)^2(8)$, or $V = 1,152\\pi$. Therefore, the volume, in $\\text{m}^3$, of the cylinder is $1,152\\pi$."
+  },
+  {
+    "question_id": "50cd2366",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "An isosceles right triangle has a perimeter of $94 + 94\\sqrt{2}$ inches.",
+    "question_text": "What is the length, in inches, of one leg of this triangle?",
+    "options": {
+      "A": "$47$",
+      "B": "$47\\sqrt{2}$",
+      "C": "$94$",
+      "D": "$94\\sqrt{2}$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. It's given that the right triangle is isosceles. In an isosceles right triangle, the two legs have equal lengths, and the length of the hypotenuse is $\\sqrt{2}$ times the length of one of the legs. Let $\\ell$ represent the length, in inches, of each leg of the isosceles right triangle. It follows that the length of the hypotenuse is $\\ell\\sqrt{2}$ inches. The perimeter of a figure is the sum of the lengths of the sides of the figure. Therefore, the perimeter of the isosceles right triangle is $\\ell + \\ell + \\ell\\sqrt{2}$ inches. It's given that the perimeter of the triangle is $94 + 94\\sqrt{2}$ inches. It follows that $\\ell + \\ell + \\ell\\sqrt{2} = 94 + 94\\sqrt{2}$. Factoring the left-hand side of this equation yields $(1 + 1 + \\sqrt{2})\\ell = 94 + 94\\sqrt{2}$, or $(2 + \\sqrt{2})\\ell = 94 + 94\\sqrt{2}$. Dividing both sides of this equation by $2 + \\sqrt{2}$ yields $\\ell = \\frac{94 + 94\\sqrt{2}}{2 + \\sqrt{2}}$. Rationalizing the denominator of the right-hand side of this equation by multiplying the right-hand side of the equation by $\\frac{2 - \\sqrt{2}}{2 - \\sqrt{2}}$ yields $\\ell = \\frac{(94 + 94\\sqrt{2})(2 - \\sqrt{2})}{(2 + \\sqrt{2})(2 - \\sqrt{2})}$. Applying the distributive property to the numerator and to the denominator of the right-hand side of this equation yields $\\ell = \\frac{188 - 94\\sqrt{2} + 188\\sqrt{2} - 94(2)}{4 - 2\\sqrt{2} + 2\\sqrt{2} - \\sqrt{4}}$. This is equivalent to $\\ell = \\frac{94\\sqrt{2}}{2}$, or $\\ell = 47\\sqrt{2}$. Therefore, the length, in inches, of one leg of the isosceles right triangle is $47\\sqrt{2}$."
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "83e4ea9a",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "According to Indian economist and sociologist Radhakamal Mukerjee (1889–1968), the Eurocentric concepts that informed early twentieth-century social scientific methods—for example, the idea that all social relations are reducible to struggles between individuals—had little relevance for India. Making the social sciences more responsive to Indians’ needs, Mukerjee argued, required constructing analytical categories informed by India’s cultural and ecological circumstances. Mukerjee thus proposed the communalist ‐Indian village‐ as the ideal model on which to base Indian economic and social policy.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "The text recounts Mukerjee’s early training in the social scientific disciplines and then lists social policies whose implementation Mukerjee oversaw.",
+      "B": "The text mentions some of Mukerjee’s economic theories and then traces their impact on other Indian social scientists of the twentieth century.",
+      "C": "The text presents Mukerjee’s critique of the social sciences and then provides an example of his attempts to address issues he identified in his critique.",
+      "D": "The text explains an influential economic theory and then demonstrates how that theory was more important to Mukerjee’s work than other social scientists have acknowledged."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text does indeed present Mukerjee’s critique of the social sciences—that they were too Eurocentric—and then provides an example of how he attempted to address the issues he identified: by suggesting a social science model based on the Indian village.\\n\\nChoice A is incorrect. The text doesn’t discuss Mukerjee’s early training or his oversight of the implementation of social policies at all. Choice B is incorrect. The text never discusses any other Indian social scientists. Choice D is incorrect. The text never mentions other social scientists’ responses to Mukerjee’s work."
+  },
+  {
+    "question_id": "82dc74ec",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The Cambrian explosion gets its name from the sudden appearance and rapid diversification of animal remains in the fossil record about 541 million years ago, during the Cambrian period. Some scientists argue that this ______ change in the fossil record might be because of a shift in many organisms to body types that were more likely to be preserved.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "catastrophic",
+      "B": "elusive",
+      "C": "abrupt",
+      "D": "imminent"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically and precisely completes the text’s discussion of the fossil record from the Cambrian period. In this context, ‑abrupt‐ means sudden. The text explains that the fossil record reflects the unexpected appearance and rapid diversification, or increase in variety, of animal remains during the Cambrian period. This context establishes that these remains’ entry into the fossil record was sudden.\\n\\nChoice A is incorrect. Although the word ‑explosion‐ appears in the name of the event marked by the fossil record change, the text never suggests that the change was ‑catastrophic,‐ or disastrous. In context, ‑explosion‐ refers to the rapid diversification, or the swift increase in variety, of animal remains in the fossil record—a phenomenon that the text presents in a relatively neutral manner, without commenting on whether it was negative or positive. Choice B is incorrect because the text never suggests that the change toward greater diversification is ‑elusive,‐ or difficult to locate, in the fossil record. Rather, the text notes that the change occurred about 541 million years ago, suggesting that scientists have indeed been able to locate it. Choice D is incorrect because it wouldn’t make sense in context to describe the change in the fossil record as ‑imminent,‐ or about to occur, since the text indicates that the change already occurred millions of years ago."
+  },
+  {
+    "question_id": "0639f0cf",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Jhumpa Lahiri’s 2003 novel *The Namesake*. Gogol, a child, is at a beach in Massachusetts with his father.\\n\\nOn the beach Gogol collects rocks, digs tunnels in the sand. He and his father wander barefoot, their pant legs rolled halfway up their calves.\\n\\n\\u00a92003 by Jhumpa Lahiri",
+    "question_text": "As used in the text, what does the word ‑collects‐ most nearly mean?",
+    "options": {
+      "A": "Increases",
+      "B": "Makes",
+      "C": "Ignores",
+      "D": "Gathers"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because as used in the text, \"collects\" most nearly means gathers or accumulates. In the text, Gogol \"collects\" (or gathers) rocks and digs in the sand while strolling the beach with his father. Thus, \"gathers\" is the best answer.\\n\\nChoice A is incorrect because in this context, \"increases\" would mean expands or inflates, which is not something a child could logically do to rocks. Rather, the text indicates that Gogol \"collects\" or gathers rocks while strolling the beach with his father. Choice B is incorrect because in this context, \"makes\" would suggest that Gogol is creating or manufacturing rocks, which doesn’t make sense. Rather, the text indicates that Gogol \"collects\" or gathers rocks while strolling the beach with his father. Choice C is incorrect because in this context, \"ignores\" would mean disregards or avoids, but in the text Gogol \"collects rocks,\" which indicates that he’s engaging with the rocks, not ignoring them."
+  },
+  {
+    "question_id": "7424ea31",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "**Text 1**\\nFossils of the hominin *Australopithecus africanus* have been found in the Sterkfontein Caves of South Africa, but assigning an age to the fossils is challenging because of the unreliability of dating methods in this context. The geology of Sterkfontein has caused soil layers from different periods to mix, impeding stratigraphic dating, and dates cannot be reliably imputed from those of nearby animal bones since the bones may have been relocated by flooding.\\n\\n**Text 2**\\nArchaeologists used new cosmogenic nuclide dating techniques to reevaluate the ages of *A. africanus* fossils found in the Sterkfontein Caves. This technique involves analyzing the cosmogenic nucleotides in the breccia—the matrix of rock fragments immediately surrounding the fossils. The researchers assert that this approach avoids the potential for misdating associated with assigning ages based on Sterkfontein’s soil layers or animal bones.",
+    "question_text": "Based on the texts, how would the researchers in Text 2 most likely respond to the underlined portion in Text 1?",
+    "options": {
+      "A": "They would emphasize the fact that the *A. africanus* fossils found in the Sterkfontein Caves may have been corrupted in some way over the years.",
+      "B": "They would contend that if analyses of surrounding layers and bones in the Sterkfontein Caves were combined, then the dating of the fossils there would be more accurate.",
+      "C": "They would argue that their techniques are better suited than other methods to the unique challenges posed by the Sterkfontein Caves.",
+      "D": "They would claim that cosmogenic nuclide dating is reliable in the context of the Sterkfontein Caves because it is applied to the fossils directly."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. Text 2 states that the researchers used cosmogenic nuclide dating to \"avoid the potential for misdating\" caused by the geology of Sterkfontein, which Text 1 describes as \"challenging\" and unreliable.\\n\\nChoice A is incorrect. Neither text suggests that the *A. africanus* fossils have been \"corrupted,\" but only that traditional dating methods are difficult in Sterkfontein because of floods and soil mixing where the fossils were found. Nothing is implied to have compromised the fossils themselves. Choice B is incorrect. This choice misreads Text 2. Text 2 agrees that stratigraphy and other methods are prone to error in the context of Sterkfontein: there’s a \"potential for misdating\" when evaluating age based on soil layers and bones. Choice D is incorrect. Text 2 does not state that cosmogenic nuclide dating is applied to the fossils directly but rather to the breccia that surrounds them."
+  },
+  {
+    "question_id": "ae9b39aa",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "**Text 1**\\nWhen the 50-second-long film *Arrival of the Train*—which depicts what its title says, a train pulling into a station—was first shown publicly in 1896, spectators, naïve to the new medium of film and seeing a train appearing to come directly at them, leaped from their seats and fled the room. This moment marks a major cultural shift: a new way of representing and seeing the world had arrived with that train, and nothing would ever be the same.\\n\\n**Text 2**\\nThe fact that there is no contemporary evidence that the first audience of *Arrival of the Train* was alarmed has not stopped the story from becoming canonical, even among film historians. But that phenomenon itself is highly revealing. Our belief that the coming of film was transformative is so strong that we invented and keep retelling a founding myth that divides cultural history into a (naïve) ‑before‐ and (sophisticated) ‑after.‐",
+    "question_text": "Based on the texts, the author of Text 2 would most likely agree with which statement about the description of the first showing of *Arrival of the Train* in Text 1?",
+    "options": {
+      "A": "It is more motivated by a perception of the significance of the invention of film than by facts.",
+      "B": "It expresses a view about the transformative nature of film that film historians tend to regard as naïve.",
+      "C": "It is not based on evidence and reflects film historians’ belief that they are more sophisticated than today’s audiences.",
+      "D": "It reflects a misconception that is widely believed because it captures early film audiences’ sense that the new medium was alarming."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it provides a statement about the description of the first showing of *Arrival of the Train* in Text 1 that, based on the texts, the author of Text 2 would most likely agree with. Text 1 indicates that members of the audience, unaccustomed to the new medium of film and believing that they were looking at a real oncoming train, allegedly reacted to the film with alarm. Text 1 then goes on to treat this anecdote as a factual account of the film’s first showing, interpreting it as a moment that marked a \"major cultural shift.\" In contrast, the author of Text 2 indicates that though the story of the film’s first showing has become \"canonical,\" or widely accepted, there is no contemporary evidence to support the idea that the audience reacted as Text 1 describes. Text 2 goes on to explain that this factually questionable description likely persists because it functions as a \"founding myth\" that reinforces a widespread belief in the profoundly transformative nature of the invention of film. This indicates that the author of Text 2 would likely see the description in Text 1 as motivated primarily by cultural perceptions about film’s significance rather than by documented historical facts.\\n\\nChoice B is incorrect because the author of Text 2 doesn’t suggest that film historians regard the view about film’s transformative nature as naïve. On the contrary, Text 2 states that the story of the first showing of *Arrival of the Train* has become \"canonical, even among film historians,\" indicating that historians broadly accept this narrative as a compelling illustration of film’s impact, not that they regard either the narrative or the views it conveys about the transformative nature of film as naïve. Text 2 refers to a \"(naïve) ‘before’\" in cultural history, but this is describing how the myth itself characterizes pre-film audiences, not how historians regard views about the transformative nature of film. Choice C is incorrect. While the author of Text 2 does indicate that the story of the audience’s reaction to *Arrival of the Train* described in Text 1 is a myth that lacks evidence, the text doesn’t suggest that the story reflects the fact that film historians believe themselves to be more sophisticated than modern audiences are. Rather, Text 2 suggests that the story persists because of a collective cultural belief, which historians share, in the profound impact of the invention of film. Moreover, the \"naïve\" versus \"sophisticated\" distinction mentioned in Text 2 refers to how the myth characterizes audiences before and after the invention of film; it doesn’t characterize modern audiences versus film historians. Choice D is incorrect. Although the author of Text 2 would agree that the description of the first showing of *Arrival of the Train* in Text 1 reflects a misconception, the author wouldn’t agree that widespread belief in the misconception can be attributed to the fact that it accurately captures early audiences’ actual sense of alarm. In fact, the misconception identified by the author of Text 2 concerns the accuracy of the audience’s alleged reaction; the author questions whether early audiences were alarmed at all, stating there is \"no contemporary evidence\" that they reacted in this way. According to Text 2, the description is widely believed not because it accurately captures historical reactions but because it serves as a \"founding myth\" that supports a belief in film’s transformative cultural impact."
+  },
+  {
+    "question_id": "914dc048",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The Appalachian Trail is a hiking path in the eastern United States. Much of the 2,000 mile trail passes through wilderness areas. In order to ______ those areas, the United States Congress passed the National Trails System Act in 1968, ensuring that the trail would not be sold or commercially developed.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "borrow",
+      "B": "postpone",
+      "C": "protect",
+      "D": "decorate"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"Protect\" means \"preserve\" or \"keep safe from.\" By ensuring that the wilderness areas along the Appalachian Trail can’t be sold or developed, the National Trails System Act protects them.\\n\\nChoice A is incorrect. \"Borrow\" means \"to take something with intent to return it.\" The text doesn’t say anything about taking and returning the wilderness that surrounds the Appalachian Trail. Choice B is incorrect. \"Postpone\" means \"to put off until later.\" Nothing in the passage suggests that Congress wants to \"postpone\" the wilderness areas (and that doesn’t make sense anyway—they can postpone doing something to the wilderness areas, but they can’t postpone the areas themselves). Choice D is incorrect. \"Decorate\" means \"to adorn\" or \"add extra items or pictures to make more attractive.\" No details in the text suggest that Congress wishes to make the trail fancier or more attractive."
+  },
+  {
+    "question_id": "e4cf5cc5",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Dolphins and other animals, though, have busted the myth that tool use requires hands. Inventively, dolphins use sponges to protect their noses from scratches when foraging on the seafloor. Palm cockatoos also get creative. They use leaves to pad their beaks when opening nuts.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To question the belief that birds are intelligent",
+      "B": "To compare tool use in humans with tool use in palm cockatoos",
+      "C": "To establish that tool use doesn’t indicate intelligence",
+      "D": "To argue that a variety of animals use tools"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most accurately states the main purpose of the text. The text first states that animals make use of objects as tools to help them achieve different goals. The text then explains that although people used to think only primates use tools, tool use by dolphins (aquatic mammals) and palm cockatoos (birds) has shown that primates are not the only animals that use tools. Thus, the main purpose of the text is to argue that a variety of animals, not just primates, use tools.\\n\\nChoice A is incorrect because the text doesn’t mention intelligence at all, focusing just on the idea that animals use tools. Further, the text mentions one kind of bird (palm cockatoos) only as an example of a non-primate that uses tools and describes its use of tools as creative, not unintelligent. Choice B is incorrect. Although the text mentions tool use in primates (a group that includes humans) and in palm cockatoos, it doesn’t compare humans’ tool use with palm cockatoos’ tool use. The text mentions palm cockatoos only as one example out of the variety of animals that use tools and never directly mentions tool use in humans. Choice C is incorrect because the text discusses tool use but never makes any mention of intelligence. Rather than establishing that tool use doesn’t indicate intelligence, the text describes certain tool use as inventive and creative."
+  },
+  {
+    "question_id": "c4c7ef40",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In 2008 a complete set of ancient *pessoi* (glass game pieces) was uncovered from beneath a paving stone in modern-day Israel. Due to their small size, *pessoi* were easily misplaced, making a whole set a rare find. This has led some experts to suggest that the set may have been buried intentionally; however, without clear evidence, archaeologists are left to ______ what happened.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "speculate about",
+      "B": "dismiss",
+      "C": "expand on",
+      "D": "catalog"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"Speculate\" means \"to form a theory or guess without any clear evidence.\" This makes sense because, due to the lack of \"clear evidence,\" the archaeologists can only guess how the *pessoi* set might have come to be there.\\n\\nChoice B is incorrect. \"Dismiss\" can mean \"send away\" or \"treat as unworthy of consideration.\" The text implies that the archaeologists are trying to figure out the truth—they wouldn’t \"dismiss\" what really happened. Choice C is incorrect. \"Expand on\" means \"give more details about,\" but there aren’t any details to give. Without any \"clear evidence,\" the archaeologists can’t give any more details. Choice D is incorrect. \"Catalog\" means \"carefully record\" or \"make a list of.\" However, there’s no \"clear evidence,\" so there’s no real information to \"catalog.\""
+  },
+  {
+    "question_id": "ef9e1e81",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The following text is from George Marion McClellan’s 1895 poem ‑Eternity.‐\\n\\nMy spirit swoons, and all my senses cry\\nFor Ocean’s breast and covering of the sky.\\nRock me to sleep, ye waves, and outward bound,\\nJust let me drift far out from toil and care,\\nWhere lapping of the waves shall be the sound,\\nWhich mingled with the winds that gently bear\\nMe on between a peaceful sea and sky,\\nTo make my soothing slumberous lullaby.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To illustrate the increasing intensity of the speaker’s desire to escape ongoing hardship by gliding on the ocean",
+      "B": "To contrast the demands of the speaker’s everyday life with the serenity of being rocked to sleep by the ocean",
+      "C": "To convey the speaker’s longing for the ocean to impart a sense of inner tranquility",
+      "D": "To justify the speaker’s qualms about being transported by the ocean to a quiet destination"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most accurately states the main purpose of the text, which is to convey the speaker’s longing for the ocean to impart a sense of inner tranquility, or peace. The text begins by expressing the speaker’s strong desire to be on the ocean, appealing directly to the waves to rock the speaker to sleep. The poem then describes the \"slumberous lullaby\" formed by the sound of the waves and the winds on which the speaker wishes to be carried \"gently...between a peaceful sea and sky.\" All these details serve to emphasize the speaker’s desire for the ocean to give them a sense of inner tranquility.\\n\\nChoice A is incorrect. Given the poem’s expression of a longing to achieve tranquility by drifting on the ocean, it can be inferred that the speaker desires to escape something unpleasant in daily life. However, the poem doesn’t refer directly to any such hardship—ongoing or otherwise. And since the poem doesn’t establish that the speaker is experiencing a desire to escape ongoing hardship, it can’t be said that such a desire increases in intensity. Choice B is incorrect. The speaker does express a desire for the serenity of being rocked to sleep by the ocean, and it can be inferred that this desire is a response to demands that make the speaker’s daily life stressful. However, the poem doesn’t refer directly to such demands or contrast them with the tranquility of drifting on the ocean. Choice D is incorrect because the text doesn’t suggest the speaker has any qualms, or reservations, about being transported by the ocean. On the contrary, the speaker actively desires to \"drift far out\" and be carried by the waves and wind. Moreover, the poem doesn’t suggest that this drifting would have any particular destination."
+  },
+  {
+    "question_id": "6a9bf335",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Studying late nineteenth- and early twentieth-century artifacts from an agricultural and domestic site in Texas, archaeologist Ayana O. Flewellen found that Black women employed as farm workers utilized hook-and-eye closures to fasten their clothes at the waist, giving themselves a silhouette similar to the one that was popular in contemporary fashion and typically achieved through more restrictive garments such as corsets. Flewellen argues that this sartorial practice shows that these women balanced hegemonic ideals of femininity with the requirements of their physically demanding occupation.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To describe an unexpected discovery that altered a researcher’s view of how rapidly fashions among Black female farmworkers in late nineteenth- and early twentieth-century Texas changed during the period",
+      "B": "To discuss research that investigated the ways in which Black female farmworkers in late nineteenth- and early twentieth-century Texas used fashion practices to resist traditional gender ideals",
+      "C": "To evaluate a scholarly work that offers explanations for the impact of urban fashion ideals on Black female farmworkers in late nineteenth- and early twentieth-century Texas",
+      "D": "To summarize the findings of a study that explored factors influencing a fashion practice among Black female farmworkers in late nineteenth- and early twentieth-century Texas"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text provides an overview of a scholarly work discussing the fashion practices of Black female farmworkers in late 19th- and early 20th-century Texas, and how these practices were influenced by both the fashion ideals of the time and the demands of farmwork.\\n\\nChoice A is incorrect. The text never discusses the rate of fashion change among Black female farmworkers. The text also never categorizes Flewellen’s findings as \"unexpected.\" Choice B is incorrect. The text actually explains that Black female farmworkers were trying to achieve traditional feminine ideals, not resist them. Choice C is incorrect. The text doesn’t evaluate a scholarly work but rather simply describes it. Furthermore, the text is focused on \"agricultural and domestic\" fashion, not urban fashion as this choice suggests."
+  },
+  {
+    "question_id": "da17503b",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Space scientists Anna-Lisa Paul, Stephen M. Elardo, and Robert Ferl planted seeds of *Arabidopsis thaliana* in samples of lunar regolith—the surface material of the Moon—and, serving as a control group, in terrestrial soil. They found that while all the seeds germinated, the roots of the regolith-grown plants were stunted compared with those in the control group. Moreover, unlike the plants in the control group, the regolith-grown plants exhibited red pigmentation, reduced leaf size, and inhibited growth rates—indicators of stress that were corroborated by postharvest molecular analysis.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "It describes an experiment that addressed an unresolved question about the extent to which lunar regolith resembles terrestrial soils.",
+      "B": "It compares two distinct methods of assessing indicators of stress in plants grown in a simulated lunar environment.",
+      "C": "It presents evidence in support of the hypothesis that seed germination in lunar habitats is an unattainable goal.",
+      "D": "It discusses the findings of a study that evaluated the effects of exposing a plant species to lunar soil conditions."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text describes an experiment wherein space scientists compared plant growth in terrestrial and lunar soil conditions. It then discusses the findings of the study, including the fact that all the seeds germinated but that the plants grown in lunar soil exhibited signs of stress.\\n\\nChoice A is incorrect. The text doesn’t address this question, and never describes any specific characteristics of either soil. It merely describes the outcome of an experiment that exposed a plant species to lunar soil conditions. Choice B is incorrect. The text never compares methods of assessing indicators of stress—instead, it simply mentions several stress indicators observed in the study (red pigmentation, reduced leaf size, and inhibited growth rates). Choice C is incorrect. The text doesn’t present any evidence that we could never achieve seed germination in lunar habitats, and in fact states that the seeds in the lunar soil did germinate."
+  }
+]

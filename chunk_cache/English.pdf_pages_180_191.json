@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "b74860b2",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A member of the Otomi, an Indigenous people in Central Mexico, Octavio Medellín immigrated to the United States as a child, and his sculpture bears the impress of traditions on both sides of the border: US-based modernist sculpture, Mexican modernist painting, Otomi art, and the ancient sculpture of other Mexican Indigenous peoples, including the Maya. In his 1950 masterpiece *History of Mexico*, Medellín fuses these influences into a style so idiosyncratic that it resists efforts to view his work through the lens of nationality or cultural identity. Artists, he insisted, should strive for individual expression, even as they draw inspiration from their heritage and the communities where they live and work.",
+    "question_text": "Which quotation from an art critic most directly challenges the underlined claim in the text?",
+    "options": {
+      "A": "“Although a number of ancient Indigenous artistic traditions pictured human forms in profile, the forms populating the surface of *A History of Mexico* suggest a specifically Maya influence.”",
+      "B": "“In *A History of Mexico*, the synthesis of ancient and modernist traditions functions as a stylistic parallel to the work’s subject matter: a survey of centuries of Mexican history.”",
+      "C": "“Many critics focus on Indigenous influences in *A History of Mexico* and other key works by Medellín to the exclusion of influences from non-Indigenous art.”",
+      "D": "“While *A History of Mexico* features modernist motifs, it relies primarily on angular human forms in profile—a staple of Maya sculpture—and thus invites classification as Indigenous art.”"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This critic challenges the claim by arguing that *A History of Mexico* is not so idiosyncratic (unique) as to resist classification because its use of Maya-style human profiles actually “invites classification as Indigenous art.” Therefore, according to this critic, the work can be viewed, at least partially, through a lens of national or cultural identity."
+  },
+  {
+    "question_id": "af45dc3f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Many animals, including humans, must sleep, and sleep is known to have a role in everything from healing injuries to encoding information in long-term memory. But some scientists claim that, from an evolutionary standpoint, deep sleep for hours at a time leaves an animal so vulnerable that the known benefits of sleeping seem insufficient to explain why it became so widespread in the animal kingdom. These scientists therefore imply that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "prolonged deep sleep is likely advantageous in ways that have yet to be discovered.",
+      "B": "most traits perform functions that are hard to understand from an evolutionary standpoint.",
+      "C": "it is more important to understand how widespread prolonged deep sleep is than to understand its function.",
+      "D": "many traits that provide significant benefits for an animal also likely pose risks to that animal."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It most logically completes the text. The text says that some scientists can’t explain why prolonged deep sleep is so widespread, given that the known benefits of sleep don’t seem to make up for how vulnerable it leaves an animal. This suggests that prolonged deep sleep probably has unknown evolutionary benefits that make up for the vulnerability."
+  },
+  {
+    "question_id": "45391bbf",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "As a monthly newsletter formed in 1969 by a group of Asian American students at the University of California, Los Angeles, *Gidra* helped raise awareness about social and political issues concerning the Asian American community on campus and at large. The newsletter had an expansive reach for a publication of its kind: around 4,000 copies were published each month. A student writing a history paper, however, hypothesizes that *Gidra*’s influence cannot be measured by the number of newsletters published monthly alone.",
+    "question_text": "Which finding, if true, would most directly support the student’s hypothesis?",
+    "options": {
+      "A": "The students who initially formed *Gidra* each contributed financially to its creation.",
+      "B": "In addition to covering current events, *Gidra* also featured works of art and literature.",
+      "C": "*Gidra* was initially based out of the Asian American Studies Center at UCLA.",
+      "D": "People would often give their copies of *Gidra* to others once they had finished reading an issue."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. If there were more *Gidra* readers than there were copies of the newsletter, then the newsletter’s influence would be much greater than its 4,000 monthly copies."
+  },
+  {
+    "question_id": "48f28116",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, $82.9\\%$ indicated that they use the city’s parks, and of the 663 respondents from Lima, $72.7\\%$ indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.",
+    "question_text": "The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?",
+    "options": {
+      "A": "It was much larger than the researchers conducting the study expected.",
+      "B": "It is caused by something other than the parks’ proximity to city residents.",
+      "C": "It could be due to inaccuracies in the survey results.",
+      "D": "It was calculated using sources that predate the survey."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents a statement about the difference between the proportions of Quito residents and Lima residents using parks that is supported by the text. The text states that $82.9\\%$ of surveyed Quito residents and $72.7\\%$ of surveyed Lima residents reported using their city’s parks."
+  },
+  {
+    "question_id": "8e811cb0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "“To You” is an 1856 poem by Walt Whitman. In the poem, Whitman suggests that readers, whom he addresses directly, have not fully understood themselves, writing, ______",
+    "question_text": "Which quotation from “To You” most effectively illustrates the claim?",
+    "options": {
+      "A": "“You have not known what you are, you have slumber’d upon yourself / all your life, / Your eyelids have been the same as closed most of the time.”",
+      "B": "“These immense meadows, these interminable rivers, you are immense / and interminable as they.”",
+      "C": "“I should have made my way straight to you long ago, / I should have blabb’d nothing but you, I should have chanted nothing / but you.”",
+      "D": "“I will leave all and come and make the hymns of you, / None has understood you, but I understand you.”"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it presents the quotation that most directly illustrates the claim that Whitman’s poem suggests that its readers haven’t fully understood themselves. This quotation makes that point directly by saying to readers, “You have not known what you are.”"
+  },
+  {
+    "question_id": "9062ad0f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "North American gray wolves usually have mixed gray and white fur, but some members of the species have a version of a gene, or gene variant, that gives them a mostly black coat instead. Sarah Cubaynes and her team studied twelve populations of North American gray wolves. They found that the black-furred wolves are more common in areas where outbreaks of distemper virus happen regularly. The team also discovered that the black-furred wolves are more likely to be immune to distemper than the gray-furred wolves are. Taken together, these findings suggest that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "North American gray wolves experience more outbreaks of distemper virus than other wolf species do.",
+      "B": "the gene variant that results in black fur may be linked to immunity to the distemper virus.",
+      "C": "the average life span of gray wolves is likely to increase over time because of a particular gene variant.",
+      "D": "gray-furred wolves will soon replace black-furred wolves across North America."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text tells us that the black-furred wolves are more common in areas with regular outbreaks of distemper virus and are more likely to be immune to distemper than the gray-furred wolves. This suggests that the gene variant that results in black fur may be linked to immunity to the distemper virus."
+  },
+  {
+    "question_id": "c075f43e",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Comfort Ratings and Temperature-Adjustment Preferences from One Survey\nParticipant | Comfort rating | Preferred temperature adjustment\n20 | $-2$ | Cooler\n1 | $1$ | Cooler\n21 | $1$ | Cooler\n\nNan Gao and her team conducted multiple surveys to determine participants’ levels of comfort in a room where the temperature was regulated by a commercial climate control system. Participants filled out surveys several times a day to indicate their level of comfort on a scale from $-3$ (very cold) to $+3$ (very hot), with $0$ indicating neutral (neither warm nor cool), and to indicate how they would prefer the temperature to be adjusted. The table shows three participants’ responses in one of the surveys. According to the table, all three participants wanted the room to be cooler, ______",
+    "question_text": "Which choice most effectively uses data from the table to complete the statement?",
+    "options": {
+      "A": "and they each reported the same level of comfort.",
+      "B": "even though each participant’s ratings varied throughout the day.",
+      "C": "but participant 20 reported feeling significantly colder than the other two participants did.",
+      "D": "but participant 1 reported feeling warmer than the other two participants did."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text describes the comfort rating scale: from $-3$ (very cold) to $+3$ (very hot), with $0$ being neutral. Participant 20 gave a $-2$ comfort rating, a full three points colder on the scale than the other two participants."
+  },
+  {
+    "question_id": "9e6eec22",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The Milky Way galaxy is composed of millions of stars in a relatively flat structure containing a thin disk and a thick disk. Based on computer simulations and analysis of data on the brightness, position, and chemical composition of about 250,000 stars in the thick disk (collected from two telescopes, one in China and one orbiting in space), astrophysicists Maosheng Xiang and Hans-Walter Rix claim that the thick disk of the Milky Way formed in two distinct phases rather than a single one.",
+    "question_text": "Which finding, if true, would most directly support the researchers’ claim?",
+    "options": {
+      "A": "The telescopes used by the researchers have detected stars of similar ages in galaxies other than the Milky Way.",
+      "B": "There’s an age difference of about 2 billion years between certain stars in the thick disk.",
+      "C": "The thin disk contains about twice as many stars that can be seen from Earth as the thick disk does.",
+      "D": "The stars in the Milky Way tend to have very similar chemical compositions."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. A consistent age difference of 2 billion years between certain stars within the thick disk would support the claim that the thick disk formed in two phases instead of one, with the second phase beginning 2 billion years after the first phase."
+  },
+  {
+    "question_id": "378ad9dd",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Psychologists wanted to test how young children think about rewards and fairness. In an experiment, two teachers handed out rewards while children (ages four to six) watched. The teachers gave out the same number of rewards, but one of them counted the rewards out loud. The children were then asked who was fairer. $73\\%$ chose the teacher who counted. The psychologists think that counting showed the children that the teacher wanted to be fair. The children may have believed that the teacher who did not count did not care about fairness.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Psychologists think children cannot understand the concept of fairness until they are six years old.",
+      "B": "An experiment found that counting out loud is the best way to teach mathematical concepts to children.",
+      "C": "Psychologists think young children expect to be rewarded when the children show that they care about fairness.",
+      "D": "An experiment showed that the way rewards are given out may affect whether young children think the situation is fair."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The text describes a study assessing how children think of rewards and fairness and its results. It concludes that the children in the study may have thought that a teacher who counted out loud when giving rewards cared more about fairness than a teacher who did not count out loud."
+  },
+  {
+    "question_id": "8cc6b27a",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "To understand how expressions of anger in reviews of products affect readers of those reviews, business scholar Dezhi Yin and colleagues measured study participants’ responses to three versions of the same negative review—a control review expressing no anger, a review expressing a high degree of anger, and a review expressing a low degree of anger. Reviewing the data, a student concludes that the mere presence of anger in a review may not negatively affect readers’ perceptions of the review, but a high degree of anger in a review does worsen readers’ perceptions of the review.",
+    "question_text": "Which choice best describes data from the graph that support the student’s conclusion?",
+    "options": {
+      "A": "On average, participants’ ratings of the helpfulness of the review were substantially higher than were participants’ ratings of the reviewed product regardless of which type of review participants had seen.",
+      "B": "Compared with participants who saw the control review, participants who saw the low-anger review rated the review as slightly more helpful, whereas participants who saw the high-anger review rated the review as less helpful.",
+      "C": "Participants who saw the low-anger review rated the review as slightly more helpful than participants who saw the control review did, but participants’ attitude toward the reviewed product was slightly worse when participants saw the low-anger review than when they saw the no-anger review.",
+      "D": "Compared with participants who saw the low-anger review, participants who saw the high-anger review rated the review as less helpful and had a less positive attitude toward the reviewed product."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The claim is that low anger does not negatively affect readers’ perceptions of the review, while high anger does negatively affect readers’ perceptions of the review. This choice accurately expresses the supporting data from the “helpfulness of review” part of the graph: that low-anger reviews were rated as slightly more helpful than no-anger reviews, while high-anger reviews were rated as less helpful than no-anger reviews."
+  },
+  {
+    "question_id": "03d9c538",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Mosses can struggle in harsh desert conditions because these plants require enough sunlight for photosynthesis but not so much that they risk drying out. Researchers Jenna Ekwealor and Kirsten M. Fisher found several species of *Syntrichia caninervis*, a type of desert moss, growing under quartz crystals in California’s Mojave Desert. To evaluate whether these semitransparent rocks benefited the moss, the researchers compared the shoot tissue, a measure of plant growth, of *S. caninervis* when growing on the soil surface versus when the moss was growing under the quartz rocks. They found that the shoot tissue was $62\\%$ longer for moss growing under the quartz as compared to moss on the soil surface, suggesting that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "*S. caninervis* is one of the few types of moss that can survive under semitransparent rocks.",
+      "B": "quartz crystals do not transmit the necessary sunlight for photosynthesis in *S. caninervis*.",
+      "C": "*S. caninervis* growing under quartz crystals experience lower light intensity and are thus able to retain more moisture.",
+      "D": "quartz crystals are capable of supporting *S. caninervis* growth if the crystals are not too thin."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text. The text explains that while desert moss species need sufficient sunlight for photosynthesis, exposure to sunlight can also affect the plants negatively by drying them out. Ekwealor and Fisher’s team found specimens of *S. caninervis* moss growing under quartz crystals that were semitransparent, allowing some but not all sunlight to pass through them, and the shoot tissue of these specimens was longer than that of *S. caninervis* specimens found growing on the surface that were unprotected by such crystals."
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "702a74f4",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "According to a US tax policy expert, state taxes are ______ other factors when considering an interstate move. Even significant differences in state taxation have almost no effect on most people’s decisions, while differences in employment opportunities, housing availability, and climate are strong influences.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "consistent with",
+      "B": "representative of",
+      "C": "overshadowed by",
+      "D": "irrelevant to"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text’s discussion of the factors that influence peoples’ decisions to move to a different state. As used in this context, ‑overshadowed by‑ means to be surpassed by or caused to seem less important than other factors affecting a move. The text indicates that, according to a US tax policy expert, when people think about an interstate move, state taxes have little effect on their decisions, while employment opportunities, housing availability, and climate have a very strong effect. This context suggests that people consider these other factors to be more important than state taxes. Choice A is incorrect because the text indicates that state taxes aren’t as important a consideration as other factors when people are thinking of moving to another state. The context doesn’t suggest that state taxes are ‑consistent with,‑ or in agreement with these other factors. Choice B is incorrect because it wouldn’t make sense in context to say that state taxes are ‑representative of,‑ or typical of, other factors. Taxes aren’t an example of employment opportunities, housing availability, and climate, which are the other factors listed in the text. Choice D is incorrect because it wouldn’t make sense in context to say that state taxes are ‑irrelevant to,‑ or unconnected or unimportant to other factors. State taxes are irrelevant to peoples’ decisions, not to other factors. In other words, although the text suggests that state taxes may be irrelevant to people considering a move to another state, the other factors mentioned in the text, such as employment opportunities, are unable to have an opinion about state taxes. Furthermore, the text indicates that significant differences in state taxes have almost no effect on peoples’ choices to move, but they aren’t completely unimportant."
+  },
+  {
+    "question_id": "c4206b30",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The equipment from the Apollo Moon landings (1969–1972), such as radiation detectors and temperature probes, remains there to this day, but the data from these missions were mostly inaccessible until a recent data-transfer project made them ______. This project has allowed researcher Seiichi Nagihara to make use of the information in investigating temperature changes on the Moon.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "predictable",
+      "B": "complicated",
+      "C": "representative",
+      "D": "available"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text’s discussion of how a data-transfer project affected data from equipment from the Apollo Moon landings. In this context, \"available\" means accessible or able to be used. The text explains that the Apollo equipment is still on the Moon, but the data it collected \"were mostly inaccessible\" until a data-transfer project was undertaken. The text then states that this project allowed a researcher to use the information that has been collected. This context makes it clear that the project made previously inaccessible data available, or accessible. Choice A is incorrect because saying that a project made data from the Apollo equipment on the Moon \"predictable\" would mean that the data could be known or declared in advance, and it’s not clear how that would be achieved, particularly with data that had been \"mostly inaccessible\" before the project. Rather than suggesting that the data-transfer project made the data predictable, the text conveys that it made the data available to be used as sources of information. Choice B is incorrect because the sentence indicates that data from the Apollo equipment on the Moon were \"mostly inaccessible\" until a recent data-transfer project did something to them, after which a researcher was able to make use of the data. This context conveys that the project made the data accessible and usable, not that it made them \"complicated,\" or complex or difficult to understand. Choice C is incorrect. In this context, \"representative\" would mean either standing as a symbol of something or serving as a typical example from a group, and the text gives no indication that data retrieved from the Apollo equipment on the Moon was merely an example or symbolic. Rather, the text focuses on the availability and usefulness of the data, indicating that a data-transfer project enabled a researcher to use data that had previously been \"mostly inaccessible.\""
+  },
+  {
+    "question_id": "5cc62890",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nThe live music festival business is growing in event size and genre variety. With so many consumer options, organizers are finding ways to cement festival attendance as a special experience worth sharing. This phenomenon is linked to the growing ‑experiential economy,‑ where many find it gratifying to purchase lived experiences. To ensure a profitable event, venues need to consider the overall consumer experience, not just the band lineup.\nText 2\nMusic festival appearances are becoming a more important part of musicians’ careers. One factor in this shift is the rising use of streaming services that allow access to huge numbers of songs for a monthly fee, subsequently reducing sales of full-length albums. With this shift in consumer behavior, musicians are increasingly dependent on revenue from live performances.",
+    "question_text": "Based on the texts, both authors would most likely agree with which statement?",
+    "options": {
+      "A": "Consumers are more interested in paying subscription fees to stream music than in attending music festivals in person.",
+      "B": "Consumers’ growing interest in purchasing experiences is mostly confined to the music industry.",
+      "C": "Changing consumer behaviors are leading to changes in music-related businesses.",
+      "D": "The rising consumer demand for live music festivals also generates higher demand for music streaming platforms."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. Both authors mention how consumer behaviors have shifted, and how this affects different aspects of the music industry. Text 1 states that consumers enjoy purchasing ‑lived experiences,‑ and that this influences how organizers design music festivals. Text 2 states that consumers are using streaming services more, and that this reduces album sales and increases the importance of live performances for musicians. Choice A is incorrect. Neither text claims that consumers prefer streaming to festivals, or that these are mutually exclusive options. Text 1 implies that festivals are popular and profitable, and Text 2 never suggests that streaming services diminish the demand for live music. Choice B is incorrect. This choice misreads Text 1, which identifies music festivals as just one example of a broader trend of purchasing ‑lived experiences.‑ Text 2 doesn’t mention growing interest in purchasing experiences, in the music industry or otherwise. Choice D is incorrect. Neither text establishes a cause/effect relationship between the demand for festivals and the demand for streaming platforms. Text 1 does not mention streaming platforms at all, and Text 2 does not imply that streaming platforms benefit from the popularity of festivals."
+  },
+  {
+    "question_id": "d812bcc5",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In a study of residential mobility in Washington, DC, LaTanya Brown-Robertson et al. found that increases in household spending power (via tax credits) had mixed effects on mobility decisions, possibly because residential location choices are not fully reducible to economic factors but are also ______ noneconomic factors such as access to strong local social networks.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "transposed with",
+      "B": "mediated by",
+      "C": "decoupled from",
+      "D": "antecedent to"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text’s discussion of residential mobility decisions. In this context, \"mediated by\" means influenced or affected by something. The text establishes that increasing household spending power (an economic factor) produced \"mixed effects\" on mobility decisions. The text then explains that residential choices are \"not fully reducible to economic factors,\" which means that these decisions don’t simply rely on how much money is available to spend on a residential move but on other factors as well. According to the text, noneconomic considerations, such as access to social networks, also play a significant role. Thus, \"mediated by\" accurately captures this relationship where noneconomic factors influence what might otherwise be purely economic decisions. Choice A is incorrect because \"transposed with\" would suggest that economic and noneconomic factors are being switched or interchanged when making residential mobility decisions, which wouldn’t make logical sense in this context. The text indicates that these factors coexist and jointly influence such decisions. Choice C is incorrect. The phrase \"decoupled from\" means separated or disconnected from, which would suggest that economic factors are completely separate from noneconomic factors. This would contradict the text’s main point that residential mobility decisions involve multiple factors being considered simultaneously rather than in isolation. Choice D is incorrect because \"antecedent to,\" which means something prior or earlier, would indicate that noneconomic factors come before economic ones in time or sequence. The text doesn’t establish this chronological relationship. Instead, the text indicates that economic factors (household spending power) and noneconomic factors (access to social networks) simultaneously influence residential mobility decisions."
+  },
+  {
+    "question_id": "52aa1317",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Raymond Antrobus, an accomplished poet and writer of prose, recently released his debut spoken word poetry album, $The\nFirst\nTime\nI\nWore\nHearing\nAids$, in collaboration with producer Ian Brennan. The album contains both autobiographical and reflective pieces combining Antrobus’s spoken words with Brennan’s fragmented audio elements and pieces of music to convey how people who are deaf may experience sound, both its presence and absence. Some critics suggest that the album questions the function of sound in the world, highlighting that the experience of sound is multifaceted.",
+    "question_text": "Which choice best describes the overall structure of the text?",
+    "options": {
+      "A": "It introduces a collaborative spoken word poetry project, details the approach taken to produce the work, and then provides an example of critique the album received upon release.",
+      "B": "It mentions a collection of spoken word poems, distinguishes one poem as being an exemplar on the album, and then offers a summary of the subject matter of the whole collection.",
+      "C": "It summarizes the efforts to produce a collection of spoken word poems, presents biographies of two people who worked on the album, and speculates about the meaning behind the poetry.",
+      "D": "It connects two artists to the same spoken word poetry project, explains the extent of their collaboration on each poem, and then provides an overview of the technique used to produce the work."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text first introduces the album as being a collaboration between Antrobus and Brennan, then describes the approach taken to produce it, then mentions how critics have said that it calls into question the function of sound. Choice B is incorrect. While the text does mention a collection of spoken word poems, it doesn’t single out one poem as being particularly noteworthy. Additionally, the text doesn’t simply summarize the subject matter—it goes into detail about the content and production of the album. Choice C is incorrect. The text doesn’t provide biographical information about the two artists, and the text doesn’t speculate about the meaning behind the poetry—instead, it relays what some critics have said about the album. Choice D is incorrect. The text doesn’t provide just an overview of the production techniques used but instead goes into more detail about the content and audio elements of the album, as well as critical response to the album."
+  },
+  {
+    "question_id": "06346bcd",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Some studies have suggested that posture can influence cognition, but we should not overstate this phenomenon. A case in point: In a 2014 study, Megan O’Brien and Alaa Ahmed had subjects stand or sit while making risky simulated economic decisions. Standing is more physically unstable and cognitively demanding than sitting; accordingly, O’Brien and Ahmed hypothesized that standing subjects would display more risk aversion during the decision-making tasks than sitting subjects did, since they would want to avoid further feelings of discomfort and complicated risk evaluations. But O’Brien and Ahmed actually found no difference in the groups’ performance.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "It argues that research findings about the effects of posture on cognition are often misunderstood, as in the case of O’Brien and Ahmed’s study.",
+      "B": "It presents the study by O’Brien and Ahmed to critique the methods and results reported in previous studies of the effects of posture on cognition.",
+      "C": "It explains a significant problem in the emerging understanding of posture’s effects on cognition and how O’Brien and Ahmed tried to solve that problem.",
+      "D": "It discusses the study by O’Brien and Ahmed to illustrate why caution is needed when making claims about the effects of posture on cognition."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most accurately describes the main purpose of the text. The text notes that although some studies have suggested that posture may have an effect on cognition, this phenomenon should not be overstated. In other words, the text begins by urging caution and restraint when discussing the effects of posture on cognition, implying that even though some studies have shown posture to affect cognition, we should not assume that posture always affects cognition or does so in a strong way. The text goes on to discuss O’Brien and Ahmed’s study as a \"case in point\" (that is, as an example of the point made previously). According to the text, O’Brien and Ahmed hypothesized that since standing is more cognitively demanding than sitting, standing subjects in their experiment would respond differently to decision-making tasks than sitting subjects would, which would show an effect of posture on cognition. What the researchers actually found, however, was that the standing and sitting subjects performed the same—posture did not affect cognition. By presenting a circumstance in which posture does not appear to affect cognition, the discussion of O’Brien and Ahmed’s study shows why it is important not to overstate the phenomenon. The purpose of the text, therefore, is to discuss O’Brien and Ahmed’s study to illustrate why caution is needed when making claims about posture’s effects on cognition. Choice A is incorrect because the text discusses O’Brien and Ahmed’s study as an example of why caution is needed when discussing posture’s effects on cognition, not as an example of how research findings related to posture and cognition are often misunderstood. Although the text does warn against misunderstanding the scope of the relationship between posture and cognition that has been reported in some previous studies, O’Brien and Ahmed’s study is not one of those studies, and there is no suggestion that anyone has misunderstood O’Brien and Ahmed’s findings. Choice B is incorrect because the text makes no mention of the methods used in previous studies of the effects of posture on cognition. Although the text does urge caution when discussing posture’s effects on cognition, it does not critique the results of studies that suggested that posture can affect cognition."
+  },
+  {
+    "question_id": "d3fe0b12",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is adapted from Etsu Inagaki Sugimoto’s 1925 memoir $A$ $Daughter$ $of$ $the$ $Samurai$. As a young woman, Sugimoto moved from feudal Japan to the United States.\n\nThe standards of my own and my adopted country differed so widely in some ways, and my love for both lands was so sincere, that sometimes I had an odd feeling of standing upon a cloud in space, and gazing with measuring eyes upon two separate worlds. At first I was continually trying to explain, by Japanese standards, all the queer things that came every day before my surprised eyes; for no one seemed to know the origin or significance of even the most familiar customs, nor why they existed and were followed.",
+    "question_text": "Which choice best describes the main purpose of the text?",
+    "options": {
+      "A": "To convey the narrator’s experience of observing and making sense of differences between two cultures she embraces",
+      "B": "To establish the narrator’s hope of forming connections with new companions by sharing customs she learned as a child",
+      "C": "To reveal the narrator’s recognition that she is hesitant to ask questions about certain aspects of a culture she is newly encountering",
+      "D": "To emphasize the narrator’s wonder at discovering that the physical distance between two countries is greater than she had expected"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most accurately describes the main purpose of the text. The narrator asserts that she loves both her “own” country (Japan) and her “adopted country” (the United States) even though the two countries differ “widely.” She also indicates that, at first, she would try to explain unfamiliar experiences that she had in the United States using the standards ingrained in her from growing up in Japan. Thus, the main purpose of the text is to convey the narrator’s experience of observing and making sense of the differences between two cultures she embraces. Choice B is incorrect because the text makes no reference to possible companions. Although the text does indicate that the narrator sometimes used the cultural framework she acquired growing up in Japan to explain some experiences she’s had, there is no suggestion that this was in service of making friends. And although “no one seemed to know” strongly implies that the narrator has interacted with other people in the United States, there is no indication that these conversations involved her discussing Japanese customs. Choice C is incorrect because nothing in the text suggests that the narrator was hesitant to ask questions. In fact, the narrator indicates that “no one seemed to know the origin” of various customs, which provides evidence that, rather than being hesitant, she sought information from several people. Choice D is incorrect because the text makes no reference to the physical distance between Japan and the United States. Although the narrator indicates that the two countries differ “widely” and likens them to “two separate worlds,” these descriptions relate to cultural aspects of the countries and the narrator’s feelings about the two countries, not the physical distance between them."
+  },
+  {
+    "question_id": "d56ccd0a",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Bioluminescence is the emission of light by living organisms.\n- This light is produced by chemical reactions in organisms’ cells.\n- Jellyfish emit flashes of blue light.\n- This behavior serves to startle predators.\n- Black dragonfish emit a steady red light.\n- This behavior helps them locate prey in deep waters.",
+    "question_text": "The student wants to emphasize a difference between the behavior of jellyfish and that of black dragonfish. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Both jellyfish and black dragonfish are organisms that emit light, which is produced by chemical reactions in these organisms’ cells.",
+      "B": "Black dragonfish emit a steady red light, which helps them locate prey in deep waters.",
+      "C": "Bioluminescence, the emission of light by living organisms, results from chemical reactions in organisms’ cells.",
+      "D": "Jellyfish emit light to startle predators, whereas black dragonfish do so to locate prey."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The sentence emphasizes a difference between the behavior of jellyfish and that of black dragonfish, noting that jellyfish and black dragonfish emit light as part of different behaviors (protection and predation, respectively). Choice A is incorrect. The sentence emphasizes a similarity between jellyfish and black dragonfish; it doesn’t emphasize a difference between the behavior of the two animals. Choice B is incorrect. The sentence emphasizes the type of bioluminescence exhibited by black dragonfish, noting that it’s used in predation; it doesn’t emphasize a difference between the behavior of the two animals. Choice C is incorrect. The sentence defines bioluminescence and explains how it works; the sentence doesn’t mention either animal or emphasize a difference between them."
+  },
+  {
+    "question_id": "867ceff8",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The Sun and other stars are powered by nuclear fusion reactions, in which two atoms collide to form a single heavier atom, releasing energy. Scientists have long believed that fusion has the potential to meet humanity’s clean energy needs. ______ prior to December 2022, no fusion reaction in a laboratory setting had ever generated a net energy gain.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "For this reason,",
+      "B": "Moreover,",
+      "C": "Specifically,",
+      "D": "That said,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Scientists believe in fusion’s potential as an energy source, but have struggled to actually make it work—in other words, there is a contradiction between scientists’ beliefs and their reality. “That said” is a disagreement transition that works perfectly in this context. Choice A is incorrect. This choice uses a cause-and-effect transition, which doesn’t make sense here. Scientists not being able to generate extra energy from lab fusion reactions isn’t an effect of them believing in fusion’s potential. Choice B is incorrect. This transition indicates the addition of another supporting point. But this sentence is not adding a supporting point to the previous sentence—scientists not being able to successfully generate energy from fusion isn’t another point in favor of fusion meeting humanity’s clean energy needs. Choice C is incorrect. This choice uses a transition that introduces or elaborates on a particular example. But this sentence doesn’t give an example of scientists’ belief in fusion’s potential to meet humanity’s clean energy needs—in fact, it contrasts that optimistic belief with the reality of past failures to successfully employ fusion for energy production."
+  },
+  {
+    "question_id": "cdb5fb80",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Etel Adnan was a Lebanese American poet and artist known for making many leporellos.\n- A leporello is an artist’s book that is folded accordion style.\n- When the book is expanded, the artist’s work is revealed, and its zigzag shape allows it to stand on its own.\n- Her leporello $December$ $from$ $My$ $Window$ (1993) features a panoramic landscape.\n- It is painted using ink and watercolor.",
+    "question_text": "The student wants to describe Adnan’s $December$ $from$ $My$ $Window$ to an audience already familiar with leporellos. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Featuring a panoramic landscape, the 1993 work is one of Adnan’s many leporellos, which are accordion-style folded books that when expanded reveal the artist’s work.",
+      "B": "When expanded, Adnan’s 1993 leporello $December$ $from$ $My$ $Window$ reveals a panoramic landscape painted in ink and watercolor.",
+      "C": "Known for making many other accordion-style folded books called leporellos, Adnan created $December$ $from$ $My$ $Window$ in 1993.",
+      "D": "A leporello, such as Adnan’s $December$ $from$ $My$ $Window$, is folded accordion style, and due to its zigzag shape it is able to stand on its own when fully expanded."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. This choice describes Adnan’s $December$ $from$ $My$ $Window$ in a way that assumes the audience is already familiar with leporellos and focuses on the specific features of the work—its content and medium. Choice A is incorrect. This choice isn’t suited for an audience already familiar with leporellos. A familiar audience wouldn’t need to have the term defined or explained. Choice C is incorrect. This choice doesn’t describe Adnan’s $December$ $from$ $My$ $Window$. It mentions the year and the type of work but not the content or the medium. In addition, it provides a simple definition of leporellos, making this an inappropriate choice for an audience already familiar with leporellos. Choice D is incorrect. This choice isn’t suited for an audience already familiar with leporellos. A familiar audience wouldn’t need to have the term defined."
+  },
+  {
+    "question_id": "8f3ad8e1",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Modernista architects championed nature in their designs. ______ the wavy staircase and ornate floral tilework of Hospital de Sant Pau, a Modernista hospital designed by Lluís Domènech i Montaner, couldn’t exactly grow in a forest. Still, one sees natural influences in Domènech i Montaner’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Furthermore,",
+      "B": "Similarly,",
+      "C": "Of course,",
+      "D": "Thus,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"Of course\" logically signals that the information in this sentence—that \"the wavy staircase and ornate floral tilework\" of the Modernista hospital couldn’t actually grow in a forest—acknowledges an obvious limitation of, or qualification to, the previous claim that Modernista architects championed nature in their designs. Choice A is incorrect because \"furthermore\" illogically signals that the information in this sentence merely adds to the previous claim that Modernista architects championed nature in their designs. Instead, the sentence acknowledges an obvious limitation in how literally that natural influence was expressed in the hospital’s features. Choice B is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the previous claim that Modernista architects championed nature in their designs. Instead, the sentence acknowledges an obvious limitation in how literally that natural influence was expressed in the hospital’s features. Choice D is incorrect because \"thus\" illogically signals that the information in this sentence is a result of the previous claim that Modernista architects championed nature in their designs. Instead, the sentence acknowledges an obvious limitation in how literally that natural influence was expressed in the hospital’s features."
+  }
+]

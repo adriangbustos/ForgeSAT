@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "3ba08ce1",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Maika'i Tubbs is a Native Hawaiian sculptor and installation artist.\n- His work has been shown in the United States, Canada, Japan, and Germany, among other places.\n- Many of his sculptures feature discarded objects.\n- His work *Erasure* (2008) includes discarded audiocassette tapes and magnets.\n- His work *Home Grown* (2009) includes discarded pushpins, plastic plates and forks, and wood.",
+    "question_text": "The student wants to emphasize a similarity between the two works. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Erasure (2008) uses discarded objects such as audiocassette tapes and magnets; Home Grown (2009), however, includes pushpins, plastic plates and forks, and wood.",
+      "B": "Tubbs's work, which often features discarded objects, has been shown both within the United States and abroad.",
+      "C": "Like many of Tubbs's sculptures, both Erasure and Home Grown include discarded objects: Erasure uses audiocassette tapes, and Home Grown uses plastic forks.",
+      "D": "Tubbs completed Erasure in 2008 and Home Grown in 2009."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This choice most effectively emphasizes \"a similarity\" by identifying a trait the works share: \"both Erasure and Home Grown include discarded objects.\" Choice A is incorrect. This choice doesn't \"emphasize a similarity.\" Instead, this choice shows how the materials used in the two works are different. Notice the use of the contrast word \"however.\" Choice B is incorrect. This choice doesn't \"emphasize a similarity between the two works.\" While it says that Tubbs's work \"often features discarded objects,\" it doesn't provide details about the two works in question. Choice D is incorrect. This choice doesn't \"emphasize a similarity.\" Instead, this choice shows how the works were produced at different times."
+  },
+  {
+    "question_id": "2335f29b",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "On March 3, 1991, Switzerland's government lowered the minimum voting age for its citizens from 20 to 18 years old. ______ many people in Switzerland gained a new opportunity to participate in their country's political process.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Nevertheless,",
+      "B": "As a result,",
+      "C": "By contrast,",
+      "D": "Similarly,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"As a result\" logically signals that the information in this sentence—that many people in Switzerland gained a new opportunity to participate in their country's political process—is a result or consequence of the previous information about the Swiss government lowering the voting age. Choice A is incorrect because \"nevertheless\" illogically signals that the information that follows is despite the information in the previous sentence about the Swiss government lowering the voting age. Instead, people gained a new opportunity to participate in Switzerland's political process as a result or consequence of that change. Choice C is incorrect because \"by contrast\" illogically signals that the information in this sentence contrasts with the information in the previous sentence about the Swiss government lowering the voting age. Instead, people gained a new opportunity to participate in Switzerland's political process as a result or consequence of that change. Choice D is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the information about the Swiss government lowering the voting age in the previous sentence. Instead, people gained a new opportunity to participate in Switzerland's political process as a result or consequence of that change."
+  },
+  {
+    "question_id": "bf829d75",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Arkansas aviator Louise Thaden was already a record breaker when she won the inaugural National Women's Air Derby, a race from California to Ohio, in August of 1929. ______ in December of 1928, Thaden had set an aviation record when she reached an altitude of 20,269 feet in a Travel Air biplane.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Earlier,",
+      "B": "However,",
+      "C": "Next,",
+      "D": "As a result,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. This choice uses a transition that indicates a shift back in time. Since the first sentence talks about Thaden's race win in 1929 and the second shifts back to talking about her record in 1928, this makes the most sense here. Choice B is incorrect. This choice uses a disagreement transition. But this sentence actually agrees with and expands on the previous sentence by describing the earlier record that Thaden had \"already\" held. Choice C is incorrect. This choice uses a transition that indicates a shift forward in time, which doesn't make sense here. A record in 1928 didn't come after Thaden's race win in 1929. Choice D is incorrect. This choice uses a cause-and-effect transition, which doesn't make sense in this context—an event in 1929 can't cause something in 1928."
+  },
+  {
+    "question_id": "33a93756",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the late twentieth century, scholars directed much discussion toward issues of spatiality. Adherents to quantitative analytical approaches delineated space with the use of GIS spatial technologies; ______ cultural geographer Doreen Massey defined space as the product of \"an ever-shifting social geometry of power and signification,\" focusing instead on socio-political forces.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "for example,",
+      "B": "by contrast,",
+      "C": "as such,",
+      "D": "likewise,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. \"By contrast\" logically signals that the information about how Massey defined space—by focusing on socio-political forces—contrasts with the information in the previous clause, which discusses quantitative analytical approaches and spatial technologies. Choice A is incorrect because \"for example\" illogically signals that the information that follows in the sentence exemplifies the quantitative analytical approaches to defining space described previously. Instead, the information about Massey's socio-political focus presents a contrasting approach. Choice C is incorrect because \"as such\" illogically signals that the information that follows in the sentence is a direct result or logical consequence of the quantitative analytical approaches to defining space described previously. Instead, the information about Massey's socio-political focus presents a contrasting approach. Choice D is incorrect because \"likewise\" illogically signals that the information that follows in the sentence is similar to the quantitative analytical approaches to defining space described previously. Instead, the information about Massey's socio-political focus presents a contrasting approach."
+  },
+  {
+    "question_id": "cfb5df86",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Annie Wu is a prominent American flutist who graduated from the New England Conservatory.\n- She has won multiple national flute competitions.\n- She is best known for a 2011 YouTube video that has been viewed over two million times.\n- The video shows her performing *Three Beats for Beatbox Flute*, an original work by composer Greg Pattillo.\n- Wu combines flute playing and beatboxing in the video.",
+    "question_text": "The student wants to emphasize Wu's most well-known achievement. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Annie Wu, who has won multiple national flute competitions, has also combined flute playing and beatboxing.",
+      "B": "Among her many achievements, prominent American flutist Annie Wu graduated from the New England Conservatory and has won multiple national flute competitions.",
+      "C": "Annie Wu is best known for a 2011 YouTube video performance of Three Beats for Beatbox Flute that has been viewed over two million times.",
+      "D": "Composer Greg Pattillo's original work Three Beats for Beatbox Flute combines flute playing and beatboxing."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This describes the achievement for which Wu is best known. Choice A is incorrect. This choice doesn't emphasize Wu's most well-known achievement. It mentions some of her general achievements, but not the one for which she is \"best known.\" Choice B is incorrect. This choice doesn't emphasize Wu's most well-known achievement—it describes several of her achievements equally. Choice D is incorrect. This choice doesn't emphasize Wu's most well-known achievement. It describes a piece of music featured in her most well-known achievement."
+  },
+  {
+    "question_id": "aba812aa",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Nissologists are scientists who study islands.\n- Some nissologists define an island as any piece of land surrounded by water.\n- Using that definition, they determined that Sweden has 221,000 islands.\n- Other nissologists define an island as being 1 kilometer square, a certain distance from the mainland, and having at least 50 permanent residents.\n- Using that definition, they determined that Sweden has 24 islands.",
+    "question_text": "The student wants to make and support a generalization about nissologists' definition of an island. Which choice most effectively uses relevant information from the notes to accomplish these goals?",
+    "options": {
+      "A": "The definition of an island as any piece of land surrounded by water is supported by some nissologists, scientists who study islands.",
+      "B": "Multiple counts of Sweden's islands have been based on different definitions of an island.",
+      "C": "Based on a recent count, Sweden has a relatively small number of islands with at least 50 permanent residents.",
+      "D": "Nissologists' different definitions can result in huge disparities in counts of islands, as the example of Sweden shows."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The sentence makes a generalization about nissologists' definition of an island—specifically, that the use of one definition rather than another can result in huge disparities in the number of islands counted—and supports that generalization by citing Sweden as an example. Choice A is incorrect. The sentence introduces one definition of an island to an audience unfamiliar with nissologists; it doesn't make a generalization about nissologists' definition of an island. Choice B is incorrect. While the sentence synthesizes information from the notes about counts of Sweden's islands, it doesn't make and support a generalization about nissologists' definition of an island. Choice C is incorrect. The sentence makes an inference about islands in Sweden; it doesn't mention nissologists' definition of an island or make a generalization about it."
+  },
+  {
+    "question_id": "9dcc184d",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Plato believed material objects to be crude representations of unseen ideal forms. In his view, such abstract, nonmaterial forms are the ultimate source of knowledge. Aristotle disagreed, positing that knowledge is best obtained through direct engagement with the material world; ______ sensory experience of the material is the ultimate source of knowledge.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "regardless,",
+      "B": "admittedly,",
+      "C": "in other words,",
+      "D": "meanwhile,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"In other words\" logically signals that the claim about sensory experience that follows—that sensory experience is the source of knowledge—is a restatement of Aristotle's theory from earlier in the sentence. Choice A is incorrect because \"regardless\" illogically signals that the claim about sensory experience that follows is true in spite of Aristotle's theory from earlier in the sentence. Instead, this claim is a restatement of his theory. Choice B is incorrect because \"admittedly\" illogically signals that the claim about sensory experience that follows is an exception to Aristotle's theory from earlier in the sentence. Instead, this claim is a restatement of his theory. Choice D is incorrect because \"meanwhile\" illogically signals that the claim about sensory experience that follows is separate from (while occurring simultaneously with) Aristotle's theory from earlier in the sentence. Instead, this claim is a restatement of his theory."
+  },
+  {
+    "question_id": "43ca2315",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "To discover which fruit varieties were grown in Italy's Umbria region before the introduction of industrial farming, botanist Isabella Dalla Ragione often turns to centuries-old lists of cooking ingredients. ______ she analyzes Renaissance paintings of Umbria, as they can provide accurate representations of fruits that were grown there long ago.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "In sum,",
+      "B": "Instead,",
+      "C": "Thus,",
+      "D": "Additionally,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. \"Additionally\" logically signals that the painting analysis discussed in this sentence is an additional part of the botany research discussed in the previous sentence. That is, to research which fruits Umbrians grew in the past, the botanist analyzes old paintings in addition to looking at old lists of ingredients. Choice A is incorrect because \"in sum\" illogically signals that the painting analysis discussed in this sentence is a concluding summary of the botany research discussed in the previous sentence. Instead, the painting analysis is an additional part of that research. Choice B is incorrect because \"instead\" illogically signals that the painting analysis discussed in this sentence is an alternative to the botany research discussed in the previous sentence. Rather, the painting analysis is an additional part of that research. Choice C is incorrect because \"thus\" illogically signals that the painting analysis discussed in this sentence is a result of the botany research discussed in the previous sentence. Instead, the painting analysis is an additional part of that research."
+  },
+  {
+    "question_id": "990bd995",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- A thermal inversion is a phenomenon where a layer of atmosphere is warmer than the layer beneath it.\n- In 2022, a team of researchers studied the presence of thermal inversions in twenty-five gas giants.\n- Gas giants are planets largely composed of helium and hydrogen.\n- The team found that gas giants featuring a thermal inversion were also likely to contain heat-absorbing metals.\n- One explanation for this relationship is that these metals may reside in a planet's upper atmosphere, where their absorbed heat causes an increase in temperature.",
+    "question_text": "The student wants to present the study's findings to an audience already familiar with thermal inversions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Heat-absorbing metals may reside in a planet's upper atmosphere.",
+      "B": "The team studied thermal inversions in twenty-five gas giants, which are largely composed of helium and hydrogen.",
+      "C": "Researchers found that gas giants featuring a thermal inversion were likely to contain heat-absorbing metals, which may reside in the planets' upper atmospheres.",
+      "D": "Gas giants were likely to contain heat-absorbing metals when they featured a layer of atmosphere warmer than the layer beneath it, researchers found; this phenomenon is known as a thermal inversion."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. It describes the study's findings in a way that assumes the audience is already familiar with thermal inversions. Choice A is incorrect. This choice doesn't fully describe the findings of the study, because it doesn't include anything about thermal inversions. Choice B is incorrect. This choice doesn't describe the study's findings. Choice D is incorrect. This choice isn't suited for an audience already familiar with thermal inversion. A familiar audience wouldn't need to have the term defined."
+  },
+  {
+    "question_id": "db10f44a",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Although novels and poems are considered distinct literary forms, many authors have created hybrid works that incorporate elements of both. Bernardine Evaristo's *The Emperor's Babe*, ______ is a verse novel, a book-length narrative complete with characters and a plot but conveyed in short, crisp lines of poetry rather than prose.",
+    "question_text": "Which choice completes the text with the most logical transition?",
+    "options": {
+      "A": "by contrast,",
+      "B": "consequently,",
+      "C": "secondly,",
+      "D": "for example,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. \"For example\" logically signals that the information in this sentence—that *The Emperor's Babe* is a novel conveyed in lines of poetry—exemplifies the claim in the previous sentence about hybrid works that incorporate elements of both novels and poems. Choice A is incorrect because \"by contrast\" illogically signals that the information in this sentence contrasts with the claim about hybrid works in the previous sentence. Instead, the information demonstrates that Evaristo's novel is an example of a hybrid work. Choice B is incorrect because \"consequently\" illogically signals that the information in this sentence is a consequence, or result, of the claim about hybrid works in the previous sentence. Instead, the information demonstrates that Evaristo's novel is an example of a hybrid work. Choice C is incorrect because \"secondly\" illogically signals that the information in this sentence is a second, separate claim from the previous sentence's claim about hybrid works. Instead, the information demonstrates that Evaristo's novel is an example of a hybrid work."
+  },
+  {
+    "question_id": "dffab2d7",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- African American women played prominent roles in the Civil Rights Movement, including at the famous 1963 March on Washington.\n- Civil rights activist Anna Hedgeman, one of the march's organizers, was a political adviser who had worked for President Truman.\n- Civil rights activist Daisy Bates was a well-known journalist and advocate for school desegregation.\n- Hedgeman worked behind the scenes to make sure a woman was included in the lineup of speakers at the march.\n- Bates was the sole woman to speak, delivering a brief but memorable address to the cheering crowd.",
+    "question_text": "The student wants to compare the two women's contributions to the March on Washington. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Hedgeman and Bates contributed to the march in different ways; Bates, for example, delivered a brief but memorable address.",
+      "B": "Hedgeman worked in politics and helped organize the march, while Bates was a journalist and school desegregation advocate.",
+      "C": "Although Hedgeman worked behind the scenes to make sure a woman speaker was included, Bates was the sole woman to speak at the march.",
+      "D": "Many African American women, including Bates and Hedgeman, fought for civil rights, but only one spoke at the march."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The sentence compares the two women's contributions to the march: Hedgeman worked behind the scenes to make sure a woman speaker was included, whereas Bates actually spoke at the event. Choice A is incorrect. While it acknowledges that the two women both contributed to the march, it doesn't indicate what Hedgeman did, so no comparison is made. Choice B is incorrect. While the sentence provides information about the two women, it doesn't mention anything about Bates's contribution to the march. Choice D is incorrect. While the sentence indicates that the two women both fought for civil rights, it doesn't compare their individual contributions to the march."
+  },
+  {
+    "question_id": "f65de8d2",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Muckrakers were journalists who sought to expose corruption in US institutions during the Progressive Era (1897–1920).\n- Ida Tarbell was a muckraker who investigated the Standard Oil Company.\n- She interviewed Standard Oil Company executives, oil industry workers, and public officials.\n- She examined thousands of pages of the company's internal communications, including letters and financial records.\n- Her book *The History of the Standard Oil Company* (1904) exposed the company's unfair business practices.",
+    "question_text": "The student wants to emphasize the thoroughness of Ida Tarbell's investigation of the Standard Oil Company. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Ida Tarbell not only interviewed Standard Oil executives, oil industry workers, and public officials but also examined thousands of pages of the company's internal communications.",
+      "B": "Ida Tarbell, who investigated the Standard Oil Company, was a muckraker (a journalist who sought to expose corruption in US institutions during the Progressive Era, 1897–1920).",
+      "C": "As part of her investigation of the Standard Oil Company, muckraker Ida Tarbell conducted interviews.",
+      "D": "Published in 1904, muckraker Ida Tarbell's book The History of the Standard Oil Company exposed the company's unfair business practices."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It describes Tarbell's investigation and the lengths she went to complete it. Choice B is incorrect. This choice doesn't describe how thorough Tarbell was. Instead, it gives a biographical sketch. Choice C is incorrect. This choice doesn't describe how thorough Tarbell was. Tarbell didn't only conduct interviews—she also \"examined thousands of pages of the company's internal communications.\" Choice D is incorrect. This choice doesn't describe how thorough Tarbell was. It describes her book but doesn't include anything about her investigation."
+  }
+]

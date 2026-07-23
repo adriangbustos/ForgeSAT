@@ -1,0 +1,162 @@
+[
+  {
+    "question_id": "9873a516",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "For a training program, Juan rides his bike at an average rate of $5.7$ minutes per mile.",
+    "question_text": "Which function $m$ models the number of minutes it will take Juan to ride $x$ miles at this rate?",
+    "options": {
+      "A": "$m(x) = \\frac{x}{5.7}$",
+      "B": "$m(x) = x + 5.7$",
+      "C": "$m(x) = x - 5.7$",
+      "D": "$m(x) = 5.7x$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It\\'s given that Juan rides his bike at an average rate of $5.7$ minutes per mile. The number of minutes it will take Juan to ride $x$ miles can be determined by multiplying his average rate by the number of miles, $x$, which yields $5.7x$. Therefore, the function $m(x) = 5.7x$ models the number of minutes it will take Juan to ride $x$ miles."
+  },
+  {
+    "question_id": "6c845af8",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in one variable",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "If $2(3t - 10) + t = 40 + 4t$, what is the value of $3t$?",
+    "options": null,
+    "correct_answer": "60",
+    "explanation": "The correct answer is $60$. Subtracting $t$ from both sides of the given equation yields $2(3t - 10) = 40 + 3t$. Applying the distributive property to the left-hand side of this equation yields $6t - 20 = 40 + 3t$. Adding $20$ to both sides of this equation yields $6t = 60 + 3t$. Subtracting $3t$ from both sides of this equation yields $3t = 60$. Therefore, the value of $3t$ is $60$."
+  },
+  {
+    "question_id": "3dcde9ed",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "Line $k$ is shown in the $xy$-plane.",
+    "question_text": "Line $j$ (not shown) is perpendicular to line $k$. What is the slope of line $j$?",
+    "options": null,
+    "correct_answer": "6/5",
+    "explanation": "The correct answer is $\\frac{6}{5}$ (or $1.2$). It's given that line $j$ is perpendicular to line $k$ in the $xy$-plane. This means that the slope of line $j$ is the opposite reciprocal of the slope of line $k$. For a line that passes through the points $(x_1, y_1)$ and $(x_2, y_2)$ in the $xy$-plane, the slope of the line can be calculated as $\\frac{y_2 - y_1}{x_2 - x_1}$. It\\'s shown that line $k$ passes through the points $(-6, 0)$ and $(0, -5)$ in the $xy$-plane. Substituting $-6$ for $x_1$, $0$ for $y_1$, $0$ for $x_2$, and $-5$ for $y_2$ in $\\frac{y_2 - y_1}{x_2 - x_1}$ yields $\\frac{-5 - 0}{0 - (-6)}$, or $-\\frac{5}{6}$. The opposite reciprocal of $-\\frac{5}{6}$ is $\\frac{6}{5}$. Therefore, the slope of line $j$ is $\\frac{6}{5}$."
+  },
+  {
+    "question_id": "3a519c76",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Systems of two linear equations in two variables",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The sum of a number $x$ and $7$ is twice as large as a number $y$. The number $y$ is $3$ less than the number $x$.",
+    "question_text": "Which system of equations describes this situation?",
+    "options": {
+      "A": "$x + 7 = 2y$\n$y = x - 3$",
+      "B": "$x + 7 = 2y$\n$y = 3 - x$",
+      "C": "$2(x + 7) = y$\n$y = x - 3$",
+      "D": "$2(x + 7) = y$\n$y = 3 - x$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It\\'s given that the sum of a number $x$ and $7$ is twice as large as a number $y$. This can be described by the equation $x + 7 = 2y$. It\\'s also given that the number $y$ is $3$ less than the number $x$. This can be described by the equation $y = x - 3$. Therefore, the system consisting of the equations $x + 7 = 2y$ and $y = x - 3$ describes this situation."
+  },
+  {
+    "question_id": "86793098",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Oxygen gas is placed inside a tank with a constant volume. The graph shows the estimated temperature $y$, in kelvins, of the oxygen gas when its pressure is $x$ atmospheres.",
+    "question_text": "What is the estimated temperature, in kelvins, of the oxygen gas when its pressure is $6$ atmospheres?",
+    "options": {
+      "A": "$6$",
+      "B": "$60$",
+      "C": "$700$",
+      "D": "$760$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. For the graph shown, the $x$-axis represents pressure, in atmospheres, and the $y$-axis represents temperature, in kelvins. Therefore, the estimated temperature, in kelvins, of the oxygen gas when its pressure is $6$ atmospheres is represented by the $y$-coordinate of the point on the graph that has an $x$-coordinate of $6$. The point on the graph with an $x$-coordinate of $6$ has a $y$-coordinate of approximately $700$. Therefore, the estimated temperature, in kelvins, of the oxygen gas when its pressure is $6$ atmospheres is $700$."
+  },
+  {
+    "question_id": "ec0fe2b2",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "In the $xy$-plane, line $\\ell$ passes through the point $(0, 0)$ and is parallel to the line represented by the equation $y = 8x + 2$.",
+    "question_text": "If line $\\ell$ also passes through the point $(3, d)$, what is the value of $d$?",
+    "options": null,
+    "correct_answer": "24",
+    "explanation": "The correct answer is $24$. A line in the $xy$-plane can be defined by the equation $y = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-coordinate of the $y$-intercept of the line. It\\'s given that line $\\ell$ passes through the point $(0, 0)$. Therefore, the $y$-coordinate of the $y$-intercept of line $\\ell$ is $0$. It\\'s given that line $\\ell$ is parallel to the line represented by the equation $y = 8x + 2$. Since parallel lines have the same slope, it follows that the slope of line $\\ell$ is $8$. Therefore, line $\\ell$ can be defined by an equation in the form $y = mx + b$, where $m = 8$ and $b = 0$. Substituting $8$ for $m$ and $0$ for $b$ in $y = mx + b$ yields the equation $y = 8x + 0$, or $y = 8x$. If line $\\ell$ passes through the point $(3, d)$, then when $x = 3$, $y = d$ for the equation $y = 8x$. Substituting $3$ for $x$ and $d$ for $y$ in the equation yields $d = 8(3)$, or $d = 24$."
+  },
+  {
+    "question_id": "0ddd17b2",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In science class, Diego conducted an experiment to learn about evaporation. Diego measured the height of fluid in a beaker over a period of time. The function $f(x) = 39 - 0.18x$ gives the estimated height, in centimeters (cm), of the fluid in the beaker $x$ days after the start of the experiment.",
+    "question_text": "Which of the following is the best interpretation of $39$ in this context?",
+    "options": {
+      "A": "The estimated height, in cm, of the fluid at the start of the experiment",
+      "B": "The estimated height, in cm, of the fluid at the end of the experiment",
+      "C": "The estimated change in the height, in cm, of the fluid each day",
+      "D": "The estimated number of days for all the fluid to evaporate"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It\\'s given that the function $f(x) = 39 - 0.18x$ gives the estimated height, in centimeters (cm), of the fluid in the beaker $x$ days after the start of the experiment. For a function defined by an equation of the form $f(x) = b + mx$, where $m$ and $b$ are constants, $b$ represents the value of $f(x)$ when $x = 0$. It follows that in the given function, $39$ represents the value of $f(x)$ when $x = 0$. Since $x = 0$ represents the start of the experiment, then the best interpretation of $39$ in this context is that the estimated height, in cm, of the fluid was $39$ at the start of the experiment."
+  },
+  {
+    "question_id": "a2862133",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear inequalities in one or two variables",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "An event planner is planning a party. It costs the event planner a onetime fee of $\\$35$ to rent the venue and $\\$10.25$ per attendee. The event planner has a budget of $\\$200$.",
+    "question_text": "What is the greatest number of attendees possible without exceeding the budget?",
+    "options": null,
+    "correct_answer": "16",
+    "explanation": "The correct answer is $16$. The total cost of the party is found by adding the onetime fee of the venue to the cost per attendee times the number of attendees. Let $x$ be the number of attendees. The expression $35 + 10.25x$ thus represents the total cost of the party. It\\'s given that the budget is $\\$200$, so this situation can be represented by the inequality $35 + 10.25x \\le 200$. The greatest number of attendees can be found by solving this inequality for $x$. Subtracting $35$ from both sides of this inequality gives $10.25x \\le 165$. Dividing both sides of this inequality by $10.25$ results in approximately $x \\le 16.098$. Since the question is stated in terms of attendees, rounding $x$ down to the nearest whole number, $16$, gives the greatest number of attendees possible."
+  },
+  {
+    "question_id": "a8b51d6b",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear functions",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In the $xy$-plane, the graph of the linear function $f$ contains the points $(0, 3)$ and $(7, 31)$.",
+    "question_text": "Which equation defines $f$, where $y = f(x)$?",
+    "options": {
+      "A": "$f(x) = 28x + 34$",
+      "B": "$f(x) = 3x + 38$",
+      "C": "$f(x) = 4x + 3$",
+      "D": "$f(x) = 7x + 3$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. In the $xy$-plane, an equation of the graph of a linear function can be written in the form $f(x) = mx + b$, where $m$ represents the slope and $(0, b)$ represents the $y$-intercept of the graph of $y = f(x)$. It\\'s given that the graph of the linear function $f$, where $y = f(x)$, in the $xy$-plane contains the point $(0, 3)$. Thus, $b = 3$. The slope of the graph of a line containing any two points $(x_1, y_1)$ and $(x_2, y_2)$ can be found using the slope formula, $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Since it\\'s given that the graph of the linear function $f$ contains the points $(0, 3)$ and $(7, 31)$, it follows that the slope of the graph of the line containing these points is $m = \\frac{31 - 3}{7 - 0}$, or $m = 4$. Substituting $4$ for $m$ and $3$ for $b$ in $f(x) = mx + b$ yields $f(x) = 4x + 3$."
+  },
+  {
+    "question_id": "6492b769",
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Linear equations in two variables",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "$y = -4x + 40$",
+    "question_text": "Which table gives three values of $x$ and their corresponding values of $y$ for the given equation?",
+    "options": {
+      "A": "x | y\n0 | 0\n1 | -4\n2 | -8",
+      "B": "x | y\n0 | 40\n1 | 44\n2 | 48",
+      "C": "x | y\n0 | 40\n1 | 36\n2 | 32",
+      "D": "x | y\n0 | 0\n1 | 4\n2 | 8"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. Each of the given choices gives three values of $x$: $0$, $1$, and $2$. Substituting $0$ for $x$ in the given equation yields $y = -4(0) + 40$, or $y = 40$. Therefore, when $x = 0$, the corresponding value of $y$ for the given equation is $40$. Substituting $1$ for $x$ in the given equation yields $y = -4(1) + 40$, or $y = 36$. Therefore, when $x = 1$, the corresponding value of $y$ for the given equation is $36$. Substituting $2$ for $x$ in the given equation yields $y = -4(2) + 40$, or $y = 32$. Therefore, when $x = 2$, the corresponding value of $y$ for the given equation is $32$. Choice C gives three values of $x$, $0$, $1$, and $2$, and their corresponding values of $y$, $40$, $36$, and $32$, respectively, for the given equation."
+  }
+]

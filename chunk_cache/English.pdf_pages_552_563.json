@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "781e8f5c",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Two opposing theories of vision divided scholars for many centuries.\n- The ancient Greek mathematician Euclid (circa 300 BCE) supported the extramission theory.\n- This theory held that the eyes emit a form of radiation that illuminates objects in its range.\n- The ancient Greek philosopher Aristotle (384–322 BCE) supported the intromission theory.\n- This theory held that objects emit a form of radiation that reaches the eyes.\n- In the eleventh century, Arab mathematician Ibn al-Haytham (965–1040 CE) largely settled the debate with the first conclusive experiments supporting intromission.",
+    "question_text": "The student wants to provide a historical overview of the two theories. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Scholars were divided between the extramission and intromission theories of vision until Ibn al-Haytham’s eleventh-century experiments largely settled the debate in support of intromission.",
+      "B": "Through two opposing theories of vision—extramission and intromission—Euclid, Aristotle, and Ibn al-Haytham held that a form of radiation is emitted either from objects or from the eyes.",
+      "C": "While Ibn al-Haytham largely settled the debate in the eleventh century, Aristotle supported the theory of intromission centuries before.",
+      "D": "Before the eleventh century, the ancient Greek philosopher Aristotle supported the intromission theory, which held that objects emit a form of radiation that reaches the eyes."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The sentence provides a historical overview of the two theories, noting that scholars were divided between them before Ibn al-Haytham’s experiments supporting intromission largely settled the debate in the eleventh century.\n\nChoice B is incorrect. While the sentence identifies the two theories and the scholars that supported them, it doesn’t provide a historical overview of the theories. Choice C is incorrect. While the sentence indicates Aristotle supported intromission theory centuries before Ibn al-Haytham settled the debate, it doesn’t mention extramission theory or provide a historical overview of both theories. Choice D is incorrect. The sentence provides information about intromission theory but doesn’t mention extramission theory or provide a historical overview of both theories."
+  },
+  {
+    "question_id": "f4ecd486",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- $Certhidea\\ olivacea$ is a perching bird that can be found on the Galápagos Island of Pinzón.\n- $Creagrus\\ furcatus$ is a seabird that can be found on the Galápagos Island of Darwin.\n- Conservation organizations evaluate the risk that species will become extinct in the near future.\n- $C.\\ olivacea$ faces a high risk of extinction.\n- $C.\\ furcatus$ faces little risk of becoming extinct in the near future.",
+    "question_text": "The student wants to compare the extinction risk faced by $C.\\ olivacea$ with that faced by $C.\\ furcatus$. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "According to conservation organizations, $C.\\ olivacea$ has a higher risk of becoming extinct in the near future than $C.\\ furcatus$.",
+      "B": "$C.\\ furcatus$ faces a high risk of extinction, while $C.\\ olivacea$ faces little risk of becoming extinct in the near future.",
+      "C": "Conservation organizations have evaluated both $C.\\ furcatus$’s and $C.\\ olivacea$’s risk of becoming extinct in the near future.",
+      "D": "$C.\\ olivacea$ is a perching bird that faces a high risk of extinction."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The sentence compares the extinction risks of the two species, noting that $C.\\ olivacea$ has a higher risk of becoming extinct in the near future than $C.\\ furcatus$.\n\nChoice B is incorrect. While the sentence does compare the extinction risks of the two species, it misrepresents information from the notes; $C.\\ olivacea$ faces a higher risk of becoming extinct in the near future than $C.\\ furcatus$, not the other way around. Choice C is incorrect. While the sentence mentions that conservation organizations have evaluated both species for extinction risk, it doesn’t compare the extinction risks of the two species. Choice D is incorrect. While the sentence states that $C.\\ olivacea$ faces a high risk of extinction, it doesn’t mention $C.\\ furcatus$ or compare the extinction risks of the two species."
+  },
+  {
+    "question_id": "d9d4d944",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The artistic talents of Barbara Chase-Riboud, most known for her 1979 historical novel $Sally\\ Hemings$ and the conversation it inspired, ______ limited to the realm of prose: she first excelled in sculpture, where her affinity for bronze—a material she described as “timeless” due to its use across eras and cultures—became part of her artistic identity.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "hasn’t been",
+      "B": "wasn’t",
+      "C": "isn’t",
+      "D": "aren’t"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The subject \"talents\" is plural, and so is the verb \"aren’t\": \"the artistic talents…aren’t limited.\"\n\nChoice A is incorrect. The subject \"talents\" is plural, but the verb \"hasn’t been\" is singular. Choice B is incorrect. The subject \"talents\" is plural, but the verb \"wasn’t\" is singular. Choice C is incorrect. The subject \"talents\" is plural, but the verb \"isn’t\" is singular."
+  },
+  {
+    "question_id": "f3a157b1",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Known as Earth’s “living skin,” biocrusts are thin layers of soil held together by surface-dwelling microorganisms such as fungi, lichens, and cyanobacteria. Fortifying soil in arid ecosystems against erosion, ______",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "a recent study’s estimate is that these crusts reduce global dust emissions by 60 percent each year.",
+      "B": "an estimated 60 percent reduction in global dust emissions each year is due to these crusts, according to a recent study.",
+      "C": "these crusts reduce global dust emissions by an estimated 60 percent each year, according to a recent study.",
+      "D": "a recent study has estimated that these crusts reduce global dust emissions by 60 percent each year."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The subject of the modifier \"fortifying soil in arid ecosystems against erosion\" is \"biocrusts.\" Subject-modifier placement requires a modifier and its subject to be next to each other, so \"biocrusts\" or some variant meaning \"biocrusts\" (in this case, \"these crusts\") must begin the missing clause.\n\nChoice A is incorrect. Modifiers and their subjects must go next to each other. The subject of the modifier \"fortifying soil in arid ecosystems against erosion\" is \"biocrusts,\" not \"a recent study’s estimate.\" Choice B is incorrect. Modifiers and their subjects must go next to each other. The subject of the modifier \"fortifying soil in arid ecosystems against erosion\" is \"biocrusts,\" not \"an estimated 60 percent reduction.\" Choice D is incorrect. Modifiers and their subjects must go next to each other. The subject of the modifier \"fortifying soil in arid ecosystems against erosion\" is \"biocrusts,\" not \"a recent study.\""
+  },
+  {
+    "question_id": "736ac5f3",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Anthropologist Lívia Barbosa, of the Universidade Federal Fluminense in Brazil, ______ food and sociability in contemporary Brazil—specifically, how foods such as cabidela (a rice and rabbit dish) and churrasco (a barbeque dish) function as central mechanisms in building social relationships, values, and identities.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "studies",
+      "B": "are studying",
+      "C": "have studied",
+      "D": "study"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"studies\" agrees in number with the singular subject \"anthropologist Lívia Barbosa.\"\n\nChoice B is incorrect because the plural verb \"are studying\" doesn’t agree in number with the singular subject \"anthropologist Lívia Barbosa.\" Choice C is incorrect because the plural verb \"have studied\" doesn’t agree in number with the singular subject \"anthropologist Lívia Barbosa.\" Choice D is incorrect because the plural verb \"study\" doesn’t agree in number with the singular subject \"anthropologist Lívia Barbosa.\""
+  },
+  {
+    "question_id": "6203926e",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In ancient Greece, an Epicurean was a follower of Epicurus, a philosopher whose beliefs revolved around the pursuit of pleasure. Epicurus defined pleasure as “the absence of pain in the body and of trouble in the ______ that all life’s virtues derived from this absence.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "soul,” positing",
+      "B": "soul”: positing",
+      "C": "soul”; positing",
+      "D": "soul.” Positing"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is punctuation use between a main clause and a participial phrase. This choice correctly uses a comma to mark the boundary between the main clause (“Epicurus…‘soul’”) and the participial phrase (“positing…absence”) that provides additional information about how Epicurus defined pleasure.\n\nChoice B is incorrect because a colon can’t be used in this way to join a main clause and a participial phrase. Choice C is incorrect because a semicolon can’t be used in this way to join a main clause and a participial phrase. Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with “positing.”"
+  },
+  {
+    "question_id": "bd907188",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The field of geological oceanography owes much to American ______ Marie Tharp, a pioneering oceanographic cartographer whose detailed topographical maps of the ocean floor and its multiple rift valleys helped garner acceptance for the theories of plate tectonics and continental drift.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "geologist,",
+      "B": "geologist",
+      "C": "geologist;",
+      "D": "geologist:"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. “Marie Tharp” is essential information that completes the first clause — the first clause doesn’t function without it. So we don’t want to separate it with punctuation.\n\nChoice A is incorrect. This choice creates a punctuation error. “The field of geological oceanography owes much to American geologist” is unclear: which geologist are we talking about? We need the “Marie Tharp” for clarity, which means it’s essential information and should not be separated by a comma. Choice C is incorrect. This choice creates a punctuation error. “The field of geological oceanography owes much to American geologist” is unclear: which geologist are we talking about? We need the “Marie Tharp” for clarity, which means it’s essential information and should not be separated by a semicolon. Choice D is incorrect. This choice creates a punctuation error. “The field of geological oceanography owes much to American geologist” is unclear: which geologist are we talking about? We need the “Marie Tharp” for clarity, which means it’s essential information and should not be separated by a colon."
+  },
+  {
+    "question_id": "1da00c69",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "A subseasonal weather forecast attempts to predict weather conditions three to four weeks in ______ its predictions are therefore more short-term than those of the seasonal forecast, which attempts to predict the weather more than a month in advance.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "advance,",
+      "B": "advance",
+      "C": "advance;",
+      "D": "advance and"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The clause “A subseasonal…advance” and the clause “its predictions…forecast” are both independent clauses, so using a semicolon to separate them is grammatically correct.\n\nChoice A is incorrect. This choice creates a run-on sentence error. The clause “A subseasonal…advance” and the clause “its predictions…forecast” are both independent clauses, so a comma is not enough to separate them. Choice B is incorrect. This choice creates a run-on sentence error. The clause “A subseasonal…advance” and the clause “its predictions…forecast” are both independent clauses, so they need to be separated with specific punctuation (a period, a semi-colon, a colon, a dash, or a comma + a coordinating conjunction). Choice D is incorrect. This choice creates a run-on sentence error. The clause “A subseasonal…advance” and the clause “its predictions…forecast” are both independent clauses, so the word “and” by itself is not enough to separate them. There would need to be a comma before “and” for this choice to work."
+  },
+  {
+    "question_id": "f856be23",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In her book $The\\ Woman\\ Warrior:\\ Memoirs\\ of\\ a\\ Girlhood\\ Among\\ Ghosts$, author Maxine Hong Kingston examines themes ______ childhood, womanhood, and Chinese American identity by intertwining autobiography and mythology.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "of:",
+      "B": "of",
+      "C": "of—",
+      "D": "of,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. “Themes of childhood” is one noun phrase, with “themes of” implicitly carrying over to the other items on the list (“themes of childhood, [themes of] womanhood, and [themes of] Chinese American identity”).\n\nChoice A is incorrect. This choice inappropriately breaks up the introduction of a list. Also, “In her book…themes of” is not an independent clause, thanks to the dangling “of” at the end, so it can’t precede a colon. Choice C is incorrect. This choice inappropriately breaks up the introduction of a list. Also, “In her book…themes of” is not an independent clause, thanks to the dangling “of” at the end, so it can’t precede a single dash. Choice D is incorrect. This choice inappropriately breaks up the introduction of a list. “Themes of” implicitly carries over to each item on the list (“themes of childhood, [themes of] womanhood, and [themes of] Chinese American identity”), so we don’t want to use a comma to separate it."
+  },
+  {
+    "question_id": "ad0887f2",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While exploring Nevada’s Gypsum Cave in 1930, Seneca and Abenaki archaeologist Bertha Parker made her most famous discovery: the skull of a now-extinct ground sloth ($Nothrotheriops\\ shastensis$) alongside human-made tools. Parker’s crucial finding was the first ______ humans in North America as far back as 10,000 years ago.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "places",
+      "B": "placed",
+      "C": "place",
+      "D": "to place"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The object for the verb \"was\" is \"first,\" and \"to place\" is acting as a modifier for \"first.\" What was the finding? It was \"the first.\" The first to do what? The first \"to place humans in North America\" 10,000 years ago. When a verb serves as a modifier within a noun phrase, it must be nonfinite (i.e., not conjugated to a specific subject). The infinitive form \"to place\" is the only nonfinite option among the choices that makes sense in context.\n\nChoice A is incorrect. The object for the verb \"was\" is \"first,\" and \"places\" is acting as a modifier for \"first.\" What was the thing that Parker’s finding did? What was it the first to do? Place humans in North America 10,000 years ago. When a verb acts as a modifier, it must be nonfinite (i.e., not conjugated to a specific subject), but \"places\" is a finite form of the verb. Choice B is incorrect. The object for the verb \"was\" is \"first,\" and \"placed\" is acting to modify \"first.\" What was it that Parker’s finding was the first to do? Place humans in North America 10,000 years ago. When a verb acts as a modifier, it must be nonfinite (i.e., not conjugated to a specific subject), but \"placed\" is a finite form. \"Placed\" can also be a past participle, but that wouldn’t make sense here because the meaning of \"the first placed humans\" would be unclear. Choice C is incorrect. The object for the verb \"was\" is \"first,\" and \"place\" is modifying \"first.\" What was the thing that Parker’s finding did? What was it the first to do? Place humans in North America. When a verb acts as a modifier, it must be nonfinite (i.e., not conjugated to a specific subject), but \"place\" is a finite form of the verb. Additionally, \"place\" can’t serve as a noun here, because it results in an illogical sentence (the \"finding\" wasn’t \"the first place\")."
+  },
+  {
+    "question_id": "a3f9a509",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Inventor John Friedman created a prototype of the first flexible straw by inserting a screw into a paper straw and, using dental floss, binding the straw tightly around the ______ When the floss and screw were removed, the resulting corrugations in the paper allowed the straw to bend easily over the edge of a glass.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "screw’s thread’s.",
+      "B": "screws’ threads.",
+      "C": "screw’s threads.",
+      "D": "screws threads’."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The convention being tested is the use of plural and possessive nouns. The singular possessive noun “screw’s” and the plural noun “threads” correctly indicate that there is only one screw and it has multiple threads.\n\nChoice A is incorrect because the context requires the plural noun “threads,” not the singular possessive noun “thread’s.” Choice B is incorrect because the context requires the singular possessive noun “screw’s,” not the plural possessive noun “screws’.” Choice D is incorrect because the context requires the singular possessive noun “screw’s” and the plural noun “threads,” not the plural noun “screws” or the plural possessive noun “threads.’”"
+  },
+  {
+    "question_id": "d4d1e6db",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "During the decades-long movement to codify the rights of Latinos in the US, certain events were pivotal: the founding of social justice group the League of United Latin American Citizens in ______ Katzenbach v. Morgan court decision in 1966, which affirmed the rights of Latino voters, is another such event.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "1929. For one, the",
+      "B": "1929, for one, the",
+      "C": "1929 for one, the",
+      "D": "1929, for one. The"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The conventions being tested are punctuation use between sentences and the punctuation of a supplementary element. This choice correctly uses a period to mark the boundary between one sentence (\"During...one\") and another (\"The Katzenbach...event\") and uses a comma to separate the supplementary phrase \"for one\" from the preceding main clause. Further, placing the period after \"for one\" correctly indicates that the information in the preceding main clause (\"the founding...1929\") is the first example provided of a pivotal event in the Latino rights movement.\n\nChoice A is incorrect because placing the period after \"1929\" illogically indicates that the information in the next main clause (describing the Katzenbach v. Morgan court decision) is the first example provided of a pivotal event in the Latino rights movement; rather, it’s a second example. Choice B is incorrect because it results in a comma splice. A comma can’t be used in this way to join two main clauses. Choice C is incorrect because it results in a comma splice. A comma can’t be used in this way to join two main clauses. Moreover, it fails to use appropriate punctuation to separate the supplementary element \"for one\" from the preceding main clause."
+  }
+]

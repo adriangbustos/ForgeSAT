@@ -1,0 +1,190 @@
+[
+  {
+    "question_id": "8773f193",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the figure shown, line $\\ell$ intersects lines $j$ and $k$.",
+    "question_text": "Which additional piece of information is sufficient to prove that lines $j$ and $k$ are parallel?",
+    "options": {
+      "A": "$w = 40$",
+      "B": "$x = 140$",
+      "C": "$y = 40$",
+      "D": "$z = 140$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. In the figure shown, lines $j$ and $k$ are parallel if and only if a pair of corresponding angles are congruent. It's given that one angle has a measure of $40^\\circ$ and that the corresponding angle has a measure of $w^\\circ$. Therefore, $w = 40$ is sufficient to prove that lines $j$ and $k$ are parallel."
+  },
+  {
+    "question_id": "e01724ba",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the figure, line $m$ is parallel to line $n$.",
+    "question_text": "What is the value of $w$?",
+    "options": {
+      "A": "$17$",
+      "B": "$30$",
+      "C": "$70$",
+      "D": "$170$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that lines $m$ and $n$ are parallel. Since line $t$ intersects both lines $m$ and $n$, it's a transversal. The angles in the figure marked as $170^\\circ$ and $w^\\circ$ are on the same side of the transversal, where one is an interior angle with line $m$ as a side, and the other is an exterior angle with line $n$ as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and, therefore, have equal measure. It follows that $w^\\circ = 170^\\circ$. Therefore, the value of $w$ is $170$."
+  },
+  {
+    "question_id": "070522bf",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The width of a rectangle is $7$ centimeters. The length of the rectangle is $40$ centimeters longer than the width. What is the area, in square centimeters, of this rectangle?",
+    "options": {
+      "A": "$7$",
+      "B": "$14$",
+      "C": "$54$",
+      "D": "$329$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that the width of this rectangle is $7$ centimeters and that the length of this rectangle is $40$ centimeters longer than the width. Therefore, the length of this rectangle is $7 + 40$, or $47$, centimeters. The area of a rectangle can be found by multiplying its length and its width. Therefore, the area, in square centimeters, of this rectangle is $(7)(47)$, or $329$."
+  },
+  {
+    "question_id": "034aa7ae",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the figure shown, points $P$, $Q$, $R$, $S$, $T$, and $V$ lie on line segment $PV$, and line segment $RU$ intersects line segment $SX$ at point $W$. The measure of $\\angle SQX$ is $48^\\circ$, the measure of $\\angle SXQ$ is $86^\\circ$, the measure of $\\angle SWU$ is $85^\\circ$, and the measure of $\\angle VTU$ is $162^\\circ$.",
+    "question_text": "What is the measure, in degrees, of $\\angle TUR$?",
+    "options": {
+      "A": "119",
+      "B": "121",
+      "C": "123",
+      "D": "125"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is $123$. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is $180$ degrees. It's given that the measure of $\\angle SQX$ is $48^\\circ$ and the measure of $\\angle SXQ$ is $86^\\circ$. Since points $S$, $Q$, and $X$ form a triangle, it follows from the triangle angle sum theorem that the measure, in degrees, of $\\angle QSX$ is $180 - 48 - 86$, or $46$. It's also given that the measure of $\\angle SWU$ is $85^\\circ$. Since $\\angle SWU$ and $\\angle SWR$ are supplementary angles, the sum of their measures is $180$ degrees. It follows that the measure, in degrees, of $\\angle SWR$ is $180 - 85$, or $95$. Since points $R$, $S$, and $W$ form a triangle, and $\\angle RSW$ is the same angle as $\\angle QSX$, it follows from the triangle angle sum theorem that the measure, in degrees, of $\\angle WRS$ is $180 - 46 - 95$, or $39$. It's given that the measure of $\\angle VTU$ is $162^\\circ$. Since $\\angle VTU$ and $\\angle STU$ are supplementary angles, the sum of their measures is $180$ degrees. It follows that the measure, in degrees, of $\\angle STU$ is $180 - 162$, or $18$. Since points $R$, $T$, and $U$ form a triangle, and $\\angle URT$ is the same angle as $\\angle WRS$, it follows from the triangle angle sum theorem that the measure, in degrees, of $\\angle TUR$ is $180 - 39 - 18$, or $123$."
+  },
+  {
+    "question_id": "ddb62d63",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Point $F$ lies on a unit circle in the $xy$-plane and has coordinates $(1, 0)$. Point $G$ is the center of the circle and has coordinates $(0, 0)$. Point $H$ also lies on the circle and has coordinates $(-1, y)$, where $y$ is a constant.",
+    "question_text": "Which of the following could be the positive measure of angle $FGH$, in radians?",
+    "options": {
+      "A": "\\frac{27\\pi}{2}",
+      "B": "\\frac{29\\pi}{2}",
+      "C": "24\\pi",
+      "D": "25\\pi"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that the circle is a unit circle, which means the circle has a radius of $1$. It's also given that point $G$ is the center of the circle and has coordinates $(0, 0)$ and that point $H$ lies on the circle and has coordinates $(-1, y)$. Since the radius of the circle is $1$, the value of $y$ must be $0$, as all other points with an $x$-coordinate of $-1$ are a distance greater than $1$ away from point $G$. Since $F$ and $H$ are points on the unit circle centered at $G$, let side $FG$ be the starting side of the angle and side $GH$ be the terminal side of the angle. Since side $FG$ is on the positive $x$-axis and side $GH$ is on the negative $x$-axis, side $GH$ is half of a rotation around the unit circle, or $\\pi$ radians, away from side $FG$. Therefore, the positive measure of angle $FGH$, in radians, is equal to $\\pi$ plus an integer multiple of $2\\pi$. In other words, the positive measure of angle $FGH$, in radians, is an odd integer multiple of $\\pi$. Of the given choices, only $25\\pi$ is an odd integer multiple of $\\pi$."
+  },
+  {
+    "question_id": "8235af09",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "Triangles $ABC$ and $DEF$ are similar. Each side length of triangle $ABC$ is $4$ times the corresponding side length of triangle $DEF$. The area of triangle $ABC$ is $270$ square inches.",
+    "question_text": "What is the area, in square inches, of triangle $DEF$?",
+    "options": null,
+    "correct_answer": "135/8",
+    "explanation": "The correct answer is $135/8$. It's given that triangles $ABC$ and $DEF$ are similar and each side length of triangle $ABC$ is $4$ times the corresponding side length of triangle $DEF$. For two similar triangles, if each side length of the first triangle is $k$ times the corresponding side length of the second triangle, then the area of the first triangle is $k^2$ times the area of the second triangle. Therefore, the area of triangle $ABC$ is $4^2$, or $16$, times the area of triangle $DEF$. It's given that the area of triangle $ABC$ is $270$ square inches. Let $a$ represent the area, in square inches, of triangle $DEF$. It follows that $270$ is $16$ times $a$, or $270 = 16a$. Dividing both sides of this equation by $16$ yields $\\frac{270}{16} = a$, which is equivalent to $\\frac{135}{8} = a$. Thus, the area, in square inches, of triangle $DEF$ is $\\frac{135}{8}$."
+  },
+  {
+    "question_id": "5c415b89",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "A cube has an edge length of $41$ inches. What is the volume, in cubic inches, of the cube?",
+    "options": {
+      "A": "164",
+      "B": "1,681",
+      "C": "10,086",
+      "D": "68,921"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The volume, $V$, of a cube can be found using the formula $V = s^3$, where $s$ is the edge length of the cube. It's given that a cube has an edge length of $41$ inches. Substituting $41$ inches for $s$ in this equation yields $V = 41^3$ cubic inches, or $V = 68,921$ cubic inches. Therefore, the volume of the cube is $68,921$ cubic inches."
+  },
+  {
+    "question_id": "35d7123b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Triangle $ABC$ is similar to triangle $XYZ$, such that $A$, $B$, and $C$ correspond to $X$, $Y$, and $Z$ respectively. The length of each side of triangle $XYZ$ is $2$ times the length of its corresponding side in triangle $ABC$. The measure of side $AB$ is $16$.",
+    "question_text": "What is the measure of side $XY$?",
+    "options": {
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "32"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that triangle $ABC$ is similar to triangle $XYZ$, such that $A$, $B$, and $C$ correspond to $X$, $Y$, and $Z$, respectively. Therefore, side $AB$ corresponds to side $XY$. Since the length of each side of triangle $XYZ$ is $2$ times the length of its corresponding side in triangle $ABC$, it follows that the measure of side $XY$ is $2$ times the measure of side $AB$. Thus, since the measure of side $AB$ is $16$, then the measure of side $XY$ is $2(16)$, or $32$."
+  },
+  {
+    "question_id": "8875a21b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is the area of a rectangle with a length of $4\\text{ centimeters (cm)}$ and a width of $2\\text{ cm}$?",
+    "options": {
+      "A": "6\\text{ cm}^2",
+      "B": "8\\text{ cm}^2",
+      "C": "12\\text{ cm}^2",
+      "D": "36\\text{ cm}^2"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. The area of a rectangle with length $\\ell$ and width $w$ can be found using the formula $A = \\ell w$. It's given that the rectangle has a length of $4\\text{ cm}$ and a width of $2\\text{ cm}$. Therefore, the area of this rectangle is $(4\\text{ cm})(2\\text{ cm})$, or $8\\text{ cm}^2$."
+  },
+  {
+    "question_id": "dbe21855",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The length of each side of a square is $94\\text{ centimeters (cm)}$. Which expression gives the area, in $\\text{cm}^2$, of the square?",
+    "options": {
+      "A": "2 \\cdot 94",
+      "B": "2 \\cdot 94 \\cdot 94",
+      "C": "4 \\cdot 94",
+      "D": "94 \\cdot 94"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The area of a square is given by $s^2$, where $s$ is the length of each side of the square. It's given that the length of each side of a square is $94\\text{ cm}$. It follows that the area, in $\\text{cm}^2$, of the square is $(94)^2$, or $94 \\cdot 94$. Therefore, the expression that gives the area, in $\\text{cm}^2$, of the square is $94 \\cdot 94$."
+  },
+  {
+    "question_id": "8588cf5e",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": true,
+    "stimulus": "A right rectangular prism has a length of $11$ meters, a width of $8$ meters, and a height of $10$ meters.",
+    "question_text": "What is the volume, in cubic meters, of the prism?",
+    "options": null,
+    "correct_answer": "880",
+    "explanation": "The correct answer is $880$. The volume, $V$, of a right rectangular prism is given by the formula $V = \\ell w h$, where $\\ell$ is the length, $w$ is the width, and $h$ is the height of the prism. It's given that a right rectangular prism has a length of $11$ meters, a width of $8$ meters, and a height of $10$ meters. Substituting $11$ for $\\ell$, $8$ for $w$, and $10$ for $h$ in the formula yields $V = (11)(8)(10)$, or $V = 880$. Therefore, the volume, in cubic meters, of the prism is $880$."
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "0693086b",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While one requires oxygen and one does ______ and anaerobic respiration are both forms of cellular respiration—that is, they are processes by which cells break down glucose to use as energy.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "not aerobic",
+      "B": "not. Aerobic",
+      "C": "not, aerobic",
+      "D": "not; aerobic"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. A comma is the appropriate way to link the dependent clause “While...not” and the independent clause that follows. Choice A is incorrect. This choice creates a run-on sentence error. “While...not” is a dependent clause, which must be separated from the independent clause that follows with some sort of punctuation. Choice B is incorrect. This choice creates a sentence fragment. “While one requires oxygen and one does not” isn’t an independent clause, so it can’t stand alone as a complete sentence. Choice D is incorrect. This choice creates a punctuation error. “While one requires oxygen and one does not” isn’t an independent clause, so it can’t be linked to the clause that follows with a semicolon."
+  },
+  {
+    "question_id": "fd02bdb9",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "According to Naomi Nakayama of the University of Edinburgh, the reason seeds from a dying dandelion appear to float in the air while ______ is that their porous plumes enhance drag, allowing the seeds to stay airborne long enough for the wind to disperse them throughout the surrounding area.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "falling,",
+      "B": "falling:",
+      "C": "falling;",
+      "D": "falling"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The word “falling” occurs in the middle of a clause and isn’t part of a supplement, so we don’t need any punctuation after it. We can see this more clearly if we simplify the rest of the sentence: “The reason seeds appear to float while falling is that their plumes enhance drag.”"
+  },
+  {
+    "question_id": "d173443c",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Luci Tapahonso is the inaugural poet laureate of the Navajo Nation. Her book Sáanii Dahataal/The Women Are Singing—a combination of fiction and memoir, poetry and ______ serves as a testament to her versatility as a writer.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "prose;",
+      "B": "prose",
+      "C": "prose,",
+      "D": "prose—"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. “A combination of fiction and memoir, poetry and prose” is a nonessential supplement, so it needs to be set off from the rest of the sentence with a pair of matching punctuation marks. We already have a dash at the beginning of the supplement, so we need to add a dash at the end of the supplement to match."
+  },
+  {
+    "question_id": "e437ac5e",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In 1959, marine biologist Dr. Albert Jones founded the Underwater Adventure Seekers, a scuba diving ______ that is the oldest club for Black divers in the United States and that has helped thousands of diving enthusiasts become certified in the field.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "club",
+      "B": "club,",
+      "C": "club—",
+      "D": "club, and"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. “That is…field” is an essential supplement, so we should not use punctuation to separate it from “scuba diving club.”"
+  },
+  {
+    "question_id": "63f23c3a",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Botanists recognize over fifty different species of sunflower. One species, the silverleaf sunflower, ______ both an early-flowering ecotype that tends to grow in coastal areas and a late-flowering ecotype that grows inland.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "having included",
+      "B": "including",
+      "C": "to include",
+      "D": "includes"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This verb needs to function as the main verb in the sentence, with the subject “one species,” so it needs to be conjugated. This choice gives us the singular present tense “includes,” which is the only conjugated form of the verb among the choices."
+  },
+  {
+    "question_id": "6510a8cd",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Supported by biochemical analyses of over 2,000 skeletons from the Middle Ages, ______",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "vegetables and grains were, a 2022 study found, the primary components of early medieval rulers’ diets.",
+      "B": "early medieval rulers’ diets were found, in a 2022 study, to have primarily consisted of vegetables and grains.",
+      "C": "the primary components of early medieval rulers’ diets were vegetables and grains, according to a 2022 study.",
+      "D": "findings from a 2022 study suggested that vegetables and grains were the primary components of early medieval rulers’ diets."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"findings from a 2022 study\" the subject of the sentence and places it immediately after the modifying phrase \"supported...Ages.\" In doing so, this choice clearly establishes that the findings—and not another noun in the sentence—are supported by the biochemical analyses."
+  },
+  {
+    "question_id": "9bebb5b4",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Earth is not a perfect sphere. Due to the ______ gravitational pull, Earth bulges out on the sides closest to and farthest from the Moon. This distorting pull is known as a tidal force, and it is responsible for the changes in water levels that are called high and low tides.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Moon’s",
+      "B": "Moons",
+      "C": "Moons’",
+      "D": "Moon"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is the use of possessive nouns. The singular possessive noun \"Moon’s\" correctly indicates that there is only one Moon, and it has a gravitational pull."
+  },
+  {
+    "question_id": "37ccf84e",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "When particles are suspended in liquid (like pollen in a water glass), they will zigzag randomly through the liquid and collide with one another in perpetuity. This type of random, continuous ______ is known as Brownian motion, can be observed throughout the natural world.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "movement: which",
+      "B": "movement, which",
+      "C": "movement which",
+      "D": "movement. Which"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. This choice correctly uses commas to set off the nonessential relative clause \"which is known as Brownian motion\" that provides extra information about the \"random, continuous movement\" that isn’t necessary for the function of the sentence."
+  },
+  {
+    "question_id": "638832ee",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In 1994, almost 200 years after the death of Wang Zhenyi, the International Astronomical ______ the contributions of the barrier-breaking 18th-century astronomer and author of “Dispute of the Procession of the Equinoxes,” naming a crater on Venus after her.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Union would finally acknowledge",
+      "B": "Union to finally acknowledge",
+      "C": "Union, having finally acknowledged",
+      "D": "Union, finally acknowledging"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It’s the only choice that offers a form of the verb “acknowledge” that can go with the subject “International Astronomical Union” to make a complete sentence. This might seem like an odd use of “would,” but when speaking from a point of view in the past, we can actually use “would” to express something that happened later."
+  },
+  {
+    "question_id": "b79670a7",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Santa Clara Pueblo artist Roxanne Swentzell’s sculpture Mud Woman Rolls On consists of five human figures made of clay and plant fiber and arranged in descending size; each figure holds the smaller one in front of it. The arrangement of the figures, according to ______ represents her idea that “we all come from the Earth, generation after generation.”",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Swentzell",
+      "B": "Swentzell,",
+      "C": "Swentzell:",
+      "D": "Swentzell—"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The phrase “according to Swentzell” is an aside that interrupts the flow of the sentence, so it needs to be separated from the sentence with a pair of matching punctuation marks: two commas, two dashes, or a pair of parentheses. We already have a comma before “according,” so we must add a comma after “Swentzell.”"
+  },
+  {
+    "question_id": "a6ee5b63",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In a recent analysis of lyrical trends in 350,000 songs, researchers cite increases in certain measures, such as the ratio of choruses to verses, as evidence music lyrics are becoming more repetitive. For instance, from 1970 to 2020, ______ chorus-to-verse ratios trended similarly, with each genre’s data indicating that relative to the number of unique verses, the number of repeated choruses in songs increased.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "rocks and raps",
+      "B": "rock’s and rap’s",
+      "C": "rocks and rap’s",
+      "D": "rock and rap’s"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The convention being tested is the use of possessive nouns. The singular possessive nouns \"rock’s\" and \"rap’s\" correctly indicate that the chorus-to-verse ratios belong to the genres of rock and rap."
+  },
+  {
+    "question_id": "094e6e94",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The human brain is primed to recognize faces—so much so that, due to a perceptual tendency called pareidolia, ______ will even find faces in clouds, wooden doors, pieces of fruit, and other faceless inanimate objects. Researcher Susan Magsamen has focused her work on better understanding this everyday phenomenon.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "she",
+      "B": "they",
+      "C": "it",
+      "D": "those"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"It\" is a singular pronoun used to stand in for objects. Since the antecedent in this case is the singular noun phrase \"the human brain,\" \"it\" is a perfect pronoun to use here."
+  }
+]

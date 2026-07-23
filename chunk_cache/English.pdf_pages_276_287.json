@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "a8c35eaf",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Containing over 160 billion base pairs of DNA resulting from polyploidy (whole genome duplication) and accumulation of noncoding DNA without significant deletion, the genome of Tmesipteris oblanceolata (New Caledonian fork fern) is the largest known among eukaryotes—and, given the high biological costs of extremely large genomes, is unlikely to be ______.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "protracted",
+      "B": "superseded",
+      "C": "curtailed",
+      "D": "obviated"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text's discussion of the fork fern's enormous genome. In this context, \"superseded\" means surpassed or exceeded by something else. The text establishes that this plant has \"the largest known\" genome among eukaryotes and mentions \"the high biological costs of extremely large genomes,\" suggesting there are natural constraints that make it biologically disadvantageous to maintain such massive genetic material. This context supports the idea that it's unlikely another organism will evolve an even larger genome that would replace this plant's record—that is, its status as having the largest genome is unlikely to be superseded.\n\nChoice A is incorrect because in this context, \"protracted\" would mean drawn out over time or space, and the text focuses on the record size of the New Caledonian fork fern's genome and the fact that extremely large genomes carry \"high biological costs.\" This information suggests that the biological upper limit for genome size may have been reached and that the New Caledonian fork fern's genome is therefore unlikely to be surpassed, or superseded, not that it's unlikely to be protracted. Choice C is incorrect because in this context, \"curtailed\" would mean cut short or reduced, and the text focuses on the record size of the New Caledonian fork fern's genome and the fact that extremely large genomes carry \"high biological costs.\" This information suggests that the biological upper limit for genome size may have been reached and that the New Caledonian fork fern's genome is therefore unlikely to be surpassed, or superseded, not that it's unlikely to be curtailed. Choice D is incorrect because in this context, \"obviated\" would mean made unnecessary or redundant, and the text focuses on the record size of the New Caledonian fork fern's genome and the fact that extremely large genomes carry \"high biological costs.\" This information suggests that the biological upper limit for genome size may have been reached and that the New Caledonian fork fern's genome is therefore unlikely to be surpassed, or superseded, not that it's unlikely to be obviated."
+  },
+  {
+    "question_id": "a84b11c2",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Some scientists have suggested that mammals in the Mesozoic era were not a very ______ group, but paleontologist Zhe-Xi Luo's research suggests that early mammals living in the shadow of dinosaurs weren't all ground-dwelling insectivores. Fossils of various plant-eating mammals have been found in China, including species like Vilevolodon diplomylos, which Luo says could glide like a flying squirrel.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "predatory",
+      "B": "obscure",
+      "C": "diverse",
+      "D": "localized"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text's discussion of the kinds of mammals alive during the Mesozoic era. As used in this context, \"diverse\" means to have a significant amount of variety. The text indicates that some scientists have suggested that Mesozoic mammals can't be characterized in a certain way, then contrasts the view put forward by those scientists with Luo's research, which shows that Mesozoic mammals \"weren't all ground-dwelling insectivores\" and instead were \"various.\" This context suggests that some scientists have viewed Mesozoic mammals as being all alike, or not a very diverse group.\n\nChoice A is incorrect because it wouldn't make sense to say that some scientists have suggested that Mesozoic mammals weren't very \"predatory,\" or that they didn't prey on other animals, since the text establishes a contrast between what some scientists have suggested and Luo's research showing that Mesozoic mammals \"weren't all ground-dwelling insectivores.\" This context suggests that some scientists have regarded Mesozoic mammals as all being insectivores, or animals that prey on insects, not that some scientists have suggested that Mesozoic mammals didn't prey on other animals. Choice B is incorrect because it wouldn't make sense to say that some scientists have suggested that Mesozoic mammals weren't very \"obscure,\" or concealed or not well known, since the text establishes a contrast between what some scientists have suggested and Luo's research showing that Mesozoic mammals were a varied group. There's no contrast between saying that the mammals weren't concealed or well known and the mammals being varied. Choice D is incorrect because it wouldn't make sense to say that some scientists have suggested that Mesozoic mammals weren't very \"localized,\" or confined to a particular area, since the text establishes a contrast between what some scientists have suggested and Luo's research showing that Mesozoic mammals were a varied group. There's no contrast between saying that the mammals weren't localized and the mammals being varied. Although the text mentions mammal fossils found in China, nothing in the discussion of Luo's research addresses the limits of Mesozoic mammal habitats."
+  },
+  {
+    "question_id": "c9740864",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Following the principles of community-based participatory research, tribal nations and research institutions are equal partners in health studies conducted on reservations. A collaboration between the Crow Tribe and Montana State University ______ this model: tribal citizens worked alongside scientists to design the methodology and continue to assist in data collection.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "circumvents",
+      "B": "eclipses",
+      "C": "fabricates",
+      "D": "exemplifies"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most logically completes the text's discussion of the collaboration between the Crow Tribe and Montana State University. As used in this context, \"exemplifies\" means demonstrates. The text conveys how the Crow Tribe–Montana State University collaboration serves to illustrate the model of community-based participatory research introduced earlier in the text and expanded on later in the text.\n\nChoice A is incorrect because referring to \"circumvents,\" or avoids, wouldn't make sense in context. The text suggests that the Crow Tribe–Montana State University collaboration serves as an example of the principles of community-based participatory research, not that the collaboration evades this model. Choice B is incorrect because referring to \"eclipses,\" or overshadows, wouldn't make sense in context. The text describes the Crow Tribe–Montana State University collaboration as an equal partnership, which indicates that it's an example of the community-based participatory research model, not that it overshadows the model. Choice C is incorrect because saying that the collaboration \"fabricates,\" or creates, the model wouldn't make sense in context. The text indicates that the Crow Tribe–Montana State University collaboration serves as an example of the model, not that it created the model."
+  },
+  {
+    "question_id": "21188a4a",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Businesses typically try to promote themselves, but research by Michael Luca, Abhishek Nagaraj, and Gauri Subramani suggests that some do not ______ their marketing. The researchers studied restaurants in Texas and found that those listed on a popular review website (which can be done at no cost) had revenue increases of 5 percent on average, but 33 percent of restaurants studied never listed on the site.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "adorn",
+      "B": "optimize",
+      "C": "endorse",
+      "D": "counteract"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text's discussion of business marketing practices. In this context, \"optimize\" means make the most effective possible use of available opportunities. The text indicates that though businesses typically try to promote themselves, they don't always make use of effective tools for doing so, pointing to research showing that 33 percent of restaurants failed to use a free listing service that increased revenue by 5 percent on average for restaurants that did use the service. The text therefore suggests that by foregoing a free and effective marketing tool, some businesses aren't making the best use of, or optimizing, marketing opportunities.\n\nChoice A is incorrect because in this context, \"adorn\" would mean decorate or enhance the appearance of, and there's nothing in the text to suggest that by failing to use a free and effective promotional tool, some businesses aren't enhancing the appearance of their own marketing. The example in the text illustrates that some businesses aren't utilizing an effective marketing opportunity, not that they aren't improving the appearance of their marketing. Choice C is incorrect because in this context, \"endorse\" would mean openly approve or recommend, and the text's discussion of the fact that some businesses have overlooked an effective marketing tool doesn't support the idea that those businesses therefore don't approve of their own marketing. Choice D is incorrect because in this context, saying that businesses don't \"counteract\" their marketing would suggest that they don't actively undermine it or make it ineffective. The text begins by stating that businesses typically try to promote themselves but then continues to imply that some businesses fail to take advantage of good opportunities to do so, citing the example of businesses that failed to use a free and effective marketing tool. Though it's possible that those businesses that did use the site therefore didn't unintentionally counteract their own marketing, the first sentence conveys that the text's focus is on things that some businesses do and that some businesses don't do when trying to promote themselves, and it wouldn't make sense to say that any businesses would actively try to undermine their own marketing in pursuit of that goal."
+  },
+  {
+    "question_id": "7846158d",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Reyna Grande's 2012 memoir The Distance Between Us. In the text, Grande reflects on a time when she and her older sister Mago were children. A Barbie is a type of doll.\n\nI begged Mago to come play with me. She wasn't as interested in my Barbie as she had been just two months before, which made me sad because that was the only thing Mago had envied me for. Usually, it was me doing the envying. After I pestered her relentlessly, she finally put her notebook down and came over to me.",
+    "question_text": "Which choice best describes the function of the underlined portion in the text?",
+    "options": {
+      "A": "It indicates Grande's unhappiness over Mago's disinterest in Grande's doll.",
+      "B": "It expresses Grande's anger over Mago's refusal to spend time with her.",
+      "C": "It presents an example of how Mago and Grande generally played together as children.",
+      "D": "It provides a reason for why Mago is unwilling to play with Grande."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer because it most accurately describes the function of the underlined portion in the text. The underlined portion (\"which made me sad because that was the only thing Mago had envied me for\") directly expresses Grande's unhappiness about her sister's diminished interest in her Barbie doll. The underlined text specifically identifies that Grande feels sad and explains why Mago's disinterest particularly affects her—because it was the one rare instance where her older sister had envied her, rather than the reverse.\n\nChoice B is incorrect because the underlined portion expresses sadness, not anger. Although there is some correspondence between the emotions anger and envy and the text does indicate that Grande usually envies her sister, the underlined portion states that Grande feels sad about Mago's disinterest in Grande's Barbie, not angry about Mago's refusal to spend time with her. Choice C is incorrect. While the first part of the sentence that contains the underlined portion indicates that Mago has previously taken an interest in Grande's Barbie, implying that the sisters may regularly have played with the Barbie together in the past, the underlined portion doesn't provide an example of this. The underlined portion instead explains why Mago's recently developed disinterest in the Barbie saddens Grande. Choice D is incorrect because neither the underlined portion nor the text as a whole explains why Mago is unwilling to play with Grande. Rather than addressing Mago's motivation or reasoning, the underlined portion describes Grande's emotional reaction to Mago's disinterest in Grande's Barbie and explains why this lack of interest matters to Grande."
+  },
+  {
+    "question_id": "9c607676",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nGrowth in the use of novel nanohybrids—materials created from the conjugation of multiple distinct nanomaterials, such as iron oxide and gold nanomaterials conjugated for use in magnetic imaging—has outpaced studies of nanohybrids' environmental risks. Unfortunately, risk evaluations based on nanohybrids' constituents are not reliable: conjugation may alter constituents' physiochemical properties such that innocuous nanomaterials form a nanohybrid that is anything but.\n\nText 2\nThe potential for enhanced toxicity of nanohybrids relative to the toxicity of constituent nanomaterials has drawn deserved attention, but the effects of nanomaterial conjugation vary by case. For instance, it was recently shown that a nanohybrid of silicon dioxide and zinc oxide preserved the desired optical transparency of zinc oxide nanoparticles while mitigating the nanoparticles' potential to damage DNA.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely respond to the assertion in the underlined portion of Text 1?",
+    "options": {
+      "A": "By concurring that the risk described in Text 1 should be evaluated but emphasizing that the risk is more than offset by the potential benefits of nanomaterial conjugation",
+      "B": "By arguing that the situation described in Text 1 may not be representative but conceding that the effects of nanomaterial conjugation are harder to predict than researchers had expected",
+      "C": "By denying that the circumstance described in Text 1 is likely to occur but acknowledging that many aspects of nanomaterial conjugation are still poorly understood",
+      "D": "By agreeing that the possibility described in Text 1 is a cause for concern but pointing out that nanomaterial conjugation does not inevitably produce that result"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The author of Text 2 acknowledges that nanohybrids may be more toxic than their constituent parts, but also provides an example of a nanohybrid that has reduced toxicity compared to its components: silicon dioxide and zinc oxide together have all the benefits of zinc oxide nanoparticles without any of the DNA harm zinc oxide has on its own.\n\nChoice A is incorrect. While the author of Text 2 gives an example of a nanohybrid that isn't as toxic as its constituent parts, they don't argue that the benefit outweighs the risk. They merely argue that \"the effects of nanomaterial conjugation vary by case.\" Choice B is incorrect. The author of Text 2 states that the effects of nanomaterial conjugation \"vary by case,\" and that the attention that their potential toxicity has drawn is warranted. If the situation in Text 1 weren't representative, then there would be less attention to the potential danger of these materials. Furthermore, neither passage suggests that researchers had expected that they could predict the effects of nanomaterial conjugation. Choice C is incorrect. The author of Text 2 agrees that the potential toxicity of nanohybrids \"has drawn deserved attention,\" so they aren't denying the problem."
+  },
+  {
+    "question_id": "edabd538",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Cat and Plum Blossoms is an important work of Nihonga, or classical Japanese painting. Unlike Kuroda Seiki, who adopted traditional European methods such as painting with oil on canvas, Hishida Shunsō ______ traditional Japanese approaches. For instance, Hishida produced Cat and Plum Blossoms by applying color pigments to a silk scroll.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "distrusted",
+      "B": "embraced",
+      "C": "released",
+      "D": "overlooked"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text's discussion of Hishida Shunsō's painting Cat and Plum Blossoms. In this context, \"embraced\" means accepted or adopted readily. The text begins by identifying Cat and Plum Blossoms as an example of Nihonga, or classical (that is, traditional) Japanese painting. The text continues by drawing a contrast between Hishida's work and Kuroda Seiki's work, which differs from that of Hishida in its use of the traditional European method of using oil paints on canvas rather than using traditional Japanese approaches. The text then concludes with an example of one such traditional Japanese painting technique exemplified by Hishida's Cat and Plum Blossoms—applications of color pigments to a silk scroll—to further develop the contrast between the two artists' approaches. This context supports the idea that Hishida adopted, or embraced, traditional Japanese approaches.\n\nChoice A is incorrect because in this context \"distrusted\" would mean that Hishida was skeptical of or lacked confidence in traditional Japanese approaches to painting. The text begins by stating that Hishida's painting Cat and Plum Blossoms is an example of Nihonga, or traditional Japanese painting, and then cites Hishida's application of color pigments to a silk scroll as an instance of a traditional Japanese painting technique. It therefore wouldn't make sense to say that Hishida's use of traditional Japanese painting techniques indicates his distrust, or skepticism, of them. Rather, it suggests that he embraced those techniques. Choice C is incorrect because saying that Hishida \"released\" traditional Japanese approaches to painting in this context would mean that he freed them from any restrictions. In using Hishida's application of color pigments to a silk scroll in Cat and Plum Blossoms as an example of a traditional Japanese approach to painting found in Nihonga, the text strongly implies that Hishida followed these approaches, not that he removed them from any restrictions. Choice D is incorrect because in this context \"overlooked\" would mean ignored or failed to notice. The text establishes that Hishida's painting Cat and Plum Blossoms is a notable work of Nihonga, or classical Japanese painting, that features the traditional technique of applying color pigments to a silk scroll. It wouldn't make sense to say that Hishida's use of a traditional Japanese approach to painting indicates that Hishida failed to notice those approaches."
+  },
+  {
+    "question_id": "dac47b83",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Stephen Hannock's luminous landscape paintings are appealing to viewers but have elicited little commentary from contemporary critics, a phenomenon that may be due to the very fact that the paintings seem so ______. Many critics focus their attention on art that is cryptic or overtly challenging.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "innovative",
+      "B": "subversive",
+      "C": "profound",
+      "D": "accessible"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. When talking about a thing, “accessible” means “easy to understand.” This sets up the contrast in the next sentence, which tells us that critics mostly focus on art that is “cryptic or challenging” (meaning not easy to understand).\n\nChoice A is incorrect. This doesn't fit the logic of the text. The next sentence tells us that critics focus on art that is mysterious and challenging. If Hannock's paintings are “innovative” (meaning advanced and original), then critics probably would comment on them. Choice B is incorrect. This doesn't fit the logic of the text. The next sentence tells us that critics focus on art that is mysterious and challenging. If Hannock's paintings are “subversive” (meaning disruptive and revolutionary), then critics probably would comment on them. Choice C is incorrect. This doesn't fit the logic of the text. The next sentence tells us that critics focus on art that is mysterious and challenging. If Hannock's paintings are “profound” (meaning very deep and insightful), then critics probably would comment on them."
+  },
+  {
+    "question_id": "c014a78c",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In many agricultural environments, the banks of streams are kept forested to protect water quality, but it's been unclear what effects these forests may have on stream biodiversity. To investigate the issue, biologist Xingli Giam and colleagues studied an Indonesian oil palm plantation, comparing the species richness of forested streams with that of nonforested streams. Giam and colleagues found that species richness was significantly higher in forested streams, a finding the researchers attribute to the role leaf litter plays in sheltering fish from predators and providing food resources.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "It discusses research intended to settle a debate about how agricultural yields can be increased without negative effects on water quality.",
+      "B": "It explains the differences between stream-protection strategies used in oil palm plantations and stream-protection strategies used in other kinds of agricultural environments.",
+      "C": "It describes findings that challenge a previously held view about how fish that inhabit streams in agricultural environments attempt to avoid predators.",
+      "D": "It presents a study that addresses an unresolved question about the presence of forests along streams in agricultural environments."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The author first describes an unresolved question: what effect do bank forests have on stream biodiversity? Then the author presents a study that answers the question: bank forests increase stream biodiversity.\n\nChoice A is incorrect. This isn't the main purpose of the text. The text never mentions agricultural yields. Choice B is incorrect. This isn't the main purpose of the text. The text never mentions other kinds of agricultural environments. Choice C is incorrect. This isn't the main purpose of the text. The text never mentions any previously held view about how fish in these streams try to avoid predators."
+  },
+  {
+    "question_id": "8996e8a7",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "British painter Peter Edwards has a ______ painting portraits of notable figures from a variety of different fields. These characteristic works include his esteemed portraits of poet Wendy Cope and soccer player and coach Ryan Griggs.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "complaint about",
+      "B": "reputation for",
+      "C": "question about",
+      "D": "requirement for"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text's discussion of Peter Edwards as a portrait painter. In this context, having a \"reputation for\" something means that one is widely recognized for being associated with a particular activity. The text indicates that Edwards has created \"characteristic works\" including \"esteemed portraits\" of notable figures, suggesting he is known and respected for this type of painting. This choice clearly indicates that Edwards has established recognition or fame specifically in connection with painting portraits of well-known individuals.\n\nChoice A is incorrect because the text presents Edwards's portrait painting in a positive manner, describing his works as \"esteemed.\" In this context, \"complaint about\" would mean dissatisfaction or grievance regarding the activity of painting portraits, which contradicts the positive characterization of Edwards's work. Nothing in the text suggests that Edwards has expressed any dissatisfaction with or objection to painting portraits of notable figures. Choice C is incorrect because the text gives no indication that Edwards has a \"question about\" painting portraits, which in this context would mean uncertainty or doubt regarding this activity. Instead, the text presents Edwards as someone who has already created multiple portrait works described as \"characteristic\" and \"esteemed,\" suggesting established practice rather than uncertainty. The mention of specific examples of his portrait work further demonstrates that he is not questioning his portrait painting. Choice D is incorrect because the text does not suggest that Edwards has a \"requirement for\" painting portraits, which in this context would mean a mandatory obligation or necessary condition. Instead, the text indicates that portrait painting is something Edwards is known for doing well, not something he is obligated to do. The text describes his portrait work as \"characteristic,\" suggesting it's a defining feature of his artistic practice rather than an externally imposed requirement."
+  },
+  {
+    "question_id": "2f887164",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Virginia Woolf's 1919 novel Night and Day. The text describes a gathering of young artists and intellectuals.\n\nOne person after another rose, and, as with an ill-balanced axe, attempted to hew out his conception of art a little more clearly, and sat down with the feeling that, for some reason which he could not grasp, his strokes had gone awry. As they sat down they turned almost invariably to the person sitting next them, and rectified and continued what they had just said in public.",
+    "question_text": "Which choice best describes the function of the underlined portions in the text as a whole?",
+    "options": {
+      "A": "To demonstrate individuals' puzzlement over the reputation of a certain artwork",
+      "B": "To highlight the physical effort involved in individuals' construction of large-scale works of art",
+      "C": "To draw attention to individuals' discontent with the group's conversation about art",
+      "D": "To emphasize the extent of individuals' struggles to articulate thoughts on art"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most accurately describes the function of the underlined portions in the text as a whole. The underlined portions describe the young artists and intellectuals at the gathering as trying to \"hew out,\" or give shape to, their views of art more clearly, but with each seeming to be using \"an ill-balanced axe\" and then feeling that the \"strokes had gone awry.\" In context, the metaphorical language comparing attempts to refine concepts of art to imprecisely cutting wood with an inadequate axe serves to emphasize how much the individuals at the gathering struggled to articulate, or express, their thoughts; indeed, the text explains that the individuals couldn't quite grasp why their statements had gone awry and tended to try to rectify, or correct, them in continued discussion after they sat down.\n\nChoice A is incorrect because the underlined portions characterize aspects of the young artists and intellectuals' attempts to present their general views of art more clearly, not their views of the reputation of a certain artwork; the text never mentions any specific artwork or its reputation. Choice B is incorrect. Although the underlined portions refer to a physical activity—cutting wood with an axe—the descriptions are metaphorical rather than literal. The text isn't describing people constructing works of art, large scale or otherwise; rather, it's describing people talking at a gathering, using the idea of imprecisely cutting wood with an inadequate axe to suggest that each individual struggled when trying to present their view of art more clearly. Choice C is incorrect. Although the underlined portions do provide a reason for the young artists and intellectuals' discontent, the text focuses on the fact that they were each dissatisfied with their own statements, not on how they felt about the group's full conversation about art. Instead, the text explains that each individual tried to present their view of art more clearly but struggled (as if imprecisely cutting wood with an inadequate axe), couldn't grasp what went awry, and then felt the need to rectify, or correct, what they had just said. It's possible that the individuals were also discontented with the group's conversation overall, but neither the underlined portions nor the text as a whole suggest that."
+  },
+  {
+    "question_id": "e2666b77",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Srimati Svarna Kumari Devi's 1894 novel The Fatal Garland (translated by A. Christina Albers in 1910). Shakti is walking near a riverbank that she visited frequently during her childhood.\n\nShe crossed the woods she knew so well. The trees seemed to extend their branches like welcoming arms. They greeted her as an old friend. Soon she reached the river-side.",
+    "question_text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+    "options": {
+      "A": "It suggests that Shakti feels uncomfortable near the river.",
+      "B": "It indicates that Shakti has lost her sense of direction in the woods.",
+      "C": "It emphasizes Shakti's sense of belonging in the landscape.",
+      "D": "It conveys Shakti's appreciation for her long-term friendships."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The first sentence of the text states that Shakti knows the woods she is walking in well. The next sentence, which is underlined, emphasizes Shakti's familiarity with, and sense of security within, the woods by describing how the tree branches are friendly and “welcoming,” as they are depicted as extending open arms to her. The remainder of the text also shows that Shakti is comfortable and content in the woods by describing her as “an old friend” of the trees. Thus, the function of the underlined portion is to emphasize Shakti's sense of belonging in the wooded landscape that she visits.\n\nChoice A is incorrect because the text and underlined portion suggest that Shakti is comfortable, not uncomfortable, in her surroundings: the trees around her are described as welcoming and reassuring. Moreover, the underlined portion discusses Shakti's feelings in the forest, not the river, since she hasn't reached the river yet. Choice B is incorrect because the text and underlined portion emphasize Shakti's familiarity with the woods. The trees are inviting, and she feels like “an old friend” to the woods, so she isn't lost or confused there. Choice D is incorrect because the third sentence uses the phrase “as an old friend” figuratively in reference to Shakti's sense of familiarity with the landscape, not in reference to her long-standing friendships with other people, and the text and underlined portion never discuss her feelings about such friendships."
+  }
+]

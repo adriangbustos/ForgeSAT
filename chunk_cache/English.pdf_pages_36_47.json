@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "ed043939",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Boldly mixing elements of poetry, fiction, drama, philosophy, and manifesto, Puerto Rican writer Giannina Braschi creates cross-genre literature that explores themes such as immigration and independence. Her works have inspired responses from individuals across different fields and in a wide range of formats, from musical compositions and a comic book to architecture and furniture design. In an essay, a student asserts that the production of these diverse creations by others is reflective of Braschi’s own approach to crafting literature.",
+    "question_text": "Which quotation from a scholarly review of Braschi’s work best supports the student’s claim?",
+    "options": {
+      "A": "“Braschi is the focus of a 2020 collection of essays in which fifteen scholars from seven different countries delved into the linguistic and structural patterns of her writings.”",
+      "B": "“Braschi’s eagerness to push boundaries and blend genres within literature invites us to consider how other art forms might also engage with literature.”",
+      "C": "“Before settling in New York City, where she would go on to become a college professor, Braschi studied both literature and philosophy in several cities around the world.”",
+      "D": "“In addition to her creative literary works, Braschi has produced academic pieces analyzing writings by Miguel de Cervantes, Federico García Lorca, and other authors.”"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents the quotation that best supports the student’s claim about Braschi. By describing how Braschi’s blending of genres invites her audience to think about how other art forms could also engage with literature, the quotation supports the idea that the diversity of responses to Braschi’s work reflects Braschi’s own approach to crafting literature. Choice A is incorrect because the quotation describes scholars from different countries writing essays about Braschi’s use of language in her writings; it doesn’t address how Braschi’s creation of cross-genre literature inspires diverse types of responses, which is the claim the student makes. Choice C is incorrect because the quotation focuses on the fact that Braschi studied in several different cities, which doesn’t address the student’s claim that Braschi’s creation of cross-genre literature inspires diverse types of responses. Choice D is incorrect because the quotation lists some of the authors who Braschi has written academic works about, which is irrelevant to the student’s claim that Braschi’s creation of cross-genre literature inspires diverse types of responses."
+  },
+  {
+    "question_id": "3acc2d54",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "“When Dawn Comes to the City” is a 1922 poem by Claude McKay, who immigrated to the United States from the island nation of Jamaica as an adult. The poem conveys McKay’s contrasting feelings about New York City—his adopted home in the US—and his home country: ______",
+    "question_text": "Which quotation from “When Dawn Comes to the City” most effectively illustrates the claim?",
+    "options": {
+      "A": "“A lonely newsboy hurries by, / Humming a recent ditty; / Red streaks strike through the gray of the sky, / The dawn comes to the city [New York City].”",
+      "B": "“Dark figures start for work; / I watch them sadly shuffle on, / ’Tis dawn, dawn in New York. / But I would be on the island of the sea, / In the heart of the island of the sea.”",
+      "C": "“And the shaggy Nannie goat is calling, calling, calling / From her little trampled corner of the long wide lea / That stretches to the waters of the hill-stream falling / Sheer upon the flat rocks joyously!”",
+      "D": "“The tired cars go grumbling by, / The moaning, groaning cars, / And the old milk carts go rumbling by / Under the same dull stars.”"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it presents a quotation illustrating the claim that the poem conveys McKay’s contrasting feelings about New York City and Jamaica. McKay first presents a somewhat negative view of New York City, describing watching “dark figures” who “sadly shuffle” to work at dawn, and then indicates that he would instead like to be “in the heart of the island of the sea.” Choice A is incorrect because the quotation focuses on a description of only one place (New York City, with its “lonely newsboy” and “red streaks” in the sky at dawn) rather than on different feelings about two places. Choice C is incorrect because the quotation focuses on a description of only one place (which isn’t named) rather than on McKay’s different feelings about two places. Choice D is incorrect because though McKay presents a negative image of an unnamed place with “tired cars” that grumble, moan, and groan, and “old milk carts” that rumble by under “dull stars,” the quotation focuses on McKay’s feelings about only one place rather than on different feelings about two places."
+  },
+  {
+    "question_id": "d1dbfd19",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Many trees produce growth rings as they age, with each ring in a tree’s trunk representing one year in the tree’s life. This often makes it fairly easy to determine how old a tree was when it was cut down. To do so, you look at the tree stump and count the dark rings you see. But a researcher claims that this method often can’t be used to identify the age of olive trees.",
+    "question_text": "Which detail, if true, would most directly support the researcher’s claim?",
+    "options": {
+      "A": "The oldest olive tree in the world is likely over 1,100 years old.",
+      "B": "Narrow growth rings can suggest that an olive tree experienced harsh conditions.",
+      "C": "Many olive trees have growth rings that are difficult to see.",
+      "D": "Olive trees thrive in areas with hot, dry summers."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it presents a detail that, if true, would most directly support the researcher’s claim about the difficulty of determining olive tree age by ring counting. The text explains that for many trees, counting the dark rings visible in a tree stump is a reliable method for determining the tree’s age. However, if olive trees have growth rings that are difficult to see, it would be hard to count the individual rings. Therefore, the ring-counting method would be challenging or impossible to use for olive trees. This directly supports the researcher’s claim that the ring-counting method often can’t be used for olive trees because it identifies a specific characteristic of olive trees that could render this approach impracticable. Choice A is incorrect because the probable age of the oldest olive tree doesn’t explain why counting rings wouldn’t work for determining olive tree age. Choice B is incorrect because narrow growth rings indicating harsh conditions has no direct bearing on the claim that counting rings often can’t be used. Choice D is incorrect because ideal climate conditions don’t explain why counting rings wouldn’t work."
+  },
+  {
+    "question_id": "a380e0c7",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Bicycles were first mass-produced in the late nineteenth century throughout Europe and North America, allowing individuals remarkable freedom to travel longer distances quickly and comfortably. This freedom, coupled with the affordability of the vehicle, made the bicycle immensely popular. Individuals were able to live farther from their workplaces, easily visit neighboring towns, and participate in new leisure and sport activities. Bicycling quickly became a popular social endeavor, with enthusiasts forming local cycling clubs to enjoy these newfound activities with others.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "The widespread adoption of the bicycle in the late nineteenth century provided new opportunities for people.",
+      "B": "The affordability of the bicycle in the late nineteenth century made it the preferred way to travel.",
+      "C": "The popularity of the bicycle in the late nineteenth century gave rise to the first cycling clubs.",
+      "D": "The mass production of the bicycle in the late nineteenth century made it safer for people to use."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text discusses how the mass production of bicycles in the late nineteenth century allowed people to travel longer distances, live farther from their workplaces, visit neighboring towns, and participate in new activities and social clubs. All of these are new opportunities that were provided by the widespread adoption of the bicycle. Choice B is incorrect. The text never says this. Choice C is incorrect. This is a detail mentioned in the text, but not the main idea. Choice D is incorrect. The text never says this and doesn't mention safety."
+  },
+  {
+    "question_id": "26267909",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "One aspect of in-person shopping that online shopping can’t replicate is the opportunity to touch a product before buying it. Does this difference matter? In an experiment, researchers asked one group of participants to touch a mug and a toy, while another group was prohibited from touching the two items. The participants were then asked how much money they’d pay for the items. People who got to touch the items were willing to pay much more money for them than were people who weren’t allowed to touch the items. This finding suggests that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "people who mainly shop online probably spend more money every month than people who mainly shop in person do.",
+      "B": "in-person shopping may make products seem more valuable than they seem if only viewed online.",
+      "C": "retailers with in-person and online stores should charge the same price for a given product in both places.",
+      "D": "online retailers may be able to raise the prices they charge for products that are only available online."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text tells us that “people who got to touch the items were willing to pay much more money for them than people who weren’t allowed to touch” them. This suggests that being able to interact with a product in person may make it seem more valuable to a shopper. Choice A is incorrect because the text doesn’t discuss how much people spend each month. Choice C is incorrect because the text doesn't discuss what retailers should charge. Choice D is incorrect because the text doesn't discuss products only available online."
+  },
+  {
+    "question_id": "b7c5b4e4",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Shimmering is a collective defense behavior that researchers have observed in giant honeybee colonies. When shimmering, different groups of bees flip their bodies up and down in what looks like waves. This defense is initiated when hornets hover near a colony, serving to deter the hornets from approaching the bees. Researchers hypothesize that this behavior is a specialized defense response to hornets, as it is not observed when other, larger predators approach the colony.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Researchers are unsure how giant honeybees defend against predators larger than hornets.",
+      "B": "Researchers think that shimmering in giant honeybees is a specific defense against hornets.",
+      "C": "Hornets are known to be the main predator of giant honeybees.",
+      "D": "Several different species of insects use shimmering to defend against hornets."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text describes a study about how giant honeybees use shimmering to defend against hornets, but not other predators. The researchers conclude that shimmering could be a specialized defense response to hornets. Choice A is incorrect because the text doesn't suggest researchers don't know other defenses. Choice C is incorrect because hornets are not said to be the main predator. Choice D is incorrect because the text only discusses giant honeybees."
+  },
+  {
+    "question_id": "e3b5bb66",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The most recent iteration of the immersive theater experience Sleep No More, which premiered in New York City in 2011, transforms its performance space—a five-story warehouse—into a 1930s-era hotel. Audience members, who wander through the labyrinthine venue at their own pace and follow the actors as they play out simultaneous, interweaving narrative loops, confront the impossibility of experiencing the production in its entirety. The play’s refusal of narrative coherence thus hinges on the sense of spatial fragmentation that the venue’s immense and intricate layout generates.",
+    "question_text": "What does the text most strongly suggest about Sleep No More’s use of its performance space?",
+    "options": {
+      "A": "The choice of a New York City venue likely enabled the play’s creators to experiment with the use of theatrical space in a way that venues from earlier productions could not.",
+      "B": "Audience members likely find the experience of the play disappointing because they generally cannot make their way through the entire venue.",
+      "C": "The production’s dependence on a particular performance environment would likely make it difficult to reproduce exactly in a different theatrical space.",
+      "D": "Audience members who navigate the space according to a recommended itinerary will likely have a better grasp of the play’s narrative than audience members who depart from that itinerary."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text says that the production’s use of its large, winding space has a very specific effect on the audience. Given that the space itself is so important to creating this effect, it would be difficult to reproduce the production in a different space. Choice A is incorrect because the New York City location isn't connected to the experimental nature. Choice B is incorrect because audience members aren't necessarily disappointed. Choice D is incorrect because the text doesn't mention a recommended itinerary."
+  },
+  {
+    "question_id": "bbd93b0f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for medium-sized vortices, fish with wide heads would be least able to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, wider-headed fish will be less likely than narrower-headed fish to detect obstructions.",
+    "question_text": "Which finding, if true, would most directly support the second research team’s hypothesis?",
+    "options": {
+      "A": "A study using obstructions that created medium-sized vortices in low-visibility conditions found that the bristlemouth (Chaetostoma yurubiense), which has a relatively wide head, bumped into more than half of the obstructions.",
+      "B": "A study using obstructions that created medium-sized vortices in low-visibility conditions found that some specimens of dusky smooth-hound (Mustelus canis), which has a relatively narrow head, bumped into the obstructions more often than other specimens of the same fish did.",
+      "C": "A study using obstructions that created medium-sized vortices in low-visibility conditions found that the wider-headed bristlemouth (Chaetostoma yurubiense) bumped into obstructions more often than the narrower-headed dusky smooth-hound (Mustelus canis) did.",
+      "D": "A study using obstructions that created medium-sized vortices in low-visibility conditions found that the narrower-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions just as often as the wider-headed bristlemouth (Chaetostoma yurubiense) did."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support the second research team’s hypothesis about how a fish’s head shape affects the fish’s ability to detect obstructions. The text explains that fish detect obstructions using water vortices and that testing showed wide-headed fish struggle to distinguish medium-sized vortices from general turbulence. The finding that wider-headed bristlemouth fish bumped into obstructions more often than narrower-headed dusky smooth-hound fish did under the specified conditions directly supports the second team’s hypothesis. Choice A is incorrect because it provides no comparison with narrow-headed fish. Choice B is incorrect because it examines variation within a single narrow-headed species. Choice D is incorrect because equal bumping rates would contradict the hypothesis."
+  },
+  {
+    "question_id": "84b290f2",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In vertical inheritance, parents pass genes to their offspring, but in horizontal transfer (HT), one species, often bacteria, passes genetic material to an unrelated species. In a 2022 study, herpetologist Atsushi Kurabayashi and his team investigated HT in multicellular organisms—namely, snakes and frogs in Madagascar. The team detected BovB—a gene transmitted vertically in snakes—in many frog species. The apparent direction of gene transfer seems counterintuitive because frogs usually don’t survive encounters with snakes and so wouldn’t be able to transmit the newly acquired gene to offspring, but the team concluded that BovB is indeed transmitted from snakes to frogs, either directly or indirectly, via HT.",
+    "question_text": "Which finding, if true, would most directly support the team’s conclusion?",
+    "options": {
+      "A": "BovB can be transmitted across frog species through HT.",
+      "B": "Parasites known to feed on species of snakes and frogs in which the BovB gene occurs also carry BovB.",
+      "C": "BovB cannot be reliably transmitted from a snake species to bacteria that are usually encountered by frog species.",
+      "D": "Frog species with BovB show few discernible advantages as compared with frog species that do not carry BovB."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. If there are parasites that feed on both snakes and frogs, they could carry BovB from snakes to frogs. HT could occur “indirectly” through those encounters, which frogs are more likely to survive than snake encounters. Choice A is incorrect because it doesn't mention snakes. Choice C discusses a scenario where the gene is not transmitted. Choice D discusses advantages, which is not relevant to how the gene is transmitted."
+  },
+  {
+    "question_id": "f318b9c5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Just Patty is a 1911 novel by Jean Webster. Patty and her friends have just been informed that they will no longer be roommates while at school. Patty talks to Mrs. Trent, the head of the school, about the situation. The narrator presents Patty as trying hard to convince Mrs. Trent to allow the group to continue sharing a room: ______",
+    "question_text": "Which quotation from Just Patty most effectively illustrates the claim?",
+    "options": {
+      "A": "“[Mrs. Trent’s] lips twitched. It was a fact, deplored by her assistants, that her sense of humour frequently ran away with her sense of justice.”",
+      "B": "“[Mrs. Trent] nodded dismissal, and the three of them found themselves in the hall again. They looked at one another for a moment of blank silence.”",
+      "C": "“Patty’s eyes suddenly brightened. She seized [her friends] by [the] elbow and shoved them into the empty schoolroom.”",
+      "D": "“Patty did use all the diplomacy at her command. Having dwelt touchingly upon their long friendship, and their sorrow at being separated, she passed lightly to the matter of their new roommates.”"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because the quotation directly illustrates Patty trying hard to convince Mrs. Trent to allow the group to continue sharing a room. The phrase 'Patty did use all the diplomacy at her command' explicitly shows her making a determined effort to be persuasive. Choice A is incorrect because it focuses on Mrs. Trent's character traits rather than Patty's efforts. Choice B is incorrect because it describes the reaction after the encounter. Choice C is incorrect because it does not show Patty trying to convince Mrs. Trent."
+  },
+  {
+    "question_id": "d54126ab",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Ecologist Veronika Bókony and colleagues investigated within-species competition among common toads (Bufo bufo), a species that secretes various unpleasant-tasting toxins called bufadienolides in response to threats. The researchers tested B. bufo tadpoles’ responses to different levels of competition by creating ponds with different tadpole population densities but a fixed amount of food. Based on analysis of the tadpoles after three weeks, the researchers concluded that increased competition drove bufadienolide production at the expense of growth.",
+    "question_text": "Which choice uses data from the table to most effectively support the researchers’ conclusion?",
+    "options": {
+      "A": "The difference in average tadpole body mass was small between the low and medium population density conditions and substantially larger between the low and high population density conditions.",
+      "B": "Tadpoles in the low and medium population density conditions had substantially lower average bufadienolide concentrations but had greater average body masses than those in the high population density condition.",
+      "C": "Tadpoles in the high population density condition displayed a relatively modest increase in the average amount of bufadienolide but roughly double the average bufadienolide concentration compared to those in the low population density condition.",
+      "D": "Tadpoles produced approximately the same number of different bufadienolide toxins per individual across the population density conditions, but average tadpole body mass decreased as population density increased."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. This data shows that the tadpoles in the high-density pond (meaning those with the most competition) didn’t grow as big as the other two groups but produced more bufadienolide. Choice A is incorrect because it doesn't include bufadienolide production. Choice C is incorrect because it doesn't include growth data. Choice D is incorrect because it doesn't demonstrate that tadpoles in the high-density pond produced more bufadienolide overall."
+  }
+]

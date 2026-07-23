@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "f1341fe1",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Many governments that regularly transfer money to individuals—to provide supplemental incomes for senior citizens, for example—have long done so electronically, but other countries typically have distributed physical money and have only recently developed electronic transfer infrastructure. Researchers studied the introduction of an electronic transfer system in one such location and found that recipients of electronic transfers consumed a different array of foods than recipients of physical transfers of the same amount did. One potential explanation for this result is that individuals conceive of and allocate funds in physical money differently than they conceive of and allocate funds in electronic form.",
+    "question_text": "Which finding from the study, if true, would most directly weaken the potential explanation?",
+    "options": {
+      "A": "Recipients of electronic transfers typically spent their funds at a slower rate than recipients of physical transfers did.",
+      "B": "Nearly every recipient of an electronic transfer withdrew the entire amount in physical money shortly after receiving the transfer.",
+      "C": "Recipients of physical transfers tended to purchase food about as frequently as recipients of electronic transfers did.",
+      "D": "Some recipients of physical transfers received small amounts of money relatively frequently, while others received large amounts relatively infrequently."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. This would weaken the explanation. If the recipients of electronic money immediately withdrew it all as physical money, then both kinds of recipients ended up spending physical money on food. So there must be some other explanation why those who initially received electronic money ate different kinds of food. Choice A is incorrect. This wouldn't weaken the explanation. If anything, it actually supports it: it demonstrates that recipients of electronic money and recipients of physical money have different spending habits. Choice C is incorrect. This wouldn't weaken the explanation. The explanation we're testing this choice against is about the way that people might \"conceive of and allocate\" physical and electronic funds differently. This choice only focuses on the timing, not what they spend the money on. Choice D is incorrect. This would have no impact on the explanation. It doesn't tell us anything about possible differences between the spending habits of those who spend physical money and those who spend money electronically."
+  },
+  {
+    "question_id": "fb75c2e6",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Millions of Metric Tons of Copper Mined in 1995 and 2020\n\n| Country | 1995 | 2020 |\n|---|---|---|\n| Canada | 0.73 | 0.59 |\n| Indonesia | 0.44 | 0.51 |\n| Kazakhstan | 0.26 | 0.55 |\n| Chile | 2.49 | 5.73 |",
+    "question_text": "While doing research for a paper about copper mining, a student finds a table with information about four different countries. The student notes that the country that mined $0.55$ million metric tons of copper in $2020$ had mined ______",
+    "options": {
+      "A": "$0.59$ million metric tons of copper in $1995$.",
+      "B": "$0.44$ million metric tons of copper in $1995$.",
+      "C": "$0.26$ million metric tons of copper in $1995$.",
+      "D": "$2.49$ million metric tons of copper in $1995$."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the statement about copper mining. The table shows the amount of copper mined in each of four countries in $1995$ and $2020$. According to the text, a student who consults the table notes that the country that mined $0.55$ million metric tons of copper in $2020$ had mined a different amount in $1995$. The table indicates that Kazakhstan is the country that mined $0.55$ million metric tons of copper in $2020$ and $0.26$ million metric tons of copper in $1995$. Choice A is incorrect because it doesn't provide the amount of copper mined in $1995$ by Kazakhstan, the country that mined $0.55$ million metric tons of copper in $2020$. According to the table, Canada mined $0.73$ million metric tons of copper in $1995$ and $0.59$ million metric tons in $2020$. It didn't mine $0.55$ million metric tons in either year. Choice B is incorrect because it doesn't provide the amount of copper mined in $1995$ by Kazakhstan, the country that mined $0.55$ million metric tons of copper in $2020$. According to the table, Indonesia mined $0.44$ million metric tons of copper in $1995$ and $0.51$ million metric tons in $2020$. It didn't mine $0.55$ million metric tons in either year. Choice D is incorrect because it doesn't provide the amount of copper mined in $1995$ by Kazakhstan, the country that mined $0.55$ million metric tons of copper in $2020$. According to the table, Chile mined $2.49$ million metric tons of copper in $1995$ and $5.73$ million metric tons in $2020$. It didn't mine $0.55$ million metric tons in either year."
+  },
+  {
+    "question_id": "71e0dd93",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "To investigate the influence of certain estrogen-responsive neurons on energy expenditure, biologist Stephanie Correa et al. treated female and male mice with either saline solution or clozapine-N4-oxide (CNO), which activates the neurons. Monitoring the activity levels of the mice by measuring how frequently the animals broke infrared beams crossing their enclosures, Correa et al. found that the mice in their study showed sex-specific differences in response to neuron activation: ______",
+    "question_text": "Which choice most effectively uses data from the graph to complete the assertion?",
+    "options": {
+      "A": "the four groups of mice differed greatly in their activity levels before treatment but showed identical activity levels at the end of the monitoring period.",
+      "B": "saline-treated females showed substantially more activity at certain points in the monitoring period than saline-treated males did.",
+      "C": "CNO-treated females showed more activity relative to saline-treated females than CNO-treated males showed relative to saline-treated males.",
+      "D": "CNO-treated females showed a substantial increase and then decline in activity over the monitoring period, whereas CNO-treated males showed a substantial decline in activity followed by a steep increase."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The graph shows that the CNO-treated females were way more active than the CNO-treated males, while the saline-treated males and females (the control groups) had very similar activity levels. This supports the claim that there were sex-specific differences in the mice's response to neuron activation. Choice A is incorrect. This choice misreads the graph. All four groups of mice started at nearly the same activity level before treatment (see how all four points are very close together at $-4$ minutes, meaning four minutes before treatment). Choice B is incorrect. This choice doesn't complete the assertion. The assertion is about the mice's response to neuron activation, so we need to include the data about the CNO-treated females and males. Choice D is incorrect. This choice misreads the graph. The line for the CNO-treated males does not show a \"substantial decline\" until around $122$ minutes, and there is no \"steep increase\" afterward."
+  },
+  {
+    "question_id": "e931b2f0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In her $2021$ article \"Throwaway History: Towards a Historiography of Ephemera,\" scholar Anne Garner discusses John Johnson ($1882$–$1956$), a devoted collector of items intended to be discarded, including bus tickets and campaign pamphlets. Johnson recognized that scholarly institutions considered his expansive collection of ephemera to be worthless—indeed, it wasn't until $1968$, after Johnson's death, that Oxford University's Bodleian Library acquired the collection, having grasped the items' potential value to historians and other researchers. Hence, the example of Johnson serves to ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "demonstrate the difficulties faced by contemporary historians in conducting research at the Bodleian Library without access to ephemera.",
+      "B": "represent the challenge of incorporating examples of ephemera into the collections of libraries and other scholarly institutions.",
+      "C": "lend support to arguments by historians and other researchers who continue to assert that ephemera holds no value for scholars.",
+      "D": "illustrate both the relatively low scholarly regard in which ephemera was once held and the later recognition of ephemera's possible utility."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Johnson collected \"ephemera,\" or things that are meant to be thrown away. Scholars thought his collection was worthless to them, then later realized that it was potentially valuable. This suggests that scholars went from disregarding ephemera to recognizing their usefulness. Choice A is incorrect. This inference isn't supported. The text tells us that the Bodleian Library acquired Johnson's large collection of ephemera back in $1968$, so we can assume that contemporary historians conducting research there do have access to that collection. Choice B is incorrect. This inference isn't supported. The text tells us that \"Oxford University's Bodleian Library acquired the collection,\" but it never suggests that it was a challenge to do so. Choice C is incorrect. This inference isn't supported. The text actually suggests the opposite: the example of Johnson's collection lends support to arguments that ephemera does hold value for scholars."
+  },
+  {
+    "question_id": "f7347d3a",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they're in the water, they get almost none. In a study of fur seals' sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study ______",
+    "question_text": "Which choice most effectively uses data from the graph to complete the text?",
+    "options": {
+      "A": "didn't show significantly less REM sleep during the second day after returning to land than they did during the first day.",
+      "B": "showed no significant differences from one another in baseline levels of REM sleep.",
+      "C": "didn't consistently demonstrate a significant increase in REM sleep after their period of deprivation in the water.",
+      "D": "showed no significant difference between REM sleep after returning to land and REM sleep while in the water."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. If REM sleep were homeostatically regulated in fur seals, then all the seals would compensate with REM levels significantly over baseline after going weeks without REM. We'd also expect the seals to maintain those elevated REM levels for some time. Since seals B and C return very quickly to baseline REM levels, this suggests that REM sleep in fur seals may not be regulated homeostatically. Choice A is incorrect. This doesn't support the conclusion. If REM sleep were homeostatically regulated in fur seals, then we'd suspect the seals to sustain REM levels well above baseline for a prolonged period in order to compensate for weeks of REM deprivation while in the water. Whether or not there's a reduction in REM sleep from day 1 to day 2 doesn't tell us how REM sleep on those days relates to baseline, which is where our focus should be. Choice B is incorrect. The y-axis of this graph doesn't depict baseline levels of REM sleep, but rather shows REM sleep as a percent of baseline. Choice D is incorrect. The graph doesn't depict REM sleep while in the water for the seals in the study. Additionally, we're told fur seals get no REM sleep while in the water, which is significantly different to the values shown in the graph for after they return to land."
+  },
+  {
+    "question_id": "cdd766df",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In their $2022$ paper, Christos Dimopoulos et al., having granted that the existence of antigravity—in which antimatter and matter repel rather than attract each other—lacked affirmative experimental support, rightly argued that such antigravity was worth considering on theoretical grounds given that evidence against it was similarly lacking. But a $2023$ report by an international team of researchers details the first direct ballistic observations of antihydrogen atoms under gravity inside a CERN particle accelerator. Corresponding most closely to predictions under gravitational attraction, these observations were thoroughly inconsistent with antigravity.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Antihydrogen ballistics observations were conducted at CERN to test specific conclusions about antigravity presented in the $2022$ paper by Dimopoulos et al.",
+      "B": "Although theoreticians were justified in studying antigravity before the release of the $2023$ report, the report's findings suggest that the rationale for theoretical consideration offered in the $2022$ paper by Dimopoulos et al. is no longer applicable.",
+      "C": "The theoretical approach represented in the $2022$ paper by Dimopoulos et al. assumed that unambiguous proof of antigravity would not be achievable, but the results in the $2023$ report undermine that assumption.",
+      "D": "Before $2023$, researchers' inordinate focus on theoretical considerations hindered the development of the experimental regimen for direct antihydrogen ballistics observations."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most accurately states the main idea of the text. The text begins by acknowledging that in $2022$, Dimopoulos et al. were justified in arguing for antigravity on theoretical grounds because although there was no experimental evidence supporting its existence at that time, there was no evidence contradicting its existence either. The text then introduces the $2023$ report describing an experiment that produced observations \"thoroughly inconsistent with antigravity.\" Thus, the main idea is that while the study of antigravity was theoretically justified before the $2023$ report (due to lack of evidence against it), the report's findings undermine the rationale for such theoretical consideration since there is now evidence against this hypothetical phenomenon. Choice A is incorrect. Although antihydrogen ballistics observations were conducted at CERN, the text provides no evidence that they were conducted to test conclusions in Dimopoulos et al.'s $2022$ paper. Rather, the text presents the $2023$ report as new evidence that contradicts the existence of the hypothetical phenomenon that Dimopoulos et al. had considered. Choice C is incorrect because the text doesn't suggest that Dimopoulos et al. assumed that unambiguous proof of antigravity would be unattainable. Rather, the text states that they argued antigravity was worth considering theoretically because evidence against it was lacking at that time. At the same time, the results in the $2023$ report do not undermine but strengthen the idea that the proof of antigravity might not be achievable. Choice D is incorrect because the text doesn't suggest that there was an \"inordinate focus on theoretical considerations\" before $2023$ or that such a focus hindered the development of experimental methods. In fact, the text describes Dimopoulos et al.'s position regarding the theoretical consideration of antigravity as \"rightly argued,\" indicating approval of their approach given the absence of experimental evidence at that time."
+  },
+  {
+    "question_id": "5f411925",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "\"Ghosts of the Old Year\" is an early $1900\text{s}$ poem by James Weldon Johnson. In the poem, the speaker describes experiencing an ongoing cycle of anticipation followed by regretful reflection: ______",
+    "question_text": "Which quotation from \"Ghosts of the Old Year\" most effectively illustrates the claim?",
+    "options": {
+      "A": "\"What does this brazen tongue declare, / That falling on the midnight air / Brings to my heart a sense of care / Akin to fright?\"",
+      "B": "\"The snow has ceased its fluttering flight, / The wind sunk to a whisper light, / An ominous stillness fills the night, / A pause—a hush.\"",
+      "C": "\"It tells of many a squandered day, / Of slighted gems and treasured clay, / Of precious stores not laid away, / Of fields unreaped.\"",
+      "D": "\"And so the years go swiftly by, / Each, coming, brings ambitions high, / And each, departing, leaves a sigh / Linked to the past.\""
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it presents the quotation that most effectively illustrates the claim that the speaker of the poem describes experiencing an ongoing cycle of anticipation followed by regretful reflection. In this quotation, the speaker notes that as years go by, \"Each, coming\"—that is, each new year as it comes—\"brings ambitions high.\" In other words, the speaker begins each new year with large goals. But the speaker goes on to say that as each year ends (\"each, departing\"), it \"leaves a sigh / Linked to the past.\" A sigh is an expression of longing or regret, so in the context of the whole quotation, this portion suggests that at the end of each year, the speaker regretfully reflects on not having achieved the ambitions formed at the beginning of the year. The phrases \"the years go swiftly by,\" \"Each, coming,\" and \"each, departing\" indicate that this experience happens over and over again: the speaker experiences a cycle of anticipation followed by regretful reflection. Choice A is incorrect because this quotation does not describe an ongoing cycle of anticipation followed by regretful reflection. Instead, the speaker describes experiencing a sensation similar to fright as a result of something that has occurred at midnight. Specifically, the speaker has heard a \"brazen tongue,\" a figurative way of saying that the speaker has heard the clang of a bronze bell being rung. Choice B is incorrect because although this quotation does convey a sense of anticipation through its reference to \"ominous stillness,\" there is no suggestion of regretful reflection or any indication that the speaker is describing an ongoing cycle of anticipation followed by such reflection. Instead, the speaker is describing a particular moment when a winter storm appears to have momentarily calmed. Choice C is incorrect because although this quotation does convey a sense of regret (\"many a squandered day\"), nothing in the quotation suggests an ongoing cycle of anticipation followed by regret. Instead, the speaker is simply lamenting wasted time and opportunities."
+  },
+  {
+    "question_id": "059bfe10",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Oluwaseyi Moejoh cofounded U-recycle Initiative Africa when she was only a teenager. Moejoh and her team founded the organization to teach young people how their actions affect the environment and why recycling is important. For example, the organization put on an exhibit of art made using recycled materials.",
+    "question_text": "According to the text, what is one reason Moejoh and others founded U-recycle Initiative Africa?",
+    "options": {
+      "A": "To bring attention to overlooked African artists",
+      "B": "To teach young people why recycling is important",
+      "C": "To help adults gain important outdoor skills",
+      "D": "To give teenagers advice about starting businesses"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it describes a reason that Moejoh and team founded U-recycle Initiative Africa. The text mentions two reasons the initiative was founded: to teach young people about how they affect the environment and to teach them \"why recycling is important.\" Thus, teaching the importance of recycling to young people accurately describes a motivation that the text cites as a reason for the initiative's founding. Choice A is incorrect. Although art is mentioned in the text, there are no details about artists or whether they are being overlooked. Choice C is incorrect because the text is explicitly about young people and their relationship to the environment and recycling. There is no mention of adults or outdoor skills. Choice D is incorrect. Although the text discusses young people, which likely includes teenagers, there is no mention of starting businesses."
+  },
+  {
+    "question_id": "27f23e11",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "During the Bourbon Restoration in France ($1814$–$1830$), the right to vote required in part that a person paid at least $300$ francs in direct taxes to the government. The four most common taxes (the quatre vieilles) were levied on real estate (both land and buildings); the doors and windows in taxpayer homes; the rental values of homes; and the businesses of artisans and merchants. (Foreign investments were either exempt from taxation or taxed lightly.) Although relatively few people paid the tax on real estate, it was the main means of voter qualification and accounted for over two-thirds of government receipts during this period, suggesting that during the Bourbon Restoration ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "those people who had the right to vote most likely had substantial holdings of French real estate.",
+      "B": "the voting habits of French artisans and merchants were effective in reducing tax burdens on businesses.",
+      "C": "the number of doors and windows in French residences was kept to a minimum but increased after $1830$.",
+      "D": "French people with significant foreign investments were unlikely to have the right to vote."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. We're told that people needed to pay \"at least $300$ francs in direct taxes\" to be able to vote. We're also told that, while \"relatively few people paid the tax on real estate,\" real estate taxes were both the main way people qualified to vote and the main source of revenue for the government. Based on this, we can infer that those who did qualify to vote likely had significant French real estate holdings. Choice B is incorrect. The passage doesn't mention the voting habits of artisans and merchants nor any reduction in tax burdens on businesses, so there's no basis for this inference. Choice C is incorrect. Although we know that doors and windows were taxed during the Bourbon Restoration, we don't have enough information to infer if doors and windows increased after this time. Choice D is incorrect. Although we know that foreign investments were only minimally taxed, we don't have enough information to determine if those with significant foreign investments were unlikely to have voting rights. For example, it's possible that those with significant foreign investments were likely to also be people with significant domestic investments which they did pay taxes on, so we don't have the information necessary to make this inference."
+  },
+  {
+    "question_id": "5ad0b3b6",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Nucleobase Concentrations from Murchison Meteorite and Soil Samples in Parts per Billion\n\n| Nucleobase | Murchison meteorite sample 1 | Murchison meteorite sample 2 | Murchison soil sample |\n|---|---|---|---|\n| Isoguanine | 0.5 | 0.04 | not detected |\n| Purine | 0.2 | 0.02 | not detected |\n| Xanthine | 39 | 3 | 1 |\n| Adenine | 15 | 1 | 40 |\n| Hypoxanthine | 24 | 1 | 2 |\n\nEmploying high-performance liquid chromatography—a process that uses pressurized water to separate material into its component molecules—astrochemist Yashiro Oba and colleagues analyzed two samples of the Murchison meteorite that landed in Australia as well as soil from the landing zone of the meteorite to determine the concentrations of various organic molecules. By comparing the relative concentrations of types of molecules known as nucleobases in the Murchison meteorite with those in the soil, the team concluded that there is evidence that the nucleobases in the Murchison meteorite formed in space and are not the result of contamination on Earth.",
+    "question_text": "Which choice best describes data from the table that support the team's conclusion?",
+    "options": {
+      "A": "Isoguanine and purine were detected in both meteorite samples but not in the soil sample.",
+      "B": "Adenine and xanthine were detected in both of the meteorite samples and in the soil sample.",
+      "C": "Hypoxanthine and purine were detected in both the Murchison meteorite sample 2 and in the soil sample.",
+      "D": "Isoguanine and hypoxanthine were detected in the Murchison meteorite sample 1 but not in sample 2."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The researchers concluded that the meteorite's nucleobases weren't the result of soil contamination. Presence of nucleobases in the meteorite and not in soil provides evidence that those nucleobases likely didn't come from the soil. Choice B is incorrect. This choice doesn't justify the conclusion. The researchers concluded that the meteorite's nucleobases weren't the result of soil contamination. If the nucleobases are present in both the soil and meteorite, then it's possible that these nucleobases came from the soil. Choice C is incorrect. This choice misreads the table. Purine was not detected in the soil sample. Choice D is incorrect. This choice misreads the table. Both isoguanine and hypoxanthine were detected in both Murchison meteorite samples."
+  }
+]

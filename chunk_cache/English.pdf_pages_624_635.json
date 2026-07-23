@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "e9a4666c",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In January 1776, Thomas Paine published Common Sense, an appeal for freedom from the British monarchy that famously helped ignite the desire for independence among the American colonists. After the colonies achieved their independence, Paine moved to Paris, where the provocative ______ would contribute to another revolution—the French Revolution.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "authors political writings",
+      "B": "author’s political writings",
+      "C": "author’s political writing’s",
+      "D": "authors’ political writings’"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The conventions being tested are the use of plural and possessive nouns. The singular possessive noun \"author’s\" correctly indicates that the political writings are those of Thomas Paine, and the plural noun \"writings\" correctly indicates that multiple works by Paine are being discussed.\\n\\nChoice A is incorrect because the context requires the singular possessive noun \"author’s,\" not the plural noun \"authors.\" Choice C is incorrect because the context requires the plural noun \"writings,\" not the singular possessive noun \"writing’s.\" Choice D is incorrect because the context requires the singular possessive noun \"author’s\" and the plural noun \"writings,\" not the plural possessive nouns \"authors’\" and \"writings’.\""
+  },
+  {
+    "question_id": "781f2cde",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In 1899, Swedish chemist Svante Arrhenius developed an equation to answer a long-standing question: why do chemical reactions speed up at higher temperatures? The Arrhenius equation, named for its creator, ______ an important concept in modern chemistry.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "have remained",
+      "B": "remain",
+      "C": "remains",
+      "D": "are remaining"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This choice uses the singular verb \"remains\" to match the singular subject \"equation.\"\\n\\nChoice A is incorrect. The singular noun \"equation\" doesn’t match with the plural verb conjugation \"have remained.\" Choice B is incorrect. The singular noun \"equation\" doesn’t match with the plural verb conjugation \"remain.\" Choice D is incorrect. The singular noun \"equation\" doesn’t match with the plural verb conjugation \"are remaining.\""
+  },
+  {
+    "question_id": "e6201ac0",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Archaeologists have estimated that the pre-Columbian Native American city of Cahokia, located across the Mississippi River from modern-day St. Louis, Missouri, had as many as 20,000 inhabitants in the year 1150 ______ it one of the largest cities in North America at the time.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "CE making",
+      "B": "CE. Making",
+      "C": "CE, making",
+      "D": "CE; making"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The phrase “making…at the time” provides additional information about Cahokia that’s not required for the sentence to make sense or function grammatically. As a nonessential supplement, this phrase should be separated from the rest of the sentence with a comma.\\n\\nChoice A is incorrect. This choice results in a run-on sentence. The nonessential descriptive aside “making…at the time” needs to be separated from the rest of the sentence with a comma. Choice B is incorrect. This choice results in a sentence fragment. “Making…at the time” doesn’t have a subject and can’t stand on its own as a sentence. Thus, it can’t be separated from the rest of the sentence with a period. Choice D is incorrect. This choice results in a punctuation error. “Making…at the time” doesn’t have a subject and can’t stand on its own as an independent clause. Since a semicolon can only link two independent clauses, using one here creates an error."
+  },
+  {
+    "question_id": "0b05d2d6",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The 2022 Nobel Prize in Chemistry was awarded to three pioneers in the field of click chemistry: two-time Nobel laureate Barry Sharpless, who coined the term “click chemistry” in 1998; Carolyn Bertozzi, founder of the Bertozzi Group at ______ and Morten Meldal, a professor at the University of Copenhagen in Denmark.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Stanford",
+      "B": "Stanford,",
+      "C": "Stanford:",
+      "D": "Stanford;"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This choice correctly uses a semicolon to punctuate a complex list (which is made up of items that have commas in them).\\n\\nChoice A is incorrect. This is a complex list, indicated by the semicolon between \"1998\" and \"Carolyn Bertozzi.\" What comes after the blank is a separate list item, so punctuation is needed after \"Stanford.\" Choice B is incorrect. This is a complex list, indicated by the semicolon between \"1998\" and \"Carolyn Bertozzi.\" The items in this list have internal punctuation in the form of commas and must therefore be separated by semicolons to avoid confusion. Choice C is incorrect. This is a complex list, indicated by the semicolon between \"1998\" and \"Carolyn Bertozzi.\" Colons aren’t used to separate items in a list."
+  },
+  {
+    "question_id": "91019ad3",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Unsupervised machine learning is an approach that computer scientists like Nina Miolane use to engineer artificial intelligence technologies. It involves training computer algorithms to organize unlabeled data sets. Multitask learning is another approach. ______ involves training computer models to perform multiple tasks at the same time.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Those",
+      "B": "They",
+      "C": "It",
+      "D": "Some"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"multitask learning\" and clearly indicates what multitask learning involves.\\n\\nChoice A is incorrect because the plural demonstrative pronoun \"those\" doesn’t agree in number with the singular antecedent \"multitask learning.\" Choice B is incorrect because the plural pronoun \"they\" doesn’t agree in number with the singular antecedent \"multitask learning.\" Choice D is incorrect because the indefinite pronoun \"some\" is ambiguous in this context; the resulting sentence leaves unclear what exactly \"involves training computer models.\""
+  },
+  {
+    "question_id": "26b716e8",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Emperor Ashoka ruled the Maurya Empire in South Asia from roughly 270 to 232 BCE. He is known for enforcing a moral code called the Law of Piety, which established the sanctity of animal ______ the just treatment of the elderly, and the abolition of the slave trade.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "life",
+      "B": "life;",
+      "C": "life:",
+      "D": "life,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Notice that \"the sanctity of animal life\" is the first item in a list of three things. We must use a comma to separate the first two items in the list, just as a comma is used to separate \"the just treatment of the elderly\" and \"the abolition of the slave trade.\"\\n\\nChoice A is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. To appropriately format the list, we need punctuation to separate each item. Choice B is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. While semicolons are sometimes used to separate list items, this list uses commas to separate the other list items, and lists must use the same punctuation throughout. Choice C is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. While colons can be used to introduce lists, they can’t be used to separate items within a list."
+  },
+  {
+    "question_id": "ae88a59f",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Using satellite remote sensing, Dr. Catherine Nakalembe, director of NASA’s Harvest Africa initiative, gathers important data on crop health. Nakalembe doesn’t just compile the ______ she also shares her findings with African farmers, enabling them to make data-driven decisions about managing critical food crops.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "information, though;",
+      "B": "information, though,",
+      "C": "information; though",
+      "D": "information though,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. This choice uses a semicolon to join two independent clauses (\"Nakalembe doesn’t just…though\" and \"she also shares...\"). This choice also appropriately includes \"though\" in the first clause, where it logically belongs.\\n\\nChoice B is incorrect. This choice results in a grammar error called a comma splice. It incorrectly joins two independent clauses with only a comma instead of a comma and a coordinating conjunction like \"and\" or \"but.\" \"Though\" is a transition word, but it’s not a coordinating conjunction. Choice C is incorrect. This choice results in a punctuation error. A semicolon can only be used to link two independent clauses. However, if \"though\" is included in the second clause, it turns the second clause into a dependent clause, so a semicolon can’t be used after \"information.\" Choice D is incorrect. This choice results in a grammar error called a comma splice. It incorrectly joins two independent clauses with only a comma instead of a comma and a coordinating conjunction like \"and\" or \"but.\""
+  },
+  {
+    "question_id": "72ae84d8",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Slam poet Elizabeth Acevedo’s debut novel The Poet X, winner of the 2018 National Book Award for Young People’s Literature, is composed of ______ protagonist, fifteen-year-old Xiomara Batista.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "poems putatively written by the novel’s",
+      "B": "poem’s putatively written by the novel’s",
+      "C": "poem’s putatively written by the novels’",
+      "D": "poems putatively written by the novels’"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Nothing belongs to the “poems” in the sentence, so it should not be possessive—just a simple plural noun. The protagonist does belong to the novel—it’s the protagonist of the novel—so “novel” needs to be a singular possessive noun.\\n\\nChoice B is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. This choice uses the singular possessive “poem’s,” but the text indicates that it should be the simple plural “poems”: there is more than one poem, and nothing belongs to the poems. Choice C is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. This choice uses the singular possessive “poem’s,” but the text indicates that it should be the simple plural “poems”: there is more than one poem, and nothing belongs to the poems. This choice also uses the plural possessive “novels’,” which is incorrect because there is only one novel. Choice D is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. This choice uses the plural possessive “novels’,” which is incorrect because there is only one novel, so it should be the singular possessive “novel’s.”"
+  },
+  {
+    "question_id": "d7b89c91",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Gathering accurate data on water flow in the United States is challenging because of the country’s millions of miles of ______ the volume and speed of water at any given location can vary drastically over time.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "waterways and the fact that,",
+      "B": "waterways, and the fact that,",
+      "C": "waterways, and, the fact that",
+      "D": "waterways and the fact that"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation within two coordinated noun phrases. When, as in this case, a noun phrase (“the country’s millions of miles of waterways”) is coordinated with another noun phrase (“the fact”) followed by an integrated relative clause (“that the volume...time”), no punctuation is needed.\\n\\nChoice A is incorrect because no punctuation is needed. Choice B is incorrect because no punctuation is needed. Choice C is incorrect because no punctuation is needed."
+  },
+  {
+    "question_id": "4b940410",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In 1990, California native and researcher Ellen Ochoa left her position as chief of the Intelligent Systems Technology Branch at a NASA research center ______ the space agency’s astronaut training program.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "to join",
+      "B": "is joining",
+      "C": "joined",
+      "D": "joins"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is the use of nonfinite verb forms in a sentence. The nonfinite to-infinitive verb \"to join\" is correctly used to form a subordinate clause that expresses why Ochoa left her position (to join the training program).\\n\\nChoice B is incorrect because the finite verb \"is joining\" can’t be used in this way to indicate Ochoa’s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"is joining\" with the previous finite verb, \"left.\" Choice C is incorrect because the finite verb \"joined\" can’t be used in this way to indicate Ochoa’s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"joined\" with the previous finite verb, \"left.\" Choice D is incorrect because the finite verb \"joins\" can’t be used in this way to indicate Ochoa’s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"joins\" with the previous finite verb, \"left.\""
+  },
+  {
+    "question_id": "6afef2f0",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The village of Panduyacu in Ecuador ______ one of the rare places in the world located almost directly on the equator.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "are being",
+      "B": "have been",
+      "C": "is",
+      "D": "are"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"village.\"\\n\\nChoice A is incorrect because the plural verb \"are being\" doesn’t agree in number with the singular subject \"village.\" Choice B is incorrect because the plural verb \"have been\" doesn’t agree in number with the singular subject \"village.\" Choice D is incorrect because the plural verb \"are\" doesn’t agree in number with the singular subject \"village.\""
+  },
+  {
+    "question_id": "346bc3a5",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "As a behavioral economist, Katy Milkman of the University of Pennsylvania recognizes that people sometimes make irrational economic decisions. Milkman’s research can thus address anomalies that neoclassical economic ______ assume that people are consistently rational decision-makers—cannot explain.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "models—which",
+      "B": "models, which",
+      "C": "models which",
+      "D": "models which—"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. The dashes after \"models\" and \"decision-makers\" correctly separate the supplementary element \"which assume that people are consistently rational decision-makers\" from the rest of the sentence. This punctuation indicates that this element could be removed without affecting the grammatical coherence of the sentence.\\n\\nChoice B is incorrect because a comma can’t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice C is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice D is incorrect because it interrupts the sentence at an illogical and grammatically incoherent point. The dash should be placed before \"which,\" not after it, to mark the beginning of the supplementary element."
+  }
+]

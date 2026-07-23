@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": "67a1f442",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Despite how ______ they may seem on first glance, the works of the philosopher Georg Hegel have proven to be quite influential. Readers who manage to penetrate Hegel’s frustratingly dense prose often find that his thrillingly original and profound ideas wind up shaping their own thinking.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "authoritative",
+      "B": "opaque",
+      "C": "empirical",
+      "D": "facile"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text's discussion of Hegel's works. In this context, \"opaque\" means difficult to understand or unclear. The text creates a contrast between the initial impression given by Hegel's works and their influence and insight, noting that readers must \"penetrate Hegel's frustratingly dense prose\" to access his important ideas. This context clearly establishes that Hegel's writing is initially challenging to comprehend, or opaque.\n\nChoice A is incorrect because \"authoritative\" means influential or clearly accurate. Hegel's works may be authoritative, but it wouldn't make logical sense in context to say that although his works seem authoritative, they have been influential. Instead, the text focuses on the fact that Hegel's works are challenging to read, but that working through the dense prose can be rewarding. Choice C is incorrect because referring to Hegel's works as \"empirical,\" which means factual or verifiable, would suggest that they are based on observation or experience rather than theory. The text, however, doesn't address this aspect of Hegel's philosophy. Instead, it focuses on the difficulty of understanding his writing. Choice D is incorrect because describing Hegel's works as \"facile,\" which means superficial or simplistic, would directly contradict the text's characterization of his writing as \"frustratingly dense\" and requiring effort to understand."
+  },
+  {
+    "question_id": "969bb57f",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nPublic policy researcher Anthony Fowler studied the history of elections in Australia, a country that requires citizens to vote. Fowler argues that requiring citizens to vote leads to a significant increase in voters who would otherwise not have the time or motivation to vote. Thus, election results in countries that require citizens to vote better reflect the preferences of the country as a whole.\n\nText 2\nGovernments in democratic countries function better when more people vote. However, forcing people to vote may have negative consequences. Shane P. Singh and Jason Roy studied what happens when a country requires its citizens to vote. They found that when people feel forced to vote, they tend to spend less time looking for information about their choices when voting. As a result, votes from these voters may not reflect their actual preferences.",
+    "question_text": "Based on the texts, how would Singh and Roy (Text 2) most likely respond to the research discussed in Text 1?",
+    "options": {
+      "A": "Only countries of a certain population size should implement mandatory voting.",
+      "B": "People who are forced to vote are likely to become politically engaged in other ways, such as volunteering or running for office.",
+      "C": "Requiring people to vote does not necessarily lead to election outcomes that better represent the preferences of the country as a whole.",
+      "D": "Countries that require voting must also make the process of voting easier for their citizens."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. Text 1 claims that mandatory voting results in elections that \"better reflect the preferences of the country.\" Singh and Roy disagree. They claim that more voters doesn't equal more quality votes—instead, they argue that forced voting may lead to less-informed votes that \"may not reflect [voters'] actual preferences.\"\n\nChoice A is incorrect. Neither text mentions the population size of countries that require voting, or how that might affect election outcomes. Choice B is incorrect. Neither text discusses the effects of mandatory voting on other forms of political engagement. Choice D is incorrect. Neither text discusses the ease or difficulty of the voting process in countries that require voting."
+  },
+  {
+    "question_id": "d6b84972",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Joseph Conrad's 1907 novel The Secret Agent: A Simple Tale. Mr. Verloc is navigating the London streets on his way to a meeting.\nBefore reaching Knightsbridge, Mr. Verloc took a turn to the left out of the busy main thoroughfare, uproarious with the traffic of swaying omnibuses and trotting vans, in the almost silent, swift flow of hansoms [horse-drawn carriages]. Under his hat, worn with a slight backward tilt, his hair had been carefully brushed into respectful sleekness; for his business was with an Embassy. And Mr. Verloc, steady like a rock—a soft kind of rock—marched now along a street which could with every propriety be described as private.",
+    "question_text": "Which choice best describes the function of the underlined phrase in the text as a whole?",
+    "options": {
+      "A": "It qualifies an earlier description of Mr. Verloc.",
+      "B": "It emphasizes an internal struggle Mr. Verloc experiences.",
+      "C": "It contrasts Mr. Verloc with his surroundings.",
+      "D": "It reveals a private opinion Mr. Verloc holds."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The underline phrase qualifies (meaning adds limits or conditions to) the description of Mr. Verloc as \"steady like a rock,\" adding that he is a \"soft\" rock.\n\nChoice B is incorrect. In fact, the passage never mentions Mr. Verloc experiencing any internal struggles. Choice C is incorrect. The underlined phrase doesn't contrast Mr. Verloc with his surroundings, but is instead modifying the description of him as a rock. Choice D is incorrect. The underlined phrase doesn't reveal a private opinion Mr. Verloc holds: instead, it further describes his character for the reader."
+  },
+  {
+    "question_id": "e5f76480",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nLike the work of Ralph Ellison before her, Toni Morrison's novels feature scenes in which characters deliver sermons of such length and verbal dexterity that for a time, the text exchanges the formal parameters of fiction for those of oral literature. Given the many other echoes of Ellison in Morrison's novels, both in structure and prose style, these scenes suggest Ellison's direct influence on Morrison.\n\nText 2\nIn their destabilizing effect on literary form, the sermons in Morrison's works recall those in Ellison's. Yet literature by Black Americans abounds in moments where interpolated speech erodes the division between oral and written forms that literature in English has traditionally observed. Morrison's use of the sermon is attributable not only to the influence of Ellison but also to a community-wide strategy of resistance to externally imposed literary conventions.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely characterize the underlined claim in Text 1?",
+    "options": {
+      "A": "As failing to consider Ellison's and Morrison's equivalent uses of the sermon within the wider cultural context in which they wrote",
+      "B": "As misunderstanding the function of sermons in novels by Black American writers other than Ellison and Morrison",
+      "C": "As disregarding points of structural and stylistic divergence between the works of Ellison and those of Morrison",
+      "D": "As being indebted to the tradition of resisting literary conventions that privilege written forms, such as novels, over sermons and other oral forms"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The author of Text 2 argues that Morrison's use of the sermon is not only influenced by Ellison, but also by a \"community-wide strategy of resistance\" to literary conventions practiced by Black American authors. Ellison, Text 2 alleges, is only one of many influences on Morrison.\n\nChoice B is incorrect. Neither text specifically mentions sermons in works by authors other than Morrison or Ellison, only a tendency towards eroding \"the division between oral and written forms\" among Black American writers. Choice C is incorrect. Both texts describe similarities between the works of Ellison and Morrison, and neither points out instances of divergence. Text 2 simply suggests that Morrison was influenced by more than just Ellison. Choice D is incorrect. While Text 2 does discuss Morrison's resistance to certain literary conventions, it's unclear what it would mean for the underlined claim to be \"indebted\" to that tradition. This choice recycles language from the text, but not in a way that makes any coherent point."
+  },
+  {
+    "question_id": "8dd4b0d5",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nVirginia Woolf's 1928 novel Orlando is an oddity within her body of work. Her other major novels consist mainly of scenes of everyday life and describe their characters' interior states in great detail, whereas Orlando propels itself through a series of fantastical events and considers its characters' psychology more superficially. Woolf herself sometimes regarded the novel as a minor work, even admitting once that she \"began it as a joke.\"\n\nText 2\nLike Woolf's other great novels, Orlando portrays how people's memories inform their experience of the present. Like those works, it examines how people navigate social interactions shaped by gender and social class. Though it is lighter in tone—more entertaining, even—this literary \"joke\" nonetheless engages seriously with the themes that motivated the four or five other novels by Woolf that have achieved the status of literary classics.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely respond to the assessment of Orlando presented in Text 1?",
+    "options": {
+      "A": "By conceding that Woolf's talents were best suited to serious novels but asserting that the humor in Orlando is often effective",
+      "B": "By agreeing that Orlando is less impressive than certain other novels by Woolf but arguing that it should still be regarded as a classic",
+      "C": "By acknowledging that Orlando clearly differs from Woolf's other major novels but insisting on its centrality to her body of work nonetheless",
+      "D": "By concurring that the reputation of Orlando as a minor work has led readers to overlook this novel but maintaining that the reputation is unearned"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it reflects how the author of Text 2 would most likely respond to the assessment of Orlando in Text 1. Both authors agree that Orlando is unusual for Woolf: Text 1 states that the novel examines its characters' psychologies more superficially than Woolf's other novels do, and Text 2 describes it as being lighter in tone. However, while Text 1 calls Orlando an \"oddity\" and mentions that Woolf \"began it as a joke,\" Text 2 asserts that Orlando engages the same themes as Woolf's other great novels. Hence, the author of Text 2 would most likely accept that Orlando differs from Woolf's other novels but would also insist on its importance in the context of Woolf's work as a writer.\n\nChoice A is incorrect. Text 2 does suggest that the humor in Orlando is effective. However, there's nothing in Text 2 to suggest that the author would agree that Woolf's talents were best suited to serious novels. Rather, the author of Text 2 compares Orlando favorably to other novels by Woolf that are implied to be darker in tone. Choice B is incorrect because the author of Text 2 does not indicate that Orlando is less impressive than Woolf's other novels, but instead points out that it engages the same themes as other novels by Woolf that are considered classics. Choice D is incorrect because there's nothing in Text 1 or Text 2 to suggest that readers have generally ignored Orlando because of its reputation."
+  },
+  {
+    "question_id": "925e4e31",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nPolar bears sustain themselves primarily by hunting seals on the Arctic sea ice, but rising ocean temperatures are causing the ice to diminish, raising concerns about polar bear population declines as these large predators' seal-hunting habitats continue to shrink. A 2020 study examining polar bear populations across the Arctic concluded that populations affected by sea-ice loss are at great risk of extinction by the end of the twenty-first century.\n\nText 2\nMonitoring carried out by researchers from the Norwegian Polar Institute shows that the polar bear population on the Arctic archipelago of Svalbard remains stable and well nourished despite rapidly declining sea ice in recent years. The researchers attribute this population's resilience in part to a shift in feeding strategies: in addition to hunting seals, the Svalbard polar bears have begun relying on a diet of reindeer meat and birds' eggs.",
+    "question_text": "Based on the texts, how would the researchers in Text 2 most likely respond to the conclusion presented in the underlined portion of Text 1?",
+    "options": {
+      "A": "By noting that it neglects the possibility of some polar bear populations adapting to changes in their environment",
+      "B": "By suggesting that it is likely incorrect about the rates at which warming ocean temperatures have caused sea ice to melt in the Arctic",
+      "C": "By asserting that it overlooks polar bear populations that have not yet been affected by loss of seal-hunting habitats",
+      "D": "By arguing that it fails to account for polar bears' reliance on a single seal-hunting strategy"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Text 2 describes how the Svalbard polar bears have adapted to the loss of sea ice by diversifying their diet and feeding on reindeer and seabird eggs, resulting in a \"stable and well nourished\" population despite environmental challenges. This counters the underlined claim that polar bears facing a loss of sea ice are at \"great risk of extinction\" by the end of the century.\n\nChoice B is incorrect. Text 2 does not challenge the fact that sea ice is rapidly declining in the Arctic due to warming ocean temperatures. In fact, it states that the Svalbard polar bears have faced \"rapidly declining sea ice in recent years.\" Choice C is incorrect. The claim in Text 1 is specific to polar bear populations affected by the loss of seal hunting habitats, so unaffected populations are irrelevant to the claim. Also, Text 2 doesn't mention any polar bear populations that haven't yet been affected by loss of seal hunting habitats. It focuses on a population that has been affected by sea-ice loss but has managed to survive and thrive nevertheless. Choice D is incorrect. Text 2 doesn't imply that polar bears rely on a single seal-hunting strategy. In fact, the researcher in Text 2 would say that Text 1 fails to account for polar bears' ability to develop other hunting strategies and food sources."
+  },
+  {
+    "question_id": "b0101665",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nSome animal species, like the leopard, can be found in many kinds of areas. On the other hand, tropical mountain bird species tend to be limited in the types of spaces they can call home. This is because many mountain bird species are only able to survive at very specific elevations. Over time, these species have likely become used to living at a specific temperature. Therefore, these species struggle to survive at elevations that are warmer or colder than they are used to.\n\nText 2\nA new study reviewed observations of nearly 3,000 bird species to understand why tropical mountain bird species live at specific elevations. They noted that when a mountain bird species was found in an area with many other bird species, it tended to inhabit much smaller geographic areas. It is thus likely that competition for resources with other species, not temperature, limits where these birds can live.",
+    "question_text": "Based on the texts, both authors would most likely agree with which statement?",
+    "options": {
+      "A": "Tropical mountain bird species are restricted in where they can live.",
+      "B": "Scientists have better tools to observe tropical mountain birds than they did in the past.",
+      "C": "Little is known about how tropical mountain birds build their nests.",
+      "D": "Tropical mountain bird species that live at high elevations tend to be genetically similar."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. Both texts state that tropical mountain bird species have limited ranges or habitats, although they disagree on the reason for this. Text 1 claims that temperature is the main factor that determines where these birds can live, while Text 2 claims that competition with other species is the main factor. However, both texts agree that these birds are not able to survive in many kinds of areas.\n\nChoice B is incorrect. Neither text mentions the tools or methods that scientists use to observe these birds, either now or in the past. Choice C is incorrect. Neither text mentions anything about how these birds build their nests. Choice D is incorrect. Neither text provides any information about the genetic similarity of these birds, so we have no evidence that either author would agree with this statement."
+  },
+  {
+    "question_id": "2e5a7736",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "As an undergraduate researcher in anthropology, Jennifer C. Chen contributed to a groundbreaking study challenging the accepted view that among prehistoric peoples, female participation in hunting was ______. The research team's review of data from late Pleistocene and early Holocene burials in the Americas revealed that, in fact, as many as half of the hunters in those populations were female.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "inevitable",
+      "B": "satisfactory",
+      "C": "negligible",
+      "D": "commonplace"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text's discussion of the study of female participation in hunting among prehistoric peoples. In this context, \"negligible\" means not significant enough to be worth considering. The text says that the study challenged the accepted view of female participation in hunting among prehistoric peoples. The text goes on to say that the researchers found that \"in fact, as many as half\" the hunters in the groups studied were female. The phrase \"in fact\" establishes a contrast indicating that the finding that as many as half the hunters were female differs from the accepted view. This context suggests, then, that the accepted view is that female participation in hunting was negligible.\n\nChoice A is incorrect because the text indicates that the study challenged the accepted view by showing that as many as half of hunters among prehistoric peoples were female, which suggests that the accepted view is that female participation was low, not that female participation was \"inevitable,\" or unavoidable. Nothing in the text suggests that the accepted view is that prehistoric peoples could not avoid female participation in hunting. Choice B is incorrect because nothing in the text suggests that the accepted view of female participation in hunting among prehistoric peoples is that such participation was \"satisfactory,\" or sufficient to meet a requirement or demand. There is no information in the text about any demands or requirements regarding female participation in hunting, let alone any information about how much female participation in hunting would be enough to satisfy those demands or requirements. Instead, the text indicates that the study challenged the accepted view by showing that as many as half the hunters in the groups studied were female, suggesting that the accepted view is that female participation in hunting was low. Choice D is incorrect because the text indicates that the study challenged the accepted view by showing that as many as half of hunters among the prehistoric peoples studied were female, which suggests that the accepted view is that female participation was low, not that female participation was \"commonplace,\" or ordinary or unremarkable. Although the study under discussion suggests that female participation may have been commonplace, that study is presented as challenging the accepted view, not as reinforcing the accepted view."
+  },
+  {
+    "question_id": "368d7615",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ______ that the word \"get\" has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that \"get\" is the fifth most commonly used verb.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "recognition",
+      "B": "scheme",
+      "C": "supposition",
+      "D": "synopsis"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most logically completes the text's discussion of testing hypotheses regarding usage by means of text corpora. In this context, \"supposition\" refers to an assumption or hypothesis that is not yet proven. The text explains that text corpora can be used for \"empirical testing of hypotheses regarding the frequency of typical word usage\" and then provides a specific example of using corpus analysis to support a claim about the word \"get.\" The word \"supposition\" precisely conveys this idea of an assumption or hypothesis about word frequency that can then be tested against empirical data.\n\nChoice A is incorrect because it wouldn't make sense to say that someone has a \"recognition\" that the word \"get\" has a high incidence in English. Recognition implies acknowledging something already established as true or valid, but the text indicates that corpus analysis is needed to support the claim about \"get,\" suggesting its high frequency wasn't already established or previously known. Choice B is incorrect because it wouldn't make sense to say that someone has a \"scheme\" that the word \"get\" has a high incidence in English. A scheme is a plan or systematic arrangement, but the context indicates what's needed is a preliminary hypothesis that can be tested with corpus data, not a plan related to word frequency. Choice D is incorrect because it wouldn't make sense to say that someone has a \"synopsis\" that the word \"get\" has a high incidence in English. A synopsis is a summary or outline, but the text is discussing an initial hypothesis about word frequency that requires testing, not a condensed statement of existing information."
+  },
+  {
+    "question_id": "40bd08d8",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Biologist Jane Edgeloe and colleagues have located what is believed to be the largest individual plant in the world in the Shark Bay area of Australia. The plant is a type of seagrass called Posidonia australis, and it ______ approximately 200 square kilometers.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "acknowledges",
+      "B": "produces",
+      "C": "spans",
+      "D": "advances"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"Spans\" means \"extends over a distance of\" or \"encompasses.\" Since we're talking about the world's largest plant, it makes sense to say that it \"spans\" about 200 square kilometers.\n\nChoice A is incorrect. \"Acknowledges\" means \"recognizes\" or \"admits the truth of.\" Either way, it doesn't make sense here: a plant can't \"acknowledge\" a distance. Choice B is incorrect. \"Produces\" can mean \"makes,\" \"causes,\" or \"presents.\" But none of those definitions make sense here: a plant can't make, cause, or present a distance. Choice D is incorrect. This doesn't fit the logic of the text. \"Advances\" means \"moves forward\" or \"progresses.\" But the plant isn't necessarily moving forward. Rather, the text suggests that it already covers a distance of 200 square kilometers."
+  },
+  {
+    "question_id": "4bda3cab",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Osage Nation citizen Randy Tinker-Smith produced and directed the ballet Wahzhazhe, which vividly chronicles Osage history and culture. Telling Osage stories through ballet is ______ choice because two of the foremost ballet dancers of the twentieth century were Osage: sisters Maria and Marjorie Tallchief.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "a suitable",
+      "B": "a determined",
+      "C": "an arbitrary",
+      "D": "an unpredictable"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"Suitable\" means \"appropriate for a particular purpose.\" Since the text indicates that two of the best ballet dancers of the twentieth century were Osage, we can infer that the author believes that ballet is a very suitable artform for telling Osage stories.\n\nChoice B is incorrect. The text never suggests that Tinker-Smith's choice was determined. That would imply that Tinker-Smith initially faced some kind of obstacle or opposition, and nothing like that is mentioned in the passage. Choice C is incorrect. The text implies the opposite of this. \"Arbitrary\" means \"based on random choice or whim rather than reason.\" But the text does give us a good reason behind the choice to tell Osage stories through ballet: two of the best ballet dancers of the twentieth century were Osage. Choice D is incorrect. The text never suggests that Tinker-Smith's choice was \"unpredictable.\" Rather, the fact that two of the best ballet dancers of the twentieth century were Osage makes ballet especially appropriate for telling Osage stories."
+  }
+]

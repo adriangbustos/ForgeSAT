@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "6b4c8b42",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The 1977 play And the Soul Shall Dance depicts two Japanese American farming families in Depression-era Southern California. Critics have noted the way pioneering ______ compares the experiences of issei (Japanese nationals who emigrated to America) and nisei (their American-born children).",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "playwright, Wakako Yamauchi,",
+      "B": "playwright, Wakako Yamauchi",
+      "C": "playwright Wakako Yamauchi,",
+      "D": "playwright Wakako Yamauchi"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the proper noun \"Wakako Yamauchi\" from the title that describes Yamauchi, \"pioneering playwright.\" Because \"Wakako Yamauchi\" is essential information identifying the \"pioneering playwright,\" no punctuation is necessary."
+  },
+  {
+    "question_id": "aeba7f69",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "After winning the 1860 presidential election, Abraham Lincoln appointed Edward Bates, Salmon P. Chase, and William H. Seward to his cabinet. Lincoln’s decision was surprising, since each of these men had run against him, but historians have praised it, noting that Lincoln ______ his rivals’ diverse talents to strengthen his administration.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "has leveraged",
+      "B": "is leveraging",
+      "C": "will leverage",
+      "D": "leveraged"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The subject of the verb is “Lincoln,” and the first sentence tells us that we’re talking about something that Abraham Lincoln did in 1860. So the simple past tense “leveraged” fits the logic of the text."
+  },
+  {
+    "question_id": "08fe665d",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "A conceptual artist and designer embraced by both the art world and the fashion ______ Mary Ping was chosen to curate the exhibition Front Row: Chinese American Designers for the Museum of Chinese in America.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "world",
+      "B": "world:",
+      "C": "world;",
+      "D": "world,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (“A conceptual artist…world”), which describes Mary Ping, and the main clause (“Mary…America”)."
+  },
+  {
+    "question_id": "ddb5e6b5",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In 2021, Mexican biologist Martha Lydia Macías-Rubalcava led a review of the scientific literature related to endophytic fungi (i.e., fungi that live inside a host ______ researching 120 endophytic fungi–produced compounds, she found that their phytotoxicity can make them viable alternatives to chemical herbicides for controlling weeds.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "plant). By",
+      "B": "plant), by",
+      "C": "plant) and by",
+      "D": "plant) by"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"In…plant\") and another (\"By…weeds\"). The prepositional phrase beginning with \"by\" modifies the subject of the next sentence, \"she,\" which refers to Macías-Rubalcava."
+  },
+  {
+    "question_id": "8cfad1fb",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. Powered with ______ the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "energy collected, by solar panels, during the day",
+      "B": "energy collected by solar panels during the day",
+      "C": "energy collected by solar panels during the day,",
+      "D": "energy, collected by solar panels during the day,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (“powered…day”), which describes how the LEDs are powered, and the main clause (“the blinking…night”)."
+  },
+  {
+    "question_id": "2d3abce3",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Despite being cheap, versatile, and easy to produce, ______ they are made from nonrenewable petroleum, and most do not biodegrade in landfills.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "there are two problems associated with commercial plastics:",
+      "B": "two problems are associated with commercial plastics:",
+      "C": "commercial plastics’ two associated problems are that",
+      "D": "commercial plastics have two associated problems:"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice ensures that the modifying phrase “despite being cheap, versatile, and easy to produce” appears immediately before the noun it modifies, “commercial plastics,” clearly establishing that the commercial plastics—and not another noun in the sentence—are being described as cheap, versatile, and easy to produce."
+  },
+  {
+    "question_id": "3152fbb0",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Researcher Lin Zhi developed a process for increasing the tensile strength—measured in gigapascals, or GPa—of silkworm ______ dissolving and reweaving the silk in a solution of iron metal ions, zinc, and sugar, Zhi increased the amount of force required to stretch it from approximately 0.5 GPa to 2 GPa.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "silk, by",
+      "B": "silk by",
+      "C": "silk and by",
+      "D": "silk. By"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The independent clauses \"researcher Lin Zhi…silk\" and \"by dissolving…2 GPa\" can be grammatically separated by a period. They can stand alone as sentences, and this is the only choice that lets them do that."
+  },
+  {
+    "question_id": "9d6fd619",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Wanda Diaz-Merced is an astrophysicist who lost her sight when she was young. Diaz-Merced’s condition inspired her to develop software that can translate scientific data into sound. Sound-based tools ______ scientists to detect subtle patterns in data. Such patterns may not be evident in traditional graphs.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "has enabled",
+      "B": "enable",
+      "C": "is enabling",
+      "D": "enables"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The convention being tested is subject-verb agreement. The plural verb \"enable\" agrees in number with the plural subject \"sound-based tools.\""
+  },
+  {
+    "question_id": "726e8de8",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Mary Madden of Ohio ______ a fierce advocate of women’s voting rights in the late 1800s. The dedication of Madden and her fellow activists was rewarded in 1920, when the Nineteenth Amendment to the US Constitution guaranteed American women the right to vote.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "are",
+      "B": "was",
+      "C": "have been",
+      "D": "were"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb \"was\" agrees in number with the singular subject \"Mary Madden of Ohio.\""
+  },
+  {
+    "question_id": "e8a33878",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Josephine Paddock and Florence Esté were among the 300 artists who exhibited at the 1913 Armory Show, a groundbreaking New York City art exhibition that introduced modernism to American audiences. Though shocking at the time, an abstract cubist painting exhibited by Marcel Duchamp—one of several works that received scorn from critics—______ the Western art canon more than a century later.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "has entered",
+      "B": "have entered",
+      "C": "were entering",
+      "D": "enter"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"has entered\" agrees in number with the singular subject \"an abstract cubist painting.\""
+  },
+  {
+    "question_id": "b3eebd97",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Rabinal Achí is a precolonial Maya dance drama performed annually in Rabinal, a town in the Guatemalan highlands. Based on events that occurred when Rabinal was a city-state ruled by a king, ______ had once been an ally of the king but was later captured while leading an invading force against him.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Rabinal Achí tells the story of K’iche’ Achí, a military leader who",
+      "B": "K’iche’ Achí, the military leader in the story of Rabinal Achí,",
+      "C": "the military leader whose story is told in Rabinal Achí, K’iche’ Achí,",
+      "D": "there was a military leader, K’iche’ Achí, who in Rabinal Achí"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The modifier “Based on events…by a king,” is describing the drama “Rabinal Achí.” Modifiers need to be next to the subjects they describe, so “Rabinal Achí” needs to be the first word after the comma."
+  },
+  {
+    "question_id": "60c74aa0",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In 2015, a team led by materials scientists Anirudha Sumant and Diana Berman succeeded in reducing the coefficient of friction (COF) between two surfaces to the lowest possible level—superlubricity. A nearly frictionless (and, as its name suggests, extremely slippery) state, ______",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "when their COF drops below 0.01, two surfaces reach superlubricity.",
+      "B": "two surfaces, when their COF drops below 0.01, reach superlubricity.",
+      "C": "reaching superlubricity occurs when two surfaces’ COF drops below 0.01.",
+      "D": "superlubricity is reached when two surfaces’ COF drops below 0.01."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The subject of the modifier “a nearly frictionless state” is “superlubricity.” Subject-modifier placement requires a modifier and its subject to be next to one another, so “superlubricity” must be the first word in the missing clause."
+  }
+]

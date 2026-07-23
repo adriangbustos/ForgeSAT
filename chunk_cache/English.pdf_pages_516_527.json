@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "a1a0066e",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In paleontology, the term “Elvis taxon” gets applied to a newly identified living species that was once presumed to be extinct. Like an Elvis impersonator who might bear a striking resemblance to the late musical icon Elvis Presley himself, an Elvis taxon is not the real thing, ______ is a misidentified look-alike.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "however but it",
+      "B": "however it",
+      "C": "however, it",
+      "D": "however. It"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The clause “Like an Elvis impersonator…real thing” and the clause “it is…look-alike” are both independent clauses, so making them into two separate sentences is grammatically correct. Choice A is incorrect. This choice creates a run-on sentence error. The clause “Like an Elvis impersonator…real thing” and the clause “it is…look-alike” are both independent clauses, so they need to be separated with at least a comma + a coordinating conjunction. This choice provides the coordinating conjunction “but,” but it’s missing a comma. Choice B is incorrect. This choice creates a run-on sentence error. The clause “Like an Elvis impersonator…real thing” and the clause “it is…look-alike” are both independent clauses, so they need to be separated with a semicolon, a colon, a dash, a period, or a comma + a coordinating conjunction. Choice C is incorrect. This choice creates a run-on sentence error. The clause “Like an Elvis impersonator…real thing” and the clause “it is…look-alike” are both independent clauses, so they need to be separated with at least a comma + a coordinating conjunction. This choice provides a comma, but it’s missing a coordinating conjunction."
+  },
+  {
+    "question_id": "c4ff1125",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Humans were long thought to have begun occupying the Peruvian settlement of Machu Picchu between 1440 and 1450 CE. However, a team led by anthropologist Dr. Richard Burger used accelerator mass spectrometry to uncover evidence that it was occupied ______ 1420 CE, according to Burger, humans were likely inhabiting the area.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "earlier. In",
+      "B": "earlier, in",
+      "C": "earlier, which in",
+      "D": "earlier in"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (“However...earlier”) and another (“In...area”). The supplementary phrase “in 1420 CE” modifies “humans,” the subject of the third sentence. Choice B is incorrect because it results in a comma splice. A comma can’t be used in this way to mark the boundary between sentences. Choice C is incorrect because it results in a comma splice. A comma can’t be used in this way to mark the boundary between sentences. Moreover, the subordinating conjunction “which” creates a confusing and illogical sentence that suggests that the supplementary phrase beginning with “in” modifies the previous information (“However...earlier”) rather than the information that follows. Choice D is incorrect because it results in a run-on sentence. The sentences (“However...earlier” and “in...area”) are fused without punctuation and/or a conjunction."
+  },
+  {
+    "question_id": "2effdd5a",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. For instance, in July 2021, a hypothetical basket of goods priced at 100 US dollars (USD) in the United States would have cost 62 USD and 110 USD in fellow OECD ______ and Luxembourg, respectively.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "nations, Chile",
+      "B": "nations; Chile",
+      "C": "nations: Chile",
+      "D": "nations Chile"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the coordinated noun phrase \"Chile and Luxembourg\" from the title that describes the two countries, \"fellow OECD nations.\" Because the proper nouns \"Chile and Luxembourg\" are essential information identifying the \"fellow OECD nations,\" no punctuation is necessary. Choice A is incorrect because no punctuation is needed between the country names (\"Chile and Luxembourg\") and the title (\"fellow OECD nations\") describing them. Further, setting the countries’ names off with commas suggests that they could be removed without affecting the coherence of the sentence, which isn’t the case. Choice B is incorrect because no punctuation is needed between the country names (\"Chile and Luxembourg\") and the title (\"fellow OECD nations\") describing them. Choice C is incorrect because no punctuation is needed between the country names (\"Chile and Luxembourg\") and the title (\"fellow OECD nations\") describing them. Placing a colon after \"nations\" would confusingly suggest that these were the costs of the basket of goods for \"fellow OECD nations\" in general, not for Chile and Luxembourg specifically."
+  },
+  {
+    "question_id": "053930c2",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "If simple sugars such as ribose and glycolaldehyde ______ Earth from elsewhere and survived impact—a possibility astrophysicist Nicolle Zellner outlined in a 2020 study—the sugars could have reacted with other molecules that were already present on the planet to form the nucleotides that are the structural components of RNA and DNA.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "reach",
+      "B": "had reached",
+      "C": "will reach",
+      "D": "are reaching"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the past perfect verb “had reached” is used correctly to describe a past action that was completed before another action in the past. Specifically, in this hypothetical scenario about the origins of RNA and DNA on Earth, the simple sugars had to have reached Earth before they could react with other molecules on the planet. Choice A is incorrect because the present tense verb “reach” doesn’t indicate that the simple sugars reached Earth before reacting with other molecules on the planet. Choice C is incorrect because the future tense verb “will reach” doesn’t indicate that the simple sugars reached Earth before reacting with other molecules on the planet. Choice D is incorrect because the present progressive verb “are reaching” doesn’t indicate that the simple sugars reached Earth before reacting with other molecules on the planet."
+  },
+  {
+    "question_id": "e0945e4c",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Photographer Ansel Adams’s landscape portraits are iconic pieces of American art. However, many of the ______ of landscapes were intended not as art but as marketing; a concessions company at Yosemite National Park had hired Adams to take pictures of the park for restaurant menus and brochures.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "photographer’s early photo’s",
+      "B": "photographers early photo’s",
+      "C": "photographer’s early photos",
+      "D": "photographers early photos"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. There’s only one photographer (Adams), and the photos are his, so the singular possessive \"photographer’s\" is correct. There’s more than one photo, and nothing belongs to the photos, so the simple plural \"photos\" is correct. Choice A is incorrect. This choice uses the singular possessive \"photo’s,\" which isn’t correct. There’s more than one photo, and they don’t possess anything, so the noun should be the simple plural \"photos.\" Choice B is incorrect. This choice uses the simple plural \"photographers\" and the singular possessive \"photo’s,\" which aren’t correct. There’s only one photographer (Adams) and there’s more than one photo. Choice D is incorrect. This choice uses the simple plural \"photographers,\" which isn’t correct. There’s only one photographer (Adams)."
+  },
+  {
+    "question_id": "3b3c043c",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the late 1960s, inspired in part by the sight of laundry hanging on a clothesline, African American abstract painter Sam Gilliam began to create his iconic “Drape” paintings. He applied bold, saturated hues to large canvases and ______ them from ceilings or walls, causing the drooping fabric to cascade in dramatic loops and curves.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "to have suspended",
+      "B": "suspending",
+      "C": "to suspend",
+      "D": "suspended"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The past tense of \"suspended\" matches the past tense of \"applied,\" which has the same subject (\"he\") and takes place in the same context: \"He applied…and [he] suspended.\" Choice A is incorrect. The perfect infinitive \"to have suspended\" doesn’t match the past tense of \"applied,\" and it can’t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there’s no need to shift tenses. Choice B is incorrect. The present participle \"suspending\" doesn’t match the past tense of \"applied,\" and it can’t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there’s no need to shift tenses. Choice C is incorrect. The infinitive \"to suspend\" doesn’t match the past tense of \"applied,\" and it can’t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there’s no need to shift tenses."
+  },
+  {
+    "question_id": "af557364",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the novel Things Fall Apart by Chinua Achebe, Okonkwo is a leader of Umuofia (a fictional Nigerian clan) and takes pride in his culture’s traditions. However, when the arrival of European missionaries brings changes to Umuofia, the novel asks a central question: How ______",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Umuofia’s traditions will be affected.",
+      "B": "will Umuofia’s traditions be affected.",
+      "C": "Umuofia’s traditions will be affected?",
+      "D": "will Umuofia’s traditions be affected?"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The clause before the colon tells us that the novel “asks a question,” so the clause after the colon should be in the conventional form of a question: with the verb before the subject, and a question mark at the end. Choice A is incorrect. This choice ends the sentence with a period, which isn’t right. The clause before the colon tells us that the novel “asks a question,” so the clause after the colon should be that question. Choice B is incorrect. This choice ends the sentence with a period, which isn’t right. The clause before the colon tells us that the novel “asks a question,” so the clause after the colon should be that question. In Standard English, questions place the verb before the subject and end with a question mark. Choice C is incorrect. This choice doesn’t conform to the conventions of Standard English. In Standard English, questions place the verb before the subject."
+  },
+  {
+    "question_id": "618d94c4",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In 2018, a team of researchers led by Dr. Caitlin Whalen compiled every available measurement of ocean mixing rates from the past two decades. With this novel data set, the team was able to determine how current-driven mixing varies across ______ and what impact it has on the distribution of heat and nutrients in the ocean.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "regions,",
+      "B": "regions:",
+      "C": "regions;",
+      "D": "regions"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation between coordinates in a sentence. The two elements \"how…regions\" and \"what…ocean\" work together as coordinates to complete the description of what the team was able to determine. Because there are only two coordinates in this case (as opposed to a series of three or more), no punctuation is needed between them. Choice A is incorrect because no punctuation is needed between the coordinates \"how…regions\" and \"what…ocean.\" Choice B is incorrect because no punctuation is needed between the coordinates \"how…regions\" and \"what…ocean.\" Choice C is incorrect because no punctuation is needed between the coordinates \"how…regions\" and \"what…ocean.\""
+  },
+  {
+    "question_id": "562d4b57",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In 2000, Nora de Hoyos Comstock, herself an owner of a successful consulting firm, sought to increase Latina representation in corporate ______ founded Las Comadres para las Americas, an international community that for over two decades has served as a resource and information network for Latina business professionals.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "settings she",
+      "B": "settings, she",
+      "C": "settings and she",
+      "D": "settings. She"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. It appropriately uses a period to mark the end of one independent clause (\"In 2000…settings\") and the start of another (\"She founded…professionals\"). Choice A is incorrect. This choice results in a run-on sentence error. Both the clause before the blank (\"In 2000…settings\") and the clause after the blank (\"she…professionals\") are independent clauses, so they need to be separated by punctuation. Choice B is incorrect. This choice results in a comma splice error. It incorrectly joins two independent clauses with just a comma. Linking two independent clauses with a comma also requires the use of a coordinating conjunction (like for, and, nor, but, or, yet, or so). Choice C is incorrect. This choice results in a run-on sentence, an error caused when two independent clauses are joined without punctuation or appropriate conjunctions. Since both the clause before the blank (\"In 2000…settings\") and the clause after the blank (\"she…professionals\") are independent, a comma would be required in addition to the coordinating conjunction \"and.\""
+  },
+  {
+    "question_id": "296f8a05",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Based on genetic evidence, archaeologists have generally agreed that reindeer domestication began in the eleventh century CE. However, since uncovering fragments of a 2,000-year-old reindeer training harness in northern Siberia, ______ may have begun much earlier.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "researcher Robert Losey has argued that domestication",
+      "B": "researcher Robert Losey’s argument is that domestication",
+      "C": "domestication, researcher Robert Losey has argued,",
+      "D": "the argument researcher Robert Losey has made is that domestication"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase “researcher Robert Losey” the subject of the sentence and places it immediately after the modifying phrase “since…Siberia.” In doing so, this choice clearly establishes that researcher Robert Losey—and not another noun in the sentence—is who uncovered fragments of a 2,000-year-old reindeer training harness in northern Siberia. Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase “researcher Robert Losey’s argument” immediately after the modifying phrase illogically suggests that the “argument” is what uncovered fragments of a 2,000-year-old reindeer training harness in northern Siberia. Choice C is incorrect because it results in a dangling modifier. The placement of the noun “domestication” immediately after the modifying phrase illogically suggests that “domestication” is what uncovered fragments of a 2,000-year-old reindeer training harness in northern Siberia. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase “the argument” immediately after the modifying phrase illogically suggests that the “argument” is what uncovered fragments of a 2,000-year-old reindeer training harness in northern Siberia."
+  },
+  {
+    "question_id": "55e374e8",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Philosopher Peter Kivy was a leading figure in musical ______ evidenced by his belief that instead of evoking particular emotions, such as sadness or joy, compositions elicit a listener’s emotional response to the structure and artistry of the music itself, Kivy’s approach to the study of music was decidedly formalist.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "aesthetics as",
+      "B": "aesthetics and as",
+      "C": "aesthetics, as",
+      "D": "aesthetics. As"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"Philosopher...aesthetics\") and another (\"As...formalist\"). The long adverbial element \"as evidenced...itself\" modifies the content in the following clause to support the claim that Kivy’s approach was formalist. Choice A is incorrect because it results in a run-on sentence. The sentences (\"Philosopher...aesthetics\" and \"As…formalist\") are fused without punctuation and/or a conjunction. Choice B is incorrect. Without a comma preceding it, the conjunction \"and\" can’t be used in this way to join sentences. Choice C is incorrect because it results in a comma splice. A comma can’t be used in this way to mark the boundary between sentences."
+  },
+  {
+    "question_id": "fd5268ad",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Oglala Lakota poet Layli Long Soldier’s star quilt poems offer an unusually open-ended reading experience. With ______ eight panels of text stitched together in the shape of a traditional eight-pointed Lakota star quilt, the poems present viewers with a seemingly infinite number of ways to read them.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "their",
+      "B": "it’s",
+      "C": "they’re",
+      "D": "its"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is the use of possessive determiners. The plural possessive determiner \"their\" agrees in number with the plural noun \"the poems,\" thus indicating that the poems had eight panels of text stitched together in the shape of a traditional eight-pointed Lakota star quilt. Choice B is incorrect because \"it’s\" is the contraction for \"it is\" or \"it has,\" not a possessive determiner. Choice C is incorrect because \"they’re\" is the contraction for \"they are,\" not a possessive determiner. Choice D is incorrect because the singular possessive determiner \"its\" doesn’t agree in number with the plural noun \"the poems.\""
+  }
+]

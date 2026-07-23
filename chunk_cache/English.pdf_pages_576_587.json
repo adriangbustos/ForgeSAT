@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "4800f3d3",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "From afar, African American fiber artist Bisa Butler’s portraits look like paintings, their depictions of human faces, bodies, and clothing so intricate that it seems only a fine brush could have rendered them. When viewed up close, however, the portraits reveal themselves to be ______ stitching barely visible among the thousands of pieces of printed, microcut fabric.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "quilts, and the",
+      "B": "quilts, the",
+      "C": "quilts; the",
+      "D": "quilts. The"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. This choice correctly uses a comma to mark the boundary between the main clause (“the portraits...quilts”) and the supplementary noun phrase (“the stitching...fabric”) that provides a further description of how the portraits can be identified as quilts. Choice A is incorrect. A comma and the conjunction “and” can’t be used in this way to join a main clause and a supplementary noun phrase. Choice C is incorrect because a semicolon can’t be used in this way to join a main clause and a supplementary noun phrase. Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with “the stitching.”"
+  },
+  {
+    "question_id": "103d9693",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Psychophysicist Howard Moskowitz was hired by a soda company to determine how much artificial sweetener ______ After conducting consumer taste tests, he found that no such ideal existed: participants expressed a wide range of preferences for different blends of sweetener, carbonization, and flavoring.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "do most people prefer in a diet drink?",
+      "B": "do most people prefer in a diet drink.",
+      "C": "most people prefer in a diet drink?",
+      "D": "most people prefer in a diet drink."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This sentence is a statement: “Moskowitz was hired by a soda company to determine how much artificial sweetener most people prefer in a diet drink.” So a period is the most appropriate punctuation mark. Choice A is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. This sentence is not a question—it’s a statement. So a question mark is not the appropriate punctuation. Choice B is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. We already have the verbs “was hired… to determine” in this sentence. The verb “do” is not needed and results in a confusing, ungrammatical sentence. Choice C is incorrect. This doesn’t complete the text in a way that conforms to the conventions of Standard English. This sentence is not a question—it’s a statement. So a question mark is not the appropriate punctuation."
+  },
+  {
+    "question_id": "306ada66",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "A group of ecologists led by Axel Mithöfer at the Max Planck Institute for Chemical Ecology in Germany examined the defensive responses of two varieties of the sweet potato ______ TN57, which is known for its insect resistance, and TN66, which is much more susceptible to pests.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "plant.",
+      "B": "plant;",
+      "C": "plant",
+      "D": "plant:"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. In this choice, a colon is correctly used to mark the boundary between the main clause (“As group…plant”) and the supplementary element (“EN57…pests”) and to introduce the following elaboration on the specific varieties of sweet potato plants that were examined. Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with “EN57.” Choice B is incorrect because a semicolon can’t be used in this way to join the main clause (“As group…plant”) and the supplementary element (“EN57…pests”). A semicolon is conventionally used to join two main clauses, whereas a colon is conventionally used to introduce an element that explains or amplifies the information in the preceding clause. Choice C is incorrect because it fails to mark the boundary between the main clause (“As group...plant”) and the supplementary element (“EN57...pests”) with appropriate punctuation."
+  },
+  {
+    "question_id": "992e6994",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Far from being modern inventions, ______ more than 5,000 years ago.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Sumerians in ancient Mesopotamia used drinking straws",
+      "B": "drinking straws were used by Sumerians in ancient Mesopotamia",
+      "C": "the use of drinking straws by Sumerians in ancient Mesopotamia happened",
+      "D": "ancient Mesopotamia was home to Sumerians who used drinking straws"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. Modifiers and their subjects must go next to each other. The modifier “far from being modern inventions” must be describing “drinking straws,” because those are the only possible inventions in this sentence. Choice A is incorrect. Modifiers and their subjects must go next to each other. The modifier “far from being modern inventions” can’t be describing “Sumerians,” because they are a group of people, not an invention. Choice C is incorrect. Modifiers and their subjects must go next to each other. The modifier “far from being modern inventions” can’t be describing “the use of drinking straws,” because it is not “the use” of drinking straws that is an invention—it is the drinking straws themselves. Choice D is incorrect. Modifiers and their subjects must go next to each other. The modifier “far from being modern inventions” can’t be describing “Ancient Mesopotamia,” because that is a place, not an invention."
+  },
+  {
+    "question_id": "84225518",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "With some 16,000 in attendance, the Second World Black and African Festival of Arts and ______ or FESTAC ‘77, as the event was more commonly known—became the largest pan-African event on record. FESTAC drew people from around the world to Lagos, Nigeria, for a monthlong celebration of Black and African art, scholarship, and activism.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Culture:",
+      "B": "Culture—",
+      "C": "Culture,",
+      "D": "Culture"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The text uses a dash to introduce a nonessential element that explains the acronym FESTAC. The dash matches the dash that comes after “known,” ending the descriptive aside. Choice A is incorrect. A colon can only come after an independent clause, which isn’t the case here. Choice C is incorrect. While punctuation is required to set off “or FESTAC…known” from the rest of the sentence, nonessential elements must be separated from the sentence with matching punctuation. Since a dash appears on the other side of the element, we can’t use a comma here. Choice D is incorrect. The descriptive aside “or FESTAC…known” is a nonessential element that must be separated with punctuation from the rest of the sentence. This choice fails to add the necessary punctuation before the nonessential element."
+  },
+  {
+    "question_id": "8bd8f58c",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The violins handmade in the seventeenth century by Italian craftsman Antonio Stradivari have been celebrated as some of the finest in the world. In close collaboration with musicians, Stradivari introduced changes to the shape of a traditional violin, flattening some of the instrument’s curves and making ______ lighter overall.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "those",
+      "B": "one",
+      "C": "them",
+      "D": "it"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is pronoun–antecedent agreement. The singular pronoun “it” agrees in number with the singular antecedent “violin” and thus indicates that the traditional violin (and not its curves) was made lighter. Choice A is incorrect because the plural pronoun “those” doesn’t agree in number with the singular antecedent “violin.” Choice B is incorrect because the singular pronoun “one” is ambiguous in this context; the resulting sentence leaves unclear what Stradivari made lighter. Choice C is incorrect because the plural pronoun “them” doesn’t agree in number with the singular antecedent “violin.”"
+  },
+  {
+    "question_id": "09333379",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Nine months before Rosa Parks made history by refusing to comply with the segregated seating policy on a Montgomery, Alabama, bus, a fifteen-year-old Montgomery girl named Claudette Colvin was arrested for the same ______ to some historians, Colvin’s arrest led to Parks’s action and eventually to the desegregation of Montgomery’s bus system.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "offense. According",
+      "B": "offense, according",
+      "C": "offense according",
+      "D": "offense and according"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. “Nine months…offense” and “according to…system” are both independent clauses. Separating them with a period and turning them into their own sentences is the only grammatically correct choice among the provided options. Choice B is incorrect. This choice results in a comma splice error, which is a punctuation error that occurs when two independent clauses are joined by only a comma. “Nine months…offense” and “according to…system” are both independent clauses, so they need to be either joined by a semicolon, joined by a comma and a coordinating conjunction, or separated by a period. Choice C is incorrect. This choice results in a run-on sentence, which occurs when two independent clauses are joined without punctuation. “Nine months…offense” and “according to…system” are both independent clauses, so they need to be either joined by a semicolon, joined by a comma and a coordinating conjunction, or separated by a period. Choice D is incorrect. This choice results in a run-on sentence, which occurs when two independent clauses are joined without punctuation. “Nine months…offense” and “according to…system” are independent clauses, so we would need to put a comma before the coordinating conjunction “and” to join them properly."
+  },
+  {
+    "question_id": "16b5d47b",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "American poet Emily Dickinson wrote many of her poems on scraps of paper, but she also took steps to collect these works. From 1858 to around 1864, for example, she copied more than 800 of ______ into forty homemade booklets (known as fascicles).",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "them",
+      "B": "this",
+      "C": "that",
+      "D": "it"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The pronoun \"them\" agrees with the plural antecedents \"poems\" and \"works.\" Choice B is incorrect. \"This\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural. Choice C is incorrect. \"That\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural. Choice D is incorrect. \"It\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural."
+  },
+  {
+    "question_id": "3b9318f2",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In assessing the films of Japanese director Akira Kurosawa, ______ have missed his equally deep engagement with Japanese artistic traditions such as Noh theater.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "many critics have focused on Kurosawa’s use of Western literary sources but",
+      "B": "Kurosawa’s use of Western literary sources has been the focus of many critics, who",
+      "C": "there are many critics who have focused on Kurosawa’s use of Western literary sources, but they",
+      "D": "the focus of many critics has been on Kurosawa’s use of Western literary sources; they"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase “many critics” the subject of the sentence and places it immediately after the modifying phrase “in assessing…Kurosawa.” In doing so, this choice clearly establishes that it is the critics—and not another noun in the sentence—who assess Kurosawa’s films. Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase “Kurosawa’s…sources” immediately after the modifying phrase illogically suggests that his use of Western literary sources is what assesses Kurosawa’s films. Choice C is incorrect because it results in a dangling modifier. The placement of the function word “there” immediately after the modifying phrase illogically suggests that “there” is what assesses Kurosawa’s films. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase “the focus…critics” immediately after the modifying phrase illogically suggests that the critics’ focus is what assesses Kurosawa’s films."
+  },
+  {
+    "question_id": "d72aaae9",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In early 1700s England, it was legal for shops to sell prints of artists’ engravings without the artists’ permission. This changed in 1735 with the passage of the Engravers’ Copyright ______ gave engravers control over the distribution and sale of all prints made from their designs.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Act, which",
+      "B": "Act; which",
+      "C": "Act. Which",
+      "D": "Act"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation between a main clause and a supplementary element. In this choice, the comma is used correctly to mark the boundary between the main clause (\"This...Act\") and the supplementary relative clause (\"which...designs\") that provides additional information about the Engravers’ Copyright Act. Choice B is incorrect because a semicolon can’t be used in this way to mark the boundary between a main clause and a supplementary relative clause. A semicolon is conventionally used to join two main clauses, and \"which...designs\" isn’t a main clause. Choice C is incorrect because it results in a rhetorically unacceptable sentence fragment. Choice D is incorrect. Joining the main clause and the additional information about the Engravers’ Copyright Act (\"gave...designs\") without the comma and relative pronoun \"which\" results in a confusing and ungrammatical sentence."
+  },
+  {
+    "question_id": "8e27d086",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Beatrix Potter is perhaps best known for writing and illustrating children’s books such as The Tale of Peter Rabbit (1902), but she also dedicated herself to mycology, the study of ______ more than 350 paintings of the fungal species she observed in nature and submitting her research on spore germination to the Linnean Society of London.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "fungi; producing",
+      "B": "fungi. Producing",
+      "C": "fungi producing",
+      "D": "fungi, producing"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The convention being tested is punctuation use between two supplementary phrases following the coordinate clause (“but she…mycology”). This choice correctly uses a comma to mark the boundary between the supplementary noun phrase (“the study of fungi”) that defines the term “mycology” and the supplementary participial phrase (“producing...London”) that provides additional information about the extent to which Potter dedicated herself to mycology. Choice A is incorrect because a semicolon can’t be used in this way to join two supplementary phrases following a coordinate clause. Choice B is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with “producing.” Choice C is incorrect. The lack of punctuation results in a sentence that illogically suggests that the study of fungi is producing more than 350 paintings."
+  },
+  {
+    "question_id": "11c6fbdc",
+    "section": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In the list “Adorable Things” from Sei Shōnagon’s Pillow Book, the author delights in baby sparrows, a face drawn on a melon, and a young courtier in ceremonial garb. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ______ readers a thousand years later.",
+    "question_text": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "fascinate",
+      "B": "has fascinated",
+      "C": "fascinates",
+      "D": "is fascinating"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The plural verb \"fascinate\" agrees in number with the plural subject \"musings.\" Choice B is incorrect because the singular verb \"has fascinated\" doesn’t agree in number with the plural subject \"musings.\" Choice C is incorrect because the singular verb \"fascinates\" doesn’t agree in number with the plural subject \"musings.\" Choice D is incorrect because the singular verb \"is fascinating\" doesn’t agree in number with the plural subject \"musings.\""
+  }
+]

@@ -1,188 +1,166 @@
 import os
 import json
-import re
-from typing import Dict, List, Any
-import pdfplumber
+import time
+import fitz  # PyMuPDF
+from typing import List, Optional
+from pydantic import BaseModel, Field
+from google import genai
+from dotenv import load_dotenv
+from google.genai import types
 
-def clean_text(text: str) -> str:
-    """Removes non-printable unicode glyphs (chart fonts) and normalizes whitespace."""
-    if not text:
-        return ""
-    # Strip Private Use Area unicode glyphs common in PDF graphs (e.g. \uE000-\uF8FF)
-    text = re.sub(r'[\uE000-\uF8FF\uFFF0-\uFFFF]', '', text)
-    # Normalize whitespaces
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
+load_dotenv()
 
-def extract_exact_metadata_from_tables(page_tables: List[Any]) -> Dict[str, str]:
+# 1. Pydantic Schemas (Bypasses additionalProperties schema errors)
+class QuestionOptions(BaseModel):
+    A: Optional[str] = Field(default=None, description="Option A text (LaTeX allowed)")
+    B: Optional[str] = Field(default=None, description="Option B text (LaTeX allowed)")
+    C: Optional[str] = Field(default=None, description="Option C text (LaTeX allowed)")
+    D: Optional[str] = Field(default=None, description="Option D text (LaTeX allowed)")
+
+class SATQuestion(BaseModel):
+    question_id: str = Field(description="The 8-character ID, e.g., SAT_618d94c4")
+    section: str = Field(description="Either 'Reading and Writing' or 'Math'")
+    domain: str = Field(description="The content domain, e.g., 'Algebra'")
+    skill: str = Field(description="The specific skill tested")
+    difficulty: str = Field(description="Either 'Easy', 'Medium', or 'Hard'")
+    is_open_ended: bool = Field(description="True if it is a Math Grid-In with no options")
+    stimulus: str = Field(description="The passage or context. Use $ for inline LaTeX math.")
+    question_text: str = Field(description="The actual question prompt. Use LaTeX for math.")
+    options: Optional[QuestionOptions] = Field(default=None, description="Options A, B, C, D. Null if is_open_ended is true.")
+    correct_answer: str = Field(description="The correct letter or the numeric grid-in answer")
+    explanation: str = Field(description="The official rationale. Use LaTeX for math.")
+
+class QuestionDatabase(BaseModel):
+    questions: List[SATQuestion]
+
+
+# 2. Processing Logic
+def process_pdf_chunk(pdf_chunk_path: str, client: genai.Client) -> list:
+    """Uploads and processes a single PDF chunk via Gemini Vision."""
+    uploaded_file = client.files.upload(file=pdf_chunk_path)
+    
+    prompt = """
+    You are an expert data extraction pipeline. Read this SAT Question Bank PDF chunk and extract EVERY question.
+    
+    CRITICAL RULES:
+    1. Every single mathematical symbol, fraction, exponent, variable, and number inside the stimulus, question, options, and explanation MUST be converted to standard LaTeX.
+    2. Enclose inline LaTeX in single dollar signs (e.g., $x^2 + 3 = 10$).
+    3. Ensure the Difficulty, Domain, and Skill match the metadata in the header/footer of each question block.
+    4. If a question is an open-ended Math Grid-In, set is_open_ended to true and options to null.
     """
-    Directly extracts metadata by mapping table column indices:
-    Col 0: Assessment (SAT)
-    Col 1: Test (Reading and Writing / Math) -> section
-    Col 2: Domain -> domain
-    Col 3: Skill -> skill
-    """
-    for table in page_tables:
-        if not table or len(table) < 2:
+
+    response = client.models.generate_content(
+        model='gemini-3.5-flash-lite',
+        contents=[uploaded_file, prompt],
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+            response_schema=QuestionDatabase,
+            temperature=0.0
+        ),
+    )
+
+    extracted_data = json.loads(response.text)
+    client.files.delete(name=uploaded_file.name)
+    
+    return extracted_data.get("questions", [])
+
+
+def chunk_and_process_pdf(full_path: str, output_path: str, chunk_size: int = 12):
+    """Splits PDF, caches progress locally, and live-updates the target JSON."""
+    file_name = os.path.basename(full_path)
+    print(f"\n📄 Processing {file_name} in {chunk_size}-page chunks...")
+    
+    client = genai.Client()
+    doc = fitz.open(full_path)
+    total_pages = len(doc)
+    
+    # Setup caching directory to prevent lost progress
+    cache_dir = "chunk_cache"
+    os.makedirs(cache_dir, exist_ok=True)
+    
+    all_questions = []
+    
+    for start_page in range(0, total_pages, chunk_size):
+        end_page = min(start_page + chunk_size - 1, total_pages - 1)
+        cache_file = os.path.join(cache_dir, f"{file_name}_pages_{start_page}_{end_page}.json")
+        
+        # Auto-Resume: Check if this chunk was already successfully processed
+        if os.path.exists(cache_file):
+            print(f"  -> Skipping pages {start_page + 1}-{end_page + 1} (Loaded from cache)")
+            with open(cache_file, "r", encoding="utf-8") as f:
+                cached_questions = json.load(f)
+            all_questions.extend(cached_questions)
             continue
+            
+        print(f"  -> Sending pages {start_page + 1} to {end_page + 1} to API...")
         
-        # Normalize header row cells
-        header_row = [clean_text(cell).lower() for cell in table[0] if cell]
-        
-        # Check if this table is the metadata header grid
-        if any("assessment" in cell for cell in header_row) and any("domain" in cell for cell in header_row):
-            value_row = table[1]
-            
-            # Map columns cleanly
-            section = clean_text(value_row[1]) if len(value_row) > 1 else "Unknown"
-            domain = clean_text(value_row[2]) if len(value_row) > 2 else "Unknown"
-            skill = clean_text(value_row[3]) if len(value_row) > 3 else "Unknown"
-            
-            return {
-                "section": section,
-                "domain": domain,
-                "skill": skill
-            }
-            
-    return {"section": "Unknown", "domain": "Unknown", "skill": "Unknown"}
-
-def parse_single_question(q_id: str, text: str, page_tables: List[Any]) -> Dict[str, Any]:
-    # 1. Metadata from precise table column mapping
-    metadata = extract_exact_metadata_from_tables(page_tables)
-    
-    # Fallback regex if table wasn't isolated
-    if metadata["section"] == "Unknown":
-        meta_match = re.search(r'SAT\s+(Reading and Writing|Math)\s+(.*?)\s+(.*?)\s+ID:', text)
-        if meta_match:
-            metadata["section"] = clean_text(meta_match.group(1))
-            metadata["domain"] = clean_text(meta_match.group(2))
-            metadata["skill"] = clean_text(meta_match.group(3))
-
-    # 2. Extract Difficulty from footer
-    diff_match = re.search(r'Question Difficulty:\s*(Easy|Medium|Hard)', text, re.IGNORECASE)
-    difficulty = diff_match.group(1).capitalize() if diff_match else "Medium"
-    
-    # 3. Extract Correct Answer and Rationale
-    answer_block_match = re.search(
-        rf'ID:\s*{q_id}\s*Answer\s*\n\s*Correct Answer:\s*(.*?)\n\s*Rationale\s*\n(.*?)Question Difficulty:', 
-        text, 
-        re.DOTALL | re.IGNORECASE
-    )
-    
-    correct_answer = ""
-    rationale = ""
-    if answer_block_match:
-        correct_answer = clean_text(answer_block_match.group(1))
-        rationale = clean_text(answer_block_match.group(2))
-    
-    # 4. Extract Question Body and Options
-    content_match = re.search(rf'ID:\s*{q_id}\s*\n(.*?)\n\s*ID:\s*{q_id}\s*Answer', text, re.DOTALL | re.IGNORECASE)
-    body_text = content_match.group(1) if content_match else ""
-    
-    # Clean out stray chart glyphs before parsing prompt/options
-    body_text = clean_text(body_text)
-
-    # Check for Multiple Choice Options (A. ... B. ... C. ... D. ...)
-    options_match = re.search(
-        r'A\.\s*(.*?)\s*B\.\s*(.*?)\s*C\.\s*(.*?)\s*D\.\s*(.*?)(?=\s*ID:|$)', 
-        body_text
-    )
-    
-    if options_match:
-        is_open_ended = False
-        options = {
-            "A": clean_text(options_match.group(1)),
-            "B": clean_text(options_match.group(2)),
-            "C": clean_text(options_match.group(3)),
-            "D": clean_text(options_match.group(4))
-        }
-        question_prompt = clean_text(body_text[:options_match.start()])
-    else:
-        is_open_ended = True
-        options = None
-        question_prompt = body_text
-
-    # Separate Stimulus from Prompt
-    stimulus = ""
-    question_text = question_prompt
-    
-    prompt_split = re.split(
-        r'(Which choice completes the text|Which choice best|According to the text|Based on the passage|Which choice most effectively)', 
-        question_prompt,
-        flags=re.IGNORECASE
-    )
-    if len(prompt_split) > 1:
-        stimulus = clean_text(prompt_split[0])
-        question_text = clean_text("".join(prompt_split[1:]))
-
-    return {
-        "question_id": f"SAT_{q_id}",
-        "section": metadata["section"],
-        "domain": metadata["domain"],
-        "skill": metadata["skill"],
-        "difficulty": difficulty,
-        "is_open_ended": is_open_ended,
-        "stimulus": stimulus,
-        "question_text": question_text,
-        "options": options,
-        "correct_answer": correct_answer,
-        "explanation": rationale
-    }
-
-def parse_sat_pdf(pdf_path: str) -> List[Dict[str, Any]]:
-    questions = []
-    full_text = ""
-    all_page_tables = []
-    
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            page_text = page.extract_text()
-            tables = page.extract_tables()
-            if page_text:
-                full_text += page_text + "\n---PAGE_BREAK---\n"
-            if tables:
-                all_page_tables.extend(tables)
-
-    raw_blocks = re.split(r'Question ID\s+([a-f0-9]{8})', full_text, flags=re.IGNORECASE)
-    
-    for i in range(1, len(raw_blocks), 2):
-        q_id = raw_blocks[i].strip()
-        block_content = raw_blocks[i+1]
+        # Generate temporary PDF chunk
+        chunk_doc = fitz.open()
+        chunk_doc.insert_pdf(doc, from_page=start_page, to_page=end_page)
+        chunk_filename = f"temp_chunk_{start_page}.pdf"
+        chunk_doc.save(chunk_filename)
+        chunk_doc.close()
         
         try:
-            parsed_q = parse_single_question(q_id, block_content, all_page_tables)
-            if parsed_q:
-                questions.append(parsed_q)
+            questions = process_pdf_chunk(chunk_filename, client)
+            
+            # Save strictly to chunk cache
+            with open(cache_file, "w", encoding="utf-8") as f:
+                json.dump(questions, f, indent=2, ensure_ascii=False)
+                
+            all_questions.extend(questions)
+            print(f"     ✅ Extracted {len(questions)} questions.")
+            
         except Exception as e:
-            print(f"  ⚠️ Skipping Question ID {q_id}: {e}")
-
-    return questions
-
-def process_pdf_folder(input_folder: str, output_json_path: str):
-    if not os.path.exists(input_folder):
-        print(f"❌ Error: Folder '{input_folder}' does not exist.")
-        return
-
-    all_questions = []
-    seen_ids = set()
-    pdf_files = [f for f in os.listdir(input_folder) if f.lower().endswith('.pdf')]
-
-    for file_name in pdf_files:
-        full_path = os.path.join(input_folder, file_name)
-        extracted_questions = parse_sat_pdf(full_path)
+            print(f"     ❌ API Error on chunk {start_page}-{end_page}: {e}")
+            print(f"     🛑 Execution halted. Run the script again to resume from this exact point.")
+            os.remove(chunk_filename)
+            doc.close()
+            exit(1) # Immediately exit so the user can see the error
+            
+        finally:
+            if os.path.exists(chunk_filename):
+                os.remove(chunk_filename)
         
-        for q in extracted_questions:
-            if q["question_id"] not in seen_ids:
-                seen_ids.add(q["question_id"])
-                all_questions.append(q)
+        # Live-update the main output file so you can inspect it in parallel
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(all_questions, f, indent=2, ensure_ascii=False)
+            
+        print("     ⏳ 15-second cooldown to bypass rate limits...")
+        time.sleep(15)
+        
+    doc.close()
+    print(f"🎯 SUCCESS: Compiled {len(all_questions)} questions for {file_name}")
 
-    difficulty_order = {"Easy": 1, "Medium": 2, "Hard": 3}
-    all_questions.sort(key=lambda x: difficulty_order.get(x.get("difficulty", "Medium"), 2))
 
-    with open(output_json_path, "w", encoding="utf-8") as f:
-        json.dump(all_questions, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Reparsed successfully! Total unique questions: {len(all_questions)}")
-
+# 3. Batch Execution
 if __name__ == "__main__":
-    process_pdf_folder("PDFs", "questions_database.json")
+    input_folder = "PDFs"
+    output_file = "questions_database.json"
+    
+    if not os.path.exists(input_folder):
+        print(f"❌ Error: Folder '{input_folder}' not found.")
+    else:
+        pdf_files = [f for f in os.listdir(input_folder) if f.lower().endswith('.pdf')]
+        if not pdf_files:
+            print(f"⚠️ No PDF files found in '{input_folder}'.")
+        else:
+            final_database = []
+            
+            for file_name in pdf_files:
+                full_path = os.path.join(input_folder, file_name)
+                temp_output = f"temp_{file_name}.json"
+                
+                # Execute chunking processor
+                chunk_and_process_pdf(full_path, temp_output, chunk_size=12)
+                
+                # Merge into master sequence
+                if os.path.exists(temp_output):
+                    with open(temp_output, "r", encoding="utf-8") as temp_file:
+                        final_database.extend(json.load(temp_file))
+                
+            # Write final unified database
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(final_database, f, indent=2, ensure_ascii=False)
+                
+            print(f"\n🏁 BATCH COMPLETE: All PDFs processed. Saved to {output_file}")

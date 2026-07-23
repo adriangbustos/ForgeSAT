@@ -1,0 +1,188 @@
+[
+  {
+    "question_id": "d32d4957",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Triangle $ABC$ is similar to triangle $DEF$, where $A$ corresponds to $D$ and $C$ corresponds to $F$. Angles $C$ and $F$ are right angles. If $\\tan(A) = \\sqrt{3}$ and $DF = 125$",
+    "question_text": "what is the length of $\\overline{DE}$?",
+    "options": {
+      "A": "$125\\frac{\\sqrt{3}}{3}$",
+      "B": "$125\\frac{\\sqrt{3}}{2}$",
+      "C": "$125\\sqrt{3}$",
+      "D": "$250$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. Corresponding angles in similar triangles have equal measures. It's given that triangle $ABC$ is similar to triangle $DEF$, where $A$ corresponds to $D$, so the measure of angle $A$ is equal to the measure of angle $D$. Therefore, if $\\tan(A) = \\sqrt{3}$, then $\\tan(D) = \\sqrt{3}$. It's given that angles $C$ and $F$ are right angles, so triangles $ABC$ and $DEF$ are right triangles. The adjacent side of an acute angle in a right triangle is the side closest to the angle that is not the hypotenuse. It follows that the adjacent side of angle $D$ is side $DF$. The opposite side of an acute angle in a right triangle is the side across from the acute angle. It follows that the opposite side of angle $D$ is side $EF$. The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side to the length of the adjacent side. Therefore, $\\tan(D) = \\frac{EF}{DF}$. If $DF = 125$, the length of side $EF$ can be found by substituting $\\sqrt{3}$ for $\\tan(D)$ and $125$ for $DF$ in the equation $\\tan(D) = \\frac{EF}{DF}$, which yields $\\sqrt{3} = \\frac{EF}{125}$. Multiplying both sides of this equation by $125$ yields $125\\sqrt{3} = EF$. Since the length of side $EF$ is $\\sqrt{3}$ times the length of side $DF$, it follows that triangle $DEF$ is a special right triangle with angle measures $30^\\circ$, $60^\\circ$, and $90^\\circ$. Therefore, the length of the hypotenuse, $DE$, is $2$ times the length of side $DF$, or $DE = 2(DF)$. Substituting $125$ for $DF$ in this equation yields $DE = 2(125)$, or $DE = 250$. Thus, if $\\tan(A) = \\sqrt{3}$ and $DF = 125$, the length of $\\overline{DE}$ is $250$."
+  },
+  {
+    "question_id": "e401c722",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "What is the area of a rectangle with a length of $17\\text{ centimeters (cm)}$ and a width of $7\\text{ cm}$?",
+    "options": {
+      "A": "$24\\text{ cm}^2$",
+      "B": "$48\\text{ cm}^2$",
+      "C": "$119\\text{ cm}^2$",
+      "D": "$576\\text{ cm}^2$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The area of a rectangle with length $l$ and width $w$ can be found using the formula $A = lw$. It's given that the rectangle has a length of $17\\text{ cm}$ and a width of $7\\text{ cm}$. Therefore, the area of this rectangle is $A = 17(7)$, or $119\\text{ cm}^2$."
+  },
+  {
+    "question_id": "f009297f",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "In the $xy$-plane, the graph of the equation $(x - 3)^2 + (y - 5)^2 = 9$ is a circle. The point $(6, c)$, where $c$ is a constant, lies on this circle.",
+    "question_text": "What is the value of $c$?",
+    "options": null,
+    "correct_answer": "5",
+    "explanation": "The correct answer is $5$. It's given that in the $xy$-plane, the graph of the equation $(x - 3)^2 + (y - 5)^2 = 9$ is a circle. It's also given that the point $(6, c)$, where $c$ is a constant, lies on this circle. It follows that the ordered pair $(6, c)$ makes the equation $(x - 3)^2 + (y - 5)^2 = 9$ true. Substituting $6$ for $x$ and $c$ for $y$ in this equation yields $(6 - 3)^2 + (c - 5)^2 = 9$, or $9 + (c - 5)^2 = 9$. Subtracting $9$ from each side of this equation yields $(c - 5)^2 = 0$. It follows that the value of $c$ is $5$."
+  },
+  {
+    "question_id": "2ab5f0fd",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "The length of a rectangle's diagonal is $3\\sqrt{17}$, and the length of the rectangle's shorter side is $3$. What is the length of the rectangle's longer side?",
+    "options": null,
+    "correct_answer": "12",
+    "explanation": "The correct answer is $12$. The diagonal of a rectangle forms a right triangle, where the shorter side and the longer side of the rectangle are the legs of the triangle and the diagonal of the rectangle is the hypotenuse of the triangle. It's given that the length of the rectangle's diagonal is $3\\sqrt{17}$ and the length of the rectangle's shorter side is $3$. Thus, the length of the hypotenuse of the right triangle formed by the diagonal is $3\\sqrt{17}$ and the length of one of the legs is $3$. By the Pythagorean theorem, if a right triangle has a hypotenuse with length $c$ and legs with lengths $a$ and $b$, then $a^2 + b^2 = c^2$. Substituting $3\\sqrt{17}$ for $c$ and $3$ for $b$ in this equation yields $a^2 + (3)^2 = (3\\sqrt{17})^2$, or $a^2 + 9 = 153$. Subtracting $9$ from both sides of this equation yields $a^2 = 144$. Taking the square root of both sides of this equation yields $a = \\pm\\sqrt{144}$, or $a = \\pm 12$. Since $a$ represents a length, which must be positive, the value of $a$ is $12$. Thus, the length of the rectangle's longer side is $12$."
+  },
+  {
+    "question_id": "875a6a8b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "Triangles $ABC$ and $DEF$ are congruent, where $A$ corresponds to $D$, and $B$ and $E$ are right angles. The measure of angle $A$ is $69^\\circ$.",
+    "question_text": "What is the measure, in degrees, of angle $F$?",
+    "options": null,
+    "correct_answer": "21",
+    "explanation": "The correct answer is $21$. It's given that triangles $ABC$ and $DEF$ are congruent with angle $A$ corresponding to angle $D$. Corresponding angles of congruent triangles are congruent and, therefore, have equal measure. It's given that the measure of angle $A$ is $69^\\circ$. It follows that the measure of angle $D$ is also $69^\\circ$. It's given that angle $E$ is a right angle. Therefore, the measure of angle $E$ is $90^\\circ$. Let $x$ represent the measure, in degrees, of angle $F$. Since the measures of the angles in a triangle sum to $180^\\circ$, it follows that $69 + 90 + x = 180$, or $159 + x = 180$. Subtracting $159$ from both sides of this equation yields $x = 21$. Therefore, the measure, in degrees, of angle $F$ is $21$."
+  },
+  {
+    "question_id": "06e0b4a8",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The length of a rectangle's diagonal is $5\\sqrt{17}$, and the length of the rectangle's shorter side is $5$. What is the length of the rectangle's longer side?",
+    "options": {
+      "A": "\\sqrt{17}",
+      "B": "$20$",
+      "C": "$15\\sqrt{2}$",
+      "D": "$400$"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is correct. A rectangle's diagonal divides a rectangle into two congruent right triangles, where the diagonal is the hypotenuse of both triangles. It's given that the length of the diagonal is $5\\sqrt{17}$ and the length of the rectangle's shorter side is $5$. Therefore, each of the two right triangles formed by the rectangle's diagonal has a hypotenuse with length $5\\sqrt{17}$ and a shorter leg with length $5$. To calculate the length of the longer leg of each right triangle, the Pythagorean theorem, $a^2 + b^2 = c^2$, can be used, where $a$ and $b$ are the lengths of the legs and $c$ is the length of the hypotenuse of the triangle. Substituting $5$ for $a$ and $5\\sqrt{17}$ for $c$ in the equation $a^2 + b^2 = c^2$ yields $5^2 + b^2 = (5\\sqrt{17})^2$, which is equivalent to $25 + b^2 = 25(17)$, or $25 + b^2 = 425$. Subtracting $25$ from each side of this equation yields $b^2 = 400$. Taking the positive square root of each side of this equation yields $b = 20$. Therefore, the length of the longer leg of each right triangle formed by the diagonal of the rectangle is $20$. It follows that the length of the rectangle's longer side is $20$."
+  },
+  {
+    "question_id": "77b4f5c9",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The circumference of the base of a right circular cylinder is $20\\pi$ meters, and the height of the cylinder is $6$ meters. What is the volume, in cubic meters, of the cylinder?",
+    "options": {
+      "A": "$60\\pi$",
+      "B": "$120\\pi$",
+      "C": "$600\\pi$",
+      "D": "$2,400\\pi$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The volume, $V$, of a right circular cylinder is given by the formula $V = \\pi r^2 h$, where $r$ is the radius of the base of the cylinder and $h$ is the height of the cylinder. It's given that a right circular cylinder has a height of $6$ meters. Therefore, $h = 6$. It's also given that the right circular cylinder has a base with a circumference of $20\\pi$ meters. The circumference, $C$, of a circle is given by $C = 2\\pi r$, where $r$ is the radius of the circle. Substituting $20\\pi$ for $C$ in the formula $C = 2\\pi r$ yields $20\\pi = 2\\pi r$. Dividing each side of this equation by $2\\pi$ yields $10 = r$. Substituting $10$ for $r$ and $6$ for $h$ in the formula $V = \\pi r^2 h$ yields $V = \\pi(10)^2(6)$, or $V = 600\\pi$. Therefore, the volume, in cubic meters, of the cylinder is $600\\pi$."
+  },
+  {
+    "question_id": "559068d5",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "A rectangular poster has an area of $360$ square inches. A copy of the poster is made in which the length and width of the original poster are each increased by $20\\%$.",
+    "question_text": "What is the area of the copy, in square inches?",
+    "options": null,
+    "correct_answer": "518.4",
+    "explanation": "The correct answer is $518.4$. It's given that the area of the original poster is $360$ square inches. Let $l$ represent the length, in inches, of the original poster, and let $w$ represent the width, in inches, of the original poster. Since the area of a rectangle is equal to its length times its width, it follows that $360 = lw$. It's also given that a copy of the poster is made in which the length and width of the original poster are each increased by $20\\%$. It follows that the length of the copy is the length of the original poster plus $20\\%$ of the length of the original poster, which is equivalent to $l + \\frac{20}{100}l$ inches. This length can be rewritten as $l + 0.2l$ inches, or $1.2l$ inches. Similarly, the width of the copy is the width of the original poster plus $20\\%$ of the width of the original poster, which is equivalent to $w + \\frac{20}{100}w$ inches. This width can be rewritten as $w + 0.2w$ inches, or $1.2w$ inches. Since the area of a rectangle is equal to its length times its width, it follows that the area, in square inches, of the copy is equal to $(1.2l)(1.2w)$, which can be rewritten as $(1.2)(1.2)(lw)$. Since $360 = lw$, the area, in square inches, of the copy can be found by substituting $360$ for $lw$ in the expression $(1.2)(1.2)(lw)$, which yields $(1.2)(1.2)(360)$, or $518.4$. Therefore, the area of the copy, in square inches, is $518.4$."
+  },
+  {
+    "question_id": "2c02a042",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Medium",
+    "is_open_ended": true,
+    "stimulus": "In the triangle shown, what is the value of $x$? [Note: Figure not drawn to scale, showing a right triangle with legs of length 32 and 32, and an acute angle $x^\\circ$ at the top.]",
+    "question_text": "In the triangle shown, what is the value of $x$?",
+    "options": null,
+    "correct_answer": "45",
+    "explanation": "The correct answer is $45$. An isosceles right triangle has a right angle and two legs of equal length. In the triangle shown, one angle is a right angle and the two legs each have a length of $32$. Thus, the given triangle is an isosceles right triangle. In an isosceles right triangle, the measures of the two non-right angles are $45^\\circ$. It follows that the value of $x$ is $45$."
+  },
+  {
+    "question_id": "aac3872b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "In triangle $ABC$, the measure of angle $B$ is $52^\\circ$ and the measure of angle $C$ is $17^\\circ$. What is the measure of angle $A$?",
+    "options": {
+      "A": "$21^\\circ$",
+      "B": "$35^\\circ$",
+      "C": "$69^\\circ$",
+      "D": "$111^\\circ$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The sum of the angle measures of a triangle is $180^\\circ$. Adding the measures of angles $B$ and $C$ gives $52 + 17 = 69^\\circ$. Therefore, the measure of angle $A$ is $180 - 69 = 111^\\circ$."
+  },
+  {
+    "question_id": "0748d686",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "In triangle $DEF$, the measure of angle $D$ is $47^\\circ$ and the measure of angle $E$ is $97^\\circ$. In triangle $RST$, the measure of angle $R$ is $47^\\circ$ and the measure of angle $S$ is $97^\\circ$.",
+    "question_text": "Which of the following additional pieces of information is needed to determine whether triangle $DEF$ is similar to triangle $RST$?",
+    "options": {
+      "A": "The measure of angle $F$",
+      "B": "The measure of angle $T$",
+      "C": "The measure of angle $F$ and the measure of angle $T$",
+      "D": "No additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. When two angles of one triangle are congruent to two angles of another triangle, the triangles are similar. It's given that in triangle $DEF$, the measure of angle $D$ is $47^\\circ$ and the measure of angle $E$ is $97^\\circ$. It's also given that in triangle $RST$, the measure of angle $R$ is $47^\\circ$ and the measure of angle $S$ is $97^\\circ$. It follows that angle $D$ is congruent to angle $R$ and that angle $E$ is congruent to angle $S$. Therefore, triangle $DEF$ is similar to triangle $RST$ and no additional information is needed."
+  },
+  {
+    "question_id": "c3f47bd8",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "In triangle $RST$, angle $T$ is a right angle, point $L$ lies on $\\overline{RS}$, point $K$ lies on $\\overline{ST}$, and $\\overline{LK}$ is parallel to $\\overline{RT}$. If the length of $\\overline{RT}$ is $72$ units, the length of $\\overline{LK}$ is $24$ units, and the area of triangle $RST$ is $792$ square units",
+    "question_text": "what is the length of $\\overline{KT}$, in units?",
+    "options": null,
+    "correct_answer": "44/3",
+    "explanation": "The correct answer is $\\frac{44}{3}$. It's given that in triangle $RST$, angle $T$ is a right angle. The area of a right triangle can be found using the formula $A = \\frac{1}{2}\\ell_1\\ell_2$, where $A$ represents the area of the right triangle, $\\ell_1$ represents the length of one leg of the triangle, and $\\ell_2$ represents the length of the other leg of the triangle. In triangle $RST$, the two legs are $\\overline{RT}$ and $\\overline{ST}$. Therefore, if the length of $\\overline{RT}$ is $72$ and the area of triangle $RST$ is $792$, then $792 = \\frac{1}{2}(72)(ST)$, or $792 = (36)(ST)$. Dividing both sides of this equation by $36$ yields $22 = ST$. Therefore, the length of $\\overline{ST}$ is $22$. It's also given that point $L$ lies on $\\overline{RS}$, point $K$ lies on $\\overline{ST}$, and $\\overline{LK}$ is parallel to $\\overline{RT}$. It follows that angle $LKS$ is a right angle. Since triangles $RST$ and $LSK$ share angle $S$ and have right angles $T$ and $K$, respectively, triangles $RST$ and $LSK$ are similar triangles. Therefore, the ratio of the length of $\\overline{RT}$ to the length of $\\overline{LK}$ is equal to the ratio of the length of $\\overline{ST}$ to the length of $\\overline{SK}$. If the length of $\\overline{RT}$ is $72$ and the length of $\\overline{LK}$ is $24$, it follows that the ratio of the length of $\\overline{RT}$ to the length of $\\overline{LK}$ is $\\frac{72}{24}$, or $3$, so the ratio of the length of $\\overline{ST}$ to the length of $\\overline{SK}$ is $3$. Therefore, $\\frac{22}{SK} = 3$. Multiplying both sides of this equation by $SK$ yields $22 = (3)(SK)$. Dividing both sides of this equation by $3$ yields $\\frac{22}{3} = SK$. Since the length of $\\overline{ST}$, $22$, is the sum of the length of $\\overline{SK}$, $\\frac{22}{3}$, and the length of $\\overline{KT}$, it follows that the length of $\\overline{KT}$ is $22 - \\frac{22}{3}$, or $\\frac{44}{3}$. Note that $44/3$, $14.66$, and $14.67$ are examples of ways to enter a correct answer."
+  }
+]

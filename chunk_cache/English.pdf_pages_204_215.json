@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "014151d0",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Delta 15-N Values in Seagrass Samples from Four Sites on the Yucatan, 2016–2017\n\nSite | February 2016 | October 2016 | February 2017 | October 2017\nAkumal Bay | no data available | 3.3 | 2.0 | 6.3\nMahahual | 0.7 | no data available | 2.5 | 3.4\nTulum | 6.1 | 5.9 | 2.3 | 5.5\nXahuayxol | 0.9 | 0.3 | -0.9 | 1.4\n\nBecause water from natural, uncontaminated sources is less enriched with the stable nitrogen isotope $^{15}\text{N}$ than wastewater from human activities is, the presence of such wastewater in nature can be detected by examining delta $^{15}\text{N}$ values (a measure of the ratio of $^{15}\text{N}$ to $^{14}\text{N}$) in plants. Karla A. Camacho-Cruz and colleagues assessed delta $^{15}\text{N}$ values in the seagrass Thalassia testudinum from sites on Mexico's Yucatan peninsula with intermediate tourism development, including Akumal Bay and Tulum, and low tourism development, including Mahahual and Xahuayxol, throughout 2016 and 2017. The data suggest that the intermediate-tourism sites experienced influxes of human wastewater. However, the researchers concluded that this happened intermittently.",
+    "question_text": "Which choice best describes data from the table that support the underlined conclusion?",
+    "options": {
+      "A": "Although delta $^{15}\text{N}$ values were generally higher in Akumal Bay and Tulum than in Mahahual and Xahuayxol, the values were lower in Akumal Bay than in Mahahual and Xahuayxol in February 2017.",
+      "B": "Delta $^{15}\text{N}$ values reached their lowest level in February 2017 in both Akumal Bay and Tulum, but no data were available for Akumal Bay in February 2016, when the values reached their highest level in Tulum.",
+      "C": "Although all sites showed considerable variation in delta $^{15}\text{N}$ values, the values remained relatively constant in Akumal Bay from October 2016 to February 2017 and in Tulum from February 2016 to October 2016.",
+      "D": "In Akumal Bay and Tulum, delta $^{15}\text{N}$ values fluctuated considerably across the three measurements made from October 2016 to October 2017."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it describes data from the table that support the underlined conclusion. The text accompanying the table states that delta $^{15}\text{N}$ values (a measure of the ratio of two nitrogen isotopes) can be used as an indirect means of measuring the ratio of human wastewater to water from uncontaminated sources—the higher the delta $^{15}\text{N}$ values, the greater the presence of human wastewater. The text goes on to mention an experiment conducted by Camacho-Cruz and colleagues measuring delta $^{15}\text{N}$ values in seagrass on the Yucatan peninsula at several sites, four of which are presented in the table accompanying the text. Two of the sites noted in the table, Akumal Bay and Tulum, had intermediate tourism development, and two others, Mahahual and Xahuayxol, had low tourism development. It is reasonable to infer that sites with intermediate tourism have a greater human presence than those with low tourism and therefore are subject to greater amounts of wastewater and exhibit higher delta $^{15}\text{N}$ values in seagrass. However, Camacho-Cruz and colleagues found that the increase in delta $^{15}\text{N}$ values was not constant. The table supports this conclusion because the two intermediate-tourism sites (Akumal Bay and Tulum) had delta $^{15}\text{N}$ values that fluctuated considerably—both had higher delta $^{15}\text{N}$ values than the two low-tourism sites (Mahahual and Xahuayxol) in October 2016 and October 2017, but in February 2017 the delta $^{15}\text{N}$ values for the intermediate-tourism sites dropped significantly (in fact, Mahahual, a low-tourism site, had a higher delta $^{15}\text{N}$ value for that period). The fluctuations in values in Akumal Bay and Tulum support the conclusion that these sites experienced influxes of human wastewater intermittently."
+  },
+  {
+    "question_id": "bc2bfb8f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Scientists studying Mars long thought the history of its crust was relatively simple. One reason for this is that geologic and climate data collected by a spacecraft showed that the crust was largely composed of basalt, likely as a result of intense volcanic activity that brought about a magma ocean, which then cooled to form the planet's surface. A study led by Valerie Payré focused on additional information—further analysis of data collected by the spacecraft and infrared wavelengths detected from Mars's surface—that revealed the presence of surprisingly high concentrations of silica in certain regions on Mars. Since a planetary surface that formed in a mostly basaltic environment would be unlikely to contain large amounts of silica, Payré concluded that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "the information about silica concentrations collected by the spacecraft is likely more reliable than the silica information gleaned from infrared wavelengths detected from Mars's surface.",
+      "B": "high silica concentrations on Mars likely formed from a different process than that which formed the crusts of other planets.",
+      "C": "having a clearer understanding of the composition of Mars's crust and the processes by which it formed will provide more insight into how Earth's crust formed.",
+      "D": "Mars's crust likely formed as a result of other major geological events in addition to the cooling of a magma ocean."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. Cooling magma would create basalt, but \"a planetary surface that formed in a mostly basaltic environment would be unlikely to contain large amounts of silica.\" Since Mars's crust does contain large amounts of silica, it is unlikely that Mars's crust was formed exclusively by cooling magma. Therefore, there were likely other major geological events that created the high silica concentrations."
+  },
+  {
+    "question_id": "2d64114f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Archaeologists have held that the Casarabe culture, which emerged in the southwestern Amazon basin in the first millennium CE, was characterized by a sparse, widely distributed population and little intervention in the surrounding wilderness. Recently, however, archaeologist Heiko Prümers and colleagues conducted a study of the region using remote-sensing technology that enabled them to create three-dimensional images of the jungle-covered landscape from above, and the researchers concluded that the Casarabe people developed a form of urbanism in the Amazon basin.",
+    "question_text": "Which finding about the remote-sensing images, if true, would most directly support Prümers and colleagues' conclusion?",
+    "options": {
+      "A": "They show shapes consistent with widely separated settlements of roughly equal small size surrounded by uncultivated jungle.",
+      "B": "They show shapes consistent with long-distance footpaths running from Casarabe territories to large cities outside the region inhabited by the Casarabe people.",
+      "C": "They show shapes consistent with scattered small farms created by clearing jungle areas near sources of fresh water.",
+      "D": "They show shapes consistent with monumental platforms and dense central settlements linked to smaller settlements by a system of canals and roadways."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This finding, if true, would support the archaeologists' conclusion. Dense central settlements linked to smaller ones would provide evidence of cities and suburbs—in other words, \"a form of urbanism.\""
+  },
+  {
+    "question_id": "94d9329f",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The following text is from Edith Nesbit's 1902 novel Five Children and It. Five young siblings have just moved with their parents from London to a house in the countryside that they call the White House.\n\nIt was not really a pretty house at all; it was quite ordinary, and mother thought it was rather inconvenient, and was quite annoyed at there being no shelves, to speak of, and hardly a cupboard in the place. Father used to say that the ironwork on the roof and coping was like an architect's nightmare. But the house was deep in the country, with no other house in sight, and the children had been in London for two years, without so much as once going to the seaside even for a day by an excursion train, and so the White House seemed to them a sort of Fairy Palace set down in an Earthly Paradise.",
+    "question_text": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Although their parents believe the house has several drawbacks, the children are enchanted by it.",
+      "B": "The children don't like the house nearly as much as their parents do.",
+      "C": "Each member of the family admires a different characteristic of the house.",
+      "D": "The house is beautiful and well built, but the children miss their old home in London."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The text lists complaints about the house made by the mother and father, but then it says that the children thought the house was a \"Fairy Palace\" and \"Earthly Paradise.\""
+  },
+  {
+    "question_id": "919036b7",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Amount of Additional Electricity Wind Turbines Could Generate When Winds Were Stronger Than Forecast\n\n[Bar chart showing two regions: West and Midwest. West is at 150 thousand MWh; Midwest is at 175 thousand MWh.]\n\nElectric companies that use wind turbines rely on weather forecasts to predict the maximum amount of power, in megawatt-hours (MWh), they can generate using wind so that they can determine how much they'll need to generate from other sources. When winds are stronger than they were forecast to be, however, the predicted maximum amount of electricity wind turbines could generate will be too low. For example, the graph shows that for the West region, the winds were ______",
+    "question_text": "Which choice most effectively uses data from the graph to complete the example?",
+    "options": {
+      "A": "strong enough to generate about 150 thousand more MWh of electricity from wind turbines.",
+      "B": "so weak that the electricity from wind turbines was about 175 thousand MWh less than predicted.",
+      "C": "so weak that the electricity from wind turbines was about 150 thousand MWh less than predicted.",
+      "D": "strong enough to generate about 175 thousand more MWh of electricity from wind turbines."
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. The claim is that when winds are stronger than forecasted, wind turbines can generate more energy than predicted. The supporting graph shows the additional amount (above the predicted amount) that the turbines generated under those conditions, with the West generating about 150 thousand additional MWh."
+  },
+  {
+    "question_id": "c0964d70",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Some residents in a neighborhood in Atlanta recently founded a community garden inside a local park. The residents agreed to volunteer to take care of the garden together. Students at a local high school surveyed some of the volunteers as part of a project to understand the impact of the new garden. The students concluded that the new garden benefited the community overall by fostering connections and relationships between the volunteers and other residents of the neighborhood who weren't volunteering at the garden.",
+    "question_text": "Which quotation from a survey respondent would best illustrate the students' conclusion?",
+    "options": {
+      "A": "\"Our first challenge was deciding what plants would be most suitable to the climate and soil here in Atlanta. We needed plants that could survive the hot and humid summers.\"",
+      "B": "\"We're lucky to have a few expert gardeners living in the neighborhood. Some volunteers and I have gone to them a few times with questions, and they've been eager to help us and to learn more about the project.\"",
+      "C": "\"I love getting the opportunity to be outside and around nature, especially on days when the weather is nice.\"",
+      "D": "\"My favorite thing about the garden is the feeling of pride I get when I walk by each day. As I see the plants growing, I feel good knowing I had a small part in creating this beautiful space in the neighborhood.\""
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. This choice shows how volunteers have been interacting with nonvolunteer neighbors and benefiting from their gardening expertise: proof of the connections enabled by the garden."
+  },
+  {
+    "question_id": "f93079ee",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Songbirds learn to respond to and imitate their species' songs from an early age. With each generation, small differences are introduced that result in distinct variations—called dialects—among geographically isolated populations of the same species. A research study examined whether twelve-day-old Ficedula hypoleuca (pied flycatcher) nestlings prefer local dialects over the unfamiliar dialects of nonlocal F. hypoleuca populations: the more begging calls the nestlings made in response to a song, the stronger their preference. The researchers found that nestlings produced more begging calls in response to their own dialect than to nonlocal dialects. Since song preference plays a role in songbird mate selection, the finding suggests that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "F. hypoleuca nestlings' preference for their own dialect likely disappears as they mature to promote socialization between different F. hypoleuca populations.",
+      "B": "F. hypoleuca nestlings who show an early preference for their own dialect are likely to receive more food from their caretakers than nestlings who show no preferences among any F. hypoleuca dialects.",
+      "C": "F. hypoleuca nestlings' preference for their own dialect likely drives them when they mature to reproduce with other F. hypoleuca from local rather than nonlocal populations.",
+      "D": "F. hypoleuca nestlings show a preference for both local F. hypoleuca dialects and the songs of other local songbirds over the songs of nonlocal birds of any species."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. Because \"song preference plays a role in songbird mate selection,\" and because F. hypoleuca nestlings display a preference for local dialects, we can infer that they will be more likely to choose mates from local populations."
+  },
+  {
+    "question_id": "4c109ce5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Dutch painters in the sixteenth and seventeenth centuries often showed tables filled with large wheels of cheese or carved shards of butter. Some art historians, noting that dairy products were a major component of the Dutch diet, interpret these depictions as reflections of everyday Dutch eating habits. However, a group of researchers recently reviewed hundreds of food-related paintings and found that lemons—which could only be acquired in the Netherlands at great cost, since they had to be imported from warmer climates—feature in Dutch paintings of the period more than three times as frequently as dairy products do, thereby casting doubt on the idea that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "dairy products were a more significant component of the Dutch diet of the period than lemons were.",
+      "B": "food was a more popular subject among Dutch painters than it was among painters from other countries at the time.",
+      "C": "depictions of food in Dutch paintings of the period should be taken as realistic representations of Dutch eating habits.",
+      "D": "Dutch painters of the period may have depicted foods for symbolic reasons rather than to show what Dutch people typically ate."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text tells us that lemons—an expensive imported product—feature in Dutch paintings of the period more frequently than dairy products do. Since it's unlikely lemons were eaten more often than dairy, this fact casts doubt on the theory that these paintings realistically depicted Dutch diets."
+  },
+  {
+    "question_id": "2e0d03d5",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The Minneapolis Institute of Art in Minneapolis, Minnesota, has over 90,000 works of art. Digital images of thousands of those works have been put online through the museum's website and the Google Arts & Culture project. One of the images is of Mississippi Delta, a drawing by Siah Armajani. In a paper, a student claims that putting a work from the museum online increases the number of people who experience that work.",
+    "question_text": "Which finding, if true, would most directly support the underlined claim?",
+    "options": {
+      "A": "The Minneapolis Institute of Art has several works by Siah Armajani.",
+      "B": "Many people who have been to Minneapolis say that the Minneapolis Institute of Art is worth visiting.",
+      "C": "Mississippi Delta has been praised by some art critics.",
+      "D": "Each year, more people access the online image of Mississippi Delta than visit the Minneapolis Institute of Art in person."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it presents a finding that, if true, would most directly support the student's claim that putting a work online increases the number of people who experience it. The text states that the Minneapolis Institute of Art has more than 90,000 artworks. It goes on to explain that images of a subset of these works can be viewed online, such as an image of Armajani's drawing Mississippi Delta. The text then presents a student's claim that online images of art can increase the number of people who experience the work. If more people view Armajani's drawing online than they do in person, this finding would support the student's claim about the benefits of putting a work from the museum online. Thus, this finding would most directly support the claim because, if it were true, more people would view Mississippi Delta online than would visit the entire museum in person."
+  },
+  {
+    "question_id": "dd56f034",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Electra is a circa 420–410 BCE play by Sophocles, translated in 1870 by R.C. Jebb. Electra, who is in mourning for her dead father and her long-absent brother, is aware of the intensity of her grief but believes it to be justified: ______",
+    "question_text": "Which quotation from Electra most effectively illustrates the claim?",
+    "options": {
+      "A": "\"O thou pure sunlight, and thou air, earth's canopy, how often have ye heard the strains of my lament, the wild blows dealt against this bleeding breast, when dark night fails!\"",
+      "B": "\"Send to me my brother; for I have no more the strength to bear up alone against the load of grief that weighs me down.\"",
+      "C": "\"I know my own passion, it escapes me not; but, seeing that the causes are so dire, will never curb these frenzied plaints, while life is in me.\"",
+      "D": "\"But never will I cease from dirge and sore lament, while I look on the trembling rays of the bright stars, or on this light of day.\""
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. Electra states that she \"knows her own passion,\" which shows that she's aware of the intensity of her grief. But she also claims that the \"causes are so dire\"—meaning the reasons for her grief are so awful—that she can't let it go, which shows that she believes her grief is justified."
+  }
+]

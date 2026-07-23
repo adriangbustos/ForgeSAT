@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "841a15d0",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nFilms and television shows commonly include a long list of credits naming the people involved in a production. Credit sequences may not be exciting, but they generally ensure that everyone’s contributions are duly acknowledged. Because they are highly standardized, film and television credits are also valuable to anyone researching the careers of pioneering cast and crew members who have worked in the mediums.\n\nText 2\nVideo game scholars face a major challenge in the industry’s failure to consistently credit the artists, designers, and other contributors involved in making video games. Without a reliable record of which people worked on which games, questions about the medium’s development can be difficult to answer, and the accomplishments of all but its best-known innovators can be difficult to trace.",
+    "question_text": "Based on the texts, how would the author of Text 1 most likely respond to the discussion in Text 2?",
+    "options": {
+      "A": "By recommending that the scholars mentioned in Text 2 consider employing the methods regularly used by film and television researchers",
+      "B": "By pointing out that credits have a different intended purpose in film and television than in the medium addressed by the scholars mentioned in Text 2",
+      "C": "By suggesting that the scholars mentioned in Text 2 rely more heavily on credits as a source of information than film and television researchers do",
+      "D": "By observing that a widespread practice in film and television largely prevents the kind of problem faced by the scholars mentioned in Text 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it reflects how the author of Text 1 would most likely respond to Text 2 based on the information provided. Text 2 discusses how the inconsistent use of credits to identify the contributors to video games can pose an obstacle to scholars of the medium, who rely on such credits to answer questions about the medium’s development. Text 1 notes that in film and television, on the other hand, credits are used consistently and are valuable to researchers studying the cast and crew members in these mediums. Since Text 1 asserts how the consistent use of credits benefits scholars of film and television, it can be inferred that this text’s author would respond to the discussion in Text 2 by observing that the kind of problem faced by scholars of video games—the inability to know who contributed to a particular production and how—is, in film and television studies, largely prevented by the widespread practice of credits in these mediums."
+  },
+  {
+    "question_id": "4165e701",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Given that the conditions in binary star systems should make planetary formation nearly impossible, it’s not surprising that the existence of planets in such systems has lacked ______ explanation. Roman Rafikov and Kedron Silsbee shed light on the subject when they used modeling to determine a complex set of factors that could support planets’ development.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "a discernible",
+      "B": "a straightforward",
+      "C": "an inconclusive",
+      "D": "an unbiased"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text’s description of efforts to explain the existence of planets in binary star systems. As used in this context, describing an explanation as \"a straightforward\" one would mean that the explanation is direct and uncomplicated. The text asserts that since it should be \"nearly impossible\" for planets to form in binary star systems, it’s \"not surprising\" that there isn’t a straightforward explanation for the existence of planets in such systems; the fact that one potential approach involves \"complex\" factors offers further contextual support for this idea."
+  },
+  {
+    "question_id": "40e3aa38",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Cross-Text Connections",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "Text 1\nOne challenge faced by researchers studying global urbanization is that countries may define urban settlements differently. Many countries define urban settlements based on the number of people living in them. However, countries do not all use the same number; for example, Iceland uses a minimum population of 200, while the Netherlands uses 20,000. Other countries use a combination of population and other factors. This variation makes it difficult for researchers to compare aspects of urbanization in different countries.\n\nText 2\nRecently, a group of six international organizations developed global definitions of common types of settlements. The group developed a new measure called the “degree of urbanization.” This new measure establishes global criteria used to define three types of settlements (cities, towns, and rural areas) and allows researchers to better understand global urbanization rates.",
+    "question_text": "Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?",
+    "options": {
+      "A": "By recommending that a specific institution should further investigate the problem",
+      "B": "By suggesting that researchers focus on topics besides urbanization",
+      "C": "By supplying additional ways in which urbanization research is difficult",
+      "D": "By noting that a possible solution to the problem is available"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because Text 2 presents a possible solution to the problem identified in Text 1—that is, how disparities in the criteria used by different countries to define urban settlements make it \"difficult for researchers to compare aspects of urbanization in different countries.\" Text 2 describes the creation of a shared framework for studying global urbanization: \"global definitions of common types of settlements\" and a \"new measure called the ‘degree of urbanization’\" that \"allows researchers to better understand global urbanization rates.\""
+  },
+  {
+    "question_id": "5046a8e3",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "In the mid-nineteenth century, some abolitionist newspapers ______ westward migration in the United States; by printing a letter that described the easy fortunes and high salaries miners could make in California during the Gold Rush, Frederick Douglass’s newspaper *North Star* was one such publication that inspired readers to relocate.",
+    "question_text": "Which choice completes the text with the most logical and precise word or phrase?",
+    "options": {
+      "A": "stimulated",
+      "B": "assigned",
+      "C": "opposed",
+      "D": "disregarded"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"Stimulated\" means \"encouraged interest or increased activity in.\" Because the newspapers discussed the benefits of westward migration and \"inspired readers to relocate,\" we can infer that they encouraged people to move west."
+  },
+  {
+    "question_id": "88b4e212",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Jackie Ormes’s *Torchy Brown in Dixie to Harlem* (1937–38) was the first comic strip by a Black woman to appear in a widely read newspaper. The strip tells the story of Torchy, a young woman who leaves Mississippi to become a performer in New York City. Torchy’s story reflects the experience of the Great Migration (1910–1970), when millions of Black Americans left the South in search of opportunities in other parts of the United States. *Torchy Brown* thus shows how Ormes used comics to comment humorously on issues affecting Black Americans, which she continued to do throughout her career.",
+    "question_text": "Which choice best states the main purpose of the text?",
+    "options": {
+      "A": "To show how Ormes’s *Torchy Brown* inspired other Black women to write comic strips in the 1930s",
+      "B": "To illustrate how the subjects Ormes addressed in her comic strips changed over the course of her career",
+      "C": "To give an example of how Ormes presented the experiences of Black Americans in her comic strips",
+      "D": "To claim that several characters in *Torchy Brown* were based on people that Ormes knew personally"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. The text describes how *Torchy Brown* depicted the experiences of a young Black woman experiencing America’s Great Migration. It further states that Ormes continued to use comics throughout her career to humorously comment on important issues impacting Black Americans."
+  },
+  {
+    "question_id": "101e69de",
+    "section": "Reading and Writing",
+    "domain": "Craft and Structure",
+    "skill": "Words in Context",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "The following text is from F. Scott Fitzgerald’s 1925 novel *The Great Gatsby*.\n\n[Jay Gatsby] was balancing himself on the dashboard of his car with that resourcefulness of movement that is so peculiarly American—that comes, I suppose, with the absence of lifting work in youth and, even more, with the formless grace of our nervous, sporadic games. This quality was continually breaking through his punctilious manner in the shape of restlessness.",
+    "question_text": "As used in the text, what does the word “quality” most nearly mean?",
+    "options": {
+      "A": "Standard",
+      "B": "Prestige",
+      "C": "Characteristic",
+      "D": "Accomplishment"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. “This quality” refers to Gatsby’s “resourcefulness of movement,” which is described as a characteristic or trait of his."
+  },
+  {
+    "question_id": "d9111e70",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "“Often Rebuked, Yet Always Back Returning” is an 1846 poem by Emily Brontë. The poem conveys the speaker’s determination to experience the countryside around her: ______",
+    "question_text": "Which quotation from the poem most effectively illustrates the claim?",
+    "options": {
+      "A": "“Often rebuked, yet always back returning / To those first feelings that were born with me, / And leaving busy chase of wealth and learning / For idle dreams of things which cannot be.”",
+      "B": "“I’ll walk, but not in old heroic traces, / And not in paths of high morality, / And not among the half-distinguished faces, / The clouded forms of long-past history.”",
+      "C": "“I’ll walk where my own nature would be leading: / It vexes me to choose another guide: / Where the grey flocks in ferny glens are feeding; / Where the wild wind blows on the mountain side.”",
+      "D": "“To-day, I will seek not the shadowy region; / Its unsustaining vastness waxes drear; / And visions rising, legion after legion, / Bring the unreal world too strangely near.”"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it presents the quotation that best illustrates the claim that the speaker is determined to experience the countryside around her. In the quotation, the speaker makes it clear that she plans to walk somewhere based on her own wishes (“where my own nature would be leading”) rather than follow anything else (“another guide”), and that she’ll walk “in ferny glens” alongside the mountain."
+  },
+  {
+    "question_id": "fb529162",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Volunteering, or giving time for a community service for free, is a valuable form of civic engagement because helping in a community is also good for society as a whole. In a survey of youths in the United States, most young people said that they believe volunteering is a way to help people on an individual level. Meanwhile, only 6% of the youths said that they think volunteering is a way to help fix problems in society overall. These replies suggest that ______",
+    "question_text": "Which choice most logically completes the text?",
+    "options": {
+      "A": "many young people think they can volunteer only within their own communities.",
+      "B": "volunteering may be even more helpful than many young people think it is.",
+      "C": "volunteering can help society overall more than it can help individual people.",
+      "D": "many young people may not know how to find ways to volunteer their time."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer because it most logically completes the text’s discussion of volunteering. The text asserts that volunteering benefits both the community in which one volunteers and society as a whole. It then states that in a survey of young people, a majority of respondents said that volunteering helps individuals, but only 6% of respondents said that volunteering helps society as a whole. If volunteering does in fact help society as a whole, as the text says, but only 6% of young people believe it does, then it’s reasonable to conclude that volunteering is more helpful than many young people think it is."
+  },
+  {
+    "question_id": "c2e17200",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Banana Ripening Time at Different Temperatures with and without Ethylene Treatment\n\nTemperature (°C) | Ethylene | No Ethylene\n14°C | 8 days | 11 days\n16°C | 6 days | 9.5 days\n18°C | 5.5 days | 8.5 days\n20°C | 4 days | 5.5 days\n\nA student is conducting an experiment to test the effect of temperature and ethylene treatment on the ripening speed of bananas. The student treated some bananas with ethylene while leaving others untreated, then allowed both types of bananas to ripen at one of four different temperatures. Comparing the data for bananas with and without ethylene, the student concluded that ______",
+    "question_text": "Which choice most effectively uses data from the graph to complete the student’s conclusion?",
+    "options": {
+      "A": "20°C is the ideal temperature at which to store bananas to slow ripening time.",
+      "B": "for those bananas that were not treated with ethylene, differences in temperature were not associated with absolute differences in ripening time.",
+      "C": "bananas treated with ethylene ripen faster at 14°C and 16°C than at 18°C and 20°C.",
+      "D": "ethylene was associated with a greater absolute change in ripening time at 14°C, 16°C, and 18°C than at 20°C."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the student’s conclusion about banana ripening time with and without ethylene at different temperatures. The graph shows that at 20°C, the gap between the two bars showing ripening times for ethylene-treated bananas and untreated bananas crosses fewer than 2 gridlines (from about 4 days for ethylene-treated bananas to about 5.5 days for untreated bananas). Meanwhile, the graph shows that at 14°C, 16°C, and 18°C, the gap between the bars crosses more than 2 gridlines (from about 8 days for treated bananas to about 11 days for untreated bananas at 14°C; from about 6 days for treated bananas to about 9.5 days for untreated bananas at 16°C; and from about 5.5 days for treated bananas to about 8.5 days for untreated bananas at 18°C). Since the gap between the bars at each of these temperatures crosses more than 2 gridlines, and since each of these gaps is larger than the gap between the bars at 20°C, it can be concluded that ethylene was associated with a greater absolute change in ripening time at 14°C, 16°C, and 18°C than at 20°C."
+  },
+  {
+    "question_id": "3f0fd973",
+    "section": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Pyramids in Egypt and the Americas\n\nPyramid | Country | Height (meters) | Age (years before present)\nThe Great Pyramid | Mexico | 33 | 2,050 to 2,400\nThe Pyramid of Djoser | Egypt | 60 | 4,600 to 4,700\nThe Pyramid of Sahure | Egypt | 47 | 4,400 to 4,500\nEl Castillo | Belize | 40 | 1,100 to 1,400\n\nA student is writing an essay about four pyramids for a history class and wants to note how long ago each pyramid was built and how tall each pyramid is. Consulting the table, the student finds that el Castillo was built 1,100 to 1,400 years ago and is ______",
+    "question_text": "Which choice most effectively uses data from the table to complete the text?",
+    "options": {
+      "A": "33 meters tall.",
+      "B": "47 meters tall.",
+      "C": "40 meters tall.",
+      "D": "60 meters tall."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the text about the el Castillo pyramid. The table presents information for the location, height, and age of four pyramids, and the task is to use the data from the table to complete the text by choosing the correct height for el Castillo, which the table shows is 40 meters."
+  }
+]

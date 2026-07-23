@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": "5efdc098",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In Asiya Wadud’s 2022 poem “Shorn, Treaded Red,” the poet contemplates a painting that has inspired her: Etel Adnan’s 2020 work Satellites 27. The painting, which features overlapping geometric shapes, fuels the poem’s exploration of temporality and identity.",
+    "question_text": "______ in responding to Adnan’s artwork, Wadud’s poem reflects on the relationship between poetry and other art forms.\n\nWhich choice completes the text with the most logical transition?",
+    "options": {
+      "A": "In other words,",
+      "B": "For instance,",
+      "C": "What’s more,",
+      "D": "Conversely,"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. \"What’s more\" logically signals that this sentence introduces an additional aspect of Wadud’s poem beyond what was previously discussed. While the previous sentence establishes that Adnan’s painting has inspired \"the poem’s exploration of temporality and identity,\" this sentence provides a separate, additional claim about the poem: that it reflects on poetry’s relationship to other art forms."
+  },
+  {
+    "question_id": "3e8ade01",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- The Haber-Bosch process is an industrial process used to manufacture ammonia ($\text{NH}_3$).\n- It was invented by chemists Fritz Haber and Carl Bosch in 1910.\n- The process’s primary reaction combines nitrogen ($\text{N}_2$) from the air with hydrogen ($\text{H}_2$).\n- It requires an iron catalyst and high temperatures and pressures.\n- Most of the ammonia produced by this process is used in fertilizers.",
+    "question_text": "The student wants to provide an overview of the Haber-Bosch process. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The Haber-Bosch process needs nitrogen, hydrogen, and an iron catalyst.",
+      "B": "The Haber-Bosch process uses an iron catalyst along with high temperatures and pressures to manufacture ammonia from nitrogen and hydrogen.",
+      "C": "Chemists Fritz Haber and Carl Bosch invented an industrial process to manufacture ammonia to be used in fertilizers.",
+      "D": "In 1910, chemists Fritz Haber and Carl Bosch invented the Haber-Bosch process, which requires high temperatures and pressures."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The sentence provides an overview of the Haber-Bosch process, explaining that it uses an iron catalyst, high temperatures, and high pressures to manufacture ammonia from nitrogen and hydrogen."
+  },
+  {
+    "question_id": "1d5b9a35",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- A wok is a cooking pan that originated in China during the Han dynasty ($206$ BCE–$220$ CE).\n- The wok’s round, wide base helps to cook food evenly.\n- The wok’s high, angled sides help to contain oil splatters.\n- Grace Young is a cook and culinary historian.\n- Her book *The Breath of a Wok* ($2004$) traces the history of the wok.",
+    "question_text": "The student wants to describe the wok’s shape. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Grace Young’s $2004$ book, *The Breath of a Wok*, traces the history of the cooking pan.",
+      "B": "Able to cook food evenly and contain oil splatters, the wok is the subject of Grace Young’s $2004$ book.",
+      "C": "A wok is a cooking pan with a round, wide base and high, angled sides.",
+      "D": "The design of a wok, a type of cooking pan that originated in China during the Han dynasty, helps the pan cook food evenly and contain oil splatters."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. It summarizes the information that describes the wok’s shape from the second and third bullet points."
+  },
+  {
+    "question_id": "c5423706",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "In a heated debate in biogeography, the field is divided between dispersalists and vicariancists.",
+    "question_text": "______ there are those who argue that dispersal is the most crucial determining factor in a species’ distribution, and those who insist that vicariance (separation due to geographic barriers) is. Biogeographer Isabel Sanmartín counts herself among neither.\n\nWhich choice completes the text with the most logical transition?",
+    "options": {
+      "A": "Furthermore,",
+      "B": "By contrast,",
+      "C": "Similarly,",
+      "D": "That is,"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. “That is” logically signals that this sentence clarifies the terms of the scientific debate introduced in the previous sentence by explaining the difference between dispersalists and vicariancists."
+  },
+  {
+    "question_id": "c88233b4",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Chromosomes are cellular structures that contain genes.\n- Genes carry critical instructions for determining an organism’s physical traits.\n- Members of the same species typically have the same number of chromosomes.\n- The pineapple (*Ananas comosus*) and the melon (*Cucumis melo*) are species of fruits.\n- The pineapple has fifty chromosomes.\n- The melon has twenty-four chromosomes.",
+    "question_text": "The student wants to specify how many chromosomes the pineapple has. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "The pineapple’s chromosomes contain genes, which are critical to determining an organism’s physical traits.",
+      "B": "The pineapple (*Ananas comosus*) has fifty chromosomes.",
+      "C": "The pineapple (*Ananas comosus*) and the melon (*Cucumis melo*) both have chromosomes, but the pineapple has more than the melon does.",
+      "D": "The melon, a species of fruit, has twenty-four structures called chromosomes."
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. The sentence directly specifies how many chromosomes the pineapple has, as indicated in the notes: fifty."
+  },
+  {
+    "question_id": "d15c457b",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Researchers believe that pieces of hull found off Oregon’s coast are from a Spanish cargo ship that was lost in $1697$. Stories passed down among the area’s Confederated Tribes of Siletz Indians support this belief.",
+    "question_text": "______ Siletz stories describe how blocks of beeswax, an item the ship had been carrying, began washing ashore after the ship was lost.\n\nWhich choice completes the text with the most logical transition?",
+    "options": {
+      "A": "For this reason,",
+      "B": "For example,",
+      "C": "However,",
+      "D": "Likewise,"
+    },
+    "correct_answer": "B",
+    "explanation": "Choice B is the best answer. “For example” logically signals that the Siletz beeswax stories mentioned in this sentence are examples consistent with the previous claim that Siletz stories support the shipwreck theory."
+  },
+  {
+    "question_id": "355d0918",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Some US reformers sought to improve society in the $1800$s by building utopias.\n- A utopia is a community intended to represent a perfect society based on a specific set of principles.\n- One such community was Brook Farm near Boston, Massachusetts.\n- It was founded in $1841$ by writer George Ripley.\n- Ripley wrote in a letter that his goal for Brook Farm was “to guarantee the highest mental freedom, by providing all with labor, adapted to their tastes and talents, and securing to them the fruits of their industry.”",
+    "question_text": "The student wants to explain the goal of Brook Farm using a quotation from George Ripley. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "In a letter, writer George Ripley explained his goal to “guarantee the highest mental freedom.”",
+      "B": "Utopias, such as Brook Farm, founded by George Ripley in $1841$, were based on a specific set of principles intended to create a perfect society.",
+      "C": "Founded by George Ripley near Boston, Massachusetts, Brook Farm was part of a trend in the $1800$s, when reformers in the United States built utopias.",
+      "D": "Established in $1841$, Brook Farm was a utopian community created to “guarantee the highest mental freedom, by providing all with labor... [and] the fruits of their industry,” according to founder George Ripley."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. This choice explains the goal of Brook Farm—to provide mental freedom to all by engaging individuals in labor suited to their interests—using a quotation from George Ripley."
+  },
+  {
+    "question_id": "9579edb4",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "Magnetic levitation (maglev) trains are suspended above a track by powerful electromagnets, reducing friction and thus allowing for much faster speeds. Though maglev advocates in the US have long imagined these trains crisscrossing the country, their dream remains unrealized.",
+    "question_text": "______ of the handful of maglev trains currently in operation, all are in Asia.\n\nWhich choice completes the text with the most logical transition?",
+    "options": {
+      "A": "In fact,",
+      "B": "To that end,",
+      "C": "Nevertheless,",
+      "D": "That said,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. This sentence emphasizes just how far maglev advocates’ dreams are from coming true. “In fact” is a transition used to emphasize the truth of a statement that modifies the previous statement and therefore fits perfectly in this context."
+  },
+  {
+    "question_id": "21f19050",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- In $1971$, experimental musician Pauline Oliveros created *Sonic Meditations*.\n- *Sonic Meditations* is not music but rather a series of sound-based exercises called meditations.\n- Each meditation consists of instructions for participants to make, imagine, listen to, or remember sounds.\n- The instructions for Meditation V state, “walk so silently that the bottoms of your feet become ears.”\n- Those for Meditation XVIII state, “listen to a sound until you no longer recognize it.”",
+    "question_text": "The student wants to provide an explanation and an example of Oliveros’s *Sonic Meditations*. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "*Sonic Meditations* is not music but rather a series of sound-based meditations that consist of instructions; Meditation XVIII, for instance, instructs participants to “listen to a sound until you no longer recognize it.”",
+      "B": "In $1971$, Oliveros created *Sonic Meditations*, a series of meditations that consist of instructions for participants to make, imagine, listen to, or remember sounds.",
+      "C": "“Walk so silently that the bottoms of your feet become ears” is one example of the instructions found in Oliveros’s *Sonic Meditations*.",
+      "D": "While both meditations consist of instructions, Meditation XVIII instructs participants to “listen,” whereas Meditation V instructs participants to “walk.”"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. It describes what a “Sonic Meditation” is, and then gives an example in the form of Meditation XVIII."
+  },
+  {
+    "question_id": "95db4b9e",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- Gravitational waves are powerful ripples that originate in deep space and eventually pass through Earth.\n- The Laser Interferometer Gravitational Wave Observatory (LIGO) is a physics study that began in $2002$.\n- LIGO’s goal is to detect and analyze gravitational waves.\n- LIGO uses a pair of massive gravitational wave detectors called interferometers that are thousands of miles apart.\n- In $2015$, for the first time in history, LIGO researchers detected a gravitational wave passing through Earth.",
+    "question_text": "The student wants to present LIGO’s aim and methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "In $2015$, LIGO’s massive interferometers detected a powerful ripple that originated in deep space and eventually passed through Earth.",
+      "B": "Though the physics study LIGO began in $2002$, its massive interferometers didn’t detect a gravitational wave until $2015$.",
+      "C": "To achieve its aims, LIGO uses a pair of massive interferometers that are thousands of miles apart.",
+      "D": "A physics study designed to detect and analyze gravitational waves, LIGO uses a pair of massive interferometers that are thousands of miles apart."
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is the best answer. The sentence effectively presents the LIGO study’s aim, noting that it is designed to detect and analyze gravitational waves, and its methodology (it uses two interferometers to detect the waves)."
+  },
+  {
+    "question_id": "8460f725",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Transitions",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Niger ratified the Outer Space Treaty, an international agreement with over $100$ signing nations that acts as the foundation for the laws of space, on February $1$, $1967$. Jordan,",
+    "question_text": "______ has yet to officially ratify the treaty; it only signed it.\n\nWhich choice completes the text with the most logical transition?",
+    "options": {
+      "A": "in contrast,",
+      "B": "specifically,",
+      "C": "for example,",
+      "D": "similarly,"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is the best answer. \"In contrast\" logically signals that the information in this sentence—that Jordan has yet to officially ratify the treaty—contrasts with the previous information about Niger having already ratified the treaty."
+  },
+  {
+    "question_id": "cd75bd44",
+    "section": "Reading and Writing",
+    "domain": "Expression of Ideas",
+    "skill": "Rhetorical Synthesis",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "While researching a topic, a student has taken the following notes:\n- The popular wood-wide web theory posits that trees can communicate and exchange resources with one another via common mycorrhizal networks (CMNs) of fungi.\n- Ecologist Dr. Suzanne Simard first suggested this theory in $1997$.\n- She described trees as “super-cooperators.”\n- In the $2022$ study “The Decay of the Wood-Wide Web?,” mycologist Dr. Justine Karst and colleagues evaluated dozens of CMN studies.\n- They write that CMNs “have captured the interest of broad audiences. We are concerned, however, that recent claims about CMNs in forests are disconnected from evidence.”",
+    "question_text": "The student wants to use a quotation to emphasize a potential problem with the wood-wide web theory. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "options": {
+      "A": "Describing trees as “super-cooperators,” Simard first suggested that trees can exchange resources with one another in $1997$.",
+      "B": "In “The Decay of the Wood-Wide Web?,” Karst and colleagues note that common mycorrhizal networks “have captured the interest of broad audiences.”",
+      "C": "After evaluating dozens of CMN studies, Karst and colleagues expressed concern that recent claims about common mycorrhizal networks are “disconnected from evidence.”",
+      "D": "Despite the concerns expressed in the $2022$ study “The Decay of the Wood-Wide Web?,” the wood-wide web theory remains popular."
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is the best answer. This choice uses a quotation to convey the authors’ criticism and challenge to the wood-wide web theory due to an absence of evidence."
+  }
+]

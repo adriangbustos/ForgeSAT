@@ -1,0 +1,190 @@
+[
+  {
+    "question_id": "e5ede4b8",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The area of a rectangle is $630$ square inches. The length of the rectangle is $70$ inches. What is the width, in inches, of this rectangle?",
+    "options": {
+      "A": "$9$",
+      "B": "$70$",
+      "C": "$315$",
+      "D": "$560$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. The area $A$, in square inches, of a rectangle is the product of its length $\\ell$, in inches, and its width $w$, in inches; thus, $A = \\ell w$. It's given that the area of a rectangle is $630$ square inches and the length of the rectangle is $70$ inches. Substituting $630$ for $A$ and $70$ for $\\ell$ in the equation $A = \\ell w$ yields $630 = 70w$. Dividing both sides of this equation by $70$ yields $9 = w$. Therefore, the width, in inches, of this rectangle is $9$."
+  },
+  {
+    "question_id": "530b2e84",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "A coordinate plane showing a triangle with vertices at $(-3, 4)$, $(5, 3)$, and $(4, -3)$.",
+    "question_text": "What is the area, in square units, of the triangle formed by connecting the three points shown?",
+    "options": null,
+    "correct_answer": "24.5",
+    "explanation": "The correct answer is $24.5$. It's given that a triangle is formed by connecting the three points shown, which are $(-3, 4)$, $(5, 3)$, and $(4, -3)$. Let this triangle be triangle A. The area of triangle A can be found by calculating the area of the rectangle that circumscribes it and subtracting the areas of the three triangles that are inside the rectangle but outside triangle A. The rectangle formed by the points $(-3, 4)$, $(5, 4)$, $(5, -3)$, and $(-3, -3)$ circumscribes triangle A. The width, in units, of this rectangle can be found by calculating the distance between the points $(5, 4)$ and $(5, -3)$. This distance is $4 - (-3)$, or $7$. The length, in units, of this rectangle can be found by calculating the distance between the points $(5, 4)$ and $(-3, 4)$. This distance is $5 - (-3)$, or $8$. It follows that the area, in square units, of the rectangle is $(7)(8)$, or $56$. One of the triangles that lies inside the rectangle but outside triangle A is formed by the points $(-3, 4)$, $(5, 4)$, and $(5, 3)$. The length, in units, of a base of this triangle can be found by calculating the distance between the points $(5, 4)$ and $(5, 3)$. This distance is $4 - 3$, or $1$. The corresponding height, in units, of this triangle can be found by calculating the distance between the points $(5, 4)$ and $(-3, 4)$. This distance is $5 - (-3)$, or $8$. It follows that the area, in square units, of this triangle is $\\frac{1}{2}(8)(1)$, or $4$. A second triangle that lies inside the rectangle but outside triangle A is formed by the points $(4, -3)$, $(5, 3)$, and $(5, -3)$. The length, in units, of a base of this triangle can be found by calculating the distance between the points $(5, 3)$ and $(5, -3)$. This distance is $3 - (-3)$, or $6$. The corresponding height, in units, of this triangle can be found by calculating the distance between the points $(5, 3)$ and $(4, -3)$. This distance is $5 - 4$, or $1$. It follows that the area, in square units, of this triangle is $\\frac{1}{2}(1)(6)$, or $3$. The third triangle that lies inside the rectangle but outside triangle A is formed by the points $(-3, 4)$, $(-3, -3)$, and $(4, -3)$. The length, in units, of a base of this triangle can be found by calculating the distance between the points $(4, -3)$ and $(-3, -3)$. This distance is $4 - (-3)$, or $7$. The corresponding height, in units, of this triangle can be found by calculating the distance between the points $(-3, 4)$ and $(-3, -3)$. This distance is $4 - (-3)$, or $7$. It follows that the area, in square units, of this triangle is $\\frac{1}{2}(7)(7)$, or $24.5$. Thus, the area, in square units, of the triangle formed by connecting the three points shown is $56 - 4 - 3 - 24.5$, or $24.5$."
+  },
+  {
+    "question_id": "e901bf6d",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "Parallelogram $ABCD$ is similar to parallelogram $PQRS$. The length of each side of parallelogram $PQRS$ is $2$ times the length of its corresponding side of parallelogram $ABCD$. The area of parallelogram $ABCD$ is $5$ square centimeters. What is the area, in square centimeters, of parallelogram $PQRS$?",
+    "options": {
+      "A": "$7$",
+      "B": "$10$",
+      "C": "$20$",
+      "D": "$25$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that parallelogram $ABCD$ is similar to parallelogram $PQRS$. When two parallelograms are similar, if the scale factor between their corresponding side lengths is $k$, the scale factor between their areas is $k^2$. It's given that the length of each side of parallelogram $PQRS$ is $2$ times the length of its corresponding side of parallelogram $ABCD$, so the scale factor between their corresponding side lengths is $2$. It follows that the scale factor between their areas is $2^2$, or $4$. It's given that the area, in square centimeters, of parallelogram $ABCD$ is $5$. It follows that the area, in square centimeters, of parallelogram $PQRS$ is $5(4)$, or $20$."
+  },
+  {
+    "question_id": "7921cbe8",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "A right triangle with an angle $x^{\\circ}$, opposite side $63$, and hypotenuse $73$.",
+    "question_text": "In the right triangle shown, what is the value of $\\sin x^\\circ$?",
+    "options": {
+      "A": "$\\frac{1}{73}$",
+      "B": "$\\frac{10}{73}$",
+      "C": "$\\frac{63}{73}$",
+      "D": "$\\frac{136}{73}$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The sine of an acute angle in a right triangle is the ratio of the length of the side opposite that angle to the length of the hypotenuse. In the right triangle shown, it's given that the length of the side opposite the angle with measure $x^\\circ$ is $63$ units and the length of the hypotenuse is $73$ units. Therefore, the value of $\\sin x^\\circ$ is $\\frac{63}{73}$."
+  },
+  {
+    "question_id": "b2aa5d73",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Hard",
+    "is_open_ended": true,
+    "stimulus": "",
+    "question_text": "A circle in the xy-plane has its center at $(-5, 2)$ and has a radius of $9$. An equation of this circle is $x^2 + y^2 + ax + by + c = 0$, where $a$, $b$, and $c$ are constants. What is the value of $c$?",
+    "options": null,
+    "correct_answer": "-52",
+    "explanation": "The correct answer is $-52$. The equation of a circle in the xy-plane with its center at $(h, k)$ and a radius of $r$ can be written in the form $(x - h)^2 + (y - k)^2 = r^2$. It's given that a circle in the xy-plane has its center at $(-5, 2)$ and has a radius of $9$. Substituting $-5$ for $h$, $2$ for $k$, and $9$ for $r$ in the equation $(x - h)^2 + (y - k)^2 = r^2$ yields $(x - (-5))^2 + (y - 2)^2 = 9^2$, or $(x + 5)^2 + (y - 2)^2 = 81$. It's also given that an equation of this circle is $x^2 + y^2 + ax + by + c = 0$, where $a$, $b$, and $c$ are constants. Therefore, $(x + 5)^2 + (y - 2)^2 = 81$ can be rewritten in the form $x^2 + y^2 + ax + by + c = 0$. The equation $(x + 5)^2 + (y - 2)^2 = 81$, or $(x + 5)(x + 5) + (y - 2)(y - 2) = 81$, can be rewritten as $x^2 + 5x + 5x + 25 + y^2 - 2y - 2y + 4 = 81$. Combining like terms on the left-hand side of this equation yields $x^2 + y^2 + 10x - 4y + 29 = 81$. Subtracting $81$ from both sides of this equation yields $x^2 + y^2 + 10x - 4y - 52 = 0$, which is equivalent to $x^2 + y^2 + 10x + (-4)y + (-52) = 0$. This equation is in the form $x^2 + y^2 + ax + by + c = 0$. Therefore, the value of $c$ is $-52$."
+  },
+  {
+    "question_id": "acb49e4b",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "$RS = 440$, $ST = 384$, $TR = 584$",
+    "question_text": "The side lengths of right triangle $RST$ are given. Triangle $RST$ is similar to triangle $UVW$, where $S$ corresponds to $V$ and $T$ corresponds to $W$. What is the value of $\\tan W$?",
+    "options": {
+      "A": "$\\frac{48}{73}$",
+      "B": "$\\frac{55}{73}$",
+      "C": "$\\frac{48}{55}$",
+      "D": "$\\frac{55}{48}$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. The hypotenuse of triangle $RST$ is the longest side and is across from the right angle. The longest side length given is $584$, which is the length of side $TR$. Therefore, the hypotenuse of triangle $RST$ is side $TR$, so the right angle is angle $S$. The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side, which is the side across from the angle, to the length of the adjacent side, which is the side closest to the angle that is not the hypotenuse. It follows that the opposite side of angle $T$ is side $RS$ and the adjacent side of angle $T$ is side $ST$. Therefore, $\\tan T = \\frac{RS}{ST}$. Substituting $440$ for $RS$ and $384$ for $ST$ in this equation yields $\\tan T = \\frac{440}{384}$. This is equivalent to $\\tan T = \\frac{55}{48}$. It's given that triangle $RST$ is similar to triangle $UVW$, where $S$ corresponds to $V$ and $T$ corresponds to $W$. It follows that $R$ corresponds to $U$. Therefore, the hypotenuse of triangle $UVW$ is side $UW$, which means $\\tan W = \\frac{UV}{VW}$. Since the lengths of corresponding sides of similar triangles are proportional, $\\frac{RS}{ST} = \\frac{UV}{VW}$. Therefore, $\\tan W = \\frac{UV}{VW}$ is equivalent to $\\tan W = \\frac{RS}{ST}$, or $\\tan W = \\tan T$. Thus, $\\tan W = \\frac{55}{48}$."
+  },
+  {
+    "question_id": "67ee23b4",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "The perimeter of an isosceles right triangle is $18 + 18\\sqrt{2}$ inches. What is the length, in inches, of the hypotenuse of this triangle?",
+    "options": {
+      "A": "$9$",
+      "B": "$9\\sqrt{2}$",
+      "C": "$18$",
+      "D": "$18\\sqrt{2}$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. The perimeter of a triangle is the sum of the lengths of its sides. Since the given triangle is an isosceles right triangle, the length of each leg is the same and the length of the hypotenuse is equal to $\\sqrt{2}$ times the length of a leg. Let $x$ represent the length, in inches, of a leg of this isosceles right triangle. Therefore, the perimeter, in inches, of the triangle is $x + x + x\\sqrt{2}$, or $2x + x\\sqrt{2}$, which is equivalent to $x(2 + \\sqrt{2})$. It's given that the perimeter of this triangle is $18 + 18\\sqrt{2}$ inches. Thus, $x(2 + \\sqrt{2}) = 18 + 18\\sqrt{2}$. Dividing both sides of this equation by $2 + \\sqrt{2}$ yields $x = \\frac{18 + 18\\sqrt{2}}{2 + \\sqrt{2}}$. Multiplying the right-hand side of this equation by $\\frac{2 - \\sqrt{2}}{2 - \\sqrt{2}}$ yields $x = \\frac{36 + 36\\sqrt{2} - 18\\sqrt{2} - 36}{2}$, or $x = 9\\sqrt{2}$. It follows that the length, in inches, of a leg of this isosceles right triangle is $9\\sqrt{2}$. Therefore, the length, in inches, of the hypotenuse of this isosceles right triangle is $(9\\sqrt{2})(\\sqrt{2})$, or $18$."
+  },
+  {
+    "question_id": "43e876eb",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Circles",
+    "difficulty": "Medium",
+    "is_open_ended": false,
+    "stimulus": "$x^2 + 58x + y^2 = 0$",
+    "question_text": "In the xy-plane, the graph of the given equation is a circle. What are the coordinates $(x, y)$ of the center of the circle?",
+    "options": {
+      "A": "$(0, 29)$",
+      "B": "$(0, -29)$",
+      "C": "$(29, 0)$",
+      "D": "$(-29, 0)$"
+    },
+    "correct_answer": "D",
+    "explanation": "Choice D is correct. It's given that in the xy-plane, the graph of $x^2 + 58x + y^2 = 0$ is a circle. The equation of a circle in the xy-plane can be written as $(x - h)^2 + (y - k)^2 = r^2$, where the coordinates of the center of the circle are $(h, k)$ and the radius of the circle is $r$. By completing the square, the equation $x^2 + 58x + y^2 = 0$ can be rewritten as $(x^2 + 58x + (\\frac{58}{2})^2) + y^2 = 0 + (\\frac{58}{2})^2$, or $(x^2 + 58x + 841) + y^2 = 841$. This equation is equivalent to $(x + 29)^2 + y^2 = 841$, or $(x - (-29))^2 + (y - 0)^2 = 841$. Therefore, $h$ is $-29$ and $k$ is $0$, and the coordinates $(x, y)$ of the center of the circle are $(-29, 0)$."
+  },
+  {
+    "question_id": "0f88eb2d",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Area and volume",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "The table gives the perimeters of similar triangles $TUV$ and $XYZ$, where $\\overline{TU}$ corresponds to $\\overline{XY}$. The length of $\\overline{TU}$ is $6$.\n\n| | Perimeter |\n|---|---|\n| Triangle $TUV$ | $50$ |\n| Triangle $XYZ$ | $150$ |",
+    "question_text": "What is the length of $\\overline{XY}$?",
+    "options": {
+      "A": "$2$",
+      "B": "$6$",
+      "C": "$18$",
+      "D": "$56$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that triangle $TUV$ is similar to triangle $XYZ$, and $\\overline{TU}$ corresponds to $\\overline{XY}$. If two triangles are similar, then the ratio of their perimeters is equal to the ratio of their corresponding sides. It's given that the perimeter of triangle $TUV$ is $50$, the perimeter of triangle $XYZ$ is $150$, and the length of $\\overline{TU}$ is $6$. Let $n$ represent the length of $\\overline{XY}$. It follows that $\\frac{50}{150} = \\frac{6}{n}$, or $\\frac{1}{3} = \\frac{6}{n}$. Multiplying each side of this equation by $n$ yields $\\frac{n}{3} = 6$. Multiplying each side of this equation by $3$ yields $n = 18$. Therefore, the length of $\\overline{XY}$ is $18$."
+  },
+  {
+    "question_id": "3543e575",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Lines, angles, and triangles",
+    "difficulty": "Easy",
+    "is_open_ended": false,
+    "stimulus": "Two triangles, $ABC$ and $XYZ$, are shown. Angle $A$ is $60^{\\circ}$ and side $d$ is opposite or adjacent. Triangle $ABC$ is dilated to form triangle $XYZ$.",
+    "question_text": "For the triangles shown, triangle $ABC$ is dilated by a scale factor of $3$ to obtain triangle $XYZ$, where $d = 16$. What is the measure, in degrees, of angle $X$?",
+    "options": {
+      "A": "$20$",
+      "B": "$57$",
+      "C": "$60$",
+      "D": "$63$"
+    },
+    "correct_answer": "C",
+    "explanation": "Choice C is correct. It's given that triangle $XYZ$ is obtained by a dilation of triangle $ABC$. It follows that triangle $ABC$ is similar to triangle $XYZ$, where $A$ corresponds to $X$. Since corresponding angles in similar triangles have the same measure and the measure of angle $A$ is $60$ degrees, it follows that the measure of angle $X$ is also $60$ degrees."
+  },
+  {
+    "question_id": "188370ca",
+    "section": "Math",
+    "domain": "Geometry and Trigonometry",
+    "skill": "Right triangles and trigonometry",
+    "difficulty": "Hard",
+    "is_open_ended": false,
+    "stimulus": "",
+    "question_text": "For two acute angles, $\\angle Q$ and $\\angle R$, $\\cos(Q) = \\sin(R)$. The measures, in degrees, of $\\angle Q$ and $\\angle R$ are $x + 61$ and $4x + 4$, respectively. What is the value of $x$?",
+    "options": {
+      "A": "$5$",
+      "B": "$19$",
+      "C": "$23$",
+      "D": "$29$"
+    },
+    "correct_answer": "A",
+    "explanation": "Choice A is correct. It's given that for two acute angles, $\\angle Q$ and $\\angle R$, $\\cos(Q) = \\sin(R)$. For two acute angles, if the sine of one angle is equal to the cosine of the other angle, the angles are complementary. It follows that $\\angle Q$ and $\\angle R$ are complementary. That is, the sum of the measures of the angles is $90$ degrees. It's given that the measure of $\\angle Q$ is $x + 61$ degrees and the measure of $\\angle R$ is $4x + 4$ degrees. It follows that $(x + 61) + (4x + 4) = 90$. By combining like terms, this equation can be rewritten as $5x + 65 = 90$. Subtracting $65$ from each side of this equation yields $5x = 25$. Dividing each side of this equation by $5$ yields $x = 5$."
+  }
+]
