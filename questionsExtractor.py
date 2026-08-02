@@ -135,7 +135,7 @@ def chunk_and_process_pdf(full_path: str, output_path: str, chunk_size: int = 12
 
 # 3. Batch Execution
 if __name__ == "__main__":
-    input_folder = "PDFs"
+    input_folder = os.path.join("PDFs", "Questions")
     output_file = "questions_database.json"
     
     if not os.path.exists(input_folder):
