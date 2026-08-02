@@ -1,6 +1,6 @@
 # SAT Question Scraper & Exam Generator
 
-> **Note:** This project is a data scraper designed to feed questions into the main platform: [SAT-PRACTICE-PLATFORM](https://github.com/adriangbustos/SAT-PRACTICE-PLATFORM).
+> **Note:** This project is a data scraper designed to feed questions into the main platform: [LibreSAT](https://github.com/adriangbustos/LibreSAT).
 
 This project is a suite of tools designed to analyze PDF files containing SAT question banks, extract the questions into a structured format using AI, and generate non-overlapping, realistic static exam suites.
 
