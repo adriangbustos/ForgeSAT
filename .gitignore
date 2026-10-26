@@ -1,1 +1,31 @@
+# Environment & secrets
 .env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Large Datasets & Extracted Database Dumps
+questions_database.json
+vocabulary_database.json
+recovered_tables.json
+filtered_recovered_tables.json
+chunk_cache/
+
+# PDF files and caches
+*.pdf
+PDFs/
+temp_*.pdf
+
+# OS and Scratch
+Thumbs.db
+Desktop.ini
+.DS_Store
+.agents/
+.gemini/

@@ -1,79 +1,93 @@
-# SAT Question Scraper & Exam Generator
+# ForgeSAT
 
-> **Note:** This project is a data scraper designed to feed questions into the main platform: [LibreSAT](https://github.com/adriangbustos/LibreSAT).
+[![Live Platform](https://img.shields.io/badge/Companion_Platform-LibreSAT-blue?style=for-the-badge&logo=netlify)](https://libresat.netlify.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-44CC11?style=for-the-badge)](LICENSE)
 
-This project is a suite of tools designed to analyze PDF files containing SAT question banks, extract the questions into a structured format using AI, and generate non-overlapping, realistic static exam suites.
+An automated question extraction, LaTeX formatting, and standardized digital exam generation pipeline built in Python and powered by Google Gemini Vision. Serves as the extraction engine feeding [LibreSAT](https://github.com/adriangbustos/LibreSAT).
 
-## Features
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/PDFPlumber-E0234E?style=for-the-badge" alt="PDFPlumber" />
+  <img src="https://img.shields.io/badge/License-MIT-44CC11?style=for-the-badge" alt="MIT License" />
+</div>
 
-1. **PDF Question Extraction (`sat_parser.py`)**
-   - Reads SAT Question Bank PDFs (e.g., from the `PDFs` directory).
-   - Utilizes Google's Gemini Vision AI to accurately parse and extract questions, options, and explanations.
-   - Automatically converts mathematical symbols, equations, and expressions into standard LaTeX.
-   - Categorizes questions by section (Reading and Writing, Math), domain, skill, and difficulty.
-   - Outputs the structured data to a centralized `questions_database.json` file.
+---
 
-2. **Exam Suite Generation (`generate_exam_suites.py`)**
-   - Consumes the `questions_database.json`.
-   - Generates deterministic, non-overlapping static exams simulating the structure of the digital SAT.
-   - Distributes questions according to specific module constraints (e.g., 30% Easy, 50% Medium, 20% Hard for Module 1).
-   - Outputs the final exams to be consumed by a frontend platform.
+## Architecture Overview
 
-3. **Visual Data Extraction (`extract_visuals.py`)**
-   - Identifies and extracts visual elements (graphs, charts, diagrams, tables) from the PDFs.
+```
+                      ┌───────────────────────────┐
+                      │  College Board SAT PDFs   │
+                      └─────────────┬─────────────┘
+                                    │
+                                    ▼
+                      ┌───────────────────────────┐
+                      │    unifiedExtractor.py    │
+                      │  (Gemini Multimodal AI)   │
+                      └─────────────┬─────────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    ▼                               ▼
+       ┌────────────────────────┐      ┌────────────────────────┐
+       │     table_fixer.py     │      │   vocabExtractor.py    │
+       │ (Tabular Data & Visuals│      │  (Vocabulary Flashcards│
+       └────────────┬───────────┘      └────────────┬───────────┘
+                    │                               │
+                    └───────────────┬───────────────┘
+                                    ▼
+                      ┌───────────────────────────┐
+                      │     examGenerator.py      │
+                      │ (Constraint-based Sampler)│
+                      └─────────────┬─────────────┘
+                                    │
+                                    ▼
+                      ┌───────────────────────────┐
+                      │   LibreSAT Web Platform   │
+                      └───────────────────────────┘
+```
 
-4. **Vocabulary Extraction (`extract_vocabulary.py`)**
-   - Processes vocabulary PDFs to extract words and their definitions using AI.
-   - Outputs a structured `vocabulary_database.json` to be used for flashcards.
+---
 
-## Project Structure
+## Key Modules
 
-- `sat_parser.py`: The main script for parsing PDFs using Gemini.
-- `generate_exam_suites.py`: Script to generate exam suites from the extracted database.
-- `extract_visuals.py`: Script for extracting questions with graphs, charts, and tables.
-- `extract_vocabulary.py`: Script to parse vocabulary words and definitions from PDFs.
-- `questions_database.json`: The central database of all extracted SAT questions.
-- `vocabulary_database.json`: Database containing extracted vocabulary words.
-- `PDFs/`: Directory containing the source SAT Question Bank PDFs.
-- `chunk_cache/`: Directory used for caching PDF chunks during processing.
-- `.env`: Environment variables configuration file (e.g., API keys).
+### 1. Unified Question Extractor (`unifiedExtractor.py`)
+- Ingests raw College Board question bank PDFs.
+- Multimodal parsing with Gemini converts inline mathematical symbols, geometry formulas, and exponents into clean LaTeX notation.
+- Categorizes questions by section (Reading and Writing, Math), domain, skill, and difficulty tier.
 
-## Prerequisites
+### 2. Tabular & Visual Data Normalizer (`table_fixer.py`)
+- Recovers, cleans, and standardizes extracted HTML/Markdown tables from PDF visual regions.
+- Preserves layout fidelity for reading comprehension passages and math data representations.
 
-- Python 3.x
+### 3. Exam Suite Generator (`examGenerator.py`)
+- Consumes the processed question database to sample realistic Digital SAT exam suites.
+- Applies College Board module distribution constraints (e.g. 30% Easy, 50% Medium, 20% Hard) with zero cross-test question overlap.
+
+### 4. Vocabulary Extractor (`vocabExtractor.py`)
+- Extracts advanced academic vocabulary in context with definitions and sample sentences for flashcards.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Python 3.10+
 - Google Gemini API Key
 
-## Setup
-
-1. Clone the repository.
-2. Install the required Python packages (e.g., `PyMuPDF` (fitz), `pydantic`, `google-genai`, `python-dotenv`).
-3. Create a `.env` file in the root directory and add your Gemini API key:
-   ```env
-   GEMINI_API_KEY=your_api_key_here
-   ```
-4. Place your source PDFs in the `PDFs` directory.
-
-## Usage
-
-### 1. Extract Questions
-To parse the PDFs and update the question database, run:
+### Setup
 ```bash
-python sat_parser.py
+# Clone the repository
+git clone https://github.com/adriangbustos/ForgeSAT.git
+cd ForgeSAT
+
+# Set up environment variables
+echo "GEMINI_API_KEY=your_key_here" > .env
 ```
 
-### 2. Generate Exams
-To generate static exam suites from the database, run:
-```bash
-python generate_exam_suites.py
-```
+---
 
-## Limitations
+## License
 
-As this project relies heavily on AI (Google Gemini) for the data extraction process, there may be some minor mistakes. These typically include:
-- **Image Cropping issues** when isolating charts or graphs.
-- **Repeated text** between the stimulus and the question.
-- **Formatting inconsistencies**.
-
-However, there shouldn't be any major issues such as incorrect questions or answers, as the AI is constrained to accurately parse the provided text.
-
-Note: This project uses the PDFs from College Board's Question Bank. If you wish to use another PDF with questions, there may be mistakes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
