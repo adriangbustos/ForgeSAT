@@ -1,7 +1,6 @@
 # ForgeSAT
 
-[![Live Platform](https://img.shields.io/badge/Companion_Platform-LibreSAT-blue?style=for-the-badge&logo=netlify)](https://libresat.netlify.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-44CC11?style=for-the-badge)](LICENSE)
+[![Companion Platform](https://img.shields.io/badge/Companion_Platform-LibreSAT-blue?style=for-the-badge&logo=netlify)](https://libresat.netlify.app/)
 
 An automated question extraction, LaTeX formatting, and standardized digital exam generation pipeline built in Python and powered by Google Gemini Vision. Serves as the extraction engine feeding [LibreSAT](https://github.com/adriangbustos/LibreSAT).
 
